@@ -1,0 +1,81 @@
+ISE_IDGROUPS:
+    - name: 1700_LAN_Etech
+      id: 8fb2f850-34fa-11e9-b397-7ae569c42f35
+      description: ""
+
+    - name: 1238_LAN_Aftonbladet-XSAN3
+      id: 9730d080-3508-11e9-b397-7ae569c42f35
+      description: ""
+
+    - name: 1441_LAN_Blocket-Printer
+      id: 7856b670-3508-11e9-b397-7ae569c42f35
+      description: ""
+
+    - name: 1242_LAN_Aftonbladet_XSAN4
+      id: 86f1b9f0-3508-11e9-b397-7ae569c42f35
+      description: ""
+
+    - name: 1404_LAN_Blocket-Eco
+      id: 6f15c920-3508-11e9-b397-7ae569c42f35
+      description: ""
+
+    - name: 1028_OFFICE-PLAYIPP
+      id: 58d5e160-c80e-11e9-bcfb-12aaa28c4a90
+      description: "PlayIP devices"
+
+    - name: 1600_LAN_TvB
+      id: a5724350-34fd-11e9-b397-7ae569c42f35
+      description: ""
+
+    - name: 1228_LAN_Aftonbladet_TV-Studio
+      id: 8ea68900-3508-11e9-b397-7ae569c42f35
+      description: ""
+
+    - name: 1204_LAN_Aftonbladet-IT
+      id: 9298aac0-3508-11e9-b397-7ae569c42f35
+      description: ""
+
+    - name: 1340_LAN_SvD-LiveU
+      id: 5a83fa40-3508-11e9-b397-7ae569c42f35
+      description: ""
+
+    - name: 1240_LAN_Aftonbladet-Slask
+      id: 9b227d10-3508-11e9-b397-7ae569c42f35
+      description: ""
+
+    - name: 1440_LAN_Blocket-Printer
+      id: 665aada0-3508-11e9-b397-7ae569c42f35
+      description: ""
+
+    - name: 1029_OFFICE-VC
+      id: 5733bae0-101f-11ea-bcfb-12aaa28c4a90
+      description: ""
+
+    - name: 1239_LAN_Aftonbladet_WebbTV
+      id: 8abbba40-3508-11e9-b397-7ae569c42f35
+      description: ""
+
+    - name: 1400_LAN_Blocket-Dev
+      id: 73e79c80-3508-11e9-b397-7ae569c42f35
+      description: ""
+
+    - name: 1200_LAN_Aftonbladet
+      id: 7d1e77b0-3508-11e9-b397-7ae569c42f35
+      description: ""
+
+    - name: 1100_MCAST-IPTV
+      id: 6a43ceb0-3508-11e9-b397-7ae569c42f35
+      description: ""
+
+    - name: 1108_LAN_Printer
+      id: 5b5b01b0-34fa-11e9-b397-7ae569c42f35
+      description: ""
+
+    - name: 1229_LAN_Aftonbladet-TV-OPS-2
+      id: e76204a0-ffa8-11e9-bcfb-12aaa28c4a90
+      description: ""
+
+    - name: 1241_LAN_Aftonbladet_XSAN4-L2
+      id: 81179e50-3508-11e9-b397-7ae569c42f35
+      description: ""
+

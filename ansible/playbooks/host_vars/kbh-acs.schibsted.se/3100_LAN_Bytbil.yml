@@ -1,0 +1,62 @@
+3100_LAN_Bytbil:
+
+    - mac: B8-27-EB-5F-EB-61
+      description: "Jonas F JF Raspberry"
+      enabled: false
+      idgroup: 3100_LAN_Bytbil
+      id: 5378
+
+    - mac: 38-63-BB-01-93-76
+      description: "BytBil - Printer"
+      enabled: true
+      idgroup: 3100_LAN_Bytbil
+      id: 5223
+
+    - mac: 00-1B-A9-CD-8E-36
+      description: "BytBil - Printer"
+      enabled: true
+      idgroup: 3100_LAN_Bytbil
+      id: 5222
+
+    - mac: 00-11-78-00-F4-4E
+      description: "BytBil - Larm"
+      enabled: true
+      idgroup: 3100_LAN_Bytbil
+      id: 5224
+
+    - mac: 9C-93-4E-55-B6-72
+      description: "BytBil - Printer"
+      enabled: true
+      idgroup: 3100_LAN_Bytbil
+      id: 5221
+
+    - mac: B8-27-EB-5F-EB-61
+      description: "Jonas F JF Raspberry"
+      enabled: false
+      idgroup: 3100_LAN_Bytbil
+      id: 5378
+
+    - mac: 38-63-BB-01-93-76
+      description: "BytBil - Printer"
+      enabled: true
+      idgroup: 3100_LAN_Bytbil
+      id: 5223
+
+    - mac: 00-1B-A9-CD-8E-36
+      description: "BytBil - Printer"
+      enabled: true
+      idgroup: 3100_LAN_Bytbil
+      id: 5222
+
+    - mac: 00-11-78-00-F4-4E
+      description: "BytBil - Larm"
+      enabled: true
+      idgroup: 3100_LAN_Bytbil
+      id: 5224
+
+    - mac: 9C-93-4E-55-B6-72
+      description: "BytBil - Printer"
+      enabled: true
+      idgroup: 3100_LAN_Bytbil
+      id: 5221
+

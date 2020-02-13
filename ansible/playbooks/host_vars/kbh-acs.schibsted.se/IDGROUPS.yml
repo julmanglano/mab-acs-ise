@@ -1,0 +1,113 @@
+IDGROUPS:
+    - name: TACACS_RO_3850
+      description: "Read Only Access on 3850"
+
+    - name: 1600_LAN_TvB
+      description: "vlan 1600"
+
+    - name: 1028_OFFICE-PLAYIPP
+      description: "vlan 1028"
+
+    - name: 1241_LAN_Aftonbladet_XSAN4-L2
+      description: "vlan 1241"
+
+    - name: 1242_LAN_Aftonbladet_XSAN4
+      description: "vlan 1242"
+
+    - name: 1204_LAN_Aftonbladet-IT
+      description: "vlan 1204"
+
+    - name: 1700_LAN_Etech
+      description: "vlan 1700 - Schibsted Shared Services"
+
+    - name: 1802_LAN_G4S-Client
+      description: "vlan 1802"
+
+    - name: 1239_LAN_Aftonbladet_WebbTV
+      description: "vlan 1239 - Vasses maskiner"
+
+    - name: 3200_LAN_Compricer
+      description: "vlan 3200 - Compricer"
+
+    - name: 3200_LAN_Compricer
+      description: "Identity Group Root"
+
+    - name: 2000_LAN_Webtraffic
+      description: "vlan 2000"
+
+    - name: 3100_LAN_Bytbil
+      description: "vlan 3100"
+
+    - name: 1200_LAN_Aftonbladet
+      description: "vlan 1200"
+
+    - name: 1229_LAN_Aftonbladet-TV-OPS-2
+      description: "vlan 1229"
+
+    - name: 1800_LAN_G4S-CardReader
+      description: "vlan 1800"
+
+    - name: 3600_Videoconference
+      description: "vlan 3600 - Videokonferens inom VRF3600"
+
+
+    - name: 1029_OFFICE-VC
+      description: "VLAN 1029"
+
+    - name: 1100_MCAST-IPTV
+      description: "vlan 1100 - Haivision Set-top-boxar"
+
+    - name: 351_AP
+      description: "New Wireless Access Point VLAN"
+
+    - name: 1440_LAN_Blocket-Printer
+      description: "vlan 1440"
+
+    - name: 1441_LAN_Blocket-Printer
+      description: "vlan 1441"
+
+    - name: 1238_LAN_Aftonbladet-XSAN3
+      description: "vlan 1238"
+
+    - name: 2500_Telephony
+      description: "vlan 2500"
+
+    - name: 1108_LAN_Printer
+      description: "vlan 1108"
+
+    - name: 1404_LAN_Blocket-Eco
+      description: "vlan 1404 - Blocket Ekonomi"
+
+    - name: 1400_LAN_Blocket-Dev
+      description: "vlan 1400 - Mab-Blocket"
+
+    - name: 1228_LAN_Aftonbladet_TV-Studio
+      description: "vlan 1228 - Till utrustningen for Aftonbladets nya TV-studio, plan 7 // 2013-02-01"
+
+    - name: 3304_LAN_Servicefinder-IT
+      description: "vlan 3304"
+
+    - name: 1810_LAN_G4S-CCTV
+      description: "vlan 1810"
+
+    - name: 1900_LAN_Omni
+      description: "vlan 1900"
+
+    - name: 330_LAN_Prisjakt-Vidyo
+      description: "vlan 330 - Prisjakt Videosystem"
+
+    - name: 1803_LAN_VIPadm
+      description: "vlan 1803"
+
+    - name: 1704_LAN_Etech-IT
+      description: "vlan 1704"
+
+    - name: 1340_LAN_SvD-LiveU
+      description: "vlan 1340"
+
+    - name: 1820_LAN_IoT
+      description: "vlan 1820"
+
+    - name: 1240_LAN_Aftonbladet-Slask
+      description: "vlan 1240"
+

@@ -1,0 +1,14 @@
+330_LAN_Prisjakt-Vidyo:
+
+    - mac: F4-4D-30-62-CE-E7
+      description: "Prisjakt Vidyo"
+      enabled: true
+      idgroup: 330_LAN_Prisjakt-Vidyo
+      id: 5325
+
+    - mac: F4-4D-30-62-CE-E7
+      description: "Prisjakt Vidyo"
+      enabled: true
+      idgroup: 330_LAN_Prisjakt-Vidyo
+      id: 5325
+

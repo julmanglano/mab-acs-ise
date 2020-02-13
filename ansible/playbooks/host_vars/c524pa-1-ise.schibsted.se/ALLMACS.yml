@@ -1,0 +1,7 @@
+ALLMACS:
+- mac: AA:AA:BB:AD:51:7E
+  description: "API test"
+  idgroup: be583170-34fa-11e9-b397-7ae569c42f35
+  igroupname: 351_AP
+  enabled: True
+  id: 0

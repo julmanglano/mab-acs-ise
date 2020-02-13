@@ -1,0 +1,536 @@
+1700_LAN_Etech:
+
+    - mac: 00-26-2D-FA-CF-84
+      description: "Konsult Roger Hakansson (H-son)"
+      enabled: true
+      idgroup: 1700_LAN_Etech
+      id: 1172
+
+    - mac: 00-26-B0-E3-80-42
+      description: "24255 Pawel"
+      enabled: false
+      idgroup: 1700_LAN_Etech
+      id: 1354
+
+    - mac: 00-0D-B9-2D-DA-48
+      description: "no description"
+      enabled: true
+      idgroup: 1700_LAN_Etech
+      id: 2870
+
+    - mac: B8-27-EB-AD-9A-7F
+      description: "Rapsberry Pi 3 // LM 20160302"
+      enabled: true
+      idgroup: 1700_LAN_Etech
+      id: 4820
+
+    - mac: E4-7C-F9-B5-FB-44
+      description: "TVDator vid I&D"
+      enabled: true
+      idgroup: 1700_LAN_Etech
+      id: 2350
+
+    - mac: 10-9A-DD-4E-AF-9D
+      description: "Konsult Marcus Hartwig Omegapoint"
+      enabled: true
+      idgroup: 1700_LAN_Etech
+      id: 1197
+
+    - mac: 2C-4D-54-42-CD-8F
+      description: "no description"
+      enabled: true
+      idgroup: 1700_LAN_Etech
+      id: 5352
+
+    - mac: 00-1C-23-2E-F5-6B
+      description: "Telefon-Stefan"
+      enabled: true
+      idgroup: 1700_LAN_Etech
+      id: 844
+
+    - mac: B8-27-EB-9C-82-5A
+      description: "Toll TVPLAY-PI"
+      enabled: true
+      idgroup: 1700_LAN_Etech
+      id: 5358
+
+    - mac: B8-27-EB-46-12-DD
+      description: "RaspberryPi SD 20140916 //JF"
+      enabled: true
+      idgroup: 1700_LAN_Etech
+      id: 2733
+
+    - mac: B8-27-EB-02-71-44
+      description: "Toll TVPLAY-PI"
+      enabled: true
+      idgroup: 1700_LAN_Etech
+      id: 5365
+
+    - mac: 00-24-7E-12-2B-6F
+      description: "Johan Lundborg Cygate"
+      enabled: false
+      idgroup: 1700_LAN_Etech
+      id: 7
+
+    - mac: B0-C5-54-41-71-22
+      description: "Habanero kamera I&D new and cool"
+      enabled: true
+      idgroup: 1700_LAN_Etech
+      id: 5379
+
+    - mac: AC-CC-8E-39-BF-DA
+      description: "Temp John Plan4 20160217"
+      enabled: true
+      idgroup: 1700_LAN_Etech
+      id: 2990
+
+    - mac: C8-BC-C8-8A-AD-64
+      description: "Christian Skoglund Knowledge Factory"
+      enabled: true
+      idgroup: 1700_LAN_Etech
+      id: 1358
+
+    - mac: 84-2B-2B-A3-D1-3C
+      description: "50326B receptionen SDP: 88973 /Ya"
+      enabled: true
+      idgroup: 1700_LAN_Etech
+      id: 2006
+
+    - mac: D4-9A-20-BE-0D-26
+      description: "Konsult Mads Omegapoint"
+      enabled: true
+      idgroup: 1700_LAN_Etech
+      id: 847
+
+    - mac: 00-E0-B4-0F-EB-5A
+      description: "playipp box som kom pa 10.18"
+      enabled: true
+      idgroup: 1700_LAN_Etech
+      id: 2801
+
+    - mac: 00-21-70-F8-12-FA
+      description: "Rickard Kentta"
+      enabled: true
+      idgroup: 1700_LAN_Etech
+      id: 1350
+
+    - mac: F8-1E-DF-DC-E4-DE
+      description: "MAB Centralen Erik Hjelmstedt datorid:24664, airport"
+      enabled: true
+      idgroup: 1700_LAN_Etech
+      id: 1092
+
+    - mac: 00-21-70-EB-00-97
+      description: "DELLE6400 receptionen SDP: 88973 /Ya"
+      enabled: true
+      idgroup: 1700_LAN_Etech
+      id: 2008
+
+    - mac: AC-CC-8E-2E-BC-F7
+      description: "Temp John Plan7 20150506"
+      enabled: true
+      idgroup: 1700_LAN_Etech
+      id: 2806
+
+    - mac: B8-27-EB-2D-F1-79
+      description: "Etech Dev Proviant Raspberry Pi 2"
+      enabled: true
+      idgroup: 1700_LAN_Etech
+      id: 5496
+
+    - mac: 00-08-02-18-18-92
+      description: "CE OP"
+      enabled: true
+      idgroup: 1700_LAN_Etech
+      id: 1613
+
+    - mac: FC-4D-D4-6E-E0-D4
+      description: "Handscanner Vaktmasteriet"
+      enabled: true
+      idgroup: 1700_LAN_Etech
+      id: 2739
+
+    - mac: 00-0D-B9-2A-BA-F8
+      description: "no description"
+      enabled: true
+      idgroup: 1700_LAN_Etech
+      id: 2871
+
+    - mac: B8-27-EB-41-FD-F6
+      description: "Fryklund testar for tvplay."
+      enabled: true
+      idgroup: 1700_LAN_Etech
+      id: 5350
+
+    - mac: 00-1C-25-95-4D-F0
+      description: "Niklas Hagg Cygate"
+      enabled: false
+      idgroup: 1700_LAN_Etech
+      id: 835
+
+    - mac: 00-22-68-1D-B4-71
+      description: "Svante Bolander Cygate"
+      enabled: true
+      idgroup: 1700_LAN_Etech
+      id: 1352
+
+    - mac: 00-0D-B9-38-DA-84
+      description: "Netrounds"
+      enabled: true
+      idgroup: 1700_LAN_Etech
+      id: 2918
+
+    - mac: 8C-7B-9D-D6-EB-AD
+      description: "TEST dator 50450 Ya"
+      enabled: true
+      idgroup: 1700_LAN_Etech
+      id: 2028
+
+    - mac: 00-1E-C2-13-EF-CD
+      description: "Mats Vilhelmsson "
+      enabled: true
+      idgroup: 1700_LAN_Etech
+      id: 843
+
+    - mac: 70-5A-B6-B1-0D-52
+      description: "Yngve Schibsted NO"
+      enabled: true
+      idgroup: 1700_LAN_Etech
+      id: 1360
+
+    - mac: 00-18-7D-38-B6-48
+      description: "key cabinet"
+      enabled: true
+      idgroup: 1700_LAN_Etech
+      id: 2649
+
+    - mac: B8-27-EB-AB-C1-38
+      description: "Vasse Raspberry Pi"
+      enabled: true
+      idgroup: 1700_LAN_Etech
+      id: 5353
+
+    - mac: 00-27-10-F0-48-FC
+      description: "50061B receptionen SDP: 88973 /Ya"
+      enabled: true
+      idgroup: 1700_LAN_Etech
+      id: 2007
+
+    - mac: B8-27-EB-A9-04-D8
+      description: "Etech Dev Proviant Raspberry Pi 1"
+      enabled: true
+      idgroup: 1700_LAN_Etech
+      id: 5495
+
+    - mac: B8-27-EB-2C-0F-82
+      description: "RasPI"
+      enabled: true
+      idgroup: 1700_LAN_Etech
+      id: 2128
+
+    - mac: 28-18-78-BB-20-B6
+      description: "Zenqueue-platta"
+      enabled: true
+      idgroup: 1700_LAN_Etech
+      id: 2737
+
+    - mac: 00-24-E8-CD-6E-8C
+      description: "no description"
+      enabled: true
+      idgroup: 1700_LAN_Etech
+      id: 1610
+
+    - mac: 84-2B-2B-A3-D1-5E
+      description: "50327B receptionen SDP: 88973 /Ya"
+      enabled: true
+      idgroup: 1700_LAN_Etech
+      id: 2009
+
+    - mac: 00-24-E8-F3-A9-0C
+      description: "Klas Nystrom -Secode"
+      enabled: true
+      idgroup: 1700_LAN_Etech
+      id: 1348
+
+    - mac: 7E-76-35-28-F5-4B
+      description: "Intune test client - remov after 12/9 2018"
+      enabled: true
+      idgroup: 1700_LAN_Etech
+      id: 5402
+    
+    - mac: 00-26-2D-FA-CF-84
+      description: "Konsult Roger Hakansson (H-son)"
+      enabled: true
+      idgroup: 1700_LAN_Etech
+      id: 1172
+
+    - mac: 00-26-B0-E3-80-42
+      description: "24255 Pawel"
+      enabled: false
+      idgroup: 1700_LAN_Etech
+      id: 1354
+
+    - mac: 00-0D-B9-2D-DA-48
+      description: "no description"
+      enabled: true
+      idgroup: 1700_LAN_Etech
+      id: 2870
+
+    - mac: B8-27-EB-AD-9A-7F
+      description: "Rapsberry Pi 3 // LM 20160302"
+      enabled: true
+      idgroup: 1700_LAN_Etech
+      id: 4820
+
+    - mac: E4-7C-F9-B5-FB-44
+      description: "TVDator vid I&D"
+      enabled: true
+      idgroup: 1700_LAN_Etech
+      id: 2350
+
+    - mac: 10-9A-DD-4E-AF-9D
+      description: "Konsult Marcus Hartwig Omegapoint"
+      enabled: true
+      idgroup: 1700_LAN_Etech
+      id: 1197
+
+    - mac: 2C-4D-54-42-CD-8F
+      description: "no description"
+      enabled: true
+      idgroup: 1700_LAN_Etech
+      id: 5352
+
+    - mac: 00-1C-23-2E-F5-6B
+      description: "Telefon-Stefan"
+      enabled: true
+      idgroup: 1700_LAN_Etech
+      id: 844
+
+    - mac: AA-BB-CC-DD-EE-FF
+      description: "API TEST"
+      enabled: true
+      idgroup: 1700_LAN_Etech
+      id: 5750
+
+    - mac: B8-27-EB-9C-82-5A
+      description: "Toll TVPLAY-PI"
+      enabled: true
+      idgroup: 1700_LAN_Etech
+      id: 5358
+
+    - mac: B8-27-EB-46-12-DD
+      description: "RaspberryPi SD 20140916 //JF"
+      enabled: true
+      idgroup: 1700_LAN_Etech
+      id: 2733
+
+    - mac: B8-27-EB-02-71-44
+      description: "Toll TVPLAY-PI"
+      enabled: true
+      idgroup: 1700_LAN_Etech
+      id: 5365
+
+    - mac: 00-24-7E-12-2B-6F
+      description: "Johan Lundborg Cygate"
+      enabled: false
+      idgroup: 1700_LAN_Etech
+      id: 7
+
+    - mac: B0-C5-54-41-71-22
+      description: "Habanero kamera I&D new and cool"
+      enabled: true
+      idgroup: 1700_LAN_Etech
+      id: 5379
+
+    - mac: AC-CC-8E-39-BF-DA
+      description: "Temp John Plan4 20160217"
+      enabled: true
+      idgroup: 1700_LAN_Etech
+      id: 2990
+
+    - mac: C8-BC-C8-8A-AD-64
+      description: "Christian Skoglund Knowledge Factory"
+      enabled: true
+      idgroup: 1700_LAN_Etech
+      id: 1358
+
+    - mac: 84-2B-2B-A3-D1-3C
+      description: "50326B receptionen SDP: 88973 /Ya"
+      enabled: true
+      idgroup: 1700_LAN_Etech
+      id: 2006
+
+    - mac: EE-EE-AA-AA-AA-AA
+      description: "Intune test client - remov after 12/9 2018"
+      enabled: true
+      idgroup: 1700_LAN_Etech
+      id: 5761
+
+    - mac: D4-9A-20-BE-0D-26
+      description: "Konsult Mads Omegapoint"
+      enabled: true
+      idgroup: 1700_LAN_Etech
+      id: 847
+
+    - mac: 00-E0-B4-0F-EB-5A
+      description: "playipp box som kom pa 10.18"
+      enabled: true
+      idgroup: 1700_LAN_Etech
+      id: 2801
+
+    - mac: 00-21-70-F8-12-FA
+      description: "Rickard Kentta"
+      enabled: true
+      idgroup: 1700_LAN_Etech
+      id: 1350
+
+    - mac: F8-1E-DF-DC-E4-DE
+      description: "MAB Centralen Erik Hjelmstedt datorid:24664, airport"
+      enabled: true
+      idgroup: 1700_LAN_Etech
+      id: 1092
+
+    - mac: 00-21-70-EB-00-97
+      description: "DELLE6400 receptionen SDP: 88973 /Ya"
+      enabled: true
+      idgroup: 1700_LAN_Etech
+      id: 2008
+
+    - mac: AC-CC-8E-2E-BC-F7
+      description: "Temp John Plan7 20150506"
+      enabled: true
+      idgroup: 1700_LAN_Etech
+      id: 2806
+
+    - mac: B8-27-EB-2D-F1-79
+      description: "Etech Dev Proviant Raspberry Pi 2"
+      enabled: true
+      idgroup: 1700_LAN_Etech
+      id: 5496
+
+    - mac: 00-08-02-18-18-92
+      description: "CE OP"
+      enabled: true
+      idgroup: 1700_LAN_Etech
+      id: 1613
+
+    - mac: FC-4D-D4-6E-E0-D4
+      description: "Handscanner Vaktmasteriet"
+      enabled: true
+      idgroup: 1700_LAN_Etech
+      id: 2739
+
+    - mac: 00-0D-B9-2A-BA-F8
+      description: "no description"
+      enabled: true
+      idgroup: 1700_LAN_Etech
+      id: 2871
+
+    - mac: B8-27-EB-41-FD-F6
+      description: "Fryklund testar for tvplay."
+      enabled: true
+      idgroup: 1700_LAN_Etech
+      id: 5350
+
+    - mac: 00-1C-25-95-4D-F0
+      description: "Niklas Hagg Cygate"
+      enabled: false
+      idgroup: 1700_LAN_Etech
+      id: 835
+
+    - mac: 00-22-68-1D-B4-71
+      description: "Svante Bolander Cygate"
+      enabled: true
+      idgroup: 1700_LAN_Etech
+      id: 1352
+
+    - mac: 00-0D-B9-38-DA-84
+      description: "Netrounds"
+      enabled: true
+      idgroup: 1700_LAN_Etech
+      id: 2918
+
+    - mac: 8C-7B-9D-D6-EB-AD
+      description: "TEST dator 50450 Ya"
+      enabled: true
+      idgroup: 1700_LAN_Etech
+      id: 2028
+
+    - mac: 00-1E-C2-13-EF-CD
+      description: "Mats Vilhelmsson "
+      enabled: true
+      idgroup: 1700_LAN_Etech
+      id: 843
+
+    - mac: 70-5A-B6-B1-0D-52
+      description: "Yngve Schibsted NO"
+      enabled: true
+      idgroup: 1700_LAN_Etech
+      id: 1360
+
+    - mac: 00-18-7D-38-B6-48
+      description: "key cabinet"
+      enabled: true
+      idgroup: 1700_LAN_Etech
+      id: 2649
+
+    - mac: B8-27-EB-AB-C1-38
+      description: "Vasse Raspberry Pi"
+      enabled: true
+      idgroup: 1700_LAN_Etech
+      id: 5353
+
+    - mac: 00-27-10-F0-48-FC
+      description: "50061B receptionen SDP: 88973 /Ya"
+      enabled: true
+      idgroup: 1700_LAN_Etech
+      id: 2007
+
+    - mac: B8-27-EB-A9-04-D8
+      description: "Etech Dev Proviant Raspberry Pi 1"
+      enabled: true
+      idgroup: 1700_LAN_Etech
+      id: 5495
+
+    - mac: B8-27-EB-2C-0F-82
+      description: "RasPI"
+      enabled: true
+      idgroup: 1700_LAN_Etech
+      id: 2128
+
+    - mac: 28-18-78-BB-20-B6
+      description: "Zenqueue-platta"
+      enabled: true
+      idgroup: 1700_LAN_Etech
+      id: 2737
+
+    - mac: EE-EE-AA-AA-AA-11
+      description: "Intune test client - remov after 12/9 2018"
+      enabled: true
+      idgroup: 1700_LAN_Etech
+      id: 5763
+
+    - mac: 00-24-E8-CD-6E-8C
+      description: "no description"
+      enabled: true
+      idgroup: 1700_LAN_Etech
+      id: 1610
+
+    - mac: 84-2B-2B-A3-D1-5E
+      description: "50327B receptionen SDP: 88973 /Ya"
+      enabled: true
+      idgroup: 1700_LAN_Etech
+      id: 2009
+
+    - mac: 00-24-E8-F3-A9-0C
+      description: "Klas Nystrom -Secode"
+      enabled: true
+      idgroup: 1700_LAN_Etech
+      id: 1348
+
+    - mac: 7E-76-35-28-F5-4B
+      description: "Intune test client - remov after 12/9 2018"
+      enabled: true
+      idgroup: 1700_LAN_Etech
+      id: 5402
+

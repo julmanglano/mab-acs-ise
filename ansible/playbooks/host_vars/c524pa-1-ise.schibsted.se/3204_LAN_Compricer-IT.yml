@@ -1,0 +1,7 @@
+3204_LAN_Compricer-IT:
+
+  - mac: AA-BB-D5-02-36-CC
+    description: "TEST API"
+    enabled: true
+    idgroup: 3200_LAN_Compricer
+    id: 5431

@@ -1,0 +1,7 @@
+[ise]
+c524pa-1-ise.schibsted.se
+
+[ise:vars]
+api_port=9060
+[acs]
+kbh-acs.schibsted.se

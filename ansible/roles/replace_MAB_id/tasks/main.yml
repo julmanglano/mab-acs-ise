@@ -1,0 +1,18 @@
+---
+# tasks file for /etc/ansible/roles/replace_MAB_id
+
+
+- name: RANDOM ID
+  set_fact:
+        r: "{{ 10000 | random }}"
+
+- debug: msg="RANDOM ID is {{ r }}"
+
+
+- name: REPLACE id 0
+  replace:
+     path: "host_vars/{{ ansible_host }}/{{ item.name }}.yml"
+     regexp: '^(.*)id: 0$'
+     replace: '      id: {{ r }}'
+  with_items:
+            - "{{ IDGROUPS }}"

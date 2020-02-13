@@ -1,0 +1,2498 @@
+1100_MCAST-IPTV:
+
+    - mac: 6C-62-6D-66-49-F0
+      description: "Jobb24 P6"
+      enabled: true
+      idgroup: 1100_MCAST-IPTV
+      id: 1364
+
+    - mac: 6C-62-6D-66-49-EF
+      description: "Jobb24 P6"
+      enabled: true
+      idgroup: 1100_MCAST-IPTV
+      id: 1363
+
+    - mac: 6C-62-6D-66-46-DD
+      description: "IP-TV-Box"
+      enabled: true
+      idgroup: 1100_MCAST-IPTV
+      id: 1630
+
+    - mac: 6C-62-6D-66-46-B5
+      description: "tvnu 2 Pl8"
+      enabled: true
+      idgroup: 1100_MCAST-IPTV
+      id: 1597
+
+    - mac: E4-7C-F9-B6-1A-D0
+      description: "tvnu pc1 p8"
+      enabled: true
+      idgroup: 1100_MCAST-IPTV
+      id: 1615
+
+    - mac: 6C-62-6D-64-6B-B4
+      description: "IP-TV Set-top box"
+      enabled: true
+      idgroup: 1100_MCAST-IPTV
+      id: 58
+
+    - mac: 6C-62-6D-66-50-03
+      description: "IP Box TV"
+      enabled: true
+      idgroup: 1100_MCAST-IPTV
+      id: 1546
+
+    - mac: E4-7C-F9-B6-09-61
+      description: "IP-TV"
+      enabled: true
+      idgroup: 1100_MCAST-IPTV
+      id: 1660
+
+    - mac: 6C-62-6D-64-84-70
+      description: "IPBox-TV"
+      enabled: true
+      idgroup: 1100_MCAST-IPTV
+      id: 1345
+
+    - mac: 6C-62-6D-66-45-51
+      description: "IPBox-TV"
+      enabled: true
+      idgroup: 1100_MCAST-IPTV
+      id: 1322
+
+    - mac: 6C-62-6D-64-6D-80
+      description: "IP-TV Set-top box"
+      enabled: true
+      idgroup: 1100_MCAST-IPTV
+      id: 14
+
+    - mac: 6C-62-6D-64-6A-B0
+      description: "IP-TV Set-top box"
+      enabled: true
+      idgroup: 1100_MCAST-IPTV
+      id: 43
+
+    - mac: E4-7C-F9-B6-01-D0
+      description: "no description"
+      enabled: true
+      idgroup: 1100_MCAST-IPTV
+      id: 1887
+
+    - mac: 6C-62-6D-64-6C-C4
+      description: "IP-TV Set-top box"
+      enabled: true
+      idgroup: 1100_MCAST-IPTV
+      id: 61
+
+    - mac: 6C-62-6D-66-46-B3
+      description: "IPBox-TV"
+      enabled: true
+      idgroup: 1100_MCAST-IPTV
+      id: 1315
+
+    - mac: 6C-62-6D-66-49-D3
+      description: "Ip-TV box Haivision"
+      enabled: true
+      idgroup: 1100_MCAST-IPTV
+      id: 1688
+
+    - mac: 6C-62-6D-66-4F-5F
+      description: "IPBox-TV"
+      enabled: true
+      idgroup: 1100_MCAST-IPTV
+      id: 1292
+
+    - mac: 6C-62-6D-64-6B-86
+      description: "IP-TV Set-top box"
+      enabled: true
+      idgroup: 1100_MCAST-IPTV
+      id: 39
+
+    - mac: 6C-62-6D-64-6D-BC
+      description: "IP-TV Set-top box"
+      enabled: true
+      idgroup: 1100_MCAST-IPTV
+      id: 12
+
+    - mac: 6C-62-6D-64-84-88
+      description: "haivision tv box"
+      enabled: true
+      idgroup: 1100_MCAST-IPTV
+      id: 2727
+
+    - mac: 6C-62-6D-66-50-4D
+      description: "IP TV Box"
+      enabled: true
+      idgroup: 1100_MCAST-IPTV
+      id: 1517
+
+    - mac: 6C-62-6D-64-6D-7C
+      description: "IP-TV Set-top box"
+      enabled: true
+      idgroup: 1100_MCAST-IPTV
+      id: 22
+
+    - mac: 6C-62-6D-66-46-67
+      description: "IPBox-TV"
+      enabled: true
+      idgroup: 1100_MCAST-IPTV
+      id: 1309
+
+    - mac: 6C-62-6D-64-6B-38
+      description: "IP-TV Set-top box"
+      enabled: true
+      idgroup: 1100_MCAST-IPTV
+      id: 51
+
+    - mac: 6C-62-6D-66-50-63
+      description: "AB bild pl7"
+      enabled: true
+      idgroup: 1100_MCAST-IPTV
+      id: 1591
+
+    - mac: 8C-89-A5-1D-42-F3
+      description: "ipbox"
+      enabled: true
+      idgroup: 1100_MCAST-IPTV
+      id: 2400
+
+    - mac: 6C-62-6D-66-4F-C3
+      description: "IP Box TV"
+      enabled: true
+      idgroup: 1100_MCAST-IPTV
+      id: 1539
+
+    - mac: 6C-62-6D-66-4A-19
+      description: "IPBox-TV"
+      enabled: true
+      idgroup: 1100_MCAST-IPTV
+      id: 1320
+
+    - mac: 6C-62-6D-66-45-CD
+      description: "IP Box TV"
+      enabled: true
+      idgroup: 1100_MCAST-IPTV
+      id: 1541
+
+    - mac: 6C-62-6D-64-6D-6A
+      description: "IP-TV Set-top box"
+      enabled: true
+      idgroup: 1100_MCAST-IPTV
+      id: 20
+
+    - mac: 6C-62-6D-66-4A-28
+      description: "AB it-utv3 p8"
+      enabled: true
+      idgroup: 1100_MCAST-IPTV
+      id: 1372
+
+    - mac: 6C-62-6D-66-45-C5
+      description: "IPBox-TV"
+      enabled: true
+      idgroup: 1100_MCAST-IPTV
+      id: 1285
+
+    - mac: 6C-62-6D-66-4A-DB
+      description: "IP-TV-Box"
+      enabled: true
+      idgroup: 1100_MCAST-IPTV
+      id: 1525
+
+    - mac: 6C-62-6D-66-45-E1
+      description: "IPTV-BOX"
+      enabled: true
+      idgroup: 1100_MCAST-IPTV
+      id: 1414
+
+    - mac: 6C-62-6D-64-6D-B4
+      description: "no description"
+      enabled: true
+      idgroup: 1100_MCAST-IPTV
+      id: 17
+
+    - mac: 6C-62-6D-66-45-43
+      description: "IPBox-TV"
+      enabled: true
+      idgroup: 1100_MCAST-IPTV
+      id: 1327
+
+    - mac: 6C-62-6D-66-50-59
+      description: "IPBox-TV"
+      enabled: true
+      idgroup: 1100_MCAST-IPTV
+      id: 1283
+
+    - mac: 6C-62-6D-66-4E-E3
+      description: "IPBox-TV"
+      enabled: true
+      idgroup: 1100_MCAST-IPTV
+      id: 1331
+
+    - mac: 6C-62-6D-66-4E-C1
+      description: "IPBox-TV"
+      enabled: true
+      idgroup: 1100_MCAST-IPTV
+      id: 1305
+
+    - mac: 6C-62-6D-66-50-0E
+      description: "tv box"
+      enabled: true
+      idgroup: 1100_MCAST-IPTV
+      id: 2407
+
+    - mac: 6C-62-6D-66-46-99
+      description: "IPBox-TV"
+      enabled: true
+      idgroup: 1100_MCAST-IPTV
+      id: 1288
+
+    - mac: 6C-62-6D-64-6A-7E
+      description: "IP-TV Set-top box"
+      enabled: true
+      idgroup: 1100_MCAST-IPTV
+      id: 33
+
+    - mac: 6C-62-6D-66-62-7A
+      description: "AB desk 4 pl7"
+      enabled: true
+      idgroup: 1100_MCAST-IPTV
+      id: 1587
+
+    - mac: 6C-62-6D-64-6C-A6
+      description: "IP-TV Set-top box"
+      enabled: true
+      idgroup: 1100_MCAST-IPTV
+      id: 26
+
+    - mac: 6C-62-6D-66-4F-55
+      description: "IPBox-TV"
+      enabled: true
+      idgroup: 1100_MCAST-IPTV
+      id: 1338
+
+    - mac: 6C-62-6D-64-6B-80
+      description: "IP-TV Set-top box"
+      enabled: true
+      idgroup: 1100_MCAST-IPTV
+      id: 48
+
+    - mac: 6C-62-6D-66-47-25
+      description: "IP-TV-Box"
+      enabled: true
+      idgroup: 1100_MCAST-IPTV
+      id: 1520
+
+    - mac: 6C-62-6D-66-4F-BB
+      description: "IPBox-TV"
+      enabled: true
+      idgroup: 1100_MCAST-IPTV
+      id: 1313
+
+    - mac: 6C-62-6D-66-4A-15
+      description: "Rattsred p7"
+      enabled: true
+      idgroup: 1100_MCAST-IPTV
+      id: 1373
+
+    - mac: 6C-62-6D-64-6D-5A
+      description: "IP-TV Set-top box"
+      enabled: true
+      idgroup: 1100_MCAST-IPTV
+      id: 53
+
+    - mac: 6C-62-6D-66-4A-87
+      description: "IPBox-TV"
+      enabled: true
+      idgroup: 1100_MCAST-IPTV
+      id: 1302
+
+    - mac: 6C-62-6D-66-4A-73
+      description: "IPBox-TV"
+      enabled: true
+      idgroup: 1100_MCAST-IPTV
+      id: 1294
+
+    - mac: 6C-62-6D-66-49-87
+      description: "Rattsred pl7"
+      enabled: true
+      idgroup: 1100_MCAST-IPTV
+      id: 1557
+
+    - mac: 6C-62-6D-64-6B-30
+      description: "IP-TV Set-top box"
+      enabled: true
+      idgroup: 1100_MCAST-IPTV
+      id: 55
+
+    - mac: 8C-89-A5-1D-43-42
+      description: "IP-Box"
+      enabled: true
+      idgroup: 1100_MCAST-IPTV
+      id: 2398
+
+    - mac: 6C-62-6D-66-50-79
+      description: "IP Box TV"
+      enabled: true
+      idgroup: 1100_MCAST-IPTV
+      id: 1543
+
+    - mac: 6C-62-6D-64-6B-18
+      description: "IP-TV Set-top box"
+      enabled: true
+      idgroup: 1100_MCAST-IPTV
+      id: 57
+
+    - mac: 8C-89-A5-1D-43-4A
+      description: "tv-box"
+      enabled: true
+      idgroup: 1100_MCAST-IPTV
+      id: 2402
+
+    - mac: 6C-62-6D-64-6B-62
+      description: "IP-TV Set-top box"
+      enabled: true
+      idgroup: 1100_MCAST-IPTV
+      id: 35
+
+    - mac: 6C-62-6D-66-49-EB
+      description: "Christoffer Maddison"
+      enabled: true
+      idgroup: 1100_MCAST-IPTV
+      id: 2295
+
+    - mac: 6C-62-6D-66-46-3B
+      description: "IPTV-BOX"
+      enabled: true
+      idgroup: 1100_MCAST-IPTV
+      id: 1421
+
+    - mac: 6C-62-6D-66-47-1D
+      description: "IPBox-TV"
+      enabled: true
+      idgroup: 1100_MCAST-IPTV
+      id: 1333
+
+    - mac: 6C-62-6D-66-49-63
+      description: "IPBox-TV"
+      enabled: true
+      idgroup: 1100_MCAST-IPTV
+      id: 1318
+
+    - mac: 6C-62-6D-66-45-CB
+      description: "IPBox-TV"
+      enabled: true
+      idgroup: 1100_MCAST-IPTV
+      id: 1329
+
+    - mac: 6C-62-6D-66-4A-6F
+      description: "AB noje 2 pl7"
+      enabled: true
+      idgroup: 1100_MCAST-IPTV
+      id: 1589
+
+    - mac: 00-12-FB-AE-D9-8E
+      description: "Servicedesk TV"
+      enabled: true
+      idgroup: 1100_MCAST-IPTV
+      id: 1718
+
+    - mac: 6C-62-6D-66-4A-E3
+      description: "IP Box TV"
+      enabled: true
+      idgroup: 1100_MCAST-IPTV
+      id: 1537
+
+    - mac: 6C-62-6D-64-82-8E
+      description: "IPBox-TV"
+      enabled: true
+      idgroup: 1100_MCAST-IPTV
+      id: 1298
+
+    - mac: 6C-62-6D-66-4A-45
+      description: "IPTV-BOX"
+      enabled: true
+      idgroup: 1100_MCAST-IPTV
+      id: 1459
+
+    - mac: 6C-62-6D-66-4A-5F
+      description: "IP TV-Box Matsalen1 plan 5"
+      enabled: true
+      idgroup: 1100_MCAST-IPTV
+      id: 1623
+
+    - mac: 6C-62-6D-66-50-87
+      description: "IPBox-TV"
+      enabled: true
+      idgroup: 1100_MCAST-IPTV
+      id: 1289
+
+    - mac: 6C-62-6D-66-4A-FD
+      description: "IPBox-TV"
+      enabled: true
+      idgroup: 1100_MCAST-IPTV
+      id: 1282
+
+    - mac: 6C-62-6D-66-50-43
+      description: "IPBox-TV"
+      enabled: true
+      idgroup: 1100_MCAST-IPTV
+      id: 1311
+
+    - mac: 40-61-86-EF-FF-3E
+      description: "IP-TV Set-top box"
+      enabled: true
+      idgroup: 1100_MCAST-IPTV
+      id: 25
+
+    - mac: 6C-62-6D-64-81-98
+      description: "IP-TV-Box"
+      enabled: true
+      idgroup: 1100_MCAST-IPTV
+      id: 1526
+
+    - mac: 6C-62-6D-64-6A-B2
+      description: "IP-TV Set-top box"
+      enabled: true
+      idgroup: 1100_MCAST-IPTV
+      id: 46
+
+    - mac: 6C-62-6D-66-46-6B
+      description: "IPBox-TV"
+      enabled: true
+      idgroup: 1100_MCAST-IPTV
+      id: 1316
+
+    - mac: 40-61-86-EF-FF-5E
+      description: "IP-TV Set-top box"
+      enabled: true
+      idgroup: 1100_MCAST-IPTV
+      id: 36
+
+    - mac: E4-7C-F9-B5-D0-05
+      description: "Upplaga 2 p6 Skarm"
+      enabled: true
+      idgroup: 1100_MCAST-IPTV
+      id: 1368
+
+    - mac: 00-24-E8-23-8F-4F
+      description: "reception1plan4"
+      enabled: true
+      idgroup: 1100_MCAST-IPTV
+      id: 1655
+
+    - mac: 6C-62-6D-66-4E-E5
+      description: "IPBox-TV"
+      enabled: true
+      idgroup: 1100_MCAST-IPTV
+      id: 1314
+
+    - mac: 6C-62-6D-66-46-47
+      description: "IPTV-BOX"
+      enabled: true
+      idgroup: 1100_MCAST-IPTV
+      id: 1428
+
+    - mac: 6C-62-6D-64-6B-04
+      description: "IP-TV Set-top box"
+      enabled: true
+      idgroup: 1100_MCAST-IPTV
+      id: 44
+
+    - mac: 6C-62-6D-66-50-B5
+      description: "IPTV-BOX"
+      enabled: true
+      idgroup: 1100_MCAST-IPTV
+      id: 1423
+
+    - mac: 6C-62-6D-66-50-61
+      description: "IP Box TV"
+      enabled: true
+      idgroup: 1100_MCAST-IPTV
+      id: 1545
+
+    - mac: 6C-62-6D-66-4A-3F
+      description: "IPBox-TV"
+      enabled: true
+      idgroup: 1100_MCAST-IPTV
+      id: 1324
+
+    - mac: 6C-62-6D-66-4F-A5
+      description: "IPBox-TV"
+      enabled: true
+      idgroup: 1100_MCAST-IPTV
+      id: 1340
+
+    - mac: 6C-62-6D-66-49-99
+      description: "IPBox-TV"
+      enabled: true
+      idgroup: 1100_MCAST-IPTV
+      id: 1291
+
+    - mac: 8C-89-A5-1D-43-24
+      description: "IP-Box"
+      enabled: true
+      idgroup: 1100_MCAST-IPTV
+      id: 2397
+
+    - mac: 6C-62-6D-66-49-6D
+      description: "ipbox tv-studion pl7"
+      enabled: true
+      idgroup: 1100_MCAST-IPTV
+      id: 2297
+
+    - mac: 6C-62-6D-66-46-5B
+      description: "IPTV-BOX"
+      enabled: true
+      idgroup: 1100_MCAST-IPTV
+      id: 1406
+
+    - mac: 6C-62-6D-66-46-FD
+      description: "IPBox-TV"
+      enabled: true
+      idgroup: 1100_MCAST-IPTV
+      id: 1307
+
+    - mac: 7C-05-07-25-23-3C
+      description: "Tv-box visualretail"
+      enabled: true
+      idgroup: 1100_MCAST-IPTV
+      id: 2428
+
+    - mac: 90-AC-3F-12-19-FE
+      description: "Aftonbladet decoder 2"
+      enabled: true
+      idgroup: 1100_MCAST-IPTV
+      id: 5564
+
+    - mac: 6C-62-6D-66-49-53
+      description: "IPBox-TV"
+      enabled: true
+      idgroup: 1100_MCAST-IPTV
+      id: 1301
+
+    - mac: 6C-62-6D-66-50-19
+      description: "tvnu 1 pl8"
+      enabled: true
+      idgroup: 1100_MCAST-IPTV
+      id: 1596
+
+    - mac: 6C-62-6D-64-6C-98
+      description: "IP-TV Set-top box"
+      enabled: true
+      idgroup: 1100_MCAST-IPTV
+      id: 19
+
+    - mac: 6C-62-6D-66-49-AB
+      description: "IP-TV-Box"
+      enabled: true
+      idgroup: 1100_MCAST-IPTV
+      id: 1524
+
+    - mac: 6C-62-6D-66-46-79
+      description: "no description"
+      enabled: true
+      idgroup: 1100_MCAST-IPTV
+      id: 2021
+
+    - mac: 6C-62-6D-64-83-24
+      description: "IPBox-TV"
+      enabled: true
+      idgroup: 1100_MCAST-IPTV
+      id: 1287
+
+    - mac: 6C-62-6D-64-6C-AA
+      description: "IP-TV Set-top box"
+      enabled: true
+      idgroup: 1100_MCAST-IPTV
+      id: 59
+
+    - mac: 6C-62-6D-66-47-1A
+      description: "Upplaga 2 p6"
+      enabled: true
+      idgroup: 1100_MCAST-IPTV
+      id: 1367
+
+    - mac: 00-12-FB-AE-D9-8C
+      description: "svd10plan5"
+      enabled: true
+      idgroup: 1100_MCAST-IPTV
+      id: 2380
+
+    - mac: 6C-62-6D-64-6C-B4
+      description: "IP-TV Set-top box"
+      enabled: true
+      idgroup: 1100_MCAST-IPTV
+      id: 38
+
+    - mac: 6C-62-6D-64-6C-9A
+      description: "IP-TV Set-top box"
+      enabled: true
+      idgroup: 1100_MCAST-IPTV
+      id: 32
+
+    - mac: 6C-62-6D-66-4A-DD
+      description: "AB desk 5 pl7"
+      enabled: true
+      idgroup: 1100_MCAST-IPTV
+      id: 1588
+
+    - mac: 00-40-8C-46-B5-1B
+      description: "Habanero kamera I&D"
+      enabled: false
+      idgroup: 1100_MCAST-IPTV
+      id: 2070
+
+    - mac: 6C-62-6D-66-4F-25
+      description: "IPBox-TV"
+      enabled: true
+      idgroup: 1100_MCAST-IPTV
+      id: 1312
+
+    - mac: 6C-62-6D-64-6A-90
+      description: "IP-TV Set-top box"
+      enabled: true
+      idgroup: 1100_MCAST-IPTV
+      id: 31
+
+    - mac: 6C-62-6D-66-49-E9
+      description: "TV-box"
+      enabled: true
+      idgroup: 1100_MCAST-IPTV
+      id: 1689
+
+    - mac: 6C-62-6D-64-84-7C
+      description: "IPBox-TV"
+      enabled: true
+      idgroup: 1100_MCAST-IPTV
+      id: 1296
+
+    - mac: 6C-62-6D-66-45-97
+      description: "IPBox-TV"
+      enabled: true
+      idgroup: 1100_MCAST-IPTV
+      id: 1303
+
+    - mac: 00-12-FB-B0-36-83
+      description: "ab2plan7"
+      enabled: true
+      idgroup: 1100_MCAST-IPTV
+      id: 1654
+
+    - mac: 6C-62-6D-64-6D-28
+      description: "IP-TV Set-top box"
+      enabled: true
+      idgroup: 1100_MCAST-IPTV
+      id: 15
+
+    - mac: 6C-62-6D-66-4F-E9
+      description: "IPTV-BOX"
+      enabled: true
+      idgroup: 1100_MCAST-IPTV
+      id: 1430
+
+    - mac: 6C-62-6D-64-6C-8C
+      description: "IP-TV Set-top box"
+      enabled: true
+      idgroup: 1100_MCAST-IPTV
+      id: 62
+
+    - mac: 6C-62-6D-66-4F-B7
+      description: "IPBox-TV"
+      enabled: true
+      idgroup: 1100_MCAST-IPTV
+      id: 1293
+
+    - mac: 6C-62-6D-64-6C-D0
+      description: "IP-TV Set-top box"
+      enabled: true
+      idgroup: 1100_MCAST-IPTV
+      id: 49
+
+    - mac: 6C-62-6D-66-46-27
+      description: "IPBox-TV"
+      enabled: true
+      idgroup: 1100_MCAST-IPTV
+      id: 1308
+
+    - mac: 6C-62-6D-66-45-D3
+      description: "IPTV-BOX"
+      enabled: true
+      idgroup: 1100_MCAST-IPTV
+      id: 1429
+
+    - mac: 6C-62-6D-66-49-5D
+      description: "Haivision TV - TV-studion"
+      enabled: true
+      idgroup: 1100_MCAST-IPTV
+      id: 1916
+
+    - mac: 6C-62-6D-66-4A-16
+      description: "Rattsred p7"
+      enabled: true
+      idgroup: 1100_MCAST-IPTV
+      id: 1374
+
+    - mac: 6C-62-6D-64-6A-DA
+      description: "IP-TV Set-top box"
+      enabled: true
+      idgroup: 1100_MCAST-IPTV
+      id: 23
+
+    - mac: 6C-62-6D-66-46-AB
+      description: "IP Box TV"
+      enabled: true
+      idgroup: 1100_MCAST-IPTV
+      id: 1528
+
+    - mac: 6C-62-6D-64-6B-08
+      description: "IP-TV Set-top box"
+      enabled: true
+      idgroup: 1100_MCAST-IPTV
+      id: 21
+
+    - mac: 6C-62-6D-66-45-59
+      description: "IPTV-BOX"
+      enabled: true
+      idgroup: 1100_MCAST-IPTV
+      id: 1419
+
+    - mac: 6C-62-6D-64-6B-4C
+      description: "IP-TV Set-top box"
+      enabled: true
+      idgroup: 1100_MCAST-IPTV
+      id: 45
+
+    - mac: 6C-62-6D-66-4A-39
+      description: "IP TV Box"
+      enabled: true
+      idgroup: 1100_MCAST-IPTV
+      id: 1279
+
+    - mac: 6C-62-6D-66-45-5D
+      description: "IPBox-TV"
+      enabled: true
+      idgroup: 1100_MCAST-IPTV
+      id: 1321
+
+    - mac: E4-7C-F9-B5-CF-E4
+      description: "Jobb24 P6 Skarm"
+      enabled: true
+      idgroup: 1100_MCAST-IPTV
+      id: 1365
+
+    - mac: 6C-62-6D-64-6A-E3
+      description: "Haivision TV box"
+      enabled: true
+      idgroup: 1100_MCAST-IPTV
+      id: 1699
+
+    - mac: 6C-62-6D-64-6A-E8
+      description: "IP-TV Set-top box"
+      enabled: true
+      idgroup: 1100_MCAST-IPTV
+      id: 42
+
+    - mac: 6C-62-6D-66-49-EC
+      description: "ipbox tv-studion pl7"
+      enabled: true
+      idgroup: 1100_MCAST-IPTV
+      id: 2296
+
+    - mac: 6C-62-6D-66-4E-FF
+      description: "IPBox-TV"
+      enabled: true
+      idgroup: 1100_MCAST-IPTV
+      id: 1342
+
+    - mac: 6C-62-6D-66-46-2D
+      description: "IPBox-TV"
+      enabled: true
+      idgroup: 1100_MCAST-IPTV
+      id: 1339
+
+    - mac: 6C-62-6D-64-6C-46
+      description: "IP-TV Set-top box"
+      enabled: true
+      idgroup: 1100_MCAST-IPTV
+      id: 27
+
+    - mac: 6C-62-6D-64-6A-91
+      description: "stingray box"
+      enabled: true
+      idgroup: 1100_MCAST-IPTV
+      id: 2331
+
+    - mac: 6C-62-6D-66-4A-C9
+      description: "IPBox-TV"
+      enabled: true
+      idgroup: 1100_MCAST-IPTV
+      id: 1310
+
+    - mac: 6C-62-6D-64-6C-6A
+      description: "IP-TV Set-top box"
+      enabled: true
+      idgroup: 1100_MCAST-IPTV
+      id: 60
+
+    - mac: 90-AC-3F-12-90-17
+      description: "Aftonbladet decoder 1"
+      enabled: true
+      idgroup: 1100_MCAST-IPTV
+      id: 5563
+
+    - mac: 6C-62-6D-64-81-C8
+      description: "IPBox-TV"
+      enabled: true
+      idgroup: 1100_MCAST-IPTV
+      id: 1295
+
+    - mac: 6C-62-6D-66-46-85
+      description: "IP Box TV"
+      enabled: true
+      idgroup: 1100_MCAST-IPTV
+      id: 1540
+
+    - mac: 6C-62-6D-66-46-01
+      description: "IP-TV-Box"
+      enabled: true
+      idgroup: 1100_MCAST-IPTV
+      id: 1661
+
+    - mac: 6C-62-6D-66-50-15
+      description: "IPBox-TV"
+      enabled: true
+      idgroup: 1100_MCAST-IPTV
+      id: 1330
+
+    - mac: 6C-62-6D-66-46-07
+      description: "IPBox-TV"
+      enabled: true
+      idgroup: 1100_MCAST-IPTV
+      id: 1284
+
+    - mac: 6C-62-6D-66-49-71
+      description: "IP-TV-Box"
+      enabled: true
+      idgroup: 1100_MCAST-IPTV
+      id: 1592
+
+    - mac: 6C-62-6D-66-46-7A
+      description: "no description"
+      enabled: true
+      idgroup: 1100_MCAST-IPTV
+      id: 2022
+
+    - mac: 6C-62-6D-66-47-01
+      description: "IPTV-BOX"
+      enabled: true
+      idgroup: 1100_MCAST-IPTV
+      id: 1413
+
+    - mac: 6C-62-6D-66-4A-27
+      description: "AB it-utv3 p8"
+      enabled: true
+      idgroup: 1100_MCAST-IPTV
+      id: 1371
+
+    - mac: 6C-62-6D-64-6C-DE
+      description: "IP-TV Set-top box"
+      enabled: true
+      idgroup: 1100_MCAST-IPTV
+      id: 50
+
+    - mac: 6C-62-6D-66-49-A1
+      description: "no description"
+      enabled: true
+      idgroup: 1100_MCAST-IPTV
+      id: 1519
+
+    - mac: 6C-62-6D-66-4A-ED
+      description: "IPBox-TV"
+      enabled: true
+      idgroup: 1100_MCAST-IPTV
+      id: 1326
+
+    - mac: 6C-62-6D-64-6B-CC
+      description: "IP-TV Set-top box"
+      enabled: true
+      idgroup: 1100_MCAST-IPTV
+      id: 28
+
+    - mac: 6C-62-6D-64-6B-D2
+      description: "IP-TV Set-top box"
+      enabled: true
+      idgroup: 1100_MCAST-IPTV
+      id: 40
+
+    - mac: 6C-62-6D-66-47-05
+      description: "IPBox-TV"
+      enabled: true
+      idgroup: 1100_MCAST-IPTV
+      id: 1337
+
+    - mac: 6C-62-6D-66-49-6E
+      description: "ipbox tv-studion pl7"
+      enabled: true
+      idgroup: 1100_MCAST-IPTV
+      id: 2298
+
+    - mac: 6C-62-6D-66-46-9B
+      description: "IPBox-TV"
+      enabled: true
+      idgroup: 1100_MCAST-IPTV
+      id: 1344
+
+    - mac: 6C-62-6D-64-84-89
+      description: "haivision box"
+      enabled: true
+      idgroup: 1100_MCAST-IPTV
+      id: 2724
+
+    - mac: 6C-62-6D-64-6C-1E
+      description: "IP-TV Set-top box"
+      enabled: true
+      idgroup: 1100_MCAST-IPTV
+      id: 9
+
+    - mac: 6C-62-6D-64-6B-54
+      description: "IP-TV Set-top box"
+      enabled: true
+      idgroup: 1100_MCAST-IPTV
+      id: 34
+
+    - mac: 6C-62-6D-66-50-A7
+      description: "IP Box TV"
+      enabled: true
+      idgroup: 1100_MCAST-IPTV
+      id: 1547
+
+    - mac: 6C-62-6D-64-6D-C4
+      description: "no description"
+      enabled: true
+      idgroup: 1100_MCAST-IPTV
+      id: 16
+
+    - mac: 6C-62-6D-66-45-5C
+      description: "AB it-utv2 p8"
+      enabled: true
+      idgroup: 1100_MCAST-IPTV
+      id: 1370
+
+    - mac: 6C-62-6D-66-4B-17
+      description: "IP-TV-Box"
+      enabled: true
+      idgroup: 1100_MCAST-IPTV
+      id: 1523
+
+    - mac: 6C-62-6D-64-82-8C
+      description: "IPBox-TV"
+      enabled: true
+      idgroup: 1100_MCAST-IPTV
+      id: 1306
+
+    - mac: 6C-62-6D-66-47-3B
+      description: "IPBox-TV"
+      enabled: true
+      idgroup: 1100_MCAST-IPTV
+      id: 1328
+
+    - mac: 6C-62-6D-66-45-BD
+      description: "IPBox-TV"
+      enabled: true
+      idgroup: 1100_MCAST-IPTV
+      id: 1281
+
+    - mac: 6C-62-6D-64-6C-A0
+      description: "IP-TV Set-top box"
+      enabled: true
+      idgroup: 1100_MCAST-IPTV
+      id: 24
+
+    - mac: 6C-62-6D-66-49-9B
+      description: "IPBox-TV"
+      enabled: true
+      idgroup: 1100_MCAST-IPTV
+      id: 1325
+
+    - mac: 6C-62-6D-66-4A-29
+      description: "IPBox-TV"
+      enabled: true
+      idgroup: 1100_MCAST-IPTV
+      id: 1286
+
+    - mac: 6C-62-6D-64-6A-E2
+      description: "IP-TV Set-top box"
+      enabled: true
+      idgroup: 1100_MCAST-IPTV
+      id: 47
+
+    - mac: 6C-62-6D-66-49-49
+      description: "IPTV-BOX"
+      enabled: true
+      idgroup: 1100_MCAST-IPTV
+      id: 1427
+
+    - mac: 6C-62-6D-64-6A-B8
+      description: "IP-TV Set-top box"
+      enabled: true
+      idgroup: 1100_MCAST-IPTV
+      id: 37
+
+    - mac: 6C-62-6D-64-81-F4
+      description: "IPBox-TV"
+      enabled: true
+      idgroup: 1100_MCAST-IPTV
+      id: 1332
+
+    - mac: 6C-62-6D-66-4A-75
+      description: "IPBox-TV"
+      enabled: true
+      idgroup: 1100_MCAST-IPTV
+      id: 1319
+
+    - mac: 40-61-86-EF-FF-42
+      description: "IP-TV Set-top box"
+      enabled: true
+      idgroup: 1100_MCAST-IPTV
+      id: 41
+
+    - mac: 6C-62-6D-64-6A-4A
+      description: "IP-TV Set-top box"
+      enabled: true
+      idgroup: 1100_MCAST-IPTV
+      id: 52
+
+    - mac: 6C-62-6D-66-46-3D
+      description: "IPTV-BOX"
+      enabled: true
+      idgroup: 1100_MCAST-IPTV
+      id: 1453
+
+    - mac: 6C-62-6D-66-4F-7B
+      description: "IPBox-TV"
+      enabled: true
+      idgroup: 1100_MCAST-IPTV
+      id: 1341
+
+    - mac: 6C-62-6D-64-46-DD
+      description: "IP-TV-Box"
+      enabled: true
+      idgroup: 1100_MCAST-IPTV
+      id: 1494
+
+    - mac: 6C-62-6D-66-49-ED
+      description: "IPBox-TV"
+      enabled: true
+      idgroup: 1100_MCAST-IPTV
+      id: 1304
+
+    - mac: 8C-89-A5-1D-42-5B
+      description: "IP-Box"
+      enabled: true
+      idgroup: 1100_MCAST-IPTV
+      id: 2399
+
+    - mac: 6C-62-6D-66-45-DF
+      description: "IP Box TV"
+      enabled: true
+      idgroup: 1100_MCAST-IPTV
+      id: 1542
+
+    - mac: 6C-62-6D-64-6D-8C
+      description: "no description"
+      enabled: true
+      idgroup: 1100_MCAST-IPTV
+      id: 18
+
+    - mac: 6C-62-6D-66-49-69
+      description: "IPBox-TV"
+      enabled: true
+      idgroup: 1100_MCAST-IPTV
+      id: 1343
+
+    - mac: 6C-62-6D-66-49-E1
+      description: "IP-TV Set-top box"
+      enabled: true
+      idgroup: 1100_MCAST-IPTV
+      id: 1966
+
+    - mac: 6C-62-6D-66-47-33
+      description: "IPBox-TV"
+      enabled: true
+      idgroup: 1100_MCAST-IPTV
+      id: 1300
+
+    - mac: 6C-62-6D-66-4E-95
+      description: "Servicedesk pl3"
+      enabled: true
+      idgroup: 1100_MCAST-IPTV
+      id: 1590
+
+    - mac: 6C-62-6D-66-50-0D
+      description: "tv-box"
+      enabled: true
+      idgroup: 1100_MCAST-IPTV
+      id: 2401
+
+    - mac: E4-7C-F9-B5-33-CA
+      description: "svd1plan5"
+      enabled: true
+      idgroup: 1100_MCAST-IPTV
+      id: 1652
+
+    - mac: 6C-62-6D-66-4B-01
+      description: "IP-TV-Box"
+      enabled: true
+      idgroup: 1100_MCAST-IPTV
+      id: 1516
+
+    - mac: 6C-62-6D-64-82-BA
+      description: "IPBox-TV"
+      enabled: true
+      idgroup: 1100_MCAST-IPTV
+      id: 1297
+
+    - mac: 6C-62-6D-66-4A-01
+      description: "IP-TV-Box"
+      enabled: true
+      idgroup: 1100_MCAST-IPTV
+      id: 1521
+
+    - mac: 6C-62-6D-66-47-19
+      description: "Upplaga 2 p6"
+      enabled: true
+      idgroup: 1100_MCAST-IPTV
+      id: 1366
+
+    - mac: 6C-62-6D-66-49-F7
+      description: "IPTV-BOX"
+      enabled: true
+      idgroup: 1100_MCAST-IPTV
+      id: 1417
+
+    - mac: 7C-05-07-27-85-D1
+      description: "Tv-box visualretail"
+      enabled: true
+      idgroup: 1100_MCAST-IPTV
+      id: 2427
+
+    - mac: 6C-62-6D-66-46-39
+      description: "IPBox-TV"
+      enabled: true
+      idgroup: 1100_MCAST-IPTV
+      id: 1290
+
+    - mac: 6C-62-6D-66-45-C1
+      description: "IP Box TV"
+      enabled: true
+      idgroup: 1100_MCAST-IPTV
+      id: 1544
+
+    - mac: 6C-62-6D-66-4F-BD
+      description: "IP Box TV"
+      enabled: true
+      idgroup: 1100_MCAST-IPTV
+      id: 1538
+
+    - mac: E4-7C-F9-B6-1C-67
+      description: "tvnu pc2 p8"
+      enabled: true
+      idgroup: 1100_MCAST-IPTV
+      id: 1616
+
+    - mac: 6C-62-6D-64-6B-19
+      description: "ipbox tv-studion pl7"
+      enabled: true
+      idgroup: 1100_MCAST-IPTV
+      id: 2294
+
+    - mac: 6C-62-6D-64-6C-74
+      description: "IP-TV Set-top box"
+      enabled: true
+      idgroup: 1100_MCAST-IPTV
+      id: 56
+
+    - mac: 6C-62-6D-66-45-5B
+      description: "AB it-utv2 p8"
+      enabled: true
+      idgroup: 1100_MCAST-IPTV
+      id: 1369
+
+    - mac: 6C-62-6D-64-6C-76
+      description: "IP-TV Set-top box"
+      enabled: true
+      idgroup: 1100_MCAST-IPTV
+      id: 54
+
+    - mac: 6C-62-6D-64-6B-76
+      description: "IP-TV Set-top box"
+      enabled: true
+      idgroup: 1100_MCAST-IPTV
+      id: 30
+
+    - mac: 6C-62-6D-66-49-5E
+      description: "Haivision TV - TV-studion"
+      enabled: true
+      idgroup: 1100_MCAST-IPTV
+      id: 1917
+
+    - mac: 6C-62-6D-66-45-FB
+      description: "IPBox-TV"
+      enabled: true
+      idgroup: 1100_MCAST-IPTV
+      id: 1323
+
+    - mac: 8C-89-A5-1D-42-F2
+      description: "IP-Box"
+      enabled: true
+      idgroup: 1100_MCAST-IPTV
+      id: 2396
+
+    - mac: 6C-62-6D-66-49-F0
+      description: "Jobb24 P6"
+      enabled: true
+      idgroup: 1100_MCAST-IPTV
+      id: 1364
+
+    - mac: 6C-62-6D-66-49-EF
+      description: "Jobb24 P6"
+      enabled: true
+      idgroup: 1100_MCAST-IPTV
+      id: 1363
+
+    - mac: 6C-62-6D-66-46-DD
+      description: "IP-TV-Box"
+      enabled: true
+      idgroup: 1100_MCAST-IPTV
+      id: 1630
+
+    - mac: 6C-62-6D-66-46-B5
+      description: "tvnu 2 Pl8"
+      enabled: true
+      idgroup: 1100_MCAST-IPTV
+      id: 1597
+
+    - mac: E4-7C-F9-B6-1A-D0
+      description: "tvnu pc1 p8"
+      enabled: true
+      idgroup: 1100_MCAST-IPTV
+      id: 1615
+
+    - mac: 6C-62-6D-64-6B-B4
+      description: "IP-TV Set-top box"
+      enabled: true
+      idgroup: 1100_MCAST-IPTV
+      id: 58
+
+    - mac: 6C-62-6D-66-50-03
+      description: "IP Box TV"
+      enabled: true
+      idgroup: 1100_MCAST-IPTV
+      id: 1546
+
+    - mac: E4-7C-F9-B6-09-61
+      description: "IP-TV"
+      enabled: true
+      idgroup: 1100_MCAST-IPTV
+      id: 1660
+
+    - mac: 6C-62-6D-64-84-70
+      description: "IPBox-TV"
+      enabled: true
+      idgroup: 1100_MCAST-IPTV
+      id: 1345
+
+    - mac: 6C-62-6D-66-45-51
+      description: "IPBox-TV"
+      enabled: true
+      idgroup: 1100_MCAST-IPTV
+      id: 1322
+
+    - mac: 6C-62-6D-64-6D-80
+      description: "IP-TV Set-top box"
+      enabled: true
+      idgroup: 1100_MCAST-IPTV
+      id: 14
+
+    - mac: 6C-62-6D-64-6A-B0
+      description: "IP-TV Set-top box"
+      enabled: true
+      idgroup: 1100_MCAST-IPTV
+      id: 43
+
+    - mac: E4-7C-F9-B6-01-D0
+      description: "no description"
+      enabled: true
+      idgroup: 1100_MCAST-IPTV
+      id: 1887
+
+    - mac: 6C-62-6D-64-6C-C4
+      description: "IP-TV Set-top box"
+      enabled: true
+      idgroup: 1100_MCAST-IPTV
+      id: 61
+
+    - mac: 6C-62-6D-66-46-B3
+      description: "IPBox-TV"
+      enabled: true
+      idgroup: 1100_MCAST-IPTV
+      id: 1315
+
+    - mac: 6C-62-6D-66-49-D3
+      description: "Ip-TV box Haivision"
+      enabled: true
+      idgroup: 1100_MCAST-IPTV
+      id: 1688
+
+    - mac: 6C-62-6D-66-4F-5F
+      description: "IPBox-TV"
+      enabled: true
+      idgroup: 1100_MCAST-IPTV
+      id: 1292
+
+    - mac: 6C-62-6D-64-6B-86
+      description: "IP-TV Set-top box"
+      enabled: true
+      idgroup: 1100_MCAST-IPTV
+      id: 39
+
+    - mac: 6C-62-6D-64-6D-BC
+      description: "IP-TV Set-top box"
+      enabled: true
+      idgroup: 1100_MCAST-IPTV
+      id: 12
+
+    - mac: 6C-62-6D-64-84-88
+      description: "haivision tv box"
+      enabled: true
+      idgroup: 1100_MCAST-IPTV
+      id: 2727
+
+    - mac: 6C-62-6D-66-50-4D
+      description: "IP TV Box"
+      enabled: true
+      idgroup: 1100_MCAST-IPTV
+      id: 1517
+
+    - mac: 6C-62-6D-64-6D-7C
+      description: "IP-TV Set-top box"
+      enabled: true
+      idgroup: 1100_MCAST-IPTV
+      id: 22
+
+    - mac: 6C-62-6D-66-46-67
+      description: "IPBox-TV"
+      enabled: true
+      idgroup: 1100_MCAST-IPTV
+      id: 1309
+
+    - mac: 6C-62-6D-64-6B-38
+      description: "IP-TV Set-top box"
+      enabled: true
+      idgroup: 1100_MCAST-IPTV
+      id: 51
+
+    - mac: 6C-62-6D-66-50-63
+      description: "AB bild pl7"
+      enabled: true
+      idgroup: 1100_MCAST-IPTV
+      id: 1591
+
+    - mac: 8C-89-A5-1D-42-F3
+      description: "ipbox"
+      enabled: true
+      idgroup: 1100_MCAST-IPTV
+      id: 2400
+
+    - mac: 6C-62-6D-66-4F-C3
+      description: "IP Box TV"
+      enabled: true
+      idgroup: 1100_MCAST-IPTV
+      id: 1539
+
+    - mac: 6C-62-6D-66-4A-19
+      description: "IPBox-TV"
+      enabled: true
+      idgroup: 1100_MCAST-IPTV
+      id: 1320
+
+    - mac: 6C-62-6D-66-45-CD
+      description: "IP Box TV"
+      enabled: true
+      idgroup: 1100_MCAST-IPTV
+      id: 1541
+
+    - mac: 6C-62-6D-64-6D-6A
+      description: "IP-TV Set-top box"
+      enabled: true
+      idgroup: 1100_MCAST-IPTV
+      id: 20
+
+    - mac: 6C-62-6D-66-4A-28
+      description: "AB it-utv3 p8"
+      enabled: true
+      idgroup: 1100_MCAST-IPTV
+      id: 1372
+
+    - mac: 6C-62-6D-66-45-C5
+      description: "IPBox-TV"
+      enabled: true
+      idgroup: 1100_MCAST-IPTV
+      id: 1285
+
+    - mac: 6C-62-6D-66-4A-DB
+      description: "IP-TV-Box"
+      enabled: true
+      idgroup: 1100_MCAST-IPTV
+      id: 1525
+
+    - mac: 6C-62-6D-66-45-E1
+      description: "IPTV-BOX"
+      enabled: true
+      idgroup: 1100_MCAST-IPTV
+      id: 1414
+
+    - mac: 6C-62-6D-64-6D-B4
+      description: "no description"
+      enabled: true
+      idgroup: 1100_MCAST-IPTV
+      id: 17
+
+    - mac: 6C-62-6D-66-45-43
+      description: "IPBox-TV"
+      enabled: true
+      idgroup: 1100_MCAST-IPTV
+      id: 1327
+
+    - mac: 6C-62-6D-66-50-59
+      description: "IPBox-TV"
+      enabled: true
+      idgroup: 1100_MCAST-IPTV
+      id: 1283
+
+    - mac: 6C-62-6D-66-4E-E3
+      description: "IPBox-TV"
+      enabled: true
+      idgroup: 1100_MCAST-IPTV
+      id: 1331
+
+    - mac: 6C-62-6D-66-4E-C1
+      description: "IPBox-TV"
+      enabled: true
+      idgroup: 1100_MCAST-IPTV
+      id: 1305
+
+    - mac: 6C-62-6D-66-50-0E
+      description: "tv box"
+      enabled: true
+      idgroup: 1100_MCAST-IPTV
+      id: 2407
+
+    - mac: 6C-62-6D-66-46-99
+      description: "IPBox-TV"
+      enabled: true
+      idgroup: 1100_MCAST-IPTV
+      id: 1288
+
+    - mac: 6C-62-6D-64-6A-7E
+      description: "IP-TV Set-top box"
+      enabled: true
+      idgroup: 1100_MCAST-IPTV
+      id: 33
+
+    - mac: 6C-62-6D-66-62-7A
+      description: "AB desk 4 pl7"
+      enabled: true
+      idgroup: 1100_MCAST-IPTV
+      id: 1587
+
+    - mac: 6C-62-6D-64-6C-A6
+      description: "IP-TV Set-top box"
+      enabled: true
+      idgroup: 1100_MCAST-IPTV
+      id: 26
+
+    - mac: 6C-62-6D-66-4F-55
+      description: "IPBox-TV"
+      enabled: true
+      idgroup: 1100_MCAST-IPTV
+      id: 1338
+
+    - mac: 6C-62-6D-64-6B-80
+      description: "IP-TV Set-top box"
+      enabled: true
+      idgroup: 1100_MCAST-IPTV
+      id: 48
+
+    - mac: 6C-62-6D-66-47-25
+      description: "IP-TV-Box"
+      enabled: true
+      idgroup: 1100_MCAST-IPTV
+      id: 1520
+
+    - mac: 6C-62-6D-66-4F-BB
+      description: "IPBox-TV"
+      enabled: true
+      idgroup: 1100_MCAST-IPTV
+      id: 1313
+
+    - mac: 6C-62-6D-66-4A-15
+      description: "Rattsred p7"
+      enabled: true
+      idgroup: 1100_MCAST-IPTV
+      id: 1373
+
+    - mac: 6C-62-6D-64-6D-5A
+      description: "IP-TV Set-top box"
+      enabled: true
+      idgroup: 1100_MCAST-IPTV
+      id: 53
+
+    - mac: 6C-62-6D-66-4A-87
+      description: "IPBox-TV"
+      enabled: true
+      idgroup: 1100_MCAST-IPTV
+      id: 1302
+
+    - mac: 6C-62-6D-66-4A-73
+      description: "IPBox-TV"
+      enabled: true
+      idgroup: 1100_MCAST-IPTV
+      id: 1294
+
+    - mac: 6C-62-6D-66-49-87
+      description: "Rattsred pl7"
+      enabled: true
+      idgroup: 1100_MCAST-IPTV
+      id: 1557
+
+    - mac: 6C-62-6D-64-6B-30
+      description: "IP-TV Set-top box"
+      enabled: true
+      idgroup: 1100_MCAST-IPTV
+      id: 55
+
+    - mac: 8C-89-A5-1D-43-42
+      description: "IP-Box"
+      enabled: true
+      idgroup: 1100_MCAST-IPTV
+      id: 2398
+
+    - mac: 6C-62-6D-66-50-79
+      description: "IP Box TV"
+      enabled: true
+      idgroup: 1100_MCAST-IPTV
+      id: 1543
+
+    - mac: 6C-62-6D-64-6B-18
+      description: "IP-TV Set-top box"
+      enabled: true
+      idgroup: 1100_MCAST-IPTV
+      id: 57
+
+    - mac: 8C-89-A5-1D-43-4A
+      description: "tv-box"
+      enabled: true
+      idgroup: 1100_MCAST-IPTV
+      id: 2402
+
+    - mac: 6C-62-6D-64-6B-62
+      description: "IP-TV Set-top box"
+      enabled: true
+      idgroup: 1100_MCAST-IPTV
+      id: 35
+
+    - mac: 6C-62-6D-66-49-EB
+      description: "Christoffer Maddison"
+      enabled: true
+      idgroup: 1100_MCAST-IPTV
+      id: 2295
+
+    - mac: 6C-62-6D-66-46-3B
+      description: "IPTV-BOX"
+      enabled: true
+      idgroup: 1100_MCAST-IPTV
+      id: 1421
+
+    - mac: 6C-62-6D-66-47-1D
+      description: "IPBox-TV"
+      enabled: true
+      idgroup: 1100_MCAST-IPTV
+      id: 1333
+
+    - mac: 6C-62-6D-66-49-63
+      description: "IPBox-TV"
+      enabled: true
+      idgroup: 1100_MCAST-IPTV
+      id: 1318
+
+    - mac: 6C-62-6D-66-45-CB
+      description: "IPBox-TV"
+      enabled: true
+      idgroup: 1100_MCAST-IPTV
+      id: 1329
+
+    - mac: 6C-62-6D-66-4A-6F
+      description: "AB noje 2 pl7"
+      enabled: true
+      idgroup: 1100_MCAST-IPTV
+      id: 1589
+
+    - mac: 00-12-FB-AE-D9-8E
+      description: "Servicedesk TV"
+      enabled: true
+      idgroup: 1100_MCAST-IPTV
+      id: 1718
+
+    - mac: 6C-62-6D-66-4A-E3
+      description: "IP Box TV"
+      enabled: true
+      idgroup: 1100_MCAST-IPTV
+      id: 1537
+
+    - mac: 6C-62-6D-64-82-8E
+      description: "IPBox-TV"
+      enabled: true
+      idgroup: 1100_MCAST-IPTV
+      id: 1298
+
+    - mac: 6C-62-6D-66-4A-45
+      description: "IPTV-BOX"
+      enabled: true
+      idgroup: 1100_MCAST-IPTV
+      id: 1459
+
+    - mac: 6C-62-6D-66-4A-5F
+      description: "IP TV-Box Matsalen1 plan 5"
+      enabled: true
+      idgroup: 1100_MCAST-IPTV
+      id: 1623
+
+    - mac: 6C-62-6D-66-50-87
+      description: "IPBox-TV"
+      enabled: true
+      idgroup: 1100_MCAST-IPTV
+      id: 1289
+
+    - mac: 6C-62-6D-66-4A-FD
+      description: "IPBox-TV"
+      enabled: true
+      idgroup: 1100_MCAST-IPTV
+      id: 1282
+
+    - mac: 6C-62-6D-66-50-43
+      description: "IPBox-TV"
+      enabled: true
+      idgroup: 1100_MCAST-IPTV
+      id: 1311
+
+    - mac: 40-61-86-EF-FF-3E
+      description: "IP-TV Set-top box"
+      enabled: true
+      idgroup: 1100_MCAST-IPTV
+      id: 25
+
+    - mac: 6C-62-6D-64-81-98
+      description: "IP-TV-Box"
+      enabled: true
+      idgroup: 1100_MCAST-IPTV
+      id: 1526
+
+    - mac: 6C-62-6D-64-6A-B2
+      description: "IP-TV Set-top box"
+      enabled: true
+      idgroup: 1100_MCAST-IPTV
+      id: 46
+
+    - mac: 6C-62-6D-66-46-6B
+      description: "IPBox-TV"
+      enabled: true
+      idgroup: 1100_MCAST-IPTV
+      id: 1316
+
+    - mac: 40-61-86-EF-FF-5E
+      description: "IP-TV Set-top box"
+      enabled: true
+      idgroup: 1100_MCAST-IPTV
+      id: 36
+
+    - mac: E4-7C-F9-B5-D0-05
+      description: "Upplaga 2 p6 Skarm"
+      enabled: true
+      idgroup: 1100_MCAST-IPTV
+      id: 1368
+
+    - mac: 00-24-E8-23-8F-4F
+      description: "reception1plan4"
+      enabled: true
+      idgroup: 1100_MCAST-IPTV
+      id: 1655
+
+    - mac: 6C-62-6D-66-4E-E5
+      description: "IPBox-TV"
+      enabled: true
+      idgroup: 1100_MCAST-IPTV
+      id: 1314
+
+    - mac: 6C-62-6D-66-46-47
+      description: "IPTV-BOX"
+      enabled: true
+      idgroup: 1100_MCAST-IPTV
+      id: 1428
+
+    - mac: 6C-62-6D-64-6B-04
+      description: "IP-TV Set-top box"
+      enabled: true
+      idgroup: 1100_MCAST-IPTV
+      id: 44
+
+    - mac: 6C-62-6D-66-50-B5
+      description: "IPTV-BOX"
+      enabled: true
+      idgroup: 1100_MCAST-IPTV
+      id: 1423
+
+    - mac: 6C-62-6D-66-50-61
+      description: "IP Box TV"
+      enabled: true
+      idgroup: 1100_MCAST-IPTV
+      id: 1545
+
+    - mac: 6C-62-6D-66-4A-3F
+      description: "IPBox-TV"
+      enabled: true
+      idgroup: 1100_MCAST-IPTV
+      id: 1324
+
+    - mac: 6C-62-6D-66-4F-A5
+      description: "IPBox-TV"
+      enabled: true
+      idgroup: 1100_MCAST-IPTV
+      id: 1340
+
+    - mac: 6C-62-6D-66-49-99
+      description: "IPBox-TV"
+      enabled: true
+      idgroup: 1100_MCAST-IPTV
+      id: 1291
+
+    - mac: 8C-89-A5-1D-43-24
+      description: "IP-Box"
+      enabled: true
+      idgroup: 1100_MCAST-IPTV
+      id: 2397
+
+    - mac: 6C-62-6D-66-49-6D
+      description: "ipbox tv-studion pl7"
+      enabled: true
+      idgroup: 1100_MCAST-IPTV
+      id: 2297
+
+    - mac: 6C-62-6D-66-46-5B
+      description: "IPTV-BOX"
+      enabled: true
+      idgroup: 1100_MCAST-IPTV
+      id: 1406
+
+    - mac: 6C-62-6D-66-46-FD
+      description: "IPBox-TV"
+      enabled: true
+      idgroup: 1100_MCAST-IPTV
+      id: 1307
+
+    - mac: 7C-05-07-25-23-3C
+      description: "Tv-box visualretail"
+      enabled: true
+      idgroup: 1100_MCAST-IPTV
+      id: 2428
+
+    - mac: 90-AC-3F-12-19-FE
+      description: "Aftonbladet decoder 2"
+      enabled: true
+      idgroup: 1100_MCAST-IPTV
+      id: 5564
+
+    - mac: 6C-62-6D-66-49-53
+      description: "IPBox-TV"
+      enabled: true
+      idgroup: 1100_MCAST-IPTV
+      id: 1301
+
+    - mac: 6C-62-6D-66-50-19
+      description: "tvnu 1 pl8"
+      enabled: true
+      idgroup: 1100_MCAST-IPTV
+      id: 1596
+
+    - mac: 6C-62-6D-64-6C-98
+      description: "IP-TV Set-top box"
+      enabled: true
+      idgroup: 1100_MCAST-IPTV
+      id: 19
+
+    - mac: 6C-62-6D-66-49-AB
+      description: "IP-TV-Box"
+      enabled: true
+      idgroup: 1100_MCAST-IPTV
+      id: 1524
+
+    - mac: 6C-62-6D-66-46-79
+      description: "no description"
+      enabled: true
+      idgroup: 1100_MCAST-IPTV
+      id: 2021
+
+    - mac: 6C-62-6D-64-83-24
+      description: "IPBox-TV"
+      enabled: true
+      idgroup: 1100_MCAST-IPTV
+      id: 1287
+
+    - mac: 6C-62-6D-64-6C-AA
+      description: "IP-TV Set-top box"
+      enabled: true
+      idgroup: 1100_MCAST-IPTV
+      id: 59
+
+    - mac: 6C-62-6D-66-47-1A
+      description: "Upplaga 2 p6"
+      enabled: true
+      idgroup: 1100_MCAST-IPTV
+      id: 1367
+
+    - mac: 00-12-FB-AE-D9-8C
+      description: "svd10plan5"
+      enabled: true
+      idgroup: 1100_MCAST-IPTV
+      id: 2380
+
+    - mac: 6C-62-6D-64-6C-B4
+      description: "IP-TV Set-top box"
+      enabled: true
+      idgroup: 1100_MCAST-IPTV
+      id: 38
+
+    - mac: 6C-62-6D-64-6C-9A
+      description: "IP-TV Set-top box"
+      enabled: true
+      idgroup: 1100_MCAST-IPTV
+      id: 32
+
+    - mac: 6C-62-6D-66-4A-DD
+      description: "AB desk 5 pl7"
+      enabled: true
+      idgroup: 1100_MCAST-IPTV
+      id: 1588
+
+    - mac: 00-40-8C-46-B5-1B
+      description: "Habanero kamera I&D"
+      enabled: false
+      idgroup: 1100_MCAST-IPTV
+      id: 2070
+
+    - mac: 6C-62-6D-66-4F-25
+      description: "IPBox-TV"
+      enabled: true
+      idgroup: 1100_MCAST-IPTV
+      id: 1312
+
+    - mac: 6C-62-6D-64-6A-90
+      description: "IP-TV Set-top box"
+      enabled: true
+      idgroup: 1100_MCAST-IPTV
+      id: 31
+
+    - mac: 6C-62-6D-66-49-E9
+      description: "TV-box"
+      enabled: true
+      idgroup: 1100_MCAST-IPTV
+      id: 1689
+
+    - mac: 6C-62-6D-64-84-7C
+      description: "IPBox-TV"
+      enabled: true
+      idgroup: 1100_MCAST-IPTV
+      id: 1296
+
+    - mac: 6C-62-6D-66-45-97
+      description: "IPBox-TV"
+      enabled: true
+      idgroup: 1100_MCAST-IPTV
+      id: 1303
+
+    - mac: 00-12-FB-B0-36-83
+      description: "ab2plan7"
+      enabled: true
+      idgroup: 1100_MCAST-IPTV
+      id: 1654
+
+    - mac: 6C-62-6D-64-6D-28
+      description: "IP-TV Set-top box"
+      enabled: true
+      idgroup: 1100_MCAST-IPTV
+      id: 15
+
+    - mac: 6C-62-6D-66-4F-E9
+      description: "IPTV-BOX"
+      enabled: true
+      idgroup: 1100_MCAST-IPTV
+      id: 1430
+
+    - mac: 6C-62-6D-64-6C-8C
+      description: "IP-TV Set-top box"
+      enabled: true
+      idgroup: 1100_MCAST-IPTV
+      id: 62
+
+    - mac: 6C-62-6D-66-4F-B7
+      description: "IPBox-TV"
+      enabled: true
+      idgroup: 1100_MCAST-IPTV
+      id: 1293
+
+    - mac: 6C-62-6D-64-6C-D0
+      description: "IP-TV Set-top box"
+      enabled: true
+      idgroup: 1100_MCAST-IPTV
+      id: 49
+
+    - mac: 6C-62-6D-66-46-27
+      description: "IPBox-TV"
+      enabled: true
+      idgroup: 1100_MCAST-IPTV
+      id: 1308
+
+    - mac: 6C-62-6D-66-45-D3
+      description: "IPTV-BOX"
+      enabled: true
+      idgroup: 1100_MCAST-IPTV
+      id: 1429
+
+    - mac: 6C-62-6D-66-49-5D
+      description: "Haivision TV - TV-studion"
+      enabled: true
+      idgroup: 1100_MCAST-IPTV
+      id: 1916
+
+    - mac: 6C-62-6D-66-4A-16
+      description: "Rattsred p7"
+      enabled: true
+      idgroup: 1100_MCAST-IPTV
+      id: 1374
+
+    - mac: 6C-62-6D-64-6A-DA
+      description: "IP-TV Set-top box"
+      enabled: true
+      idgroup: 1100_MCAST-IPTV
+      id: 23
+
+    - mac: 6C-62-6D-66-46-AB
+      description: "IP Box TV"
+      enabled: true
+      idgroup: 1100_MCAST-IPTV
+      id: 1528
+
+    - mac: 6C-62-6D-64-6B-08
+      description: "IP-TV Set-top box"
+      enabled: true
+      idgroup: 1100_MCAST-IPTV
+      id: 21
+
+    - mac: 6C-62-6D-66-45-59
+      description: "IPTV-BOX"
+      enabled: true
+      idgroup: 1100_MCAST-IPTV
+      id: 1419
+
+    - mac: 6C-62-6D-64-6B-4C
+      description: "IP-TV Set-top box"
+      enabled: true
+      idgroup: 1100_MCAST-IPTV
+      id: 45
+
+    - mac: 6C-62-6D-66-4A-39
+      description: "IP TV Box"
+      enabled: true
+      idgroup: 1100_MCAST-IPTV
+      id: 1279
+
+    - mac: 6C-62-6D-66-45-5D
+      description: "IPBox-TV"
+      enabled: true
+      idgroup: 1100_MCAST-IPTV
+      id: 1321
+
+    - mac: E4-7C-F9-B5-CF-E4
+      description: "Jobb24 P6 Skarm"
+      enabled: true
+      idgroup: 1100_MCAST-IPTV
+      id: 1365
+
+    - mac: 6C-62-6D-64-6A-E3
+      description: "Haivision TV box"
+      enabled: true
+      idgroup: 1100_MCAST-IPTV
+      id: 1699
+
+    - mac: 6C-62-6D-64-6A-E8
+      description: "IP-TV Set-top box"
+      enabled: true
+      idgroup: 1100_MCAST-IPTV
+      id: 42
+
+    - mac: 6C-62-6D-66-49-EC
+      description: "ipbox tv-studion pl7"
+      enabled: true
+      idgroup: 1100_MCAST-IPTV
+      id: 2296
+
+    - mac: 6C-62-6D-66-4E-FF
+      description: "IPBox-TV"
+      enabled: true
+      idgroup: 1100_MCAST-IPTV
+      id: 1342
+
+    - mac: 6C-62-6D-66-46-2D
+      description: "IPBox-TV"
+      enabled: true
+      idgroup: 1100_MCAST-IPTV
+      id: 1339
+
+    - mac: 6C-62-6D-64-6C-46
+      description: "IP-TV Set-top box"
+      enabled: true
+      idgroup: 1100_MCAST-IPTV
+      id: 27
+
+    - mac: 6C-62-6D-64-6A-91
+      description: "stingray box"
+      enabled: true
+      idgroup: 1100_MCAST-IPTV
+      id: 2331
+
+    - mac: 6C-62-6D-66-4A-C9
+      description: "IPBox-TV"
+      enabled: true
+      idgroup: 1100_MCAST-IPTV
+      id: 1310
+
+    - mac: 6C-62-6D-64-6C-6A
+      description: "IP-TV Set-top box"
+      enabled: true
+      idgroup: 1100_MCAST-IPTV
+      id: 60
+
+    - mac: 90-AC-3F-12-90-17
+      description: "Aftonbladet decoder 1"
+      enabled: true
+      idgroup: 1100_MCAST-IPTV
+      id: 5563
+
+    - mac: 6C-62-6D-64-81-C8
+      description: "IPBox-TV"
+      enabled: true
+      idgroup: 1100_MCAST-IPTV
+      id: 1295
+
+    - mac: 6C-62-6D-66-46-85
+      description: "IP Box TV"
+      enabled: true
+      idgroup: 1100_MCAST-IPTV
+      id: 1540
+
+    - mac: 6C-62-6D-66-46-01
+      description: "IP-TV-Box"
+      enabled: true
+      idgroup: 1100_MCAST-IPTV
+      id: 1661
+
+    - mac: 6C-62-6D-66-50-15
+      description: "IPBox-TV"
+      enabled: true
+      idgroup: 1100_MCAST-IPTV
+      id: 1330
+
+    - mac: 6C-62-6D-66-46-07
+      description: "IPBox-TV"
+      enabled: true
+      idgroup: 1100_MCAST-IPTV
+      id: 1284
+
+    - mac: 6C-62-6D-66-49-71
+      description: "IP-TV-Box"
+      enabled: true
+      idgroup: 1100_MCAST-IPTV
+      id: 1592
+
+    - mac: 6C-62-6D-66-46-7A
+      description: "no description"
+      enabled: true
+      idgroup: 1100_MCAST-IPTV
+      id: 2022
+
+    - mac: 6C-62-6D-66-47-01
+      description: "IPTV-BOX"
+      enabled: true
+      idgroup: 1100_MCAST-IPTV
+      id: 1413
+
+    - mac: 6C-62-6D-66-4A-27
+      description: "AB it-utv3 p8"
+      enabled: true
+      idgroup: 1100_MCAST-IPTV
+      id: 1371
+
+    - mac: 6C-62-6D-64-6C-DE
+      description: "IP-TV Set-top box"
+      enabled: true
+      idgroup: 1100_MCAST-IPTV
+      id: 50
+
+    - mac: 6C-62-6D-66-49-A1
+      description: "no description"
+      enabled: true
+      idgroup: 1100_MCAST-IPTV
+      id: 1519
+
+    - mac: 6C-62-6D-66-4A-ED
+      description: "IPBox-TV"
+      enabled: true
+      idgroup: 1100_MCAST-IPTV
+      id: 1326
+
+    - mac: 6C-62-6D-64-6B-CC
+      description: "IP-TV Set-top box"
+      enabled: true
+      idgroup: 1100_MCAST-IPTV
+      id: 28
+
+    - mac: 6C-62-6D-64-6B-D2
+      description: "IP-TV Set-top box"
+      enabled: true
+      idgroup: 1100_MCAST-IPTV
+      id: 40
+
+    - mac: 6C-62-6D-66-47-05
+      description: "IPBox-TV"
+      enabled: true
+      idgroup: 1100_MCAST-IPTV
+      id: 1337
+
+    - mac: 6C-62-6D-66-49-6E
+      description: "ipbox tv-studion pl7"
+      enabled: true
+      idgroup: 1100_MCAST-IPTV
+      id: 2298
+
+    - mac: 6C-62-6D-66-46-9B
+      description: "IPBox-TV"
+      enabled: true
+      idgroup: 1100_MCAST-IPTV
+      id: 1344
+
+    - mac: 6C-62-6D-64-84-89
+      description: "haivision box"
+      enabled: true
+      idgroup: 1100_MCAST-IPTV
+      id: 2724
+
+    - mac: 6C-62-6D-64-6C-1E
+      description: "IP-TV Set-top box"
+      enabled: true
+      idgroup: 1100_MCAST-IPTV
+      id: 9
+
+    - mac: 6C-62-6D-64-6B-54
+      description: "IP-TV Set-top box"
+      enabled: true
+      idgroup: 1100_MCAST-IPTV
+      id: 34
+
+    - mac: 6C-62-6D-66-50-A7
+      description: "IP Box TV"
+      enabled: true
+      idgroup: 1100_MCAST-IPTV
+      id: 1547
+
+    - mac: 6C-62-6D-64-6D-C4
+      description: "no description"
+      enabled: true
+      idgroup: 1100_MCAST-IPTV
+      id: 16
+
+    - mac: 6C-62-6D-66-45-5C
+      description: "AB it-utv2 p8"
+      enabled: true
+      idgroup: 1100_MCAST-IPTV
+      id: 1370
+
+    - mac: 6C-62-6D-66-4B-17
+      description: "IP-TV-Box"
+      enabled: true
+      idgroup: 1100_MCAST-IPTV
+      id: 1523
+
+    - mac: 6C-62-6D-64-82-8C
+      description: "IPBox-TV"
+      enabled: true
+      idgroup: 1100_MCAST-IPTV
+      id: 1306
+
+    - mac: 6C-62-6D-66-47-3B
+      description: "IPBox-TV"
+      enabled: true
+      idgroup: 1100_MCAST-IPTV
+      id: 1328
+
+    - mac: 6C-62-6D-66-45-BD
+      description: "IPBox-TV"
+      enabled: true
+      idgroup: 1100_MCAST-IPTV
+      id: 1281
+
+    - mac: 6C-62-6D-64-6C-A0
+      description: "IP-TV Set-top box"
+      enabled: true
+      idgroup: 1100_MCAST-IPTV
+      id: 24
+
+    - mac: 6C-62-6D-66-49-9B
+      description: "IPBox-TV"
+      enabled: true
+      idgroup: 1100_MCAST-IPTV
+      id: 1325
+
+    - mac: 6C-62-6D-66-4A-29
+      description: "IPBox-TV"
+      enabled: true
+      idgroup: 1100_MCAST-IPTV
+      id: 1286
+
+    - mac: 6C-62-6D-64-6A-E2
+      description: "IP-TV Set-top box"
+      enabled: true
+      idgroup: 1100_MCAST-IPTV
+      id: 47
+
+    - mac: 6C-62-6D-66-49-49
+      description: "IPTV-BOX"
+      enabled: true
+      idgroup: 1100_MCAST-IPTV
+      id: 1427
+
+    - mac: 6C-62-6D-64-6A-B8
+      description: "IP-TV Set-top box"
+      enabled: true
+      idgroup: 1100_MCAST-IPTV
+      id: 37
+
+    - mac: 6C-62-6D-64-81-F4
+      description: "IPBox-TV"
+      enabled: true
+      idgroup: 1100_MCAST-IPTV
+      id: 1332
+
+    - mac: 6C-62-6D-66-4A-75
+      description: "IPBox-TV"
+      enabled: true
+      idgroup: 1100_MCAST-IPTV
+      id: 1319
+
+    - mac: 40-61-86-EF-FF-42
+      description: "IP-TV Set-top box"
+      enabled: true
+      idgroup: 1100_MCAST-IPTV
+      id: 41
+
+    - mac: 6C-62-6D-64-6A-4A
+      description: "IP-TV Set-top box"
+      enabled: true
+      idgroup: 1100_MCAST-IPTV
+      id: 52
+
+    - mac: 6C-62-6D-66-46-3D
+      description: "IPTV-BOX"
+      enabled: true
+      idgroup: 1100_MCAST-IPTV
+      id: 1453
+
+    - mac: 6C-62-6D-66-4F-7B
+      description: "IPBox-TV"
+      enabled: true
+      idgroup: 1100_MCAST-IPTV
+      id: 1341
+
+    - mac: 6C-62-6D-64-46-DD
+      description: "IP-TV-Box"
+      enabled: true
+      idgroup: 1100_MCAST-IPTV
+      id: 1494
+
+    - mac: 6C-62-6D-66-49-ED
+      description: "IPBox-TV"
+      enabled: true
+      idgroup: 1100_MCAST-IPTV
+      id: 1304
+
+    - mac: 8C-89-A5-1D-42-5B
+      description: "IP-Box"
+      enabled: true
+      idgroup: 1100_MCAST-IPTV
+      id: 2399
+
+    - mac: 6C-62-6D-66-45-DF
+      description: "IP Box TV"
+      enabled: true
+      idgroup: 1100_MCAST-IPTV
+      id: 1542
+
+    - mac: 6C-62-6D-64-6D-8C
+      description: "no description"
+      enabled: true
+      idgroup: 1100_MCAST-IPTV
+      id: 18
+
+    - mac: 6C-62-6D-66-49-69
+      description: "IPBox-TV"
+      enabled: true
+      idgroup: 1100_MCAST-IPTV
+      id: 1343
+
+    - mac: 6C-62-6D-66-49-E1
+      description: "IP-TV Set-top box"
+      enabled: true
+      idgroup: 1100_MCAST-IPTV
+      id: 1966
+
+    - mac: 6C-62-6D-66-47-33
+      description: "IPBox-TV"
+      enabled: true
+      idgroup: 1100_MCAST-IPTV
+      id: 1300
+
+    - mac: 6C-62-6D-66-4E-95
+      description: "Servicedesk pl3"
+      enabled: true
+      idgroup: 1100_MCAST-IPTV
+      id: 1590
+
+    - mac: 6C-62-6D-66-50-0D
+      description: "tv-box"
+      enabled: true
+      idgroup: 1100_MCAST-IPTV
+      id: 2401
+
+    - mac: E4-7C-F9-B5-33-CA
+      description: "svd1plan5"
+      enabled: true
+      idgroup: 1100_MCAST-IPTV
+      id: 1652
+
+    - mac: 6C-62-6D-66-4B-01
+      description: "IP-TV-Box"
+      enabled: true
+      idgroup: 1100_MCAST-IPTV
+      id: 1516
+
+    - mac: 6C-62-6D-64-82-BA
+      description: "IPBox-TV"
+      enabled: true
+      idgroup: 1100_MCAST-IPTV
+      id: 1297
+
+    - mac: 6C-62-6D-66-4A-01
+      description: "IP-TV-Box"
+      enabled: true
+      idgroup: 1100_MCAST-IPTV
+      id: 1521
+
+    - mac: 6C-62-6D-66-47-19
+      description: "Upplaga 2 p6"
+      enabled: true
+      idgroup: 1100_MCAST-IPTV
+      id: 1366
+
+    - mac: 6C-62-6D-66-49-F7
+      description: "IPTV-BOX"
+      enabled: true
+      idgroup: 1100_MCAST-IPTV
+      id: 1417
+
+    - mac: 7C-05-07-27-85-D1
+      description: "Tv-box visualretail"
+      enabled: true
+      idgroup: 1100_MCAST-IPTV
+      id: 2427
+
+    - mac: 6C-62-6D-66-46-39
+      description: "IPBox-TV"
+      enabled: true
+      idgroup: 1100_MCAST-IPTV
+      id: 1290
+
+    - mac: 6C-62-6D-66-45-C1
+      description: "IP Box TV"
+      enabled: true
+      idgroup: 1100_MCAST-IPTV
+      id: 1544
+
+    - mac: 6C-62-6D-66-4F-BD
+      description: "IP Box TV"
+      enabled: true
+      idgroup: 1100_MCAST-IPTV
+      id: 1538
+
+    - mac: E4-7C-F9-B6-1C-67
+      description: "tvnu pc2 p8"
+      enabled: true
+      idgroup: 1100_MCAST-IPTV
+      id: 1616
+
+    - mac: 6C-62-6D-64-6B-19
+      description: "ipbox tv-studion pl7"
+      enabled: true
+      idgroup: 1100_MCAST-IPTV
+      id: 2294
+
+    - mac: 6C-62-6D-64-6C-74
+      description: "IP-TV Set-top box"
+      enabled: true
+      idgroup: 1100_MCAST-IPTV
+      id: 56
+
+    - mac: 6C-62-6D-66-45-5B
+      description: "AB it-utv2 p8"
+      enabled: true
+      idgroup: 1100_MCAST-IPTV
+      id: 1369
+
+    - mac: 6C-62-6D-64-6C-76
+      description: "IP-TV Set-top box"
+      enabled: true
+      idgroup: 1100_MCAST-IPTV
+      id: 54
+
+    - mac: 6C-62-6D-64-6B-76
+      description: "IP-TV Set-top box"
+      enabled: true
+      idgroup: 1100_MCAST-IPTV
+      id: 30
+
+    - mac: 6C-62-6D-66-49-5E
+      description: "Haivision TV - TV-studion"
+      enabled: true
+      idgroup: 1100_MCAST-IPTV
+      id: 1917
+
+    - mac: 6C-62-6D-66-45-FB
+      description: "IPBox-TV"
+      enabled: true
+      idgroup: 1100_MCAST-IPTV
+      id: 1323
+
+    - mac: 8C-89-A5-1D-42-F2
+      description: "IP-Box"
+      enabled: true
+      idgroup: 1100_MCAST-IPTV
+      id: 2396
+

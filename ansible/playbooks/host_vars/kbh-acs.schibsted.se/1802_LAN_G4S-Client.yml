@@ -1,0 +1,92 @@
+1802_LAN_G4S-Client:
+
+    - mac: DC-4A-3E-70-24-AC
+      description: "G4S Kameradator 3"
+      enabled: true
+      idgroup: 1802_LAN_G4S-Client
+      id: 5135
+
+    - mac: 00-25-64-95-AC-41
+      description: "G4S Kameradator _TO_BE_REMOVED_"
+      enabled: true
+      idgroup: 1802_LAN_G4S-Client
+      id: 5154
+
+    - mac: 50-AF-73-2D-DD-C1
+      description: "Besoksdator kbh "
+      enabled: true
+      idgroup: 1802_LAN_G4S-Client
+      id: 5557
+
+    - mac: 8C-DC-D4-29-A8-83
+      description: "G4S Kameradator 2"
+      enabled: true
+      idgroup: 1802_LAN_G4S-Client
+      id: 5129
+
+    - mac: A4-4C-C8-3C-29-B3
+      description: "driftsattningsdatorn"
+      enabled: true
+      idgroup: 1802_LAN_G4S-Client
+      id: 5451
+
+    - mac: DC-4A-3E-70-34-5A
+      description: "G4S Kameradator "
+      enabled: true
+      idgroup: 1802_LAN_G4S-Client
+      id: 5153
+
+    - mac: DC-4A-3E-70-24-5B
+      description: "G4S Kameradator "
+      enabled: false
+      idgroup: 1802_LAN_G4S-Client
+      id: 5149
+
+    - mac: 84-2B-2B-9A-B9-06
+      description: "G4S Kameradator_2"
+      enabled: true
+      idgroup: 1802_LAN_G4S-Client
+      id: 5134
+
+    - mac: DC-4A-3E-70-24-AC
+      description: "G4S Kameradator 3"
+      enabled: true
+      idgroup: 1802_LAN_G4S-Client
+      id: 5135
+
+    - mac: 00-25-64-95-AC-41
+      description: "G4S Kameradator _TO_BE_REMOVED_"
+      enabled: true
+      idgroup: 1802_LAN_G4S-Client
+      id: 5154
+
+    - mac: 8C-DC-D4-29-A8-83
+      description: "G4S Kameradator 2"
+      enabled: true
+      idgroup: 1802_LAN_G4S-Client
+      id: 5129
+
+    - mac: A4-4C-C8-3C-29-B3
+      description: "driftsattningsdatorn"
+      enabled: true
+      idgroup: 1802_LAN_G4S-Client
+      id: 5451
+
+    - mac: DC-4A-3E-70-34-5A
+      description: "G4S Kameradator "
+      enabled: true
+      idgroup: 1802_LAN_G4S-Client
+      id: 5153
+
+    - mac: DC-4A-3E-70-24-5B
+      description: "G4S Kameradator "
+      enabled: false
+      idgroup: 1802_LAN_G4S-Client
+      id: 5149
+
+    - mac: 84-2B-2B-9A-B9-06
+      description: "G4S Kameradator_2"
+      enabled: true
+      idgroup: 1802_LAN_G4S-Client
+      id: 5134
+

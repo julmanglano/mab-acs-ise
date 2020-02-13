@@ -1,0 +1,3002 @@
+2500_Telephony:
+
+    - mac: 70-81-05-22-31-E6
+      description: "Tele2, telefoner"
+      enabled: true
+      idgroup: 2500_Telephony
+      id: 1801
+
+    - mac: 70-81-05-3B-BC-2D
+      description: "IP_Tel"
+      enabled: true
+      idgroup: 2500_Telephony
+      id: 1932
+
+    - mac: 70-81-05-22-32-6C
+      description: "Tele2, telefoner"
+      enabled: true
+      idgroup: 2500_Telephony
+      id: 1785
+
+    - mac: 04-C5-A4-B1-67-70
+      description: "Tele2, telefoner"
+      enabled: true
+      idgroup: 2500_Telephony
+      id: 1810
+
+    - mac: 70-81-05-22-30-DA
+      description: "Tele2, telefoner"
+      enabled: true
+      idgroup: 2500_Telephony
+      id: 1732
+
+    - mac: 04-C5-A4-B1-66-CF
+      description: "Tele2, telefoner"
+      enabled: true
+      idgroup: 2500_Telephony
+      id: 1703
+
+    - mac: 50-3D-E5-E9-1C-DD
+      description: "Tele2, telefoner"
+      enabled: true
+      idgroup: 2500_Telephony
+      id: 1816
+
+    - mac: 70-81-05-3B-BD-A0
+      description: "IP_Tel"
+      enabled: true
+      idgroup: 2500_Telephony
+      id: 1903
+
+    - mac: 04-C5-A4-B1-66-A0
+      description: "Tele2, telefoner"
+      enabled: true
+      idgroup: 2500_Telephony
+      id: 1778
+
+    - mac: 50-3D-E5-E9-48-E9
+      description: "Tele2, telefoner"
+      enabled: true
+      idgroup: 2500_Telephony
+      id: 1859
+
+    - mac: 70-81-05-22-3C-A1
+      description: "Tele2, telefoner"
+      enabled: true
+      idgroup: 2500_Telephony
+      id: 1760
+
+    - mac: 70-81-05-22-36-6F
+      description: "Tele2, telefoner"
+      enabled: true
+      idgroup: 2500_Telephony
+      id: 1728
+
+    - mac: F8-66-F2-E7-8C-83
+      description: "Tele2, telefoner"
+      enabled: true
+      idgroup: 2500_Telephony
+      id: 1877
+
+    - mac: 00-04-F2-EB-9F-E3
+      description: "IP-telefon"
+      enabled: true
+      idgroup: 2500_Telephony
+      id: 3258
+
+    - mac: 70-81-05-22-31-19
+      description: "Tele2, telefoner"
+      enabled: true
+      idgroup: 2500_Telephony
+      id: 1741
+
+    - mac: 04-C5-A4-B1-63-C5
+      description: "Tele2, telefoner"
+      enabled: true
+      idgroup: 2500_Telephony
+      id: 1767
+
+    - mac: 60-73-5C-81-5D-AD
+      description: "Tele2, telefoner"
+      enabled: true
+      idgroup: 2500_Telephony
+      id: 2118
+
+    - mac: F8-66-F2-E7-8C-97
+      description: "Tele2, telefoner"
+      enabled: true
+      idgroup: 2500_Telephony
+      id: 1871
+
+    - mac: 00-1D-70-FA-C4-5E
+      description: "Tele2, telefoner"
+      enabled: true
+      idgroup: 2500_Telephony
+      id: 1832
+
+    - mac: 70-81-05-22-3D-25
+      description: "Tele2, telefoner"
+      enabled: true
+      idgroup: 2500_Telephony
+      id: 1762
+
+    - mac: 04-C5-A4-B1-68-9F
+      description: "Tele2, telefoner"
+      enabled: true
+      idgroup: 2500_Telephony
+      id: 1844
+
+    - mac: 70-81-05-22-36-8F
+      description: "Tele2, telefoner"
+      enabled: true
+      idgroup: 2500_Telephony
+      id: 1723
+
+    - mac: 70-81-05-3B-BC-1A
+      description: "IP_Tel"
+      enabled: true
+      idgroup: 2500_Telephony
+      id: 1935
+
+    - mac: 50-3D-E5-E9-1C-B9
+      description: "Tele2, telefoner"
+      enabled: true
+      idgroup: 2500_Telephony
+      id: 1814
+
+    - mac: 00-17-E0-1C-9D-65
+      description: "tele2-testtelefon 2012-04-04"
+      enabled: true
+      idgroup: 2500_Telephony
+      id: 1991
+
+    - mac: 70-81-05-22-31-CA
+      description: "Tele2, telefoner"
+      enabled: true
+      idgroup: 2500_Telephony
+      id: 1752
+
+    - mac: 50-3D-E5-E9-4E-7B
+      description: "Tele2, telefoner"
+      enabled: true
+      idgroup: 2500_Telephony
+      id: 1822
+
+    - mac: 00-1D-70-FB-FC-C7
+      description: "Tele2, telefoner"
+      enabled: true
+      idgroup: 2500_Telephony
+      id: 1708
+
+    - mac: 70-81-05-3B-BC-81
+      description: "IP_Tel"
+      enabled: true
+      idgroup: 2500_Telephony
+      id: 1911
+
+    - mac: C8-9C-1D-D5-83-51
+      description: "Cisco-telefon"
+      enabled: true
+      idgroup: 2500_Telephony
+      id: 1677
+
+    - mac: 00-04-F2-EE-58-36
+      description: "Tele2, telefoner"
+      enabled: true
+      idgroup: 2500_Telephony
+      id: 1893
+
+    - mac: 70-81-05-22-3A-B3
+      description: "Tele2, telefoner"
+      enabled: true
+      idgroup: 2500_Telephony
+      id: 1754
+
+    - mac: 50-3D-E5-E9-52-B5
+      description: "Tele2, telefoner"
+      enabled: true
+      idgroup: 2500_Telephony
+      id: 1825
+
+    - mac: 04-C5-A4-B1-6E-5F
+      description: "Tele2, telefoner"
+      enabled: true
+      idgroup: 2500_Telephony
+      id: 1743
+
+    - mac: F8-66-F2-E7-8C-B4
+      description: "Tele2, telefoner"
+      enabled: true
+      idgroup: 2500_Telephony
+      id: 1874
+
+    - mac: C0-62-6B-D2-E1-29
+      description: "Tele2, telefoner"
+      enabled: true
+      idgroup: 2500_Telephony
+      id: 1803
+
+    - mac: 50-3D-E5-E9-4E-F3
+      description: "Tele2, telefoner"
+      enabled: true
+      idgroup: 2500_Telephony
+      id: 1855
+
+    - mac: 04-C5-A4-B1-6E-E0
+      description: "Tele2, telefoner"
+      enabled: true
+      idgroup: 2500_Telephony
+      id: 1776
+
+    - mac: 04-C5-A4-B1-65-6C
+      description: "Tele2, telefoner"
+      enabled: true
+      idgroup: 2500_Telephony
+      id: 1834
+
+    - mac: 00-1F-16-1D-9C-CD
+      description: "tftp-test dator, Tele2"
+      enabled: true
+      idgroup: 2500_Telephony
+      id: 1684
+
+    - mac: 50-3D-E5-E9-55-55
+      description: "Tele2, telefoner"
+      enabled: true
+      idgroup: 2500_Telephony
+      id: 1860
+
+    - mac: 70-81-05-3B-BD-2B
+      description: "IP_Tel"
+      enabled: true
+      idgroup: 2500_Telephony
+      id: 1937
+
+    - mac: 50-3D-E5-E9-1C-7E
+      description: "Tele2, telefoner"
+      enabled: true
+      idgroup: 2500_Telephony
+      id: 1817
+
+    - mac: 50-3D-E5-E9-4E-B3
+      description: "Tele2, telefoner"
+      enabled: true
+      idgroup: 2500_Telephony
+      id: 1857
+
+    - mac: 70-81-05-3B-BD-39
+      description: "IP_Tel"
+      enabled: true
+      idgroup: 2500_Telephony
+      id: 1907
+
+    - mac: C0-62-6B-D2-DB-90
+      description: "Tele2, telefoner"
+      enabled: true
+      idgroup: 2500_Telephony
+      id: 1771
+
+    - mac: 70-81-05-22-37-01
+      description: "Tele2, telefoner"
+      enabled: true
+      idgroup: 2500_Telephony
+      id: 1724
+
+    - mac: 04-C5-A4-B1-63-D8
+      description: "Tele2, telefoner"
+      enabled: true
+      idgroup: 2500_Telephony
+      id: 1765
+
+    - mac: 50-3D-E5-E9-48-B8
+      description: "Tele2, telefoner"
+      enabled: true
+      idgroup: 2500_Telephony
+      id: 1843
+
+    - mac: F8-66-F2-98-93-60
+      description: "Tele2, telefoner"
+      enabled: true
+      idgroup: 2500_Telephony
+      id: 1879
+
+    - mac: 04-C5-A4-B1-65-5B
+      description: "Tele2, telefoner"
+      enabled: true
+      idgroup: 2500_Telephony
+      id: 1824
+
+    - mac: F8-66-F2-E7-8C-CB
+      description: "Tele2, telefoner"
+      enabled: true
+      idgroup: 2500_Telephony
+      id: 1869
+
+    - mac: 50-3D-E5-E9-4E-7C
+      description: "Tele2, telefoner"
+      enabled: true
+      idgroup: 2500_Telephony
+      id: 1831
+
+    - mac: A4-4C-11-D0-BC-5C
+      description: "Cisco ip tel"
+      enabled: true
+      idgroup: 2500_Telephony
+      id: 2037
+
+    - mac: 04-C5-A4-B1-63-B9
+      description: "Tele2, telefoner"
+      enabled: true
+      idgroup: 2500_Telephony
+      id: 1836
+
+    - mac: 50-3D-E5-E9-4F-F1
+      description: "Tele2, telefoner"
+      enabled: true
+      idgroup: 2500_Telephony
+      id: 1841
+
+    - mac: F8-66-F2-E7-8C-88
+      description: "Tele2, telefoner"
+      enabled: true
+      idgroup: 2500_Telephony
+      id: 1882
+
+    - mac: C8-9C-1D-D5-83-4F
+      description: "Cisco-telefon"
+      enabled: true
+      idgroup: 2500_Telephony
+      id: 1675
+
+    - mac: 70-81-05-22-2E-6E
+      description: "Tele2, telefoner"
+      enabled: true
+      idgroup: 2500_Telephony
+      id: 1764
+
+    - mac: 70-81-05-3B-BB-12
+      description: "IP_Tel"
+      enabled: true
+      idgroup: 2500_Telephony
+      id: 1908
+
+    - mac: 70-81-05-22-34-72
+      description: "Tele2, telefoner"
+      enabled: true
+      idgroup: 2500_Telephony
+      id: 1725
+
+    - mac: 70-81-05-22-2F-4F
+      description: "Tele2, telefoner"
+      enabled: true
+      idgroup: 2500_Telephony
+      id: 1748
+
+    - mac: 50-3D-E5-E9-1C-8A
+      description: "Tele2, telefoner"
+      enabled: true
+      idgroup: 2500_Telephony
+      id: 1819
+
+    - mac: A4-4C-11-D0-BC-62
+      description: "Cisco ip tel"
+      enabled: true
+      idgroup: 2500_Telephony
+      id: 2041
+
+    - mac: 04-C5-A4-B1-69-7E
+      description: "Tele2, telefoner"
+      enabled: true
+      idgroup: 2500_Telephony
+      id: 1800
+
+    - mac: 70-81-05-22-3C-A0
+      description: "Tele2, telefoner"
+      enabled: true
+      idgroup: 2500_Telephony
+      id: 1717
+
+    - mac: 04-C5-A4-B1-6C-EE
+      description: "Tele2, telefoner"
+      enabled: true
+      idgroup: 2500_Telephony
+      id: 1848
+
+    - mac: 50-3D-E5-E9-4A-F1
+      description: "Tele2, telefoner"
+      enabled: true
+      idgroup: 2500_Telephony
+      id: 1867
+
+    - mac: 04-C5-A4-B1-6C-B1
+      description: "Tele2, Cisco 8961 telefoner"
+      enabled: true
+      idgroup: 2500_Telephony
+      id: 1694
+
+    - mac: 00-04-F2-EE-5F-A4
+      description: "Tele2, telefoner"
+      enabled: true
+      idgroup: 2500_Telephony
+      id: 1898
+
+    - mac: 04-C5-A4-B1-69-56
+      description: "Tele2, telefoner"
+      enabled: true
+      idgroup: 2500_Telephony
+      id: 1787
+
+    - mac: 70-81-05-22-31-B2
+      description: "Tele2, telefoner"
+      enabled: true
+      idgroup: 2500_Telephony
+      id: 1751
+
+    - mac: 60-73-5C-81-5D-4B
+      description: "Tele2, telefoner"
+      enabled: true
+      idgroup: 2500_Telephony
+      id: 2121
+
+    - mac: 50-3D-E5-E9-52-3B
+      description: "Tele2, telefoner"
+      enabled: true
+      idgroup: 2500_Telephony
+      id: 1865
+
+    - mac: 50-3D-E5-E9-52-B1
+      description: "Tele2, telefoner"
+      enabled: true
+      idgroup: 2500_Telephony
+      id: 1827
+
+    - mac: 84-78-AC-C7-1F-80
+      description: "Cisco telefon 20130729, Mats"
+      enabled: true
+      idgroup: 2500_Telephony
+      id: 2366
+
+    - mac: 70-81-05-22-32-05
+      description: "Tele2, telefoner"
+      enabled: true
+      idgroup: 2500_Telephony
+      id: 1775
+
+    - mac: 70-81-05-22-39-E5
+      description: "Tele2, telefoner"
+      enabled: true
+      idgroup: 2500_Telephony
+      id: 1730
+
+    - mac: 50-3D-E5-E9-4E-E8
+      description: "Tele2, telefoner"
+      enabled: true
+      idgroup: 2500_Telephony
+      id: 1851
+
+    - mac: 84-78-AC-C7-25-B7
+      description: "Cisco telefon 20130729, Mats"
+      enabled: true
+      idgroup: 2500_Telephony
+      id: 2373
+
+    - mac: 04-C5-A4-B1-63-A5
+      description: "Tele2, telefoner"
+      enabled: true
+      idgroup: 2500_Telephony
+      id: 1791
+
+    - mac: 70-81-05-22-32-B4
+      description: "Tele2, telefoner"
+      enabled: true
+      idgroup: 2500_Telephony
+      id: 1798
+
+    - mac: 04-C5-A4-B1-65-32
+      description: "Tele2, telefoner"
+      enabled: true
+      idgroup: 2500_Telephony
+      id: 1833
+
+    - mac: C8-9C-1D-D5-84-D3
+      description: "Tele2, telefoner"
+      enabled: true
+      idgroup: 2500_Telephony
+      id: 1789
+
+    - mac: 04-C5-A4-B1-63-FA
+      description: "Tele2, telefoner"
+      enabled: true
+      idgroup: 2500_Telephony
+      id: 1838
+
+    - mac: 04-C5-A4-B1-68-70
+      description: "IP-telefoner"
+      enabled: true
+      idgroup: 2500_Telephony
+      id: 3988
+
+    - mac: 70-81-05-22-31-C4
+      description: "Tele2, telefoner"
+      enabled: true
+      idgroup: 2500_Telephony
+      id: 1753
+
+    - mac: 60-73-5C-81-5D-BC
+      description: "Tele2, telefoner"
+      enabled: true
+      idgroup: 2500_Telephony
+      id: 2119
+
+    - mac: 60-73-5C-81-62-5A
+      description: "Tele2, telefoner"
+      enabled: true
+      idgroup: 2500_Telephony
+      id: 2125
+
+    - mac: 50-3D-E5-E9-4E-BD
+      description: "Tele2, telefoner"
+      enabled: true
+      idgroup: 2500_Telephony
+      id: 1847
+
+    - mac: 70-81-05-22-32-06
+      description: "Tele2, telefoner"
+      enabled: true
+      idgroup: 2500_Telephony
+      id: 1797
+
+    - mac: 70-81-05-3B-BA-72
+      description: "Tele2 telefon"
+      enabled: true
+      idgroup: 2500_Telephony
+      id: 1914
+
+    - mac: 04-C5-A4-B1-6D-4C
+      description: "Tele2, telefoner"
+      enabled: true
+      idgroup: 2500_Telephony
+      id: 1705
+
+    - mac: 70-81-05-3B-BC-1E
+      description: "IP_Tel"
+      enabled: true
+      idgroup: 2500_Telephony
+      id: 1938
+
+    - mac: 50-3D-E5-E9-1C-A9
+      description: "Tele2, telefoner"
+      enabled: true
+      idgroup: 2500_Telephony
+      id: 1813
+
+    - mac: 70-81-05-22-3A-D9
+      description: "Tele2, telefoner"
+      enabled: true
+      idgroup: 2500_Telephony
+      id: 1715
+
+    - mac: 70-81-05-22-3C-4F
+      description: "Tele2, telefoner"
+      enabled: true
+      idgroup: 2500_Telephony
+      id: 1710
+
+    - mac: 70-81-05-3B-BC-A4
+      description: "IP_Tel"
+      enabled: true
+      idgroup: 2500_Telephony
+      id: 1905
+
+    - mac: 04-C5-A4-B1-69-7D
+      description: "Tele2, telefoner"
+      enabled: true
+      idgroup: 2500_Telephony
+      id: 1812
+
+    - mac: 04-C5-A4-B1-69-A6
+      description: "Tele2, telefoner"
+      enabled: true
+      idgroup: 2500_Telephony
+      id: 1769
+
+    - mac: F8-66-F2-E7-8B-A2
+      description: "Tele2, telefoner"
+      enabled: true
+      idgroup: 2500_Telephony
+      id: 1875
+
+    - mac: F8-66-F2-E7-8C-C6
+      description: "Tele2, telefoner"
+      enabled: true
+      idgroup: 2500_Telephony
+      id: 1873
+
+    - mac: 04-C5-A4-B1-69-1E
+      description: "Tele2, telefoner"
+      enabled: true
+      idgroup: 2500_Telephony
+      id: 1805
+
+    - mac: 70-81-05-22-3A-09
+      description: "Tele2, telefoner"
+      enabled: true
+      idgroup: 2500_Telephony
+      id: 1727
+
+    - mac: 70-81-05-22-3D-B6
+      description: "Tele2, telefoner"
+      enabled: true
+      idgroup: 2500_Telephony
+      id: 1736
+
+    - mac: 60-73-5C-81-59-E8
+      description: "Tele2, telefoner"
+      enabled: true
+      idgroup: 2500_Telephony
+      id: 2123
+
+    - mac: 84-78-AC-C7-1E-7D
+      description: "Cisco telefon 20130729, Mats"
+      enabled: true
+      idgroup: 2500_Telephony
+      id: 2364
+
+    - mac: 00-04-F2-EE-5B-6B
+      description: "Tele2, telefoner"
+      enabled: true
+      idgroup: 2500_Telephony
+      id: 1895
+
+    - mac: 04-C5-A4-B1-65-37
+      description: "Tele2, Cisco 8961 telefoner"
+      enabled: true
+      idgroup: 2500_Telephony
+      id: 1696
+
+    - mac: A4-4C-11-D0-BA-4A
+      description: "Cisco ip tel"
+      enabled: true
+      idgroup: 2500_Telephony
+      id: 2038
+
+    - mac: F8-66-F2-E7-8C-3D
+      description: "Tele2, telefoner"
+      enabled: true
+      idgroup: 2500_Telephony
+      id: 1880
+
+    - mac: 58-BC-27-74-D8-C4
+      description: "Tele2, telefoner"
+      enabled: true
+      idgroup: 2500_Telephony
+      id: 1998
+
+    - mac: 70-81-05-22-31-4E
+      description: "Tele2, telefoner"
+      enabled: true
+      idgroup: 2500_Telephony
+      id: 1744
+
+    - mac: 04-C5-A4-B1-64-5F
+      description: "Tele2, telefoner"
+      enabled: true
+      idgroup: 2500_Telephony
+      id: 1853
+
+    - mac: 50-3D-E5-E9-4A-EF
+      description: "Tele2, telefoner"
+      enabled: true
+      idgroup: 2500_Telephony
+      id: 1863
+
+    - mac: 00-04-F2-EE-5E-DC
+      description: "Tele2, telefoner"
+      enabled: true
+      idgroup: 2500_Telephony
+      id: 1896
+
+    - mac: 84-78-AC-C7-1F-72
+      description: "Cisco telefon 20130729, Mats"
+      enabled: true
+      idgroup: 2500_Telephony
+      id: 2368
+
+    - mac: 04-C5-A4-B1-69-77
+      description: "Tele2, telefoner"
+      enabled: true
+      idgroup: 2500_Telephony
+      id: 1795
+
+    - mac: 70-81-05-22-31-35
+      description: "Tele2, telefoner"
+      enabled: true
+      idgroup: 2500_Telephony
+      id: 1768
+
+    - mac: 84-78-AC-C7-21-D0
+      description: "Cisco telefon 20130729, Mats"
+      enabled: true
+      idgroup: 2500_Telephony
+      id: 2365
+
+    - mac: 50-3D-E5-E9-4A-D9
+      description: "Tele2, telefoner"
+      enabled: true
+      idgroup: 2500_Telephony
+      id: 1861
+
+    - mac: 00-21-70-EC-EC-A8
+      description: "Test scanner dator 23394, H Tilly //Ya"
+      enabled: true
+      idgroup: 2500_Telephony
+      id: 1989
+
+    - mac: F8-66-F2-E7-8B-99
+      description: "Tele2, telefoner"
+      enabled: true
+      idgroup: 2500_Telephony
+      id: 1870
+
+    - mac: 04-C5-A4-B1-69-A5
+      description: "Tele2, telefoner"
+      enabled: true
+      idgroup: 2500_Telephony
+      id: 1792
+
+    - mac: C0-62-6B-D2-E2-9C
+      description: "Tele2, telefoner"
+      enabled: true
+      idgroup: 2500_Telephony
+      id: 1772
+
+    - mac: F8-66-F2-E7-8C-85
+      description: "Tele2, telefoner"
+      enabled: true
+      idgroup: 2500_Telephony
+      id: 1876
+
+    - mac: 70-81-05-22-3D-0D
+      description: "Tele2, telefoner"
+      enabled: true
+      idgroup: 2500_Telephony
+      id: 1759
+
+    - mac: 60-73-5C-81-5D-BA
+      description: "Tele2, telefoner"
+      enabled: true
+      idgroup: 2500_Telephony
+      id: 2117
+
+    - mac: 70-81-05-3B-BD-4F
+      description: "IP_Tel"
+      enabled: true
+      idgroup: 2500_Telephony
+      id: 1934
+
+    - mac: 50-3D-E5-E9-4E-77
+      description: "Tele2, telefoner"
+      enabled: true
+      idgroup: 2500_Telephony
+      id: 1845
+
+    - mac: C8-9C-1D-D5-83-4A
+      description: "Cisco-telefon"
+      enabled: true
+      idgroup: 2500_Telephony
+      id: 1678
+
+    - mac: 50-3D-E5-E9-1C-C2
+      description: "Tele2, telefoner"
+      enabled: true
+      idgroup: 2500_Telephony
+      id: 1821
+
+    - mac: 04-C5-A4-B1-64-9C
+      description: "Tele2, telefoner"
+      enabled: true
+      idgroup: 2500_Telephony
+      id: 1842
+
+    - mac: 70-81-05-22-3C-87
+      description: "Tele2, telefoner"
+      enabled: true
+      idgroup: 2500_Telephony
+      id: 1755
+
+    - mac: 50-3D-E5-E9-4E-F8
+      description: "Tele2, telefoner"
+      enabled: true
+      idgroup: 2500_Telephony
+      id: 1854
+
+    - mac: 00-04-F2-EE-59-66
+      description: "Tele2, telefoner"
+      enabled: true
+      idgroup: 2500_Telephony
+      id: 1894
+
+    - mac: 00-04-F2-E8-F7-71
+      description: "Tele2; 7937, konferenstelefon"
+      enabled: true
+      idgroup: 2500_Telephony
+      id: 2284
+
+    - mac: 70-81-05-22-3C-AB
+      description: "Tele2, telefoner"
+      enabled: true
+      idgroup: 2500_Telephony
+      id: 1712
+
+    - mac: 84-78-AC-C7-21-32
+      description: "Cisco telefon 20130729, Mats"
+      enabled: true
+      idgroup: 2500_Telephony
+      id: 2371
+
+    - mac: 70-81-05-22-32-64
+      description: "Tele2, telefoner"
+      enabled: true
+      idgroup: 2500_Telephony
+      id: 1734
+
+    - mac: 70-81-05-22-32-4E
+      description: "Tele2, telefoner"
+      enabled: true
+      idgroup: 2500_Telephony
+      id: 1733
+
+    - mac: 04-C5-A4-B1-6D-0B
+      description: "Tele2, telefoner"
+      enabled: true
+      idgroup: 2500_Telephony
+      id: 1779
+
+    - mac: 04-C5-A4-B1-67-84
+      description: "Tele2, telefoner"
+      enabled: true
+      idgroup: 2500_Telephony
+      id: 1807
+
+    - mac: 50-3D-E5-E9-1C-AD
+      description: "Tele2, telefoner"
+      enabled: true
+      idgroup: 2500_Telephony
+      id: 1820
+
+    - mac: 70-81-05-3B-BC-9B
+      description: "IP_Tel"
+      enabled: true
+      idgroup: 2500_Telephony
+      id: 1931
+
+    - mac: 50-3D-E5-E9-1C-DF
+      description: "Tele2, telefoner"
+      enabled: true
+      idgroup: 2500_Telephony
+      id: 1811
+
+    - mac: 04-C5-A4-B1-69-D1
+      description: "Tele2, telefoner"
+      enabled: true
+      idgroup: 2500_Telephony
+      id: 1802
+
+    - mac: A4-4C-11-D0-BC-57
+      description: "Cisco ip tel"
+      enabled: true
+      idgroup: 2500_Telephony
+      id: 2043
+
+    - mac: 70-81-05-3B-BB-1E
+      description: "IP_Tel"
+      enabled: true
+      idgroup: 2500_Telephony
+      id: 1902
+
+    - mac: 50-3D-E5-E9-52-45
+      description: "Tele2, telefoner"
+      enabled: true
+      idgroup: 2500_Telephony
+      id: 1866
+
+    - mac: F8-66-F2-E7-8C-7F
+      description: "Tele2, telefoner"
+      enabled: true
+      idgroup: 2500_Telephony
+      id: 1884
+
+    - mac: 60-73-5C-81-5D-B6
+      description: "Tele2, telefoner"
+      enabled: true
+      idgroup: 2500_Telephony
+      id: 2120
+
+    - mac: 50-3D-E5-E9-4E-EE
+      description: "Tele2, telefoner"
+      enabled: true
+      idgroup: 2500_Telephony
+      id: 1858
+
+    - mac: A4-4C-11-D0-BB-9F
+      description: "Cisco ip tel"
+      enabled: true
+      idgroup: 2500_Telephony
+      id: 2035
+
+    - mac: 50-3D-E5-E9-1C-A4
+      description: "Tele2, telefoner"
+      enabled: true
+      idgroup: 2500_Telephony
+      id: 1809
+
+    - mac: 70-81-05-22-37-71
+      description: "Tele2, telefoner"
+      enabled: true
+      idgroup: 2500_Telephony
+      id: 1731
+
+    - mac: 70-81-05-22-3D-0E
+      description: "Tele2, telefoner"
+      enabled: true
+      idgroup: 2500_Telephony
+      id: 1766
+
+    - mac: 70-81-05-22-2F-29
+      description: "Tele2, telefoner"
+      enabled: true
+      idgroup: 2500_Telephony
+      id: 1746
+
+    - mac: C8-9C-1D-D5-83-9A
+      description: "Cisco-telefon"
+      enabled: true
+      idgroup: 2500_Telephony
+      id: 1676
+
+    - mac: 50-3D-E5-E9-4A-F3
+      description: "Tele2, telefoner"
+      enabled: true
+      idgroup: 2500_Telephony
+      id: 1868
+
+    - mac: 70-81-05-22-3D-24
+      description: "Tele2, telefoner"
+      enabled: true
+      idgroup: 2500_Telephony
+      id: 1763
+
+    - mac: 70-81-05-3B-BC-90
+      description: "IP_Tel"
+      enabled: true
+      idgroup: 2500_Telephony
+      id: 1910
+
+    - mac: F8-66-F2-E7-8C-AC
+      description: "Tele2, telefoner"
+      enabled: true
+      idgroup: 2500_Telephony
+      id: 1878
+
+    - mac: C8-9C-1D-D5-83-50
+      description: "Tele2, telefoner"
+      enabled: true
+      idgroup: 2500_Telephony
+      id: 1790
+
+    - mac: 04-C5-A4-B1-66-7F
+      description: "Tele2, telefoner"
+      enabled: true
+      idgroup: 2500_Telephony
+      id: 1840
+
+    - mac: 50-3D-E5-E9-4E-8E
+      description: "Tele2, telefoner"
+      enabled: true
+      idgroup: 2500_Telephony
+      id: 1823
+
+    - mac: 70-81-05-3B-BC-21
+      description: "IP_Tel"
+      enabled: true
+      idgroup: 2500_Telephony
+      id: 1933
+
+    - mac: 70-81-05-22-2E-6F
+      description: "Tele2, telefoner"
+      enabled: true
+      idgroup: 2500_Telephony
+      id: 1757
+
+    - mac: 04-C5-A4-B1-67-C8
+      description: "Tele2, Cisco 8961 telefoner"
+      enabled: true
+      idgroup: 2500_Telephony
+      id: 1697
+
+    - mac: 70-81-05-22-3D-C1
+      description: "Tele2, telefoner"
+      enabled: true
+      idgroup: 2500_Telephony
+      id: 1770
+
+    - mac: 50-3D-E5-E9-1D-54
+      description: "Tele2, telefoner"
+      enabled: true
+      idgroup: 2500_Telephony
+      id: 1856
+
+    - mac: 70-81-05-22-31-EA
+      description: "Tele2, telefoner"
+      enabled: true
+      idgroup: 2500_Telephony
+      id: 1804
+
+    - mac: 70-81-05-22-3A-C1
+      description: "Tele2, telefoner"
+      enabled: true
+      idgroup: 2500_Telephony
+      id: 1716
+
+    - mac: 70-81-05-22-32-C9
+      description: "Tele2, telefoner"
+      enabled: true
+      idgroup: 2500_Telephony
+      id: 1781
+
+    - mac: 04-C5-A4-B1-6C-9E
+      description: "Tele2, telefoner"
+      enabled: true
+      idgroup: 2500_Telephony
+      id: 1835
+
+    - mac: 04-C5-A4-B1-65-3E
+      description: "Tele2, telefoner"
+      enabled: true
+      idgroup: 2500_Telephony
+      id: 1815
+
+    - mac: 00-1D-70-61-57-B6
+      description: "Tele2, telefoner"
+      enabled: true
+      idgroup: 2500_Telephony
+      id: 1707
+
+    - mac: 70-81-05-22-32-4C
+      description: "Tele2, telefoner"
+      enabled: true
+      idgroup: 2500_Telephony
+      id: 1777
+
+    - mac: A4-4C-11-D0-BA-57
+      description: "Cisco ip tel"
+      enabled: true
+      idgroup: 2500_Telephony
+      id: 2044
+
+    - mac: 70-81-05-22-32-BA
+      description: "Tele2, telefoner"
+      enabled: true
+      idgroup: 2500_Telephony
+      id: 1740
+
+    - mac: 50-3D-E5-E9-4E-F6
+      description: "Tele2, telefoner"
+      enabled: true
+      idgroup: 2500_Telephony
+      id: 1850
+
+    - mac: 04-C5-A4-B1-63-1F
+      description: "Tele2, telefoner"
+      enabled: true
+      idgroup: 2500_Telephony
+      id: 1806
+
+    - mac: 70-81-05-22-3D-6B
+      description: "Tele2, telefoner"
+      enabled: true
+      idgroup: 2500_Telephony
+      id: 1738
+
+    - mac: 70-81-05-22-3A-D8
+      description: "Tele2, telefoner"
+      enabled: true
+      idgroup: 2500_Telephony
+      id: 1786
+
+    - mac: 04-C5-A4-B1-6C-AC
+      description: "Tele2, telefoner"
+      enabled: true
+      idgroup: 2500_Telephony
+      id: 1849
+
+    - mac: 84-78-AC-C7-15-4C
+      description: "Cisco telefon 20130729, Mats"
+      enabled: true
+      idgroup: 2500_Telephony
+      id: 2367
+
+    - mac: 70-81-05-22-32-57
+      description: "Tele2, telefoner"
+      enabled: true
+      idgroup: 2500_Telephony
+      id: 1737
+
+    - mac: 70-81-05-22-32-58
+      description: "Tele2, telefoner"
+      enabled: true
+      idgroup: 2500_Telephony
+      id: 1780
+
+    - mac: 60-73-5C-81-62-59
+      description: "Tele2, telefoner"
+      enabled: true
+      idgroup: 2500_Telephony
+      id: 2122
+
+    - mac: 50-3D-E5-E9-4A-DB
+      description: "Tele2, telefoner"
+      enabled: true
+      idgroup: 2500_Telephony
+      id: 1864
+
+    - mac: F8-66-F2-E7-8C-3F
+      description: "Tele2, telefoner"
+      enabled: true
+      idgroup: 2500_Telephony
+      id: 1881
+
+    - mac: 70-81-05-3B-BC-7F
+      description: "IP_Tel"
+      enabled: true
+      idgroup: 2500_Telephony
+      id: 1936
+
+    - mac: 70-81-05-22-3A-AB
+      description: "Tele2, telefoner"
+      enabled: true
+      idgroup: 2500_Telephony
+      id: 1796
+
+    - mac: F8-66-F2-E7-8A-0D
+      description: "Tele2, telefoner"
+      enabled: true
+      idgroup: 2500_Telephony
+      id: 1872
+
+    - mac: A4-4C-11-D0-BA-5A
+      description: "Cisco ip tel"
+      enabled: true
+      idgroup: 2500_Telephony
+      id: 2042
+
+    - mac: 04-C5-A4-B1-68-CE
+      description: "Tele2, telefoner"
+      enabled: true
+      idgroup: 2500_Telephony
+      id: 1839
+
+    - mac: C8-9C-1D-D5-75-FE
+      description: "Tele2, telefoner"
+      enabled: true
+      idgroup: 2500_Telephony
+      id: 1788
+
+    - mac: AC-A0-16-6E-E1-B6
+      description: "Tele2, telefoner"
+      enabled: true
+      idgroup: 2500_Telephony
+      id: 1997
+
+    - mac: 50-3D-E5-E9-4E-86
+      description: "Tele2, telefoner"
+      enabled: true
+      idgroup: 2500_Telephony
+      id: 1826
+
+    - mac: AC-A0-16-6E-87-DE
+      description: "Tele2, telefoner"
+      enabled: true
+      idgroup: 2500_Telephony
+      id: 2077
+
+    - mac: A4-4C-11-D0-BA-4D
+      description: "Cisco ip tel"
+      enabled: true
+      idgroup: 2500_Telephony
+      id: 2039
+
+    - mac: A4-4C-11-D0-BB-20
+      description: "Cisco ip tel"
+      enabled: true
+      idgroup: 2500_Telephony
+      id: 2036
+
+    - mac: 70-81-05-22-2F-C5
+      description: "Tele2, telefoner"
+      enabled: true
+      idgroup: 2500_Telephony
+      id: 1747
+
+    - mac: 70-81-05-22-31-58
+      description: "Tele2, telefoner"
+      enabled: true
+      idgroup: 2500_Telephony
+      id: 1742
+
+    - mac: 04-C5-A4-B1-6C-D3
+      description: "Tele2, telefoner"
+      enabled: true
+      idgroup: 2500_Telephony
+      id: 1799
+
+    - mac: 04-C5-A4-B1-6C-CE
+      description: "Tele2, Cisco 8961 telefoner"
+      enabled: true
+      idgroup: 2500_Telephony
+      id: 1695
+
+    - mac: 04-C5-A4-B1-67-9B
+      description: "Tele2, telefoner"
+      enabled: true
+      idgroup: 2500_Telephony
+      id: 1704
+
+    - mac: 70-81-05-22-31-4D
+      description: "Tele2, telefoner"
+      enabled: true
+      idgroup: 2500_Telephony
+      id: 1749
+
+    - mac: 00-04-F2-2B-C5-31
+      description: "IP-telefoner"
+      enabled: true
+      idgroup: 2500_Telephony
+      id: 302
+
+    - mac: 70-81-05-3B-BD-2D
+      description: "IP_Tel"
+      enabled: true
+      idgroup: 2500_Telephony
+      id: 1940
+
+    - mac: 70-81-05-22-37-92
+      description: "Tele2, telefoner"
+      enabled: true
+      idgroup: 2500_Telephony
+      id: 1726
+
+    - mac: 50-3D-E5-E9-1C-B7
+      description: "Tele2, telefoner"
+      enabled: true
+      idgroup: 2500_Telephony
+      id: 1818
+
+    - mac: 04-C5-A4-B1-68-02
+      description: "Tele2, telefoner"
+      enabled: true
+      idgroup: 2500_Telephony
+      id: 1837
+
+    - mac: 70-81-05-22-3A-CF
+      description: "Tele2, telefoner"
+      enabled: true
+      idgroup: 2500_Telephony
+      id: 1714
+
+    - mac: 70-81-05-3B-BC-88
+      description: "IP_Tel"
+      enabled: true
+      idgroup: 2500_Telephony
+      id: 1906
+
+    - mac: 00-25-B3-C0-EF-0D
+      description: "Bjorn Frisk Tele2"
+      enabled: true
+      idgroup: 2500_Telephony
+      id: 1672
+
+    - mac: 70-81-05-22-31-14
+      description: "Tele2, telefoner"
+      enabled: true
+      idgroup: 2500_Telephony
+      id: 1711
+
+    - mac: 70-81-05-22-3A-05
+      description: "Tele2, telefoner"
+      enabled: true
+      idgroup: 2500_Telephony
+      id: 1720
+
+    - mac: 70-81-05-22-3D-BF
+      description: "Tele2, telefoner"
+      enabled: true
+      idgroup: 2500_Telephony
+      id: 1735
+
+    - mac: 84-78-AC-C7-1E-5F
+      description: "Cisco telefon 20130729, Mats"
+      enabled: true
+      idgroup: 2500_Telephony
+      id: 2369
+
+    - mac: 70-81-05-3B-BC-0A
+      description: "IP_Tel"
+      enabled: true
+      idgroup: 2500_Telephony
+      id: 1930
+
+    - mac: 00-04-F2-E7-1E-04
+      description: "IP telefon IP5000"
+      enabled: true
+      idgroup: 2500_Telephony
+      id: 1235
+
+    - mac: 04-C5-A4-B1-68-AA
+      description: "Tele2, telefoner"
+      enabled: true
+      idgroup: 2500_Telephony
+      id: 1808
+
+    - mac: 70-81-05-22-3D-B7
+      description: "Tele2, telefoner"
+      enabled: true
+      idgroup: 2500_Telephony
+      id: 1739
+
+    - mac: 70-81-05-3B-BC-91
+      description: "IP_Tel"
+      enabled: true
+      idgroup: 2500_Telephony
+      id: 1909
+
+    - mac: 70-81-05-22-32-91
+      description: "Tele2, telefoner"
+      enabled: true
+      idgroup: 2500_Telephony
+      id: 1782
+
+    - mac: 00-01-C0-08-97-35
+      description: "tele2-chariot-1 2012-04-04"
+      enabled: true
+      idgroup: 2500_Telephony
+      id: 1990
+
+    - mac: 70-81-05-22-3A-D7
+      description: "Tele2, telefoner"
+      enabled: true
+      idgroup: 2500_Telephony
+      id: 1709
+
+    - mac: 70-81-05-22-3C-40
+      description: "Tele2, telefoner"
+      enabled: true
+      idgroup: 2500_Telephony
+      id: 1745
+
+    - mac: 50-3D-E5-E9-4A-F4
+      description: "Tele2, telefoner"
+      enabled: true
+      idgroup: 2500_Telephony
+      id: 1862
+
+    - mac: 00-04-F2-EE-5F-5B
+      description: "Tele2, telefoner"
+      enabled: true
+      idgroup: 2500_Telephony
+      id: 1897
+
+    - mac: 60-73-5C-81-62-56
+      description: "Tele2, telefoner"
+      enabled: true
+      idgroup: 2500_Telephony
+      id: 2124
+
+    - mac: 50-3D-E5-7C-EB-7E
+      description: "Tele2, telefoner"
+      enabled: true
+      idgroup: 2500_Telephony
+      id: 1852
+
+    - mac: 84-78-AC-C7-1F-23
+      description: "Cisco telefon 20130729, Mats"
+      enabled: true
+      idgroup: 2500_Telephony
+      id: 2372
+
+    - mac: 00-1D-70-60-49-63
+      description: "Tele2, telefoner"
+      enabled: true
+      idgroup: 2500_Telephony
+      id: 1794
+
+    - mac: 70-81-05-22-31-EB
+      description: "Tele2, telefoner"
+      enabled: true
+      idgroup: 2500_Telephony
+      id: 1784
+
+    - mac: C8-9C-1D-D5-83-53
+      description: "Cisco-telefon"
+      enabled: true
+      idgroup: 2500_Telephony
+      id: 1679
+
+    - mac: 04-C5-A4-B1-67-C6
+      description: "Tele2, telefoner"
+      enabled: true
+      idgroup: 2500_Telephony
+      id: 1830
+
+    - mac: F8-66-F2-E7-8C-AF
+      description: "Tele2, telefoner"
+      enabled: true
+      idgroup: 2500_Telephony
+      id: 1883
+
+    - mac: 84-78-AC-C7-1F-16
+      description: "Cisco telefon 20130729, Mats"
+      enabled: true
+      idgroup: 2500_Telephony
+      id: 2370
+
+    - mac: 50-3D-E5-E9-4E-E2
+      description: "Tele2, telefoner"
+      enabled: true
+      idgroup: 2500_Telephony
+      id: 1846
+
+    - mac: 04-C5-A4-B1-64-9B
+      description: "Tele2, telefoner"
+      enabled: true
+      idgroup: 2500_Telephony
+      id: 1828
+
+    - mac: 50-3D-E5-E9-49-01
+      description: "Tele2, telefoner"
+      enabled: true
+      idgroup: 2500_Telephony
+      id: 1829
+
+    - mac: 70-81-05-3B-BC-86
+      description: "IP_Tel"
+      enabled: true
+      idgroup: 2500_Telephony
+      id: 1904
+
+    - mac: 70-81-05-22-2E-73
+      description: "Tele2, telefoner"
+      enabled: true
+      idgroup: 2500_Telephony
+      id: 1761
+
+    - mac: 70-81-05-22-3A-CA
+      description: "Tele2, telefoner"
+      enabled: true
+      idgroup: 2500_Telephony
+      id: 1713
+
+    - mac: 60-73-5C-81-59-D1
+      description: "Tele2, telefoner"
+      enabled: true
+      idgroup: 2500_Telephony
+      id: 2126
+
+    - mac: 70-81-05-22-36-6A
+      description: "Tele2, telefoner"
+      enabled: true
+      idgroup: 2500_Telephony
+      id: 1729
+
+    - mac: 70-81-05-22-3D-FE
+      description: "Tele2, telefoner"
+      enabled: true
+      idgroup: 2500_Telephony
+      id: 1774
+
+    - mac: A4-4C-11-D0-BB-12
+      description: "Cisco ip tel"
+      enabled: true
+      idgroup: 2500_Telephony
+      id: 2040
+
+    - mac: 70-81-05-22-31-E6
+      description: "Tele2, telefoner"
+      enabled: true
+      idgroup: 2500_Telephony
+      id: 1801
+
+    - mac: 70-81-05-3B-BC-2D
+      description: "IP_Tel"
+      enabled: true
+      idgroup: 2500_Telephony
+      id: 1932
+
+    - mac: 70-81-05-22-32-6C
+      description: "Tele2, telefoner"
+      enabled: true
+      idgroup: 2500_Telephony
+      id: 1785
+
+    - mac: 04-C5-A4-B1-67-70
+      description: "Tele2, telefoner"
+      enabled: true
+      idgroup: 2500_Telephony
+      id: 1810
+
+    - mac: 70-81-05-22-30-DA
+      description: "Tele2, telefoner"
+      enabled: true
+      idgroup: 2500_Telephony
+      id: 1732
+
+    - mac: 04-C5-A4-B1-66-CF
+      description: "Tele2, telefoner"
+      enabled: true
+      idgroup: 2500_Telephony
+      id: 1703
+
+    - mac: 50-3D-E5-E9-1C-DD
+      description: "Tele2, telefoner"
+      enabled: true
+      idgroup: 2500_Telephony
+      id: 1816
+
+    - mac: 70-81-05-3B-BD-A0
+      description: "IP_Tel"
+      enabled: true
+      idgroup: 2500_Telephony
+      id: 1903
+
+    - mac: 04-C5-A4-B1-66-A0
+      description: "Tele2, telefoner"
+      enabled: true
+      idgroup: 2500_Telephony
+      id: 1778
+
+    - mac: 50-3D-E5-E9-48-E9
+      description: "Tele2, telefoner"
+      enabled: true
+      idgroup: 2500_Telephony
+      id: 1859
+
+    - mac: 70-81-05-22-3C-A1
+      description: "Tele2, telefoner"
+      enabled: true
+      idgroup: 2500_Telephony
+      id: 1760
+
+    - mac: 70-81-05-22-36-6F
+      description: "Tele2, telefoner"
+      enabled: true
+      idgroup: 2500_Telephony
+      id: 1728
+
+    - mac: F8-66-F2-E7-8C-83
+      description: "Tele2, telefoner"
+      enabled: true
+      idgroup: 2500_Telephony
+      id: 1877
+
+    - mac: 00-04-F2-EB-9F-E3
+      description: "IP-telefon"
+      enabled: true
+      idgroup: 2500_Telephony
+      id: 3258
+
+    - mac: 70-81-05-22-31-19
+      description: "Tele2, telefoner"
+      enabled: true
+      idgroup: 2500_Telephony
+      id: 1741
+
+    - mac: 04-C5-A4-B1-63-C5
+      description: "Tele2, telefoner"
+      enabled: true
+      idgroup: 2500_Telephony
+      id: 1767
+
+    - mac: 60-73-5C-81-5D-AD
+      description: "Tele2, telefoner"
+      enabled: true
+      idgroup: 2500_Telephony
+      id: 2118
+
+    - mac: F8-66-F2-E7-8C-97
+      description: "Tele2, telefoner"
+      enabled: true
+      idgroup: 2500_Telephony
+      id: 1871
+
+    - mac: 00-1D-70-FA-C4-5E
+      description: "Tele2, telefoner"
+      enabled: true
+      idgroup: 2500_Telephony
+      id: 1832
+
+    - mac: 70-81-05-22-3D-25
+      description: "Tele2, telefoner"
+      enabled: true
+      idgroup: 2500_Telephony
+      id: 1762
+
+    - mac: 04-C5-A4-B1-68-9F
+      description: "Tele2, telefoner"
+      enabled: true
+      idgroup: 2500_Telephony
+      id: 1844
+
+    - mac: 70-81-05-22-36-8F
+      description: "Tele2, telefoner"
+      enabled: true
+      idgroup: 2500_Telephony
+      id: 1723
+
+    - mac: 70-81-05-3B-BC-1A
+      description: "IP_Tel"
+      enabled: true
+      idgroup: 2500_Telephony
+      id: 1935
+
+    - mac: 50-3D-E5-E9-1C-B9
+      description: "Tele2, telefoner"
+      enabled: true
+      idgroup: 2500_Telephony
+      id: 1814
+
+    - mac: 00-17-E0-1C-9D-65
+      description: "tele2-testtelefon 2012-04-04"
+      enabled: true
+      idgroup: 2500_Telephony
+      id: 1991
+
+    - mac: 70-81-05-22-31-CA
+      description: "Tele2, telefoner"
+      enabled: true
+      idgroup: 2500_Telephony
+      id: 1752
+
+    - mac: 50-3D-E5-E9-4E-7B
+      description: "Tele2, telefoner"
+      enabled: true
+      idgroup: 2500_Telephony
+      id: 1822
+
+    - mac: 00-1D-70-FB-FC-C7
+      description: "Tele2, telefoner"
+      enabled: true
+      idgroup: 2500_Telephony
+      id: 1708
+
+    - mac: 70-81-05-3B-BC-81
+      description: "IP_Tel"
+      enabled: true
+      idgroup: 2500_Telephony
+      id: 1911
+
+    - mac: C8-9C-1D-D5-83-51
+      description: "Cisco-telefon"
+      enabled: true
+      idgroup: 2500_Telephony
+      id: 1677
+
+    - mac: 00-04-F2-EE-58-36
+      description: "Tele2, telefoner"
+      enabled: true
+      idgroup: 2500_Telephony
+      id: 1893
+
+    - mac: 70-81-05-22-3A-B3
+      description: "Tele2, telefoner"
+      enabled: true
+      idgroup: 2500_Telephony
+      id: 1754
+
+    - mac: 50-3D-E5-E9-52-B5
+      description: "Tele2, telefoner"
+      enabled: true
+      idgroup: 2500_Telephony
+      id: 1825
+
+    - mac: 04-C5-A4-B1-6E-5F
+      description: "Tele2, telefoner"
+      enabled: true
+      idgroup: 2500_Telephony
+      id: 1743
+
+    - mac: F8-66-F2-E7-8C-B4
+      description: "Tele2, telefoner"
+      enabled: true
+      idgroup: 2500_Telephony
+      id: 1874
+
+    - mac: C0-62-6B-D2-E1-29
+      description: "Tele2, telefoner"
+      enabled: true
+      idgroup: 2500_Telephony
+      id: 1803
+
+    - mac: 50-3D-E5-E9-4E-F3
+      description: "Tele2, telefoner"
+      enabled: true
+      idgroup: 2500_Telephony
+      id: 1855
+
+    - mac: 04-C5-A4-B1-6E-E0
+      description: "Tele2, telefoner"
+      enabled: true
+      idgroup: 2500_Telephony
+      id: 1776
+
+    - mac: 04-C5-A4-B1-65-6C
+      description: "Tele2, telefoner"
+      enabled: true
+      idgroup: 2500_Telephony
+      id: 1834
+
+    - mac: 00-1F-16-1D-9C-CD
+      description: "tftp-test dator, Tele2"
+      enabled: true
+      idgroup: 2500_Telephony
+      id: 1684
+
+    - mac: 50-3D-E5-E9-55-55
+      description: "Tele2, telefoner"
+      enabled: true
+      idgroup: 2500_Telephony
+      id: 1860
+
+    - mac: 70-81-05-3B-BD-2B
+      description: "IP_Tel"
+      enabled: true
+      idgroup: 2500_Telephony
+      id: 1937
+
+    - mac: 50-3D-E5-E9-1C-7E
+      description: "Tele2, telefoner"
+      enabled: true
+      idgroup: 2500_Telephony
+      id: 1817
+
+    - mac: 50-3D-E5-E9-4E-B3
+      description: "Tele2, telefoner"
+      enabled: true
+      idgroup: 2500_Telephony
+      id: 1857
+
+    - mac: 70-81-05-3B-BD-39
+      description: "IP_Tel"
+      enabled: true
+      idgroup: 2500_Telephony
+      id: 1907
+
+    - mac: C0-62-6B-D2-DB-90
+      description: "Tele2, telefoner"
+      enabled: true
+      idgroup: 2500_Telephony
+      id: 1771
+
+    - mac: 70-81-05-22-37-01
+      description: "Tele2, telefoner"
+      enabled: true
+      idgroup: 2500_Telephony
+      id: 1724
+
+    - mac: 04-C5-A4-B1-63-D8
+      description: "Tele2, telefoner"
+      enabled: true
+      idgroup: 2500_Telephony
+      id: 1765
+
+    - mac: 50-3D-E5-E9-48-B8
+      description: "Tele2, telefoner"
+      enabled: true
+      idgroup: 2500_Telephony
+      id: 1843
+
+    - mac: F8-66-F2-98-93-60
+      description: "Tele2, telefoner"
+      enabled: true
+      idgroup: 2500_Telephony
+      id: 1879
+
+    - mac: 04-C5-A4-B1-65-5B
+      description: "Tele2, telefoner"
+      enabled: true
+      idgroup: 2500_Telephony
+      id: 1824
+
+    - mac: F8-66-F2-E7-8C-CB
+      description: "Tele2, telefoner"
+      enabled: true
+      idgroup: 2500_Telephony
+      id: 1869
+
+    - mac: 50-3D-E5-E9-4E-7C
+      description: "Tele2, telefoner"
+      enabled: true
+      idgroup: 2500_Telephony
+      id: 1831
+
+    - mac: A4-4C-11-D0-BC-5C
+      description: "Cisco ip tel"
+      enabled: true
+      idgroup: 2500_Telephony
+      id: 2037
+
+    - mac: 04-C5-A4-B1-63-B9
+      description: "Tele2, telefoner"
+      enabled: true
+      idgroup: 2500_Telephony
+      id: 1836
+
+    - mac: 50-3D-E5-E9-4F-F1
+      description: "Tele2, telefoner"
+      enabled: true
+      idgroup: 2500_Telephony
+      id: 1841
+
+    - mac: F8-66-F2-E7-8C-88
+      description: "Tele2, telefoner"
+      enabled: true
+      idgroup: 2500_Telephony
+      id: 1882
+
+    - mac: C8-9C-1D-D5-83-4F
+      description: "Cisco-telefon"
+      enabled: true
+      idgroup: 2500_Telephony
+      id: 1675
+
+    - mac: 70-81-05-22-2E-6E
+      description: "Tele2, telefoner"
+      enabled: true
+      idgroup: 2500_Telephony
+      id: 1764
+
+    - mac: 70-81-05-3B-BB-12
+      description: "IP_Tel"
+      enabled: true
+      idgroup: 2500_Telephony
+      id: 1908
+
+    - mac: 70-81-05-22-34-72
+      description: "Tele2, telefoner"
+      enabled: true
+      idgroup: 2500_Telephony
+      id: 1725
+
+    - mac: 70-81-05-22-2F-4F
+      description: "Tele2, telefoner"
+      enabled: true
+      idgroup: 2500_Telephony
+      id: 1748
+
+    - mac: 50-3D-E5-E9-1C-8A
+      description: "Tele2, telefoner"
+      enabled: true
+      idgroup: 2500_Telephony
+      id: 1819
+
+    - mac: A4-4C-11-D0-BC-62
+      description: "Cisco ip tel"
+      enabled: true
+      idgroup: 2500_Telephony
+      id: 2041
+
+    - mac: 04-C5-A4-B1-69-7E
+      description: "Tele2, telefoner"
+      enabled: true
+      idgroup: 2500_Telephony
+      id: 1800
+
+    - mac: 70-81-05-22-3C-A0
+      description: "Tele2, telefoner"
+      enabled: true
+      idgroup: 2500_Telephony
+      id: 1717
+
+    - mac: 04-C5-A4-B1-6C-EE
+      description: "Tele2, telefoner"
+      enabled: true
+      idgroup: 2500_Telephony
+      id: 1848
+
+    - mac: 50-3D-E5-E9-4A-F1
+      description: "Tele2, telefoner"
+      enabled: true
+      idgroup: 2500_Telephony
+      id: 1867
+
+    - mac: 04-C5-A4-B1-6C-B1
+      description: "Tele2, Cisco 8961 telefoner"
+      enabled: true
+      idgroup: 2500_Telephony
+      id: 1694
+
+    - mac: 00-04-F2-EE-5F-A4
+      description: "Tele2, telefoner"
+      enabled: true
+      idgroup: 2500_Telephony
+      id: 1898
+
+    - mac: 04-C5-A4-B1-69-56
+      description: "Tele2, telefoner"
+      enabled: true
+      idgroup: 2500_Telephony
+      id: 1787
+
+    - mac: 70-81-05-22-31-B2
+      description: "Tele2, telefoner"
+      enabled: true
+      idgroup: 2500_Telephony
+      id: 1751
+
+    - mac: 60-73-5C-81-5D-4B
+      description: "Tele2, telefoner"
+      enabled: true
+      idgroup: 2500_Telephony
+      id: 2121
+
+    - mac: 50-3D-E5-E9-52-3B
+      description: "Tele2, telefoner"
+      enabled: true
+      idgroup: 2500_Telephony
+      id: 1865
+
+    - mac: 50-3D-E5-E9-52-B1
+      description: "Tele2, telefoner"
+      enabled: true
+      idgroup: 2500_Telephony
+      id: 1827
+
+    - mac: 84-78-AC-C7-1F-80
+      description: "Cisco telefon 20130729, Mats"
+      enabled: true
+      idgroup: 2500_Telephony
+      id: 2366
+
+    - mac: 70-81-05-22-32-05
+      description: "Tele2, telefoner"
+      enabled: true
+      idgroup: 2500_Telephony
+      id: 1775
+
+    - mac: 70-81-05-22-39-E5
+      description: "Tele2, telefoner"
+      enabled: true
+      idgroup: 2500_Telephony
+      id: 1730
+
+    - mac: 50-3D-E5-E9-4E-E8
+      description: "Tele2, telefoner"
+      enabled: true
+      idgroup: 2500_Telephony
+      id: 1851
+
+    - mac: 84-78-AC-C7-25-B7
+      description: "Cisco telefon 20130729, Mats"
+      enabled: true
+      idgroup: 2500_Telephony
+      id: 2373
+
+    - mac: 04-C5-A4-B1-63-A5
+      description: "Tele2, telefoner"
+      enabled: true
+      idgroup: 2500_Telephony
+      id: 1791
+
+    - mac: 70-81-05-22-32-B4
+      description: "Tele2, telefoner"
+      enabled: true
+      idgroup: 2500_Telephony
+      id: 1798
+
+    - mac: 04-C5-A4-B1-65-32
+      description: "Tele2, telefoner"
+      enabled: true
+      idgroup: 2500_Telephony
+      id: 1833
+
+    - mac: C8-9C-1D-D5-84-D3
+      description: "Tele2, telefoner"
+      enabled: true
+      idgroup: 2500_Telephony
+      id: 1789
+
+    - mac: 04-C5-A4-B1-63-FA
+      description: "Tele2, telefoner"
+      enabled: true
+      idgroup: 2500_Telephony
+      id: 1838
+
+    - mac: 04-C5-A4-B1-68-70
+      description: "IP-telefoner"
+      enabled: true
+      idgroup: 2500_Telephony
+      id: 3988
+
+    - mac: 70-81-05-22-31-C4
+      description: "Tele2, telefoner"
+      enabled: true
+      idgroup: 2500_Telephony
+      id: 1753
+
+    - mac: 60-73-5C-81-5D-BC
+      description: "Tele2, telefoner"
+      enabled: true
+      idgroup: 2500_Telephony
+      id: 2119
+
+    - mac: 60-73-5C-81-62-5A
+      description: "Tele2, telefoner"
+      enabled: true
+      idgroup: 2500_Telephony
+      id: 2125
+
+    - mac: 50-3D-E5-E9-4E-BD
+      description: "Tele2, telefoner"
+      enabled: true
+      idgroup: 2500_Telephony
+      id: 1847
+
+    - mac: 70-81-05-22-32-06
+      description: "Tele2, telefoner"
+      enabled: true
+      idgroup: 2500_Telephony
+      id: 1797
+
+    - mac: 70-81-05-3B-BA-72
+      description: "Tele2 telefon"
+      enabled: true
+      idgroup: 2500_Telephony
+      id: 1914
+
+    - mac: 04-C5-A4-B1-6D-4C
+      description: "Tele2, telefoner"
+      enabled: true
+      idgroup: 2500_Telephony
+      id: 1705
+
+    - mac: 70-81-05-3B-BC-1E
+      description: "IP_Tel"
+      enabled: true
+      idgroup: 2500_Telephony
+      id: 1938
+
+    - mac: 50-3D-E5-E9-1C-A9
+      description: "Tele2, telefoner"
+      enabled: true
+      idgroup: 2500_Telephony
+      id: 1813
+
+    - mac: 70-81-05-22-3A-D9
+      description: "Tele2, telefoner"
+      enabled: true
+      idgroup: 2500_Telephony
+      id: 1715
+
+    - mac: 70-81-05-22-3C-4F
+      description: "Tele2, telefoner"
+      enabled: true
+      idgroup: 2500_Telephony
+      id: 1710
+
+    - mac: 70-81-05-3B-BC-A4
+      description: "IP_Tel"
+      enabled: true
+      idgroup: 2500_Telephony
+      id: 1905
+
+    - mac: 04-C5-A4-B1-69-7D
+      description: "Tele2, telefoner"
+      enabled: true
+      idgroup: 2500_Telephony
+      id: 1812
+
+    - mac: 04-C5-A4-B1-69-A6
+      description: "Tele2, telefoner"
+      enabled: true
+      idgroup: 2500_Telephony
+      id: 1769
+
+    - mac: F8-66-F2-E7-8B-A2
+      description: "Tele2, telefoner"
+      enabled: true
+      idgroup: 2500_Telephony
+      id: 1875
+
+    - mac: F8-66-F2-E7-8C-C6
+      description: "Tele2, telefoner"
+      enabled: true
+      idgroup: 2500_Telephony
+      id: 1873
+
+    - mac: 04-C5-A4-B1-69-1E
+      description: "Tele2, telefoner"
+      enabled: true
+      idgroup: 2500_Telephony
+      id: 1805
+
+    - mac: 70-81-05-22-3A-09
+      description: "Tele2, telefoner"
+      enabled: true
+      idgroup: 2500_Telephony
+      id: 1727
+
+    - mac: 70-81-05-22-3D-B6
+      description: "Tele2, telefoner"
+      enabled: true
+      idgroup: 2500_Telephony
+      id: 1736
+
+    - mac: 60-73-5C-81-59-E8
+      description: "Tele2, telefoner"
+      enabled: true
+      idgroup: 2500_Telephony
+      id: 2123
+
+    - mac: 84-78-AC-C7-1E-7D
+      description: "Cisco telefon 20130729, Mats"
+      enabled: true
+      idgroup: 2500_Telephony
+      id: 2364
+
+    - mac: 00-04-F2-EE-5B-6B
+      description: "Tele2, telefoner"
+      enabled: true
+      idgroup: 2500_Telephony
+      id: 1895
+
+    - mac: 04-C5-A4-B1-65-37
+      description: "Tele2, Cisco 8961 telefoner"
+      enabled: true
+      idgroup: 2500_Telephony
+      id: 1696
+
+    - mac: A4-4C-11-D0-BA-4A
+      description: "Cisco ip tel"
+      enabled: true
+      idgroup: 2500_Telephony
+      id: 2038
+
+    - mac: F8-66-F2-E7-8C-3D
+      description: "Tele2, telefoner"
+      enabled: true
+      idgroup: 2500_Telephony
+      id: 1880
+
+    - mac: 58-BC-27-74-D8-C4
+      description: "Tele2, telefoner"
+      enabled: true
+      idgroup: 2500_Telephony
+      id: 1998
+
+    - mac: 70-81-05-22-31-4E
+      description: "Tele2, telefoner"
+      enabled: true
+      idgroup: 2500_Telephony
+      id: 1744
+
+    - mac: 04-C5-A4-B1-64-5F
+      description: "Tele2, telefoner"
+      enabled: true
+      idgroup: 2500_Telephony
+      id: 1853
+
+    - mac: 50-3D-E5-E9-4A-EF
+      description: "Tele2, telefoner"
+      enabled: true
+      idgroup: 2500_Telephony
+      id: 1863
+
+    - mac: 00-04-F2-EE-5E-DC
+      description: "Tele2, telefoner"
+      enabled: true
+      idgroup: 2500_Telephony
+      id: 1896
+
+    - mac: 84-78-AC-C7-1F-72
+      description: "Cisco telefon 20130729, Mats"
+      enabled: true
+      idgroup: 2500_Telephony
+      id: 2368
+
+    - mac: 04-C5-A4-B1-69-77
+      description: "Tele2, telefoner"
+      enabled: true
+      idgroup: 2500_Telephony
+      id: 1795
+
+    - mac: 70-81-05-22-31-35
+      description: "Tele2, telefoner"
+      enabled: true
+      idgroup: 2500_Telephony
+      id: 1768
+
+    - mac: 84-78-AC-C7-21-D0
+      description: "Cisco telefon 20130729, Mats"
+      enabled: true
+      idgroup: 2500_Telephony
+      id: 2365
+
+    - mac: 50-3D-E5-E9-4A-D9
+      description: "Tele2, telefoner"
+      enabled: true
+      idgroup: 2500_Telephony
+      id: 1861
+
+    - mac: 00-21-70-EC-EC-A8
+      description: "Test scanner dator 23394, H Tilly //Ya"
+      enabled: true
+      idgroup: 2500_Telephony
+      id: 1989
+
+    - mac: F8-66-F2-E7-8B-99
+      description: "Tele2, telefoner"
+      enabled: true
+      idgroup: 2500_Telephony
+      id: 1870
+
+    - mac: 04-C5-A4-B1-69-A5
+      description: "Tele2, telefoner"
+      enabled: true
+      idgroup: 2500_Telephony
+      id: 1792
+
+    - mac: C0-62-6B-D2-E2-9C
+      description: "Tele2, telefoner"
+      enabled: true
+      idgroup: 2500_Telephony
+      id: 1772
+
+    - mac: F8-66-F2-E7-8C-85
+      description: "Tele2, telefoner"
+      enabled: true
+      idgroup: 2500_Telephony
+      id: 1876
+
+    - mac: 70-81-05-22-3D-0D
+      description: "Tele2, telefoner"
+      enabled: true
+      idgroup: 2500_Telephony
+      id: 1759
+
+    - mac: 60-73-5C-81-5D-BA
+      description: "Tele2, telefoner"
+      enabled: true
+      idgroup: 2500_Telephony
+      id: 2117
+
+    - mac: 70-81-05-3B-BD-4F
+      description: "IP_Tel"
+      enabled: true
+      idgroup: 2500_Telephony
+      id: 1934
+
+    - mac: 50-3D-E5-E9-4E-77
+      description: "Tele2, telefoner"
+      enabled: true
+      idgroup: 2500_Telephony
+      id: 1845
+
+    - mac: C8-9C-1D-D5-83-4A
+      description: "Cisco-telefon"
+      enabled: true
+      idgroup: 2500_Telephony
+      id: 1678
+
+    - mac: 50-3D-E5-E9-1C-C2
+      description: "Tele2, telefoner"
+      enabled: true
+      idgroup: 2500_Telephony
+      id: 1821
+
+    - mac: 04-C5-A4-B1-64-9C
+      description: "Tele2, telefoner"
+      enabled: true
+      idgroup: 2500_Telephony
+      id: 1842
+
+    - mac: 70-81-05-22-3C-87
+      description: "Tele2, telefoner"
+      enabled: true
+      idgroup: 2500_Telephony
+      id: 1755
+
+    - mac: 50-3D-E5-E9-4E-F8
+      description: "Tele2, telefoner"
+      enabled: true
+      idgroup: 2500_Telephony
+      id: 1854
+
+    - mac: 00-04-F2-EE-59-66
+      description: "Tele2, telefoner"
+      enabled: true
+      idgroup: 2500_Telephony
+      id: 1894
+
+    - mac: 00-04-F2-E8-F7-71
+      description: "Tele2; 7937, konferenstelefon"
+      enabled: true
+      idgroup: 2500_Telephony
+      id: 2284
+
+    - mac: 70-81-05-22-3C-AB
+      description: "Tele2, telefoner"
+      enabled: true
+      idgroup: 2500_Telephony
+      id: 1712
+
+    - mac: 84-78-AC-C7-21-32
+      description: "Cisco telefon 20130729, Mats"
+      enabled: true
+      idgroup: 2500_Telephony
+      id: 2371
+
+    - mac: 70-81-05-22-32-64
+      description: "Tele2, telefoner"
+      enabled: true
+      idgroup: 2500_Telephony
+      id: 1734
+
+    - mac: 70-81-05-22-32-4E
+      description: "Tele2, telefoner"
+      enabled: true
+      idgroup: 2500_Telephony
+      id: 1733
+
+    - mac: 04-C5-A4-B1-6D-0B
+      description: "Tele2, telefoner"
+      enabled: true
+      idgroup: 2500_Telephony
+      id: 1779
+
+    - mac: 04-C5-A4-B1-67-84
+      description: "Tele2, telefoner"
+      enabled: true
+      idgroup: 2500_Telephony
+      id: 1807
+
+    - mac: 50-3D-E5-E9-1C-AD
+      description: "Tele2, telefoner"
+      enabled: true
+      idgroup: 2500_Telephony
+      id: 1820
+
+    - mac: 70-81-05-3B-BC-9B
+      description: "IP_Tel"
+      enabled: true
+      idgroup: 2500_Telephony
+      id: 1931
+
+    - mac: 50-3D-E5-E9-1C-DF
+      description: "Tele2, telefoner"
+      enabled: true
+      idgroup: 2500_Telephony
+      id: 1811
+
+    - mac: 04-C5-A4-B1-69-D1
+      description: "Tele2, telefoner"
+      enabled: true
+      idgroup: 2500_Telephony
+      id: 1802
+
+    - mac: A4-4C-11-D0-BC-57
+      description: "Cisco ip tel"
+      enabled: true
+      idgroup: 2500_Telephony
+      id: 2043
+
+    - mac: 70-81-05-3B-BB-1E
+      description: "IP_Tel"
+      enabled: true
+      idgroup: 2500_Telephony
+      id: 1902
+
+    - mac: 50-3D-E5-E9-52-45
+      description: "Tele2, telefoner"
+      enabled: true
+      idgroup: 2500_Telephony
+      id: 1866
+
+    - mac: F8-66-F2-E7-8C-7F
+      description: "Tele2, telefoner"
+      enabled: true
+      idgroup: 2500_Telephony
+      id: 1884
+
+    - mac: 60-73-5C-81-5D-B6
+      description: "Tele2, telefoner"
+      enabled: true
+      idgroup: 2500_Telephony
+      id: 2120
+
+    - mac: 50-3D-E5-E9-4E-EE
+      description: "Tele2, telefoner"
+      enabled: true
+      idgroup: 2500_Telephony
+      id: 1858
+
+    - mac: A4-4C-11-D0-BB-9F
+      description: "Cisco ip tel"
+      enabled: true
+      idgroup: 2500_Telephony
+      id: 2035
+
+    - mac: 50-3D-E5-E9-1C-A4
+      description: "Tele2, telefoner"
+      enabled: true
+      idgroup: 2500_Telephony
+      id: 1809
+
+    - mac: 70-81-05-22-37-71
+      description: "Tele2, telefoner"
+      enabled: true
+      idgroup: 2500_Telephony
+      id: 1731
+
+    - mac: 70-81-05-22-3D-0E
+      description: "Tele2, telefoner"
+      enabled: true
+      idgroup: 2500_Telephony
+      id: 1766
+
+    - mac: 70-81-05-22-2F-29
+      description: "Tele2, telefoner"
+      enabled: true
+      idgroup: 2500_Telephony
+      id: 1746
+
+    - mac: C8-9C-1D-D5-83-9A
+      description: "Cisco-telefon"
+      enabled: true
+      idgroup: 2500_Telephony
+      id: 1676
+
+    - mac: 50-3D-E5-E9-4A-F3
+      description: "Tele2, telefoner"
+      enabled: true
+      idgroup: 2500_Telephony
+      id: 1868
+
+    - mac: 70-81-05-22-3D-24
+      description: "Tele2, telefoner"
+      enabled: true
+      idgroup: 2500_Telephony
+      id: 1763
+
+    - mac: 70-81-05-3B-BC-90
+      description: "IP_Tel"
+      enabled: true
+      idgroup: 2500_Telephony
+      id: 1910
+
+    - mac: F8-66-F2-E7-8C-AC
+      description: "Tele2, telefoner"
+      enabled: true
+      idgroup: 2500_Telephony
+      id: 1878
+
+    - mac: C8-9C-1D-D5-83-50
+      description: "Tele2, telefoner"
+      enabled: true
+      idgroup: 2500_Telephony
+      id: 1790
+
+    - mac: 04-C5-A4-B1-66-7F
+      description: "Tele2, telefoner"
+      enabled: true
+      idgroup: 2500_Telephony
+      id: 1840
+
+    - mac: 50-3D-E5-E9-4E-8E
+      description: "Tele2, telefoner"
+      enabled: true
+      idgroup: 2500_Telephony
+      id: 1823
+
+    - mac: 70-81-05-3B-BC-21
+      description: "IP_Tel"
+      enabled: true
+      idgroup: 2500_Telephony
+      id: 1933
+
+    - mac: 70-81-05-22-2E-6F
+      description: "Tele2, telefoner"
+      enabled: true
+      idgroup: 2500_Telephony
+      id: 1757
+
+    - mac: 04-C5-A4-B1-67-C8
+      description: "Tele2, Cisco 8961 telefoner"
+      enabled: true
+      idgroup: 2500_Telephony
+      id: 1697
+
+    - mac: 70-81-05-22-3D-C1
+      description: "Tele2, telefoner"
+      enabled: true
+      idgroup: 2500_Telephony
+      id: 1770
+
+    - mac: 50-3D-E5-E9-1D-54
+      description: "Tele2, telefoner"
+      enabled: true
+      idgroup: 2500_Telephony
+      id: 1856
+
+    - mac: 70-81-05-22-31-EA
+      description: "Tele2, telefoner"
+      enabled: true
+      idgroup: 2500_Telephony
+      id: 1804
+
+    - mac: 70-81-05-22-3A-C1
+      description: "Tele2, telefoner"
+      enabled: true
+      idgroup: 2500_Telephony
+      id: 1716
+
+    - mac: 70-81-05-22-32-C9
+      description: "Tele2, telefoner"
+      enabled: true
+      idgroup: 2500_Telephony
+      id: 1781
+
+    - mac: 04-C5-A4-B1-6C-9E
+      description: "Tele2, telefoner"
+      enabled: true
+      idgroup: 2500_Telephony
+      id: 1835
+
+    - mac: 04-C5-A4-B1-65-3E
+      description: "Tele2, telefoner"
+      enabled: true
+      idgroup: 2500_Telephony
+      id: 1815
+
+    - mac: 00-1D-70-61-57-B6
+      description: "Tele2, telefoner"
+      enabled: true
+      idgroup: 2500_Telephony
+      id: 1707
+
+    - mac: 70-81-05-22-32-4C
+      description: "Tele2, telefoner"
+      enabled: true
+      idgroup: 2500_Telephony
+      id: 1777
+
+    - mac: A4-4C-11-D0-BA-57
+      description: "Cisco ip tel"
+      enabled: true
+      idgroup: 2500_Telephony
+      id: 2044
+
+    - mac: 70-81-05-22-32-BA
+      description: "Tele2, telefoner"
+      enabled: true
+      idgroup: 2500_Telephony
+      id: 1740
+
+    - mac: 50-3D-E5-E9-4E-F6
+      description: "Tele2, telefoner"
+      enabled: true
+      idgroup: 2500_Telephony
+      id: 1850
+
+    - mac: 04-C5-A4-B1-63-1F
+      description: "Tele2, telefoner"
+      enabled: true
+      idgroup: 2500_Telephony
+      id: 1806
+
+    - mac: 70-81-05-22-3D-6B
+      description: "Tele2, telefoner"
+      enabled: true
+      idgroup: 2500_Telephony
+      id: 1738
+
+    - mac: 70-81-05-22-3A-D8
+      description: "Tele2, telefoner"
+      enabled: true
+      idgroup: 2500_Telephony
+      id: 1786
+
+    - mac: 04-C5-A4-B1-6C-AC
+      description: "Tele2, telefoner"
+      enabled: true
+      idgroup: 2500_Telephony
+      id: 1849
+
+    - mac: 84-78-AC-C7-15-4C
+      description: "Cisco telefon 20130729, Mats"
+      enabled: true
+      idgroup: 2500_Telephony
+      id: 2367
+
+    - mac: 70-81-05-22-32-57
+      description: "Tele2, telefoner"
+      enabled: true
+      idgroup: 2500_Telephony
+      id: 1737
+
+    - mac: 70-81-05-22-32-58
+      description: "Tele2, telefoner"
+      enabled: true
+      idgroup: 2500_Telephony
+      id: 1780
+
+    - mac: 60-73-5C-81-62-59
+      description: "Tele2, telefoner"
+      enabled: true
+      idgroup: 2500_Telephony
+      id: 2122
+
+    - mac: 50-3D-E5-E9-4A-DB
+      description: "Tele2, telefoner"
+      enabled: true
+      idgroup: 2500_Telephony
+      id: 1864
+
+    - mac: F8-66-F2-E7-8C-3F
+      description: "Tele2, telefoner"
+      enabled: true
+      idgroup: 2500_Telephony
+      id: 1881
+
+    - mac: 70-81-05-3B-BC-7F
+      description: "IP_Tel"
+      enabled: true
+      idgroup: 2500_Telephony
+      id: 1936
+
+    - mac: 70-81-05-22-3A-AB
+      description: "Tele2, telefoner"
+      enabled: true
+      idgroup: 2500_Telephony
+      id: 1796
+
+    - mac: F8-66-F2-E7-8A-0D
+      description: "Tele2, telefoner"
+      enabled: true
+      idgroup: 2500_Telephony
+      id: 1872
+
+    - mac: A4-4C-11-D0-BA-5A
+      description: "Cisco ip tel"
+      enabled: true
+      idgroup: 2500_Telephony
+      id: 2042
+
+    - mac: 04-C5-A4-B1-68-CE
+      description: "Tele2, telefoner"
+      enabled: true
+      idgroup: 2500_Telephony
+      id: 1839
+
+    - mac: C8-9C-1D-D5-75-FE
+      description: "Tele2, telefoner"
+      enabled: true
+      idgroup: 2500_Telephony
+      id: 1788
+
+    - mac: AC-A0-16-6E-E1-B6
+      description: "Tele2, telefoner"
+      enabled: true
+      idgroup: 2500_Telephony
+      id: 1997
+
+    - mac: 50-3D-E5-E9-4E-86
+      description: "Tele2, telefoner"
+      enabled: true
+      idgroup: 2500_Telephony
+      id: 1826
+
+    - mac: AC-A0-16-6E-87-DE
+      description: "Tele2, telefoner"
+      enabled: true
+      idgroup: 2500_Telephony
+      id: 2077
+
+    - mac: A4-4C-11-D0-BA-4D
+      description: "Cisco ip tel"
+      enabled: true
+      idgroup: 2500_Telephony
+      id: 2039
+
+    - mac: A4-4C-11-D0-BB-20
+      description: "Cisco ip tel"
+      enabled: true
+      idgroup: 2500_Telephony
+      id: 2036
+
+    - mac: 70-81-05-22-2F-C5
+      description: "Tele2, telefoner"
+      enabled: true
+      idgroup: 2500_Telephony
+      id: 1747
+
+    - mac: 70-81-05-22-31-58
+      description: "Tele2, telefoner"
+      enabled: true
+      idgroup: 2500_Telephony
+      id: 1742
+
+    - mac: 04-C5-A4-B1-6C-D3
+      description: "Tele2, telefoner"
+      enabled: true
+      idgroup: 2500_Telephony
+      id: 1799
+
+    - mac: 04-C5-A4-B1-6C-CE
+      description: "Tele2, Cisco 8961 telefoner"
+      enabled: true
+      idgroup: 2500_Telephony
+      id: 1695
+
+    - mac: 04-C5-A4-B1-67-9B
+      description: "Tele2, telefoner"
+      enabled: true
+      idgroup: 2500_Telephony
+      id: 1704
+
+    - mac: 70-81-05-22-31-4D
+      description: "Tele2, telefoner"
+      enabled: true
+      idgroup: 2500_Telephony
+      id: 1749
+
+    - mac: 00-04-F2-2B-C5-31
+      description: "IP-telefoner"
+      enabled: true
+      idgroup: 2500_Telephony
+      id: 302
+
+    - mac: 70-81-05-3B-BD-2D
+      description: "IP_Tel"
+      enabled: true
+      idgroup: 2500_Telephony
+      id: 1940
+
+    - mac: 70-81-05-22-37-92
+      description: "Tele2, telefoner"
+      enabled: true
+      idgroup: 2500_Telephony
+      id: 1726
+
+    - mac: 50-3D-E5-E9-1C-B7
+      description: "Tele2, telefoner"
+      enabled: true
+      idgroup: 2500_Telephony
+      id: 1818
+
+    - mac: 04-C5-A4-B1-68-02
+      description: "Tele2, telefoner"
+      enabled: true
+      idgroup: 2500_Telephony
+      id: 1837
+
+    - mac: 70-81-05-22-3A-CF
+      description: "Tele2, telefoner"
+      enabled: true
+      idgroup: 2500_Telephony
+      id: 1714
+
+    - mac: 70-81-05-3B-BC-88
+      description: "IP_Tel"
+      enabled: true
+      idgroup: 2500_Telephony
+      id: 1906
+
+    - mac: 00-25-B3-C0-EF-0D
+      description: "Bjorn Frisk Tele2"
+      enabled: true
+      idgroup: 2500_Telephony
+      id: 1672
+
+    - mac: 70-81-05-22-31-14
+      description: "Tele2, telefoner"
+      enabled: true
+      idgroup: 2500_Telephony
+      id: 1711
+
+    - mac: 70-81-05-22-3A-05
+      description: "Tele2, telefoner"
+      enabled: true
+      idgroup: 2500_Telephony
+      id: 1720
+
+    - mac: 70-81-05-22-3D-BF
+      description: "Tele2, telefoner"
+      enabled: true
+      idgroup: 2500_Telephony
+      id: 1735
+
+    - mac: 84-78-AC-C7-1E-5F
+      description: "Cisco telefon 20130729, Mats"
+      enabled: true
+      idgroup: 2500_Telephony
+      id: 2369
+
+    - mac: 70-81-05-3B-BC-0A
+      description: "IP_Tel"
+      enabled: true
+      idgroup: 2500_Telephony
+      id: 1930
+
+    - mac: 00-04-F2-E7-1E-04
+      description: "IP telefon IP5000"
+      enabled: true
+      idgroup: 2500_Telephony
+      id: 1235
+
+    - mac: 04-C5-A4-B1-68-AA
+      description: "Tele2, telefoner"
+      enabled: true
+      idgroup: 2500_Telephony
+      id: 1808
+
+    - mac: 70-81-05-22-3D-B7
+      description: "Tele2, telefoner"
+      enabled: true
+      idgroup: 2500_Telephony
+      id: 1739
+
+    - mac: 70-81-05-3B-BC-91
+      description: "IP_Tel"
+      enabled: true
+      idgroup: 2500_Telephony
+      id: 1909
+
+    - mac: 70-81-05-22-32-91
+      description: "Tele2, telefoner"
+      enabled: true
+      idgroup: 2500_Telephony
+      id: 1782
+
+    - mac: 00-01-C0-08-97-35
+      description: "tele2-chariot-1 2012-04-04"
+      enabled: true
+      idgroup: 2500_Telephony
+      id: 1990
+
+    - mac: 70-81-05-22-3A-D7
+      description: "Tele2, telefoner"
+      enabled: true
+      idgroup: 2500_Telephony
+      id: 1709
+
+    - mac: 70-81-05-22-3C-40
+      description: "Tele2, telefoner"
+      enabled: true
+      idgroup: 2500_Telephony
+      id: 1745
+
+    - mac: 50-3D-E5-E9-4A-F4
+      description: "Tele2, telefoner"
+      enabled: true
+      idgroup: 2500_Telephony
+      id: 1862
+
+    - mac: 00-04-F2-EE-5F-5B
+      description: "Tele2, telefoner"
+      enabled: true
+      idgroup: 2500_Telephony
+      id: 1897
+
+    - mac: 60-73-5C-81-62-56
+      description: "Tele2, telefoner"
+      enabled: true
+      idgroup: 2500_Telephony
+      id: 2124
+
+    - mac: 50-3D-E5-7C-EB-7E
+      description: "Tele2, telefoner"
+      enabled: true
+      idgroup: 2500_Telephony
+      id: 1852
+
+    - mac: 84-78-AC-C7-1F-23
+      description: "Cisco telefon 20130729, Mats"
+      enabled: true
+      idgroup: 2500_Telephony
+      id: 2372
+
+    - mac: 00-1D-70-60-49-63
+      description: "Tele2, telefoner"
+      enabled: true
+      idgroup: 2500_Telephony
+      id: 1794
+
+    - mac: 70-81-05-22-31-EB
+      description: "Tele2, telefoner"
+      enabled: true
+      idgroup: 2500_Telephony
+      id: 1784
+
+    - mac: C8-9C-1D-D5-83-53
+      description: "Cisco-telefon"
+      enabled: true
+      idgroup: 2500_Telephony
+      id: 1679
+
+    - mac: 04-C5-A4-B1-67-C6
+      description: "Tele2, telefoner"
+      enabled: true
+      idgroup: 2500_Telephony
+      id: 1830
+
+    - mac: F8-66-F2-E7-8C-AF
+      description: "Tele2, telefoner"
+      enabled: true
+      idgroup: 2500_Telephony
+      id: 1883
+
+    - mac: 84-78-AC-C7-1F-16
+      description: "Cisco telefon 20130729, Mats"
+      enabled: true
+      idgroup: 2500_Telephony
+      id: 2370
+
+    - mac: 50-3D-E5-E9-4E-E2
+      description: "Tele2, telefoner"
+      enabled: true
+      idgroup: 2500_Telephony
+      id: 1846
+
+    - mac: 04-C5-A4-B1-64-9B
+      description: "Tele2, telefoner"
+      enabled: true
+      idgroup: 2500_Telephony
+      id: 1828
+
+    - mac: 50-3D-E5-E9-49-01
+      description: "Tele2, telefoner"
+      enabled: true
+      idgroup: 2500_Telephony
+      id: 1829
+
+    - mac: 70-81-05-3B-BC-86
+      description: "IP_Tel"
+      enabled: true
+      idgroup: 2500_Telephony
+      id: 1904
+
+    - mac: 70-81-05-22-2E-73
+      description: "Tele2, telefoner"
+      enabled: true
+      idgroup: 2500_Telephony
+      id: 1761
+
+    - mac: 70-81-05-22-3A-CA
+      description: "Tele2, telefoner"
+      enabled: true
+      idgroup: 2500_Telephony
+      id: 1713
+
+    - mac: 60-73-5C-81-59-D1
+      description: "Tele2, telefoner"
+      enabled: true
+      idgroup: 2500_Telephony
+      id: 2126
+
+    - mac: 70-81-05-22-36-6A
+      description: "Tele2, telefoner"
+      enabled: true
+      idgroup: 2500_Telephony
+      id: 1729
+
+    - mac: 70-81-05-22-3D-FE
+      description: "Tele2, telefoner"
+      enabled: true
+      idgroup: 2500_Telephony
+      id: 1774
+
+    - mac: A4-4C-11-D0-BB-12
+      description: "Cisco ip tel"
+      enabled: true
+      idgroup: 2500_Telephony
+      id: 2040
+

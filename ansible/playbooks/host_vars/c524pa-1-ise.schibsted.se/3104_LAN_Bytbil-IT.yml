@@ -1,0 +1,8 @@
+3104_LAN_Bytbil-IT:
+
+    - mac: BB-AA-AA-5F-EB-61
+      description: "api test"
+      enabled: false
+      idgroup: 3100_LAN_Bytbil
+      id: 5378
+

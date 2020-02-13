@@ -1,0 +1,182 @@
+3304_LAN_Servicefinder-IT:
+
+    - mac: 70-7C-69-02-4C-BC
+      description: "Servicefinder - Telefon"
+      enabled: true
+      idgroup: 3304_LAN_Servicefinder-IT
+      id: 5324
+
+    - mac: 98-E7-F4-06-03-C4
+      description: "Servicefinder Sturegallerian LaserJEt MFPM277dw"
+      enabled: true
+      idgroup: 3304_LAN_Servicefinder-IT
+      id: 5295
+
+    - mac: 70-7C-69-02-4C-F6
+      description: "Servicefinder - Telefon"
+      enabled: true
+      idgroup: 3304_LAN_Servicefinder-IT
+      id: 5322
+
+    - mac: A0-D3-C1-ED-9D-99
+      description: "LaserJet500 ColorMFP Servicefinder Sturegallerian"
+      enabled: true
+      idgroup: 3304_LAN_Servicefinder-IT
+      id: 5290
+
+    - mac: 00-E0-4C-68-01-47
+      description: "Servicefinder SRQ125223"
+      enabled: true
+      idgroup: 3304_LAN_Servicefinder-IT
+      id: 5338
+
+    - mac: 70-10-6F-B5-9B-98
+      description: "ITS Nordics ESX ILO"
+      enabled: true
+      idgroup: 3304_LAN_Servicefinder-IT
+      id: 5319
+
+    - mac: 00-13-72-0B-48-9E
+      description: "Servicefinder Sturegallerian ReceptionsTV"
+      enabled: true
+      idgroup: 3304_LAN_Servicefinder-IT
+      id: 5294
+
+    - mac: 00-08-9B-D2-E1-71
+      description: "Servicefinder QNAP-NAS"
+      enabled: true
+      idgroup: 3304_LAN_Servicefinder-IT
+      id: 5318
+
+    - mac: A0-40-A0-6C-36-8B
+      description: "Servicefinder SRQ124285"
+      enabled: true
+      idgroup: 3304_LAN_Servicefinder-IT
+      id: 5334
+
+    - mac: FC-3F-DB-08-B1-53
+      description: "Servicefinder Sturegallerian ReceptionsPC"
+      enabled: true
+      idgroup: 3304_LAN_Servicefinder-IT
+      id: 5296
+
+    - mac: 70-7C-69-02-4C-CB
+      description: "Servicefinder - Telefon"
+      enabled: true
+      idgroup: 3304_LAN_Servicefinder-IT
+      id: 5323
+
+    - mac: 00-13-21-C4-74-3D
+      description: "ColorLaserjet 4370 Servicefinder Sturegallerian"
+      enabled: true
+      idgroup: 3304_LAN_Servicefinder-IT
+      id: 5291
+
+    - mac: 00-11-32-1D-AC-88
+      description: "Servicefinder Synology Disk Station NAS"
+      enabled: true
+      idgroup: 3304_LAN_Servicefinder-IT
+      id: 5298
+
+    - mac: 00-08-9B-D2-E1-70
+      description: "Servicefinder QNAP-NAS"
+      enabled: true
+      idgroup: 3304_LAN_Servicefinder-IT
+      id: 5317
+
+    - mac: 70-7C-69-02-4C-F1
+      description: "Servicefinder - Telefon"
+      enabled: true
+      idgroup: 3304_LAN_Servicefinder-IT
+      id: 5321
+
+    - mac: 70-7C-69-02-4C-BC
+      description: "Servicefinder - Telefon"
+      enabled: true
+      idgroup: 3304_LAN_Servicefinder-IT
+      id: 5324
+
+    - mac: 98-E7-F4-06-03-C4
+      description: "Servicefinder Sturegallerian LaserJEt MFPM277dw"
+      enabled: true
+      idgroup: 3304_LAN_Servicefinder-IT
+      id: 5295
+
+    - mac: 70-7C-69-02-4C-F6
+      description: "Servicefinder - Telefon"
+      enabled: true
+      idgroup: 3304_LAN_Servicefinder-IT
+      id: 5322
+
+    - mac: A0-D3-C1-ED-9D-99
+      description: "LaserJet500 ColorMFP Servicefinder Sturegallerian"
+      enabled: true
+      idgroup: 3304_LAN_Servicefinder-IT
+      id: 5290
+
+    - mac: 00-E0-4C-68-01-47
+      description: "Servicefinder SRQ125223"
+      enabled: true
+      idgroup: 3304_LAN_Servicefinder-IT
+      id: 5338
+
+    - mac: 70-10-6F-B5-9B-98
+      description: "ITS Nordics ESX ILO"
+      enabled: true
+      idgroup: 3304_LAN_Servicefinder-IT
+      id: 5319
+
+    - mac: 00-13-72-0B-48-9E
+      description: "Servicefinder Sturegallerian ReceptionsTV"
+      enabled: true
+      idgroup: 3304_LAN_Servicefinder-IT
+      id: 5294
+
+    - mac: 00-08-9B-D2-E1-71
+      description: "Servicefinder QNAP-NAS"
+      enabled: true
+      idgroup: 3304_LAN_Servicefinder-IT
+      id: 5318
+
+    - mac: A0-40-A0-6C-36-8B
+      description: "Servicefinder SRQ124285"
+      enabled: true
+      idgroup: 3304_LAN_Servicefinder-IT
+      id: 5334
+
+    - mac: FC-3F-DB-08-B1-53
+      description: "Servicefinder Sturegallerian ReceptionsPC"
+      enabled: true
+      idgroup: 3304_LAN_Servicefinder-IT
+      id: 5296
+
+    - mac: 70-7C-69-02-4C-CB
+      description: "Servicefinder - Telefon"
+      enabled: true
+      idgroup: 3304_LAN_Servicefinder-IT
+      id: 5323
+
+    - mac: 00-13-21-C4-74-3D
+      description: "ColorLaserjet 4370 Servicefinder Sturegallerian"
+      enabled: true
+      idgroup: 3304_LAN_Servicefinder-IT
+      id: 5291
+
+    - mac: 00-11-32-1D-AC-88
+      description: "Servicefinder Synology Disk Station NAS"
+      enabled: true
+      idgroup: 3304_LAN_Servicefinder-IT
+      id: 5298
+
+    - mac: 00-08-9B-D2-E1-70
+      description: "Servicefinder QNAP-NAS"
+      enabled: true
+      idgroup: 3304_LAN_Servicefinder-IT
+      id: 5317
+
+    - mac: 70-7C-69-02-4C-F1
+      description: "Servicefinder - Telefon"
+      enabled: true
+      idgroup: 3304_LAN_Servicefinder-IT
+      id: 5321
+

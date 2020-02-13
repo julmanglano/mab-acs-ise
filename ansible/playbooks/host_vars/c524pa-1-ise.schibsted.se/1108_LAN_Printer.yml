@@ -1,0 +1,1214 @@
+1108_LAN_Printer:
+
+    - mac: 00-14-38-9B-36-D0
+      description: "Follow_Me_Box_HP serial CNHXH45582"
+      enabled: true
+      idgroup: 1108_LAN_Printer
+      id: 1387
+
+    - mac: 00-80-91-75-46-B6
+      description: "MFP printer Multirum  6770"
+      enabled: true
+      idgroup: 1108_LAN_Printer
+      id: 2425
+
+    - mac: 00-14-38-99-51-3A
+      description: "Follow_Me_Box_HP LJ4250 Lonekontoret serial CNHXB38806"
+      enabled: true
+      idgroup: 1108_LAN_Printer
+      id: 1381
+
+    - mac: 00-14-38-9B-E6-9A
+      description: "Follow_Me_Box_HP serial CNHXH45580"
+      enabled: true
+      idgroup: 1108_LAN_Printer
+      id: 1375
+
+    - mac: 00-C0-EE-B8-1F-AC
+      description: "Servicedesk Test Skrivare Kyocera TASKalfa 4551ci"
+      enabled: true
+      idgroup: 1108_LAN_Printer
+      id: 3810
+
+    - mac: FC-15-B4-30-13-B1
+      description: "Skrivare Servicedesk 2014"
+      enabled: true
+      idgroup: 1108_LAN_Printer
+      id: 2704
+
+    - mac: 00-17-C8-26-98-DF
+      description: "Vaning 11, Schibsted Sverige (11334)"
+      enabled: true
+      idgroup: 1108_LAN_Printer
+      id: 5113
+
+    - mac: 00-14-38-9A-55-C0
+      description: "Follow_Me_Box_HP serial CNHXH45575"
+      enabled: true
+      idgroup: 1108_LAN_Printer
+      id: 1390
+
+    - mac: 00-0E-E3-01-93-50
+      description: "Follow me Multirum 6336 10.11.11.197"
+      enabled: true
+      idgroup: 1108_LAN_Printer
+      id: 1499
+
+    - mac: 00-80-87-B2-65-55
+      description: "Tillfallig skrivare ctc214912 del v10/YA 130116"
+      enabled: true
+      idgroup: 1108_LAN_Printer
+      id: 2108
+
+    - mac: 00-14-38-D8-D0-5F
+      description: "Printer TEST HP"
+      enabled: true
+      idgroup: 1108_LAN_Printer
+      id: 287
+
+    - mac: 00-14-38-9B-D6-20
+      description: "Follow_Me_Box_HP serial CNHXB39688"
+      enabled: true
+      idgroup: 1108_LAN_Printer
+      id: 1380
+
+    - mac: 00-14-38-9B-E6-02
+      description: "katastrofrumsskrivare"
+      enabled: true
+      idgroup: 1108_LAN_Printer
+      id: 1614
+
+    - mac: 00-14-38-9B-D6-06
+      description: "Follow_Me_Box_HP serial CNHXB38813"
+      enabled: true
+      idgroup: 1108_LAN_Printer
+      id: 1383
+
+    - mac: 00-80-91-74-C5-74
+      description: "Toshiba Multirum 8136"
+      enabled: true
+      idgroup: 1108_LAN_Printer
+      id: 2356
+
+    - mac: 00-17-C8-26-CE-D7
+      description: "Vaning 7, Aftonbladet (7122)"
+      enabled: true
+      idgroup: 1108_LAN_Printer
+      id: 5105
+
+    - mac: 00-17-C8-26-C9-DF
+      description: "Vaning 4, Schibsted Centralen (Front desk)"
+      enabled: true
+      idgroup: 1108_LAN_Printer
+      id: 5097
+
+    - mac: 00-0E-E3-01-BB-28
+      description: "Follow Me Box  HP  CNHXB39614"
+      enabled: true
+      idgroup: 1108_LAN_Printer
+      id: 1599
+
+    - mac: 00-80-91-74-3B-2D
+      description: "MFP72851 - test //130409 YA"
+      enabled: true
+      idgroup: 1108_LAN_Printer
+      id: 2306
+
+    - mac: 00-17-C8-26-CE-CD
+      description: "Vaning 7, Aftonbladet ( 7714)"
+      enabled: true
+      idgroup: 1108_LAN_Printer
+      id: 5108
+
+    - mac: 00-0E-E3-01-93-56
+      description: "Follow me Multirum 8311 10.11.9.252 "
+      enabled: true
+      idgroup: 1108_LAN_Printer
+      id: 1510
+
+    - mac: 00-0E-E3-01-BB-09
+      description: "Follow me Multirum 6770 10.11.9.248 "
+      enabled: true
+      idgroup: 1108_LAN_Printer
+      id: 1501
+
+    - mac: 00-0E-E3-01-93-4E
+      description: "Follow me Multirum 8112 10.11.11.209"
+      enabled: true
+      idgroup: 1108_LAN_Printer
+      id: 1508
+
+    - mac: D4-85-64-3E-90-8D
+      description: "Printer Receptionen"
+      enabled: true
+      idgroup: 1108_LAN_Printer
+      id: 832
+
+    - mac: 00-80-91-6D-46-5F
+      description: "Printer Rum 5721"
+      enabled: true
+      idgroup: 1108_LAN_Printer
+      id: 828
+
+    - mac: 00-17-C8-26-B1-76
+      description: "Vaning 8 Aftonbladet Blocket 8136"
+      enabled: true
+      idgroup: 1108_LAN_Printer
+      id: 5117
+
+    - mac: 00-17-C8-26-CC-AE
+      description: "Vaning 6, Schibsted Centralen (Facility)"
+      enabled: true
+      idgroup: 1108_LAN_Printer
+      id: 5100
+
+    - mac: 00-80-91-6D-46-70
+      description: "Printer"
+      enabled: true
+      idgroup: 1108_LAN_Printer
+      id: 1098
+
+    - mac: 00-80-91-71-C5-47
+      description: "MFP 7456 Conferencen. //Ya"
+      enabled: true
+      idgroup: 1108_LAN_Printer
+      id: 2010
+
+    - mac: 00-17-C8-26-C7-E6
+      description: "Vaning 2, Schibsted Centralen (Office Support)"
+      enabled: true
+      idgroup: 1108_LAN_Printer
+      id: 5095
+
+    - mac: 00-0E-E3-01-93-53
+      description: "Printer"
+      enabled: true
+      idgroup: 1108_LAN_Printer
+      id: 830
+
+    - mac: 00-14-38-9B-C6-B8
+      description: "Follow_Me_Box_HP serial CNHXB38811"
+      enabled: true
+      idgroup: 1108_LAN_Printer
+      id: 1378
+
+    - mac: 00-15-99-45-DA-A8
+      description: "Wimp Skrivare"
+      enabled: true
+      idgroup: 1108_LAN_Printer
+      id: 2105
+
+    - mac: 00-14-38-9B-D6-07
+      description: "HP Skrivare serial CNHXB39693"
+      enabled: true
+      idgroup: 1108_LAN_Printer
+      id: 1391
+
+    - mac: 00-17-C8-26-A2-B1
+      description: "Plan 8 8649"
+      enabled: true
+      idgroup: 1108_LAN_Printer
+      id: 5110
+
+    - mac: 00-80-91-74-C5-72
+      description: "Toshiba Multirum 7190"
+      enabled: true
+      idgroup: 1108_LAN_Printer
+      id: 2353
+
+    - mac: 00-17-C8-26-CF-31
+      description: "Vaning 5, SvD (5721)"
+      enabled: true
+      idgroup: 1108_LAN_Printer
+      id: 5102
+
+    - mac: 00-80-91-6D-53-22
+      description: "Printer"
+      enabled: true
+      idgroup: 1108_LAN_Printer
+      id: 1096
+
+    - mac: 00-27-0E-28-CB-95
+      description: "Schibdocs Kodak Skanner Multirum 5721"
+      enabled: true
+      idgroup: 1108_LAN_Printer
+      id: 1191
+
+    - mac: 00-80-91-74-C5-7A
+      description: "Toshiba Multirum 5510"
+      enabled: true
+      idgroup: 1108_LAN_Printer
+      id: 2360
+
+    - mac: 00-80-91-74-C5-6D
+      description: "Toshiba Multirum 5721"
+      enabled: true
+      idgroup: 1108_LAN_Printer
+      id: 2358
+
+    - mac: 00-0E-7B-BA-EF-8C
+      description: "Toshiba temporary"
+      enabled: true
+      idgroup: 1108_LAN_Printer
+      id: 1515
+
+    - mac: 00-80-91-6D-78-23
+      description: "KBH Printer 5761"
+      enabled: true
+      idgroup: 1108_LAN_Printer
+      id: 1042
+
+    - mac: 00-17-C8-26-CD-EB
+      description: "Vaning 5, Schibsted Centralen (5221)"
+      enabled: true
+      idgroup: 1108_LAN_Printer
+      id: 5099
+
+    - mac: 00-17-C8-26-CE-AE
+      description: "Vaning 6, Compricer (6310)"
+      enabled: true
+      idgroup: 1108_LAN_Printer
+      id: 5103
+
+    - mac: 00-17-C8-26-CE-A3
+      description: "Vaning 6, Schibsted Growth (6730)"
+      enabled: true
+      idgroup: 1108_LAN_Printer
+      id: 5104
+
+    - mac: 00-0E-E3-01-93-49
+      description: "Follow me Multirum 7714 10.11.11.223"
+      enabled: true
+      idgroup: 1108_LAN_Printer
+      id: 1506
+
+    - mac: 00-17-C8-26-95-F6
+      description: "Vaning 10, Schibsted Centralen (Plan 10)"
+      enabled: true
+      idgroup: 1108_LAN_Printer
+      id: 5112
+
+    - mac: F8-1E-DF-DD-0D-A5
+      description: "24689 test yngve// 120706"
+      enabled: true
+      idgroup: 1108_LAN_Printer
+      id: 2032
+
+    - mac: 00-60-30-00-16-BD
+      description: "EasyfollowMe CMI RUM 7751"
+      enabled: true
+      idgroup: 1108_LAN_Printer
+      id: 2677
+
+    - mac: 00-14-38-9B-D6-C5
+      description: "Follow_Me_Box_HP serial CNHXH45581"
+      enabled: true
+      idgroup: 1108_LAN_Printer
+      id: 1389
+
+    - mac: 00-80-91-6D-27-CB
+      description: "KBH Printer 7751"
+      enabled: true
+      idgroup: 1108_LAN_Printer
+      id: 1040
+
+    - mac: 00-C0-EE-AF-9E-87
+      description: "Servicedesk Test Skrivare Kyocera TASKalfa 4551ci"
+      enabled: true
+      idgroup: 1108_LAN_Printer
+      id: 2941
+
+    - mac: 00-14-38-9B-36-E5
+      description: "Follow_Me_Box_HP serial CNHXB39685"
+      enabled: true
+      idgroup: 1108_LAN_Printer
+      id: 1386
+
+    - mac: 00-80-91-6C-AB-FC
+      description: "Printer 07121916"
+      enabled: true
+      idgroup: 1108_LAN_Printer
+      id: 286
+
+    - mac: 00-17-C8-26-AF-7A
+      description: "Vaning 13, Schibsted Sverige (6763)"
+      enabled: true
+      idgroup: 1108_LAN_Printer
+      id: 5114
+
+    - mac: 00-E0-81-D6-6B-D4
+      description: "RIP 7751"
+      enabled: true
+      idgroup: 1108_LAN_Printer
+      id: 2609
+
+    - mac: 00-17-C8-26-96-DE
+      description: "Vaning 8, Schibsted Sales & Inventory (8616)"
+      enabled: true
+      idgroup: 1108_LAN_Printer
+      id: 5111
+
+    - mac: 00-0E-E3-01-93-54
+      description: "Follow me Multirum 7751 10.11.11.234"
+      enabled: true
+      idgroup: 1108_LAN_Printer
+      id: 1507
+
+    - mac: 00-80-91-6D-53-7B
+      description: "Skrivare Multirum 6770"
+      enabled: true
+      idgroup: 1108_LAN_Printer
+      id: 853
+
+    - mac: 00-0E-E3-01-BB-16
+      description: "Follow me Multirum 6730 10.11.11.198"
+      enabled: true
+      idgroup: 1108_LAN_Printer
+      id: 1500
+
+    - mac: 00-14-38-9B-36-D9
+      description: "Follow_Me_Box_HP serial CNHXB39611"
+      enabled: true
+      idgroup: 1108_LAN_Printer
+      id: 1388
+
+    - mac: 00-25-36-06-C2-FE
+      description: "Tillfallig skrivare TTI217423 del v10/YA 130116"
+      enabled: true
+      idgroup: 1108_LAN_Printer
+      id: 2107
+
+    - mac: 00-80-91-6D-54-C0
+      description: "Multirum 8649 Plan 8, del 1"
+      enabled: true
+      idgroup: 1108_LAN_Printer
+      id: 1598
+
+    - mac: 00-80-91-74-C5-57
+      description: "Toshiba Multirum 6310"
+      enabled: true
+      idgroup: 1108_LAN_Printer
+      id: 2357
+
+    - mac: 00-17-C8-26-96-CE
+      description: "Vaning 7, TV.nu (7751)"
+      enabled: true
+      idgroup: 1108_LAN_Printer
+      id: 5109
+
+    - mac: 00-14-38-9A-55-25
+      description: "Follow_Me_Box_HP serial CNHXG40832"
+      enabled: true
+      idgroup: 1108_LAN_Printer
+      id: 1382
+
+    - mac: 00-17-C8-26-CE-44
+      description: "Vaning 7, Aftonbladet (7190)"
+      enabled: true
+      idgroup: 1108_LAN_Printer
+      id: 5106
+
+    - mac: 00-80-91-6D-38-B0
+      description: "Printer Rum 6336"
+      enabled: true
+      idgroup: 1108_LAN_Printer
+      id: 826
+
+    - mac: 00-80-91-6D-52-AA
+      description: "Printer"
+      enabled: true
+      idgroup: 1108_LAN_Printer
+      id: 1099
+
+    - mac: 00-25-36-06-62-DE
+      description: "Tillfallig skrivare TTI217424, del v10/YA 130116"
+      enabled: true
+      idgroup: 1108_LAN_Printer
+      id: 2106
+
+    - mac: 00-14-38-9A-D4-20
+      description: "Follow_Me_Box_HP serial CNHXB38815"
+      enabled: true
+      idgroup: 1108_LAN_Printer
+      id: 1392
+
+    - mac: 00-17-C8-26-CE-99
+      description: "Vaning 7, Aftonbladet (7520)"
+      enabled: true
+      idgroup: 1108_LAN_Printer
+      id: 5107
+
+    - mac: F0-92-1C-64-19-20
+      description: "HP Testprinter 20151215 JF"
+      enabled: true
+      idgroup: 1108_LAN_Printer
+      id: 2943
+
+    - mac: 00-0E-E3-01-BB-25
+      description: "Follow me Multirum 7160 10.11.11.217"
+      enabled: true
+      idgroup: 1108_LAN_Printer
+      id: 1503
+
+    - mac: 00-0E-E3-01-93-61
+      description: "Follow me Multirum 7122             "
+      enabled: true
+      idgroup: 1108_LAN_Printer
+      id: 1502
+
+    - mac: 00-0E-E3-01-93-58
+      description: "Printer"
+      enabled: true
+      idgroup: 1108_LAN_Printer
+      id: 831
+
+    - mac: 00-80-91-74-34-E9
+      description: "Toshiba Multirum 7520"
+      enabled: true
+      idgroup: 1108_LAN_Printer
+      id: 2355
+
+    - mac: 9C-93-4E-33-38-8A
+      description: "Skivare ostermalmsgatan 87B"
+      enabled: true
+      idgroup: 1108_LAN_Printer
+      id: 4675
+
+    - mac: 00-17-C8-26-CC-3E
+      description: "Vaning 5, SvD (5510)"
+      enabled: true
+      idgroup: 1108_LAN_Printer
+      id: 5101
+
+    - mac: 00-17-C8-26-A3-F8
+      description: "Vaning 8 Aftonbladet Blocket 8112"
+      enabled: true
+      idgroup: 1108_LAN_Printer
+      id: 5118
+
+    - mac: 00-17-C8-26-CE-7B
+      description: "Vaning 4, SvD (Plan4, Trapp15)"
+      enabled: true
+      idgroup: 1108_LAN_Printer
+      id: 5098
+
+    - mac: 00-80-91-6D-78-2D
+      description: "Printer"
+      enabled: true
+      idgroup: 1108_LAN_Printer
+      id: 1097
+
+    - mac: 00-14-38-9B-D6-A6
+      description: "Follow_Me_Box_HP serial CNHXB39762"
+      enabled: true
+      idgroup: 1108_LAN_Printer
+      id: 1384
+
+    - mac: 00-14-38-9B-C6-DB
+      description: "Follow_Me_Box_HP serial CNHXB38812"
+      enabled: true
+      idgroup: 1108_LAN_Printer
+      id: 1385
+
+    - mac: 00-17-C8-26-17-50
+      description: "Vaning 2, Aftonbladet (TV-studio)"
+      enabled: true
+      idgroup: 1108_LAN_Printer
+      id: 5096
+
+    - mac: 38-63-BB-04-11-B6
+      description: "HP Testprinter"
+      enabled: true
+      idgroup: 1108_LAN_Printer
+      id: 2977
+
+    - mac: 00-14-38-9B-84-59
+      description: "Follow_Me_Box_HP serial CNHXH45565"
+      enabled: true
+      idgroup: 1108_LAN_Printer
+      id: 1379
+
+    - mac: 00-14-38-99-11-45
+      description: "Follow_Me_Box_HP serial CNHXB39758"
+      enabled: true
+      idgroup: 1108_LAN_Printer
+      id: 1376
+
+    - mac: 00-26-73-42-F0-80
+      description: "MP C4502A Test skrivare. // YA 120706"
+      enabled: true
+      idgroup: 1108_LAN_Printer
+      id: 2030
+
+    - mac: 00-14-38-9B-D6-14
+      description: "Follow_Me_Box_HP serial CNHXB39614"
+      enabled: true
+      idgroup: 1108_LAN_Printer
+      id: 1393
+
+    - mac: 78-1C-5A-60-55-2B
+      description: "no description"
+      enabled: true
+      idgroup: 1108_LAN_Printer
+      id: 2335
+
+    - mac: 00-80-91-6D-26-68
+      description: "KBH Printer 7714"
+      enabled: true
+      idgroup: 1108_LAN_Printer
+      id: 1041
+
+    - mac: 00-80-91-6D-14-75
+      description: "Printer Vakmasteriet"
+      enabled: true
+      idgroup: 1108_LAN_Printer
+      id: 829
+
+    - mac: 00-80-91-6D-77-BA
+      description: "KBH Printer 5510"
+      enabled: true
+      idgroup: 1108_LAN_Printer
+      id: 1043
+
+    - mac: 00-17-C8-26-CF-10
+      description: "Vaning 6, Schibsted Hub (Hub)"
+      enabled: true
+      idgroup: 1108_LAN_Printer
+      id: 5115
+
+    - mac: 00-80-91-6D-78-18
+      description: "Skrivare Multirum 6730"
+      enabled: true
+      idgroup: 1108_LAN_Printer
+      id: 852
+
+    - mac: 00-17-C8-26-CF-A3
+      description: "Vaning 1, SvD ostersund"
+      enabled: true
+      idgroup: 1108_LAN_Printer
+      id: 5116
+
+    - mac: 00-80-91-6D-46-6F
+      description: "Printer"
+      enabled: true
+      idgroup: 1108_LAN_Printer
+      id: 1095
+
+    - mac: 00-80-91-6D-38-AD
+      description: "Printer"
+      enabled: true
+      idgroup: 1108_LAN_Printer
+      id: 1100
+
+    - mac: 00-14-38-9A-E4-BC
+      description: "Follow_Me_Box_HP serial CNHXB39687"
+      enabled: true
+      idgroup: 1108_LAN_Printer
+      id: 1377
+
+    - mac: 00-14-38-9B-36-D0
+      description: "Follow_Me_Box_HP serial CNHXH45582"
+      enabled: true
+      idgroup: 1108_LAN_Printer
+      id: 1387
+
+    - mac: 00-80-91-75-46-B6
+      description: "MFP printer Multirum  6770"
+      enabled: true
+      idgroup: 1108_LAN_Printer
+      id: 2425
+
+    - mac: 00-14-38-99-51-3A
+      description: "Follow_Me_Box_HP LJ4250 Lonekontoret serial CNHXB38806"
+      enabled: true
+      idgroup: 1108_LAN_Printer
+      id: 1381
+
+    - mac: 00-14-38-9B-E6-9A
+      description: "Follow_Me_Box_HP serial CNHXH45580"
+      enabled: true
+      idgroup: 1108_LAN_Printer
+      id: 1375
+
+    - mac: 00-C0-EE-B8-1F-AC
+      description: "Servicedesk Test Skrivare Kyocera TASKalfa 4551ci"
+      enabled: true
+      idgroup: 1108_LAN_Printer
+      id: 3810
+
+    - mac: FC-15-B4-30-13-B1
+      description: "Skrivare Servicedesk 2014"
+      enabled: true
+      idgroup: 1108_LAN_Printer
+      id: 2704
+
+    - mac: 00-17-C8-26-98-DF
+      description: "Vaning 11, Schibsted Sverige (11334)"
+      enabled: true
+      idgroup: 1108_LAN_Printer
+      id: 5113
+
+    - mac: 00-14-38-9A-55-C0
+      description: "Follow_Me_Box_HP serial CNHXH45575"
+      enabled: true
+      idgroup: 1108_LAN_Printer
+      id: 1390
+
+    - mac: 00-0E-E3-01-93-50
+      description: "Follow me Multirum 6336 10.11.11.197"
+      enabled: true
+      idgroup: 1108_LAN_Printer
+      id: 1499
+
+    - mac: 00-80-87-B2-65-55
+      description: "Tillfallig skrivare ctc214912 del v10/YA 130116"
+      enabled: true
+      idgroup: 1108_LAN_Printer
+      id: 2108
+
+    - mac: 00-14-38-D8-D0-5F
+      description: "Printer TEST HP"
+      enabled: true
+      idgroup: 1108_LAN_Printer
+      id: 287
+
+    - mac: 00-14-38-9B-D6-20
+      description: "Follow_Me_Box_HP serial CNHXB39688"
+      enabled: true
+      idgroup: 1108_LAN_Printer
+      id: 1380
+
+    - mac: 00-14-38-9B-E6-02
+      description: "katastrofrumsskrivare"
+      enabled: true
+      idgroup: 1108_LAN_Printer
+      id: 1614
+
+    - mac: 00-14-38-9B-D6-06
+      description: "Follow_Me_Box_HP serial CNHXB38813"
+      enabled: true
+      idgroup: 1108_LAN_Printer
+      id: 1383
+
+    - mac: 00-80-91-74-C5-74
+      description: "Toshiba Multirum 8136"
+      enabled: true
+      idgroup: 1108_LAN_Printer
+      id: 2356
+
+    - mac: 00-17-C8-26-CE-D7
+      description: "Vaning 7, Aftonbladet (7122)"
+      enabled: true
+      idgroup: 1108_LAN_Printer
+      id: 5105
+
+    - mac: 00-17-C8-26-C9-DF
+      description: "Vaning 4, Schibsted Centralen (Front desk)"
+      enabled: true
+      idgroup: 1108_LAN_Printer
+      id: 5097
+
+    - mac: 00-0E-E3-01-BB-28
+      description: "Follow Me Box  HP  CNHXB39614"
+      enabled: true
+      idgroup: 1108_LAN_Printer
+      id: 1599
+
+    - mac: 00-80-91-74-3B-2D
+      description: "MFP72851 - test //130409 YA"
+      enabled: true
+      idgroup: 1108_LAN_Printer
+      id: 2306
+
+    - mac: 00-17-C8-26-CE-CD
+      description: "Vaning 7, Aftonbladet ( 7714)"
+      enabled: true
+      idgroup: 1108_LAN_Printer
+      id: 5108
+
+    - mac: 00-0E-E3-01-93-56
+      description: "Follow me Multirum 8311 10.11.9.252 "
+      enabled: true
+      idgroup: 1108_LAN_Printer
+      id: 1510
+
+    - mac: 00-0E-E3-01-BB-09
+      description: "Follow me Multirum 6770 10.11.9.248 "
+      enabled: true
+      idgroup: 1108_LAN_Printer
+      id: 1501
+
+    - mac: 00-0E-E3-01-93-4E
+      description: "Follow me Multirum 8112 10.11.11.209"
+      enabled: true
+      idgroup: 1108_LAN_Printer
+      id: 1508
+
+    - mac: D4-85-64-3E-90-8D
+      description: "Printer Receptionen"
+      enabled: true
+      idgroup: 1108_LAN_Printer
+      id: 832
+
+    - mac: 00-80-91-6D-46-5F
+      description: "Printer Rum 5721"
+      enabled: true
+      idgroup: 1108_LAN_Printer
+      id: 828
+
+    - mac: 00-17-C8-26-B1-76
+      description: "Vaning 8 Aftonbladet Blocket 8136"
+      enabled: true
+      idgroup: 1108_LAN_Printer
+      id: 5117
+
+    - mac: 00-17-C8-26-CC-AE
+      description: "Vaning 6, Schibsted Centralen (Facility)"
+      enabled: true
+      idgroup: 1108_LAN_Printer
+      id: 5100
+
+    - mac: 00-80-91-6D-46-70
+      description: "Printer"
+      enabled: true
+      idgroup: 1108_LAN_Printer
+      id: 1098
+
+    - mac: 00-80-91-71-C5-47
+      description: "MFP 7456 Conferencen. //Ya"
+      enabled: true
+      idgroup: 1108_LAN_Printer
+      id: 2010
+
+    - mac: 00-17-C8-26-C7-E6
+      description: "Vaning 2, Schibsted Centralen (Office Support)"
+      enabled: true
+      idgroup: 1108_LAN_Printer
+      id: 5095
+
+    - mac: 00-0E-E3-01-93-53
+      description: "Printer"
+      enabled: true
+      idgroup: 1108_LAN_Printer
+      id: 830
+
+    - mac: 00-14-38-9B-C6-B8
+      description: "Follow_Me_Box_HP serial CNHXB38811"
+      enabled: true
+      idgroup: 1108_LAN_Printer
+      id: 1378
+
+    - mac: 00-15-99-45-DA-A8
+      description: "Wimp Skrivare"
+      enabled: true
+      idgroup: 1108_LAN_Printer
+      id: 2105
+
+    - mac: 00-14-38-9B-D6-07
+      description: "HP Skrivare serial CNHXB39693"
+      enabled: true
+      idgroup: 1108_LAN_Printer
+      id: 1391
+
+    - mac: 00-17-C8-26-A2-B1
+      description: "Plan 8 8649"
+      enabled: true
+      idgroup: 1108_LAN_Printer
+      id: 5110
+
+    - mac: 00-80-91-74-C5-72
+      description: "Toshiba Multirum 7190"
+      enabled: true
+      idgroup: 1108_LAN_Printer
+      id: 2353
+
+    - mac: 00-17-C8-26-CF-31
+      description: "Vaning 5, SvD (5721)"
+      enabled: true
+      idgroup: 1108_LAN_Printer
+      id: 5102
+
+    - mac: 00-80-91-6D-53-22
+      description: "Printer"
+      enabled: true
+      idgroup: 1108_LAN_Printer
+      id: 1096
+
+    - mac: 00-27-0E-28-CB-95
+      description: "Schibdocs Kodak Skanner Multirum 5721"
+      enabled: true
+      idgroup: 1108_LAN_Printer
+      id: 1191
+
+    - mac: 00-80-91-74-C5-7A
+      description: "Toshiba Multirum 5510"
+      enabled: true
+      idgroup: 1108_LAN_Printer
+      id: 2360
+
+    - mac: 00-80-91-74-C5-6D
+      description: "Toshiba Multirum 5721"
+      enabled: true
+      idgroup: 1108_LAN_Printer
+      id: 2358
+
+    - mac: 00-0E-7B-BA-EF-8C
+      description: "Toshiba temporary"
+      enabled: true
+      idgroup: 1108_LAN_Printer
+      id: 1515
+
+    - mac: 00-80-91-6D-78-23
+      description: "KBH Printer 5761"
+      enabled: true
+      idgroup: 1108_LAN_Printer
+      id: 1042
+
+    - mac: 00-17-C8-26-CD-EB
+      description: "Vaning 5, Schibsted Centralen (5221)"
+      enabled: true
+      idgroup: 1108_LAN_Printer
+      id: 5099
+
+    - mac: 00-17-C8-26-CE-AE
+      description: "Vaning 6, Compricer (6310)"
+      enabled: true
+      idgroup: 1108_LAN_Printer
+      id: 5103
+
+    - mac: 00-17-C8-26-CE-A3
+      description: "Vaning 6, Schibsted Growth (6730)"
+      enabled: true
+      idgroup: 1108_LAN_Printer
+      id: 5104
+
+    - mac: 00-0E-E3-01-93-49
+      description: "Follow me Multirum 7714 10.11.11.223"
+      enabled: true
+      idgroup: 1108_LAN_Printer
+      id: 1506
+
+    - mac: 00-17-C8-26-95-F6
+      description: "Vaning 10, Schibsted Centralen (Plan 10)"
+      enabled: true
+      idgroup: 1108_LAN_Printer
+      id: 5112
+
+    - mac: F8-1E-DF-DD-0D-A5
+      description: "24689 test yngve// 120706"
+      enabled: true
+      idgroup: 1108_LAN_Printer
+      id: 2032
+
+    - mac: 00-60-30-00-16-BD
+      description: "EasyfollowMe CMI RUM 7751"
+      enabled: true
+      idgroup: 1108_LAN_Printer
+      id: 2677
+
+    - mac: 00-14-38-9B-D6-C5
+      description: "Follow_Me_Box_HP serial CNHXH45581"
+      enabled: true
+      idgroup: 1108_LAN_Printer
+      id: 1389
+
+    - mac: 00-80-91-6D-27-CB
+      description: "KBH Printer 7751"
+      enabled: true
+      idgroup: 1108_LAN_Printer
+      id: 1040
+
+    - mac: 00-C0-EE-AF-9E-87
+      description: "Servicedesk Test Skrivare Kyocera TASKalfa 4551ci"
+      enabled: true
+      idgroup: 1108_LAN_Printer
+      id: 2941
+
+    - mac: 00-14-38-9B-36-E5
+      description: "Follow_Me_Box_HP serial CNHXB39685"
+      enabled: true
+      idgroup: 1108_LAN_Printer
+      id: 1386
+
+    - mac: 00-80-91-6C-AB-FC
+      description: "Printer 07121916"
+      enabled: true
+      idgroup: 1108_LAN_Printer
+      id: 286
+
+    - mac: 00-17-C8-26-AF-7A
+      description: "Vaning 13, Schibsted Sverige (6763)"
+      enabled: true
+      idgroup: 1108_LAN_Printer
+      id: 5114
+
+    - mac: 00-E0-81-D6-6B-D4
+      description: "RIP 7751"
+      enabled: true
+      idgroup: 1108_LAN_Printer
+      id: 2609
+
+    - mac: 00-17-C8-26-96-DE
+      description: "Vaning 8, Schibsted Sales & Inventory (8616)"
+      enabled: true
+      idgroup: 1108_LAN_Printer
+      id: 5111
+
+    - mac: 00-0E-E3-01-93-54
+      description: "Follow me Multirum 7751 10.11.11.234"
+      enabled: true
+      idgroup: 1108_LAN_Printer
+      id: 1507
+
+    - mac: 00-80-91-6D-53-7B
+      description: "Skrivare Multirum 6770"
+      enabled: true
+      idgroup: 1108_LAN_Printer
+      id: 853
+
+    - mac: 00-0E-E3-01-BB-16
+      description: "Follow me Multirum 6730 10.11.11.198"
+      enabled: true
+      idgroup: 1108_LAN_Printer
+      id: 1500
+
+    - mac: 00-14-38-9B-36-D9
+      description: "Follow_Me_Box_HP serial CNHXB39611"
+      enabled: true
+      idgroup: 1108_LAN_Printer
+      id: 1388
+
+    - mac: 00-25-36-06-C2-FE
+      description: "Tillfallig skrivare TTI217423 del v10/YA 130116"
+      enabled: true
+      idgroup: 1108_LAN_Printer
+      id: 2107
+
+    - mac: 00-80-91-6D-54-C0
+      description: "Multirum 8649 Plan 8, del 1"
+      enabled: true
+      idgroup: 1108_LAN_Printer
+      id: 1598
+
+    - mac: 00-80-91-74-C5-57
+      description: "Toshiba Multirum 6310"
+      enabled: true
+      idgroup: 1108_LAN_Printer
+      id: 2357
+
+    - mac: 00-17-C8-26-96-CE
+      description: "Vaning 7, TV.nu (7751)"
+      enabled: true
+      idgroup: 1108_LAN_Printer
+      id: 5109
+
+    - mac: 00-14-38-9A-55-25
+      description: "Follow_Me_Box_HP serial CNHXG40832"
+      enabled: true
+      idgroup: 1108_LAN_Printer
+      id: 1382
+
+    - mac: 00-17-C8-26-CE-44
+      description: "Vaning 7, Aftonbladet (7190)"
+      enabled: true
+      idgroup: 1108_LAN_Printer
+      id: 5106
+
+    - mac: 00-80-91-6D-38-B0
+      description: "Printer Rum 6336"
+      enabled: true
+      idgroup: 1108_LAN_Printer
+      id: 826
+
+    - mac: 00-80-91-6D-52-AA
+      description: "Printer"
+      enabled: true
+      idgroup: 1108_LAN_Printer
+      id: 1099
+
+    - mac: 00-25-36-06-62-DE
+      description: "Tillfallig skrivare TTI217424, del v10/YA 130116"
+      enabled: true
+      idgroup: 1108_LAN_Printer
+      id: 2106
+
+    - mac: 00-14-38-9A-D4-20
+      description: "Follow_Me_Box_HP serial CNHXB38815"
+      enabled: true
+      idgroup: 1108_LAN_Printer
+      id: 1392
+
+    - mac: 00-17-C8-26-CE-99
+      description: "Vaning 7, Aftonbladet (7520)"
+      enabled: true
+      idgroup: 1108_LAN_Printer
+      id: 5107
+
+    - mac: F0-92-1C-64-19-20
+      description: "HP Testprinter 20151215 JF"
+      enabled: true
+      idgroup: 1108_LAN_Printer
+      id: 2943
+
+    - mac: 00-0E-E3-01-BB-25
+      description: "Follow me Multirum 7160 10.11.11.217"
+      enabled: true
+      idgroup: 1108_LAN_Printer
+      id: 1503
+
+    - mac: 00-0E-E3-01-93-61
+      description: "Follow me Multirum 7122             "
+      enabled: true
+      idgroup: 1108_LAN_Printer
+      id: 1502
+
+    - mac: 00-0E-E3-01-93-58
+      description: "Printer"
+      enabled: true
+      idgroup: 1108_LAN_Printer
+      id: 831
+
+    - mac: 00-80-91-74-34-E9
+      description: "Toshiba Multirum 7520"
+      enabled: true
+      idgroup: 1108_LAN_Printer
+      id: 2355
+
+    - mac: 9C-93-4E-33-38-8A
+      description: "Skivare ostermalmsgatan 87B"
+      enabled: true
+      idgroup: 1108_LAN_Printer
+      id: 4675
+
+    - mac: 00-17-C8-26-CC-3E
+      description: "Vaning 5, SvD (5510)"
+      enabled: true
+      idgroup: 1108_LAN_Printer
+      id: 5101
+
+    - mac: 00-17-C8-26-A3-F8
+      description: "Vaning 8 Aftonbladet Blocket 8112"
+      enabled: true
+      idgroup: 1108_LAN_Printer
+      id: 5118
+
+    - mac: 00-17-C8-26-CE-7B
+      description: "Vaning 4, SvD (Plan4, Trapp15)"
+      enabled: true
+      idgroup: 1108_LAN_Printer
+      id: 5098
+
+    - mac: 00-80-91-6D-78-2D
+      description: "Printer"
+      enabled: true
+      idgroup: 1108_LAN_Printer
+      id: 1097
+
+    - mac: 00-14-38-9B-D6-A6
+      description: "Follow_Me_Box_HP serial CNHXB39762"
+      enabled: true
+      idgroup: 1108_LAN_Printer
+      id: 1384
+
+    - mac: 00-14-38-9B-C6-DB
+      description: "Follow_Me_Box_HP serial CNHXB38812"
+      enabled: true
+      idgroup: 1108_LAN_Printer
+      id: 1385
+
+    - mac: 00-17-C8-26-17-50
+      description: "Vaning 2, Aftonbladet (TV-studio)"
+      enabled: true
+      idgroup: 1108_LAN_Printer
+      id: 5096
+
+    - mac: 38-63-BB-04-11-B6
+      description: "HP Testprinter"
+      enabled: true
+      idgroup: 1108_LAN_Printer
+      id: 2977
+
+    - mac: 00-14-38-9B-84-59
+      description: "Follow_Me_Box_HP serial CNHXH45565"
+      enabled: true
+      idgroup: 1108_LAN_Printer
+      id: 1379
+
+    - mac: 00-14-38-99-11-45
+      description: "Follow_Me_Box_HP serial CNHXB39758"
+      enabled: true
+      idgroup: 1108_LAN_Printer
+      id: 1376
+
+    - mac: 00-26-73-42-F0-80
+      description: "MP C4502A Test skrivare. // YA 120706"
+      enabled: true
+      idgroup: 1108_LAN_Printer
+      id: 2030
+
+    - mac: 00-14-38-9B-D6-14
+      description: "Follow_Me_Box_HP serial CNHXB39614"
+      enabled: true
+      idgroup: 1108_LAN_Printer
+      id: 1393
+
+    - mac: 78-1C-5A-60-55-2B
+      description: "no description"
+      enabled: true
+      idgroup: 1108_LAN_Printer
+      id: 2335
+
+    - mac: 00-80-91-6D-26-68
+      description: "KBH Printer 7714"
+      enabled: true
+      idgroup: 1108_LAN_Printer
+      id: 1041
+
+    - mac: 00-80-91-6D-14-75
+      description: "Printer Vakmasteriet"
+      enabled: true
+      idgroup: 1108_LAN_Printer
+      id: 829
+
+    - mac: 00-80-91-6D-77-BA
+      description: "KBH Printer 5510"
+      enabled: true
+      idgroup: 1108_LAN_Printer
+      id: 1043
+
+    - mac: 00-17-C8-26-CF-10
+      description: "Vaning 6, Schibsted Hub (Hub)"
+      enabled: true
+      idgroup: 1108_LAN_Printer
+      id: 5115
+
+    - mac: 00-80-91-6D-78-18
+      description: "Skrivare Multirum 6730"
+      enabled: true
+      idgroup: 1108_LAN_Printer
+      id: 852
+
+    - mac: 00-17-C8-26-CF-A3
+      description: "Vaning 1, SvD ostersund"
+      enabled: true
+      idgroup: 1108_LAN_Printer
+      id: 5116
+
+    - mac: 00-80-91-6D-46-6F
+      description: "Printer"
+      enabled: true
+      idgroup: 1108_LAN_Printer
+      id: 1095
+
+    - mac: 00-80-91-6D-38-AD
+      description: "Printer"
+      enabled: true
+      idgroup: 1108_LAN_Printer
+      id: 1100
+
+    - mac: 00-14-38-9A-E4-BC
+      description: "Follow_Me_Box_HP serial CNHXB39687"
+      enabled: true
+      idgroup: 1108_LAN_Printer
+      id: 1377
+

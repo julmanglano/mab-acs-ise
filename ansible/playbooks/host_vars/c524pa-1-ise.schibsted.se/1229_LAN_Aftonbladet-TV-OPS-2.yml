@@ -1,0 +1,421 @@
+1229_LAN_Aftonbladet-TV-OPS-2:
+
+    - mac: 00-04-A3-43-56-93
+      description: "Teradek Cube RX: IP: 10.12.29.252"
+      enabled: true
+      idgroup: 1229_LAN_Aftonbladet-TV-OPS-2
+      id: 5684
+
+    - mac: 00-0E-98-03-DE-CB
+      description: "CLEARCOM IP PANEL 2 10.12.29.65"
+      enabled: true
+      idgroup: 1229_LAN_Aftonbladet-TV-OPS-2
+      id: 5610
+
+    - mac: 00-0E-98-03-DE-91
+      description: "CLEARCOM IP PANEL 1 10.12.29.64"
+      enabled: true
+      idgroup: 1229_LAN_Aftonbladet-TV-OPS-2
+      id: 5609
+
+    - mac: 00-0E-98-05-07-86
+      description: "CLEARCOM IP KORT EXPN 10.12.29.61"
+      enabled: true
+      idgroup: 1229_LAN_Aftonbladet-TV-OPS-2
+      id: 5606
+
+    - mac: 00-13-95-2E-91-74
+      description: "DYVI Panel 10.12.29.241"
+      enabled: true
+      idgroup: 1229_LAN_Aftonbladet-TV-OPS-2
+      id: 5621
+
+    - mac: F0-18-98-F3-F4-60
+      description: "3 MAC 2 Studio 3, 10.12.29.107, SRQ269239"
+      enabled: true
+      idgroup: 1229_LAN_Aftonbladet-TV-OPS-2
+      id: 5745
+
+    - mac: 00-0E-98-03-DE-8E
+      description: "CLEARCOM IP PANEL 4 10.12.29.67"
+      enabled: true
+      idgroup: 1229_LAN_Aftonbladet-TV-OPS-2
+      id: 5612
+
+    - mac: 80-5E-C0-3E-DF-37
+      description: "AEQ TELE1: 10.12.29.41"
+      enabled: true
+      idgroup: 1229_LAN_Aftonbladet-TV-OPS-2
+      id: 5603
+
+    - mac: F0-18-98-F3-64-29
+      description: "3 MAC 1 Studio 3, 10.12.29.104"
+      enabled: true
+      idgroup: 1229_LAN_Aftonbladet-TV-OPS-2
+      id: 5663
+
+    - mac: F0-18-98-F0-26-31
+      description: "3 CG 1 Studio 3-AB	"
+      enabled: true
+      idgroup: 1229_LAN_Aftonbladet-TV-OPS-2
+      id: 5625
+
+    - mac: 00-0E-98-05-07-85
+      description: "CLEARCOM IP KORT ADMIN 10.12.29.60"
+      enabled: true
+      idgroup: 1229_LAN_Aftonbladet-TV-OPS-2
+      id: 5605
+
+    - mac: 00-0E-98-02-D3-8C
+      description: "CLEARCOM IP PANEL 8 10.12.29.71"
+      enabled: true
+      idgroup: 1229_LAN_Aftonbladet-TV-OPS-2
+      id: 5616
+
+    - mac: 00-0E-98-02-86-97
+      description: "CLEARCOM IP PANEL 9 10.12.29.72"
+      enabled: true
+      idgroup: 1229_LAN_Aftonbladet-TV-OPS-2
+      id: 5617
+
+    - mac: 00-04-A3-43-FB-7A
+      description: "Teradek Cube TX: IP: 10.12.29.251"
+      enabled: true
+      idgroup: 1229_LAN_Aftonbladet-TV-OPS-2
+      id: 5683
+
+    - mac: AC-1F-6B-B2-8F-A4
+      description: "3 CG 3-CASPAR-Studio 3-AB"
+      enabled: true
+      idgroup: 1229_LAN_Aftonbladet-TV-OPS-2
+      id: 5627
+
+    - mac: F0-18-98-F0-1F-AD
+      description: "3 MAC 1 Studio 3, 10.12.29.106, SRQ269239"
+      enabled: true
+      idgroup: 1229_LAN_Aftonbladet-TV-OPS-2
+      id: 5744
+
+    - mac: 00-0E-98-03-DE-90
+      description: "CLEARCOM IP PANEL 3 10.12.29.66"
+      enabled: true
+      idgroup: 1229_LAN_Aftonbladet-TV-OPS-2
+      id: 5611
+
+    - mac: 28-29-86-11-F3-9D
+      description: "APC PDU 1"
+      enabled: true
+      idgroup: 1229_LAN_Aftonbladet-TV-OPS-2
+      id: 5601
+
+    - mac: 00-0E-98-05-07-87
+      description: "CLEARCOM IP KORT AOIP 1 10.12.29.62"
+      enabled: true
+      idgroup: 1229_LAN_Aftonbladet-TV-OPS-2
+      id: 5607
+
+    - mac: CC-98-8B-1A-71-ED
+      description: "Sony CAM 7"
+      enabled: true
+      idgroup: 1229_LAN_Aftonbladet-TV-OPS-2
+      id: 5693
+
+    - mac: 80-5E-C0-3E-DE-79
+      description: "AEQ TELE2: 10.12.29.42"
+      enabled: true
+      idgroup: 1229_LAN_Aftonbladet-TV-OPS-2
+      id: 5604
+
+    - mac: D8-9E-F3-85-70-D5
+      description: "DYVI Pc  10.12.29.242"
+      enabled: true
+      idgroup: 1229_LAN_Aftonbladet-TV-OPS-2
+      id: 5622
+
+    - mac: 18-31-BF-D0-71-3D
+      description: "DYVI Frame 10.12.29.240"
+      enabled: true
+      idgroup: 1229_LAN_Aftonbladet-TV-OPS-2
+      id: 5620
+
+    - mac: 00-0E-98-02-72-09
+      description: "CLEARCOM IP PANEL 6 10.12.29.69"
+      enabled: true
+      idgroup: 1229_LAN_Aftonbladet-TV-OPS-2
+      id: 5614
+
+    - mac: F0-18-98-F2-DC-DF
+      description: "3 CG 2-Studio 3-AB"
+      enabled: true
+      idgroup: 1229_LAN_Aftonbladet-TV-OPS-2
+      id: 5626
+
+    - mac: AC-9B-0A-20-E2-43
+      description: "Sony REMOTE"
+      enabled: true
+      idgroup: 1229_LAN_Aftonbladet-TV-OPS-2
+      id: 5692
+
+    - mac: 00-0E-98-02-9B-95
+      description: "CLEARCOM IP PANEL 5 10.12.29.68"
+      enabled: true
+      idgroup: 1229_LAN_Aftonbladet-TV-OPS-2
+      id: 5613
+
+    - mac: 00-0E-98-02-F6-3F
+      description: "CLEARCOM IP PANEL 7 10.12.29.70"
+      enabled: true
+      idgroup: 1229_LAN_Aftonbladet-TV-OPS-2
+      id: 5615
+
+    - mac: F0-18-98-F3-73-D7
+      description: "3 MAC 2 Studio 3, 10.12.29.105"
+      enabled: true
+      idgroup: 1229_LAN_Aftonbladet-TV-OPS-2
+      id: 5664
+
+    - mac: 00-0E-98-02-71-E9
+      description: "CLEARCOM IP PANEL 10 10.12.29.73"
+      enabled: true
+      idgroup: 1229_LAN_Aftonbladet-TV-OPS-2
+      id: 5618
+
+    - mac: 00-0E-98-05-07-88
+      description: "CLEARCOM IP KORT AOIP 2 10.12.29.63"
+      enabled: true
+      idgroup: 1229_LAN_Aftonbladet-TV-OPS-2
+      id: 5608
+    - mac: CC-98-8B-1A-78-8B
+      description: "CLEARCOM IP KORT AOIP 2 10.12.29.30"
+      enabled: true
+      idgroup: 1229_LAN_Aftonbladet-TV-OPS-2
+      id: 44
+    
+    - mac: 0c-c4-7a-cf-23-9a
+      description: "Space disk storage for studio 3 10.12.29.91"
+      enabled: true
+      idgroup: 1229_LAN_Aftonbladet-TV-OPS-2
+      id: 3311
+    
+    - mac: 00-05-1B-E1-0B-D7
+      description: "Not provided"
+      enabled: true
+      idgroup: 1229_LAN_Aftonbladet-TV-OPS-2
+      id: 9441
+    
+    - mac: 30-23-03-06-30-32
+      description: "3 MAC 1 Studio 3 10.12.29.104"
+      enabled: true
+      idgroup: 1229_LAN_Aftonbladet-TV-OPS-2
+      id: 6895
+    
+    - mac: 00-04-A3-43-56-93
+      description: "Teradek Cube RX: IP: 10.12.29.252"
+      enabled: true
+      idgroup: 1229_LAN_Aftonbladet-TV-OPS-2
+      id: 5684
+
+    - mac: 00-0E-98-03-DE-CB
+      description: "CLEARCOM IP PANEL 2 10.12.29.65"
+      enabled: true
+      idgroup: 1229_LAN_Aftonbladet-TV-OPS-2
+      id: 5610
+
+    - mac: 00-0E-98-03-DE-91
+      description: "CLEARCOM IP PANEL 1 10.12.29.64"
+      enabled: true
+      idgroup: 1229_LAN_Aftonbladet-TV-OPS-2
+      id: 5609
+
+    - mac: 00-0E-98-05-07-86
+      description: "CLEARCOM IP KORT EXPN 10.12.29.61"
+      enabled: true
+      idgroup: 1229_LAN_Aftonbladet-TV-OPS-2
+      id: 5606
+
+    - mac: 00-13-95-2E-91-74
+      description: "DYVI Panel 10.12.29.241"
+      enabled: true
+      idgroup: 1229_LAN_Aftonbladet-TV-OPS-2
+      id: 5621
+
+    - mac: F0-18-98-F3-F4-60
+      description: "3 MAC 2 Studio 3, 10.12.29.107, SRQ269239"
+      enabled: true
+      idgroup: 1229_LAN_Aftonbladet-TV-OPS-2
+      id: 5745
+
+    - mac: 00-0E-98-03-DE-8E
+      description: "CLEARCOM IP PANEL 4 10.12.29.67"
+      enabled: true
+      idgroup: 1229_LAN_Aftonbladet-TV-OPS-2
+      id: 5612
+
+    - mac: 00-05-1B-E1-0B-D7
+      description: "Not provided"
+      enabled: true
+      idgroup: 1229_LAN_Aftonbladet-TV-OPS-2
+      id: 5848
+
+    - mac: 80-5E-C0-3E-DF-37
+      description: "AEQ TELE1: 10.12.29.41"
+      enabled: true
+      idgroup: 1229_LAN_Aftonbladet-TV-OPS-2
+      id: 5603
+
+    - mac: F0-18-98-F3-64-29
+      description: "3 MAC 1 Studio 3, 10.12.29.104"
+      enabled: true
+      idgroup: 1229_LAN_Aftonbladet-TV-OPS-2
+      id: 5663
+
+    - mac: F0-18-98-F0-26-31
+      description: "3 CG 1 Studio 3-AB	"
+      enabled: true
+      idgroup: 1229_LAN_Aftonbladet-TV-OPS-2
+      id: 5625
+
+    - mac: 00-0E-98-05-07-85
+      description: "CLEARCOM IP KORT ADMIN 10.12.29.60"
+      enabled: true
+      idgroup: 1229_LAN_Aftonbladet-TV-OPS-2
+      id: 5605
+
+    - mac: 00-0E-98-02-D3-8C
+      description: "CLEARCOM IP PANEL 8 10.12.29.71"
+      enabled: true
+      idgroup: 1229_LAN_Aftonbladet-TV-OPS-2
+      id: 5616
+
+    - mac: 00-0E-98-02-86-97
+      description: "CLEARCOM IP PANEL 9 10.12.29.72"
+      enabled: true
+      idgroup: 1229_LAN_Aftonbladet-TV-OPS-2
+      id: 5617
+
+    - mac: 00-04-A3-43-FB-7A
+      description: "Teradek Cube TX: IP: 10.12.29.251"
+      enabled: true
+      idgroup: 1229_LAN_Aftonbladet-TV-OPS-2
+      id: 5683
+
+    - mac: AC-1F-6B-B2-8F-A4
+      description: "3 CG 3-CASPAR-Studio 3-AB"
+      enabled: true
+      idgroup: 1229_LAN_Aftonbladet-TV-OPS-2
+      id: 5627
+
+    - mac: F0-18-98-F0-1F-AD
+      description: "3 MAC 1 Studio 3, 10.12.29.106, SRQ269239"
+      enabled: true
+      idgroup: 1229_LAN_Aftonbladet-TV-OPS-2
+      id: 5744
+
+    - mac: 00-0E-98-03-DE-90
+      description: "CLEARCOM IP PANEL 3 10.12.29.66"
+      enabled: true
+      idgroup: 1229_LAN_Aftonbladet-TV-OPS-2
+      id: 5611
+
+    - mac: 28-29-86-11-F3-9D
+      description: "APC PDU 1"
+      enabled: true
+      idgroup: 1229_LAN_Aftonbladet-TV-OPS-2
+      id: 5601
+
+    - mac: 00-0E-98-05-07-87
+      description: "CLEARCOM IP KORT AOIP 1 10.12.29.62"
+      enabled: true
+      idgroup: 1229_LAN_Aftonbladet-TV-OPS-2
+      id: 5607
+
+    - mac: CC-98-8B-1A-71-ED
+      description: "Sony CAM 7"
+      enabled: true
+      idgroup: 1229_LAN_Aftonbladet-TV-OPS-2
+      id: 5693
+
+    - mac: 80-5E-C0-3E-DE-79
+      description: "AEQ TELE2: 10.12.29.42"
+      enabled: true
+      idgroup: 1229_LAN_Aftonbladet-TV-OPS-2
+      id: 5604
+
+    - mac: D8-9E-F3-85-70-D5
+      description: "DYVI Pc  10.12.29.242"
+      enabled: true
+      idgroup: 1229_LAN_Aftonbladet-TV-OPS-2
+      id: 5622
+
+    - mac: 18-31-BF-D0-71-3D
+      description: "DYVI Frame 10.12.29.240"
+      enabled: true
+      idgroup: 1229_LAN_Aftonbladet-TV-OPS-2
+      id: 5620
+
+    - mac: 00-0E-98-02-72-09
+      description: "CLEARCOM IP PANEL 6 10.12.29.69"
+      enabled: true
+      idgroup: 1229_LAN_Aftonbladet-TV-OPS-2
+      id: 5614
+
+    - mac: F0-18-98-F2-DC-DF
+      description: "3 CG 2-Studio 3-AB"
+      enabled: true
+      idgroup: 1229_LAN_Aftonbladet-TV-OPS-2
+      id: 5626
+
+    - mac: AC-9B-0A-20-E2-43
+      description: "Sony REMOTE"
+      enabled: true
+      idgroup: 1229_LAN_Aftonbladet-TV-OPS-2
+      id: 5692
+
+    - mac: 00-0E-98-02-9B-95
+      description: "CLEARCOM IP PANEL 5 10.12.29.68"
+      enabled: true
+      idgroup: 1229_LAN_Aftonbladet-TV-OPS-2
+      id: 5613
+
+    - mac: CC-98-8B-1A-78-8B
+      description: "CLEARCOM IP KORT AOIP 2 10.12.29.63"
+      enabled: true
+      idgroup: 1229_LAN_Aftonbladet-TV-OPS-2
+      id: 5778
+
+    - mac: 0C-C4-7A-CF-23-9A
+      description: "Space disk storage for studio 3 10.12.29.91"
+      enabled: true
+      idgroup: 1229_LAN_Aftonbladet-TV-OPS-2
+      id: 5847
+
+    - mac: 00-0E-98-02-F6-3F
+      description: "CLEARCOM IP PANEL 7 10.12.29.70"
+      enabled: true
+      idgroup: 1229_LAN_Aftonbladet-TV-OPS-2
+      id: 5615
+
+    - mac: F0-18-98-F3-73-D7
+      description: "3 MAC 2 Studio 3, 10.12.29.105"
+      enabled: true
+      idgroup: 1229_LAN_Aftonbladet-TV-OPS-2
+      id: 5664
+
+    - mac: 00-0E-98-02-71-E9
+      description: "CLEARCOM IP PANEL 10 10.12.29.73"
+      enabled: true
+      idgroup: 1229_LAN_Aftonbladet-TV-OPS-2
+      id: 5618
+
+    - mac: 00-0E-98-05-07-88
+      description: "CLEARCOM IP KORT AOIP 2 10.12.29.63"
+      enabled: true
+      idgroup: 1229_LAN_Aftonbladet-TV-OPS-2
+      id: 5608
+
+    - mac: 30-23-03-06-30-32
+      description: "3 MAC 1 Studio 3 10.12.29.104"
+      enabled: true
+      idgroup: 1229_LAN_Aftonbladet-TV-OPS-2
+      id: 5849
+

@@ -1,0 +1,1820 @@
+351_AP:
+
+    - mac: E4-AA-5D-A9-07-BC
+      description: "KBH-PL8-AP04"
+      enabled: true
+      idgroup: 351_AP
+      id: 2927
+
+    - mac: C8-4C-75-F3-D8-8F
+      description: "KBH-PL5-AP02"
+      enabled: true
+      idgroup: 351_AP
+      id: 2266
+
+    - mac: E4-AA-5D-B5-6E-B0
+      description: "KBH-PL5-AP16"
+      enabled: true
+      idgroup: 351_AP
+      id: 2932
+
+    - mac: 00-3A-7D-55-A4-70
+      description: "KBH-PL6-AP54"
+      enabled: true
+      idgroup: 351_AP
+      id: 3706
+
+    - mac: 3C-08-F6-A6-FF-CC
+      description: "KBH-PL5-AP13"
+      enabled: true
+      idgroup: 351_AP
+      id: 2592
+
+    - mac: 3C-08-F6-11-92-68
+      description: "KBH-PL5-AP15"
+      enabled: true
+      idgroup: 351_AP
+      id: 2587
+
+    - mac: 00-FC-BA-C9-36-46
+      description: "LMG-PL2-AP01"
+      enabled: true
+      idgroup: 351_AP
+      id: 5473
+
+    - mac: 00-F2-8B-65-EE-8C
+      description: "KBH-PL12-AP01"
+      enabled: true
+      idgroup: 351_AP
+      id: 2999
+
+    - mac: E4-AA-5D-B2-E1-84
+      description: "KBH-PL8-AP01"
+      enabled: true
+      idgroup: 351_AP
+      id: 2924
+
+    - mac: C8-4C-75-F3-D9-96
+      description: "KBH-PL12-AP07"
+      enabled: true
+      idgroup: 351_AP
+      id: 2274
+
+    - mac: E8-65-49-DB-2E-18
+      description: "KBH-PL13-Utomhus"
+      enabled: true
+      idgroup: 351_AP
+      id: 2864
+
+    - mac: 04-62-73-AB-EF-D0
+      description: "KBH-PL13-AP03"
+      enabled: true
+      idgroup: 351_AP
+      id: 2901
+
+    - mac: 3C-08-F6-A6-FA-F8
+      description: "KBH-PL8-AP14"
+      enabled: true
+      idgroup: 351_AP
+      id: 2582
+
+    - mac: 00-F2-8B-5E-46-20
+      description: "KBH-PL5-AP12"
+      enabled: true
+      idgroup: 351_AP
+      id: 3955
+
+    - mac: C8-4C-75-EE-17-73
+      description: "KBH-PL3-AP01"
+      enabled: true
+      idgroup: 351_AP
+      id: 2227
+
+    - mac: C8-4C-75-EE-17-EE
+      description: "KBH-PL5-AP01"
+      enabled: true
+      idgroup: 351_AP
+      id: 2237
+
+    - mac: 00-3A-7D-55-A5-8C
+      description: "KBH-PL7-AP58"
+      enabled: true
+      idgroup: 351_AP
+      id: 3707
+
+    - mac: 4C-00-82-AD-53-CD
+      description: "KBH-PL11-AP02"
+      enabled: true
+      idgroup: 351_AP
+      id: 2419
+
+    - mac: E4-AA-5D-B9-FF-F8
+      description: "KBH-PL8-AP06"
+      enabled: true
+      idgroup: 351_AP
+      id: 2937
+
+    - mac: 00-3A-7D-37-95-F8
+      description: "KBH-PL7-AP51"
+      enabled: true
+      idgroup: 351_AP
+      id: 3696
+
+    - mac: 74-26-AC-75-C7-D4
+      description: "KBH-PL8-AP17"
+      enabled: true
+      idgroup: 351_AP
+      id: 2690
+
+    - mac: 28-AC-9E-E6-1F-1E
+      description: "LMG-PL2-AP03"
+      enabled: true
+      idgroup: 351_AP
+      id: 5475
+
+    - mac: 00-C8-8B-69-FB-1E
+      description: "Servicefinder AP"
+      enabled: true
+      idgroup: 351_AP
+      id: 5271
+
+    - mac: 00-3A-7D-61-C2-30
+      description: "KBH-PL7-AP63"
+      enabled: true
+      idgroup: 351_AP
+      id: 3719
+
+    - mac: 00-3A-7D-5C-1B-88
+      description: "KBH-PL7-AP59"
+      enabled: true
+      idgroup: 351_AP
+      id: 3709
+
+    - mac: 28-AC-9E-E6-20-6C
+      description: "LMG-PL2-AP12"
+      enabled: true
+      idgroup: 351_AP
+      id: 5485
+
+    - mac: 3C-08-F6-08-45-D4
+      description: "DTG-PL1-AP03"
+      enabled: true
+      idgroup: 351_AP
+      id: 2595
+
+    - mac: 00-F2-8B-34-B7-64
+      description: "KBH-PL5-AP09"
+      enabled: true
+      idgroup: 351_AP
+      id: 2996
+
+    - mac: BC-16-65-09-62-AC
+      description: "KBH-PL8-AP12"
+      enabled: true
+      idgroup: 351_AP
+      id: 2576
+
+    - mac: 3C-08-F6-11-94-78
+      description: "KBH-PL8-AP16"
+      enabled: true
+      idgroup: 351_AP
+      id: 2583
+
+    - mac: 3C-08-F6-11-92-5C
+      description: "KBH-PL7-AP20"
+      enabled: true
+      idgroup: 351_AP
+      id: 2589
+
+    - mac: 00-3A-7D-4D-5E-30
+      description: "KBH-PL6-AP51"
+      enabled: true
+      idgroup: 351_AP
+      id: 3700
+
+    - mac: 2C-33-11-ED-1D-84
+      description: "Servicefinder AP"
+      enabled: true
+      idgroup: 351_AP
+      id: 5276
+
+    - mac: 04-62-73-AB-F1-24
+      description: "KBH-PL13-AP02"
+      enabled: true
+      idgroup: 351_AP
+      id: 2900
+
+    - mac: BC-16-65-09-68-60
+      description: "KBH-PL5-AP14"
+      enabled: true
+      idgroup: 351_AP
+      id: 2590
+
+    - mac: C8-4C-75-EE-1B-22
+      description: "KBH-PL7-AP11"
+      enabled: true
+      idgroup: 351_AP
+      id: 2243
+
+    - mac: C8-4C-75-EE-22-CE
+      description: "KBH-PL6-TEST"
+      enabled: true
+      idgroup: 351_AP
+      id: 2250
+
+    - mac: 00-3A-7D-10-48-1C
+      description: "KBH-PL6-AP50"
+      enabled: true
+      idgroup: 351_AP
+      id: 3694
+
+    - mac: C8-4C-75-EE-1E-30
+      description: "KBH-PL7-AP10"
+      enabled: true
+      idgroup: 351_AP
+      id: 2249
+
+    - mac: 4C-00-82-AD-51-5A
+      description: "KBH-PL11-AP05"
+      enabled: true
+      idgroup: 351_AP
+      id: 2423
+
+    - mac: 00-D7-8F-9A-1C-9C
+      description: "KBH-PL11-AP07"
+      enabled: true
+      idgroup: 351_AP
+      id: 5743
+
+    - mac: C8-4C-75-F3-DB-AE
+      description: "KBH-PL4-AP01"
+      enabled: true
+      idgroup: 351_AP
+      id: 2276
+
+    - mac: E4-AA-5D-A9-09-F4
+      description: "KBH-PL8-AP03"
+      enabled: true
+      idgroup: 351_AP
+      id: 2925
+
+    - mac: C8-4C-75-F3-E1-E2
+      description: "KBH-PL2-GODS"
+      enabled: true
+      idgroup: 351_AP
+      id: 2281
+
+    - mac: 00-C8-8B-66-27-94
+      description: "KBH-PL3-Uppackning"
+      enabled: true
+      idgroup: 351_AP
+      id: 3812
+
+    - mac: E4-AA-5D-B8-C7-4C
+      description: "KBH-PL6-AP04"
+      enabled: true
+      idgroup: 351_AP
+      id: 2929
+
+    - mac: 3C-08-F6-11-91-10
+      description: "KBH-PL4-AP03"
+      enabled: true
+      idgroup: 351_AP
+      id: 2586
+
+    - mac: 00-F2-8B-26-DB-66
+      description: "Servicefinder AP"
+      enabled: true
+      idgroup: 351_AP
+      id: 5274
+
+    - mac: 00-3A-7D-61-BF-00
+      description: "KBH-PL6-AP59"
+      enabled: true
+      idgroup: 351_AP
+      id: 3713
+
+    - mac: 3C-08-F6-A6-FA-D4
+      description: "KBH-PL8-AP15"
+      enabled: true
+      idgroup: 351_AP
+      id: 2578
+
+    - mac: 74-26-AC-75-C7-94
+      description: "KBH-PL8-AP21"
+      enabled: true
+      idgroup: 351_AP
+      id: 2694
+
+    - mac: E4-AA-5D-B5-6B-88
+      description: "KBH-PL8-AP07"
+      enabled: true
+      idgroup: 351_AP
+      id: 2936
+
+    - mac: 00-3A-7D-4D-5C-90
+      description: "KBH-PL7-AP54"
+      enabled: true
+      idgroup: 351_AP
+      id: 3699
+
+    - mac: 28-AC-9E-E6-20-76
+      description: "LMG-PL2-AP10"
+      enabled: true
+      idgroup: 351_AP
+      id: 5481
+
+    - mac: 00-C8-8B-72-88-20
+      description: "KBH-PL4-AP04"
+      enabled: true
+      idgroup: 351_AP
+      id: 3815
+
+    - mac: C8-4C-75-EE-24-34
+      description: "KBH-PL11-AP11"
+      enabled: true
+      idgroup: 351_AP
+      id: 2251
+
+    - mac: 00-3A-7D-5C-1C-08
+      description: "KBH-PL6-AP02"
+      enabled: true
+      idgroup: 351_AP
+      id: 3710
+
+    - mac: 00-FC-BA-2A-10-B6
+      description: "LMG-PL2-AP15"
+      enabled: true
+      idgroup: 351_AP
+      id: 5488
+
+    - mac: 28-AC-9E-D2-B0-EA
+      description: "LMG-PL2-AP04"
+      enabled: true
+      idgroup: 351_AP
+      id: 5478
+
+    - mac: 00-3A-7D-61-BE-F8
+      description: "KBH-PL6-AP56"
+      enabled: true
+      idgroup: 351_AP
+      id: 3712
+
+    - mac: 00-F2-8B-5E-45-F0
+      description: "KBH-PL5-AP11"
+      enabled: true
+      idgroup: 351_AP
+      id: 3954
+
+    - mac: C8-4C-75-EE-18-CB
+      description: "KBH-PL5-AP03"
+      enabled: true
+      idgroup: 351_AP
+      id: 2240
+
+    - mac: 00-3A-7D-55-9A-54
+      description: "KBH-PL7-AP56"
+      enabled: true
+      idgroup: 351_AP
+      id: 3704
+
+    - mac: E4-AA-5D-B8-C8-30
+      description: "KBH-PL8-AP09"
+      enabled: true
+      idgroup: 351_AP
+      id: 2934
+
+    - mac: 3C-08-F6-A6-FA-80
+      description: "KBH-PL7-AP19"
+      enabled: true
+      idgroup: 351_AP
+      id: 2580
+
+    - mac: 00-3A-7D-61-C1-1C
+      description: "KBH-PL7-AP61"
+      enabled: true
+      idgroup: 351_AP
+      id: 3715
+
+    - mac: 00-C8-8B-69-FA-7A
+      description: "Servicefinder AP"
+      enabled: true
+      idgroup: 351_AP
+      id: 5270
+
+    - mac: 00-F2-8B-79-2C-C0
+      description: "KBH-PL5-AP08"
+      enabled: true
+      idgroup: 351_AP
+      id: 3000
+
+    - mac: 3C-08-F6-A6-FF-70
+      description: "BJG-PL4-AP01"
+      enabled: true
+      idgroup: 351_AP
+      id: 2599
+
+    - mac: 04-62-73-A5-7F-6C
+      description: "KBH-PL13-AP05"
+      enabled: true
+      idgroup: 351_AP
+      id: 2904
+
+    - mac: 00-FC-BA-C9-36-48
+      description: "LMG-PL2-AP08"
+      enabled: true
+      idgroup: 351_AP
+      id: 5476
+
+    - mac: 4C-00-82-07-75-C0
+      description: "KBH-PL11-AP06"
+      enabled: true
+      idgroup: 351_AP
+      id: 2421
+
+    - mac: 00-3A-7D-61-C2-2C
+      description: "KBH-PL7-AP64"
+      enabled: true
+      idgroup: 351_AP
+      id: 3718
+
+    - mac: 74-26-AC-77-00-18
+      description: "KBH-PL8-AP18"
+      enabled: true
+      idgroup: 351_AP
+      id: 2692
+
+    - mac: C8-4C-75-EE-24-ED
+      description: "KBH-PL7-AP15"
+      enabled: true
+      idgroup: 351_AP
+      id: 2253
+
+    - mac: 00-3A-7D-55-97-F0
+      description: "KBH-PL6-AP52"
+      enabled: true
+      idgroup: 351_AP
+      id: 3701
+
+    - mac: 00-C8-8B-69-FB-28
+      description: "Servicefinder AP"
+      enabled: true
+      idgroup: 351_AP
+      id: 5272
+
+    - mac: 00-FC-BA-C9-35-28
+      description: "LMG-PL2-AP13"
+      enabled: true
+      idgroup: 351_AP
+      id: 5486
+
+    - mac: E4-AA-5D-AC-5A-84
+      description: "KBH-PL5-AP12"
+      enabled: true
+      idgroup: 351_AP
+      id: 2930
+
+    - mac: 00-C8-8B-72-88-80
+      description: "KBH-PL11-AP08"
+      enabled: true
+      idgroup: 351_AP
+      id: 3816
+
+    - mac: C8-4C-75-EE-17-E1
+      description: "KBH-PL12-AP02"
+      enabled: true
+      idgroup: 351_AP
+      id: 2234
+
+    - mac: 74-26-AC-75-C8-20
+      description: "AP 3702 KBH-PL4-AP02"
+      enabled: true
+      idgroup: 351_AP
+      id: 2228
+
+    - mac: 00-C8-8B-3B-8D-0C
+      description: "KBH-PL7-AP07"
+      enabled: true
+      idgroup: 351_AP
+      id: 3811
+
+    - mac: 00-BE-75-0A-16-C8
+      description: "LMG-PL2-AP11"
+      enabled: true
+      idgroup: 351_AP
+      id: 5484
+
+    - mac: BC-16-65-09-64-0C
+      description: "KBH-PL8-AP13"
+      enabled: true
+      idgroup: 351_AP
+      id: 2575
+
+    - mac: 00-3A-7D-4D-5B-D4
+      description: "KBH-PL7-AP52"
+      enabled: true
+      idgroup: 351_AP
+      id: 3697
+
+    - mac: 00-3A-7D-55-A8-84
+      description: "KBH-PL6-AP55"
+      enabled: true
+      idgroup: 351_AP
+      id: 3708
+
+    - mac: E4-AA-5D-B3-28-48
+      description: "KBH-PL8-AP05"
+      enabled: true
+      idgroup: 351_AP
+      id: 2926
+
+    - mac: 04-62-73-AB-EC-D0
+      description: "KBH-PL13-AP01"
+      enabled: true
+      idgroup: 351_AP
+      id: 2899
+
+    - mac: E4-AA-5D-BA-00-18
+      description: "KBH-PL5-AP04"
+      enabled: true
+      idgroup: 351_AP
+      id: 2931
+
+    - mac: 3C-08-F6-11-91-C0
+      description: "KBH-PL6-AP15"
+      enabled: true
+      idgroup: 351_AP
+      id: 2584
+
+    - mac: E4-AA-5D-A0-15-E0
+      description: "KBH-PL8-AP02"
+      enabled: true
+      idgroup: 351_AP
+      id: 2923
+
+    - mac: C8-4C-75-EE-19-C3
+      description: "KBH-PL11-AP12"
+      enabled: true
+      idgroup: 351_AP
+      id: 2242
+
+    - mac: 3C-08-F6-A6-FB-30
+      description: "KBH-PL7-AP17"
+      enabled: true
+      idgroup: 351_AP
+      id: 2581
+
+    - mac: 04-62-73-A3-99-38
+      description: "KBH-PL13-AP04"
+      enabled: true
+      idgroup: 351_AP
+      id: 2902
+
+    - mac: 3C-08-F6-A6-FA-C8
+      description: "AP AIR-CAP3702I-E-K9 802.11ac [kbh-pl6-s1 Gi7/11]"
+      enabled: true
+      idgroup: 351_AP
+      id: 2591
+
+    - mac: 2C-33-11-85-BC-00
+      description: "STP-PL7-AP03"
+      enabled: true
+      idgroup: 351_AP
+      id: 5275
+
+    - mac: C8-4C-75-F3-D9-92
+      description: "AP AIR-LAP1142N-E-K9 802.11n c8:4c:75:f3:d9:92"
+      enabled: true
+      idgroup: 351_AP
+      id: 2273
+
+    - mac: 00-3A-7D-26-72-14
+      description: "KBH-PL7-AP50"
+      enabled: true
+      idgroup: 351_AP
+      id: 3695
+
+    - mac: C8-4C-75-EE-17-F7
+      description: "KBH-PL12-AP04"
+      enabled: true
+      idgroup: 351_AP
+      id: 2238
+
+    - mac: C8-4C-75-F3-D8-7E
+      description: "KBH-PL12-AP03"
+      enabled: true
+      idgroup: 351_AP
+      id: 2264
+
+    - mac: 00-C8-8B-66-2A-98
+      description: "KBH-PL11-AP09"
+      enabled: true
+      idgroup: 351_AP
+      id: 3813
+
+    - mac: 00-D7-8F-9A-1B-26
+      description: "Servicefinder AP"
+      enabled: true
+      idgroup: 351_AP
+      id: 5273
+
+    - mac: 00-C8-8B-69-FA-36
+      description: "LMG-PL2-AP14"
+      enabled: true
+      idgroup: 351_AP
+      id: 5513
+
+    - mac: 28-AC-9E-E6-20-88
+      description: "LMG-PL2-AP02"
+      enabled: true
+      idgroup: 351_AP
+      id: 5474
+
+    - mac: 00-F2-8B-34-B8-10
+      description: "KBH-PL12-AP05"
+      enabled: true
+      idgroup: 351_AP
+      id: 2997
+
+    - mac: C8-4C-75-F3-D8-35
+      description: "AP AIR-LAP1142N-E-K9 802.11n c8:4c:75:f3:d8:35"
+      enabled: true
+      idgroup: 351_AP
+      id: 2257
+
+    - mac: C8-4C-75-EE-1C-76
+      description: "KBH-PL5-AP05"
+      enabled: true
+      idgroup: 351_AP
+      id: 2246
+
+    - mac: A0-E0-AF-2D-53-D6
+      description: "KBH-PL2-AP01"
+      enabled: true
+      idgroup: 351_AP
+      id: 5665
+
+    - mac: 00-3A-7D-61-BF-34
+      description: "KBH-PL6-AP57"
+      enabled: true
+      idgroup: 351_AP
+      id: 3714
+
+    - mac: 3C-08-F6-11-92-00
+      description: "BJG-PL4-AP02"
+      enabled: true
+      idgroup: 351_AP
+      id: 2577
+
+    - mac: 00-BE-75-0A-14-E8
+      description: "LMG-PL2-AP09"
+      enabled: true
+      idgroup: 351_AP
+      id: 5477
+
+    - mac: 74-26-AC-75-C6-2C
+      description: "KBH-PL8-AP20"
+      enabled: true
+      idgroup: 351_AP
+      id: 2693
+
+    - mac: 4C-00-82-AD-51-64
+      description: "KBH-PL11-AP03"
+      enabled: true
+      idgroup: 351_AP
+      id: 2424
+
+    - mac: C8-4C-75-F3-D8-EC
+      description: "KBH-PL3-AP02"
+      enabled: true
+      idgroup: 351_AP
+      id: 2271
+
+    - mac: 00-3A-7D-55-99-08
+      description: "KBH-PL7-AP55"
+      enabled: true
+      idgroup: 351_AP
+      id: 3703
+
+    - mac: 00-BE-75-0A-14-DC
+      description: "LMG-PL2-AP06"
+      enabled: true
+      idgroup: 351_AP
+      id: 5479
+
+    - mac: 00-3A-7D-5C-1C-1C
+      description: "KBH-PL7-AP60"
+      enabled: true
+      idgroup: 351_AP
+      id: 3711
+
+    - mac: C8-4C-75-F3-E1-D9
+      description: "KBH-PL5-AP06"
+      enabled: true
+      idgroup: 351_AP
+      id: 2280
+
+    - mac: 00-FC-BA-2A-10-AC
+      description: "LMG-PL2-AP05"
+      enabled: true
+      idgroup: 351_AP
+      id: 5480
+
+    - mac: BC-16-65-09-65-40
+      description: "KBH-PL8-AP11"
+      enabled: true
+      idgroup: 351_AP
+      id: 2596
+
+    - mac: C8-4C-75-F3-D8-71
+      description: "KBH-PL7-AP09"
+      enabled: true
+      idgroup: 351_AP
+      id: 2262
+
+    - mac: C8-4C-75-F3-D8-2D
+      description: "KBH-PL7-AP08"
+      enabled: true
+      idgroup: 351_AP
+      id: 2256
+
+    - mac: 00-F2-8B-46-21-30
+      description: "KBH-PL5-AP07"
+      enabled: true
+      idgroup: 351_AP
+      id: 2998
+
+    - mac: E4-AA-5D-B8-C5-50
+      description: "Cisco3700, KBH-PL8-AP08"
+      enabled: true
+      idgroup: 351_AP
+      id: 2935
+
+    - mac: BC-16-65-09-66-68
+      description: "KBH-PL7-AP16"
+      enabled: true
+      idgroup: 351_AP
+      id: 2585
+
+    - mac: 00-3A-7D-61-C1-98
+      description: "KBH-PL6-AP58"
+      enabled: true
+      idgroup: 351_AP
+      id: 3716
+
+    - mac: C8-4C-75-EE-17-17
+      description: "KBH-PL12-AP09"
+      enabled: true
+      idgroup: 351_AP
+      id: 2223
+
+    - mac: 04-62-73-A5-80-E4
+      description: "KBH-PL13-AP06"
+      enabled: true
+      idgroup: 351_AP
+      id: 2903
+
+    - mac: C8-4C-75-F3-D8-AD
+      description: "KBH-PL12-AP06"
+      enabled: true
+      idgroup: 351_AP
+      id: 2268
+
+    - mac: C8-4C-75-F3-D8-CB
+      description: "KBH-PL6-AP01"
+      enabled: true
+      idgroup: 351_AP
+      id: 2269
+
+    - mac: BC-16-65-09-62-E0
+      description: "KBH-PL7-AP18"
+      enabled: true
+      idgroup: 351_AP
+      id: 2579
+
+    - mac: 00-C8-8B-66-2F-98
+      description: "KBH-PL11-AP10"
+      enabled: true
+      idgroup: 351_AP
+      id: 3814
+
+    - mac: 3C-08-F6-A6-FF-FC
+      description: "KBH-PL12-AP10"
+      enabled: true
+      idgroup: 351_AP
+      id: 2598
+
+    - mac: 4C-00-82-77-1F-A7
+      description: "KBH-PL11-AP04"
+      enabled: true
+      idgroup: 351_AP
+      id: 2422
+
+    - mac: E4-AA-5D-BA-00-D0
+      description: "KBH-PL8-AP10"
+      enabled: true
+      idgroup: 351_AP
+      id: 2933
+
+    - mac: 00-3A-7D-55-98-DC
+      description: "KBH-PL6-AP53"
+      enabled: true
+      idgroup: 351_AP
+      id: 3702
+
+    - mac: 00-FC-BA-75-50-EC
+      description: "LMG-PL2-AP07"
+      enabled: true
+      idgroup: 351_AP
+      id: 5489
+
+    - mac: 74-26-AC-5B-D1-C4
+      description: "KBH-PL8-AP19"
+      enabled: true
+      idgroup: 351_AP
+      id: 2691
+
+    - mac: C8-4C-75-F3-E1-1F
+      description: "KBH-PL5-AP10"
+      enabled: true
+      idgroup: 351_AP
+      id: 2278
+
+    - mac: E4-AA-5D-AC-5A-2C
+      description: "KBH-PL6-AP06"
+      enabled: true
+      idgroup: 351_AP
+      id: 2928
+
+    - mac: 00-3A-7D-55-A3-00
+      description: "KBH-PL7-AP57"
+      enabled: true
+      idgroup: 351_AP
+      id: 3705
+
+    - mac: C8-4C-75-EE-17-40
+      description: "AP AIR-LAP1142N-E-K9 802.11n c8:4c:75:ee:17:40"
+      enabled: true
+      idgroup: 351_AP
+      id: 2225
+
+    - mac: 3C-08-F6-11-92-18
+      description: "AP AIR-CAP3702I-E-K9 802.11ac [kbh-pl6-s1 Gi3/27]"
+      enabled: true
+      idgroup: 351_AP
+      id: 2588
+
+    - mac: 00-3A-7D-4D-5C-40
+      description: "KBH-PL7-AP53"
+      enabled: true
+      idgroup: 351_AP
+      id: 3698
+
+    - mac: 00-3A-7D-61-C2-1C
+      description: "KBH-PL7-AP62"
+      enabled: true
+      idgroup: 351_AP
+      id: 3717
+
+    - mac: 4C-00-82-AD-51-7E
+      description: "KBH-PL11-AP01"
+      enabled: true
+      idgroup: 351_AP
+      id: 2420
+    - mac: BB-BB-BB-AD-51-7E
+      description: "API test"
+      enabled: true
+      idgroup: 351_AP
+      id: 6541
+    
+
+    - mac: E4-AA-5D-A9-07-BC
+      description: "KBH-PL8-AP04"
+      enabled: true
+      idgroup: 351_AP
+      id: 2927
+
+    - mac: C8-4C-75-F3-D8-8F
+      description: "KBH-PL5-AP02"
+      enabled: true
+      idgroup: 351_AP
+      id: 2266
+
+    - mac: E4-AA-5D-B5-6E-B0
+      description: "KBH-PL5-AP16"
+      enabled: true
+      idgroup: 351_AP
+      id: 2932
+
+    - mac: 00-3A-7D-55-A4-70
+      description: "KBH-PL6-AP54"
+      enabled: true
+      idgroup: 351_AP
+      id: 3706
+
+    - mac: 3C-08-F6-A6-FF-CC
+      description: "KBH-PL5-AP13"
+      enabled: true
+      idgroup: 351_AP
+      id: 2592
+
+    - mac: 3C-08-F6-11-92-68
+      description: "KBH-PL5-AP15"
+      enabled: true
+      idgroup: 351_AP
+      id: 2587
+
+    - mac: 00-FC-BA-C9-36-46
+      description: "LMG-PL2-AP01"
+      enabled: true
+      idgroup: 351_AP
+      id: 5473
+
+    - mac: 00-F2-8B-65-EE-8C
+      description: "KBH-PL12-AP01"
+      enabled: true
+      idgroup: 351_AP
+      id: 2999
+
+    - mac: E4-AA-5D-B2-E1-84
+      description: "KBH-PL8-AP01"
+      enabled: true
+      idgroup: 351_AP
+      id: 2924
+
+    - mac: C8-4C-75-F3-D9-96
+      description: "KBH-PL12-AP07"
+      enabled: true
+      idgroup: 351_AP
+      id: 2274
+
+    - mac: E8-65-49-DB-2E-18
+      description: "KBH-PL13-Utomhus"
+      enabled: true
+      idgroup: 351_AP
+      id: 2864
+
+    - mac: 04-62-73-AB-EF-D0
+      description: "KBH-PL13-AP03"
+      enabled: true
+      idgroup: 351_AP
+      id: 2901
+
+    - mac: 3C-08-F6-A6-FA-F8
+      description: "KBH-PL8-AP14"
+      enabled: true
+      idgroup: 351_AP
+      id: 2582
+
+    - mac: 00-F2-8B-5E-46-20
+      description: "KBH-PL5-AP12"
+      enabled: true
+      idgroup: 351_AP
+      id: 3955
+
+    - mac: C8-4C-75-EE-17-73
+      description: "KBH-PL3-AP01"
+      enabled: true
+      idgroup: 351_AP
+      id: 2227
+
+    - mac: C8-4C-75-EE-17-EE
+      description: "KBH-PL5-AP01"
+      enabled: true
+      idgroup: 351_AP
+      id: 2237
+
+    - mac: 00-3A-7D-55-A5-8C
+      description: "KBH-PL7-AP58"
+      enabled: true
+      idgroup: 351_AP
+      id: 3707
+
+    - mac: 4C-00-82-AD-53-CD
+      description: "KBH-PL11-AP02"
+      enabled: true
+      idgroup: 351_AP
+      id: 2419
+
+    - mac: E4-AA-5D-B9-FF-F8
+      description: "KBH-PL8-AP06"
+      enabled: true
+      idgroup: 351_AP
+      id: 2937
+
+    - mac: 00-3A-7D-37-95-F8
+      description: "KBH-PL7-AP51"
+      enabled: true
+      idgroup: 351_AP
+      id: 3696
+
+    - mac: 74-26-AC-75-C7-D4
+      description: "KBH-PL8-AP17"
+      enabled: true
+      idgroup: 351_AP
+      id: 2690
+
+    - mac: 28-AC-9E-E6-1F-1E
+      description: "LMG-PL2-AP03"
+      enabled: true
+      idgroup: 351_AP
+      id: 5475
+
+    - mac: 00-C8-8B-69-FB-1E
+      description: "Servicefinder AP"
+      enabled: true
+      idgroup: 351_AP
+      id: 5271
+
+    - mac: 00-3A-7D-61-C2-30
+      description: "KBH-PL7-AP63"
+      enabled: true
+      idgroup: 351_AP
+      id: 3719
+
+    - mac: 00-3A-7D-5C-1B-88
+      description: "KBH-PL7-AP59"
+      enabled: true
+      idgroup: 351_AP
+      id: 3709
+
+    - mac: 28-AC-9E-E6-20-6C
+      description: "LMG-PL2-AP12"
+      enabled: true
+      idgroup: 351_AP
+      id: 5485
+
+    - mac: 3C-08-F6-08-45-D4
+      description: "DTG-PL1-AP03"
+      enabled: true
+      idgroup: 351_AP
+      id: 2595
+
+    - mac: 00-F2-8B-34-B7-64
+      description: "KBH-PL5-AP09"
+      enabled: true
+      idgroup: 351_AP
+      id: 2996
+
+    - mac: BC-16-65-09-62-AC
+      description: "KBH-PL8-AP12"
+      enabled: true
+      idgroup: 351_AP
+      id: 2576
+
+    - mac: 3C-08-F6-11-94-78
+      description: "KBH-PL8-AP16"
+      enabled: true
+      idgroup: 351_AP
+      id: 2583
+
+    - mac: 3C-08-F6-11-92-5C
+      description: "KBH-PL7-AP20"
+      enabled: true
+      idgroup: 351_AP
+      id: 2589
+
+    - mac: 00-3A-7D-4D-5E-30
+      description: "KBH-PL6-AP51"
+      enabled: true
+      idgroup: 351_AP
+      id: 3700
+
+    - mac: BB-BB-BB-AD-51-7E
+      description: "API test"
+      enabled: true
+      idgroup: 351_AP
+      id: 5823
+
+    - mac: 2C-33-11-ED-1D-84
+      description: "Servicefinder AP"
+      enabled: true
+      idgroup: 351_AP
+      id: 5276
+
+    - mac: 04-62-73-AB-F1-24
+      description: "KBH-PL13-AP02"
+      enabled: true
+      idgroup: 351_AP
+      id: 2900
+
+    - mac: BC-16-65-09-68-60
+      description: "KBH-PL5-AP14"
+      enabled: true
+      idgroup: 351_AP
+      id: 2590
+
+    - mac: C8-4C-75-EE-1B-22
+      description: "KBH-PL7-AP11"
+      enabled: true
+      idgroup: 351_AP
+      id: 2243
+
+    - mac: C8-4C-75-EE-22-CE
+      description: "KBH-PL6-TEST"
+      enabled: true
+      idgroup: 351_AP
+      id: 2250
+
+    - mac: 00-3A-7D-10-48-1C
+      description: "KBH-PL6-AP50"
+      enabled: true
+      idgroup: 351_AP
+      id: 3694
+
+    - mac: C8-4C-75-EE-1E-30
+      description: "KBH-PL7-AP10"
+      enabled: true
+      idgroup: 351_AP
+      id: 2249
+
+    - mac: 4C-00-82-AD-51-5A
+      description: "KBH-PL11-AP05"
+      enabled: true
+      idgroup: 351_AP
+      id: 2423
+
+    - mac: 00-D7-8F-9A-1C-9C
+      description: "KBH-PL11-AP07"
+      enabled: true
+      idgroup: 351_AP
+      id: 5743
+
+    - mac: C8-4C-75-F3-DB-AE
+      description: "KBH-PL4-AP01"
+      enabled: true
+      idgroup: 351_AP
+      id: 2276
+
+    - mac: E4-AA-5D-A9-09-F4
+      description: "KBH-PL8-AP03"
+      enabled: true
+      idgroup: 351_AP
+      id: 2925
+
+    - mac: C8-4C-75-F3-E1-E2
+      description: "KBH-PL2-GODS"
+      enabled: true
+      idgroup: 351_AP
+      id: 2281
+
+    - mac: 00-C8-8B-66-27-94
+      description: "KBH-PL3-Uppackning"
+      enabled: true
+      idgroup: 351_AP
+      id: 3812
+
+    - mac: E4-AA-5D-B8-C7-4C
+      description: "KBH-PL6-AP04"
+      enabled: true
+      idgroup: 351_AP
+      id: 2929
+
+    - mac: 3C-08-F6-11-91-10
+      description: "KBH-PL4-AP03"
+      enabled: true
+      idgroup: 351_AP
+      id: 2586
+
+    - mac: 00-F2-8B-26-DB-66
+      description: "Servicefinder AP"
+      enabled: true
+      idgroup: 351_AP
+      id: 5274
+
+    - mac: 00-3A-7D-61-BF-00
+      description: "KBH-PL6-AP59"
+      enabled: true
+      idgroup: 351_AP
+      id: 3713
+
+    - mac: 3C-08-F6-A6-FA-D4
+      description: "KBH-PL8-AP15"
+      enabled: true
+      idgroup: 351_AP
+      id: 2578
+
+    - mac: 74-26-AC-75-C7-94
+      description: "KBH-PL8-AP21"
+      enabled: true
+      idgroup: 351_AP
+      id: 2694
+
+    - mac: E4-AA-5D-B5-6B-88
+      description: "KBH-PL8-AP07"
+      enabled: true
+      idgroup: 351_AP
+      id: 2936
+
+    - mac: 00-3A-7D-4D-5C-90
+      description: "KBH-PL7-AP54"
+      enabled: true
+      idgroup: 351_AP
+      id: 3699
+
+    - mac: 28-AC-9E-E6-20-76
+      description: "LMG-PL2-AP10"
+      enabled: true
+      idgroup: 351_AP
+      id: 5481
+
+    - mac: 00-C8-8B-72-88-20
+      description: "KBH-PL4-AP04"
+      enabled: true
+      idgroup: 351_AP
+      id: 3815
+
+    - mac: C8-4C-75-EE-24-34
+      description: "KBH-PL11-AP11"
+      enabled: true
+      idgroup: 351_AP
+      id: 2251
+
+    - mac: 00-3A-7D-5C-1C-08
+      description: "KBH-PL6-AP02"
+      enabled: true
+      idgroup: 351_AP
+      id: 3710
+
+    - mac: 00-FC-BA-2A-10-B6
+      description: "LMG-PL2-AP15"
+      enabled: true
+      idgroup: 351_AP
+      id: 5488
+
+    - mac: 28-AC-9E-D2-B0-EA
+      description: "LMG-PL2-AP04"
+      enabled: true
+      idgroup: 351_AP
+      id: 5478
+
+    - mac: 00-3A-7D-61-BE-F8
+      description: "KBH-PL6-AP56"
+      enabled: true
+      idgroup: 351_AP
+      id: 3712
+
+    - mac: 00-F2-8B-5E-45-F0
+      description: "KBH-PL5-AP11"
+      enabled: true
+      idgroup: 351_AP
+      id: 3954
+
+    - mac: C8-4C-75-EE-18-CB
+      description: "KBH-PL5-AP03"
+      enabled: true
+      idgroup: 351_AP
+      id: 2240
+
+    - mac: 00-3A-7D-55-9A-54
+      description: "KBH-PL7-AP56"
+      enabled: true
+      idgroup: 351_AP
+      id: 3704
+
+    - mac: E4-AA-5D-B8-C8-30
+      description: "KBH-PL8-AP09"
+      enabled: true
+      idgroup: 351_AP
+      id: 2934
+
+    - mac: 3C-08-F6-A6-FA-80
+      description: "KBH-PL7-AP19"
+      enabled: true
+      idgroup: 351_AP
+      id: 2580
+
+    - mac: 00-3A-7D-61-C1-1C
+      description: "KBH-PL7-AP61"
+      enabled: true
+      idgroup: 351_AP
+      id: 3715
+
+    - mac: 00-C8-8B-69-FA-7A
+      description: "Servicefinder AP"
+      enabled: true
+      idgroup: 351_AP
+      id: 5270
+
+    - mac: 00-F2-8B-79-2C-C0
+      description: "KBH-PL5-AP08"
+      enabled: true
+      idgroup: 351_AP
+      id: 3000
+
+    - mac: 3C-08-F6-A6-FF-70
+      description: "BJG-PL4-AP01"
+      enabled: true
+      idgroup: 351_AP
+      id: 2599
+
+    - mac: 04-62-73-A5-7F-6C
+      description: "KBH-PL13-AP05"
+      enabled: true
+      idgroup: 351_AP
+      id: 2904
+
+    - mac: 00-FC-BA-C9-36-48
+      description: "LMG-PL2-AP08"
+      enabled: true
+      idgroup: 351_AP
+      id: 5476
+
+    - mac: 4C-00-82-07-75-C0
+      description: "KBH-PL11-AP06"
+      enabled: true
+      idgroup: 351_AP
+      id: 2421
+
+    - mac: 00-3A-7D-61-C2-2C
+      description: "KBH-PL7-AP64"
+      enabled: true
+      idgroup: 351_AP
+      id: 3718
+
+    - mac: 74-26-AC-77-00-18
+      description: "KBH-PL8-AP18"
+      enabled: true
+      idgroup: 351_AP
+      id: 2692
+
+    - mac: C8-4C-75-EE-24-ED
+      description: "KBH-PL7-AP15"
+      enabled: true
+      idgroup: 351_AP
+      id: 2253
+
+    - mac: 00-3A-7D-55-97-F0
+      description: "KBH-PL6-AP52"
+      enabled: true
+      idgroup: 351_AP
+      id: 3701
+
+    - mac: 00-C8-8B-69-FB-28
+      description: "Servicefinder AP"
+      enabled: true
+      idgroup: 351_AP
+      id: 5272
+
+    - mac: 00-FC-BA-C9-35-28
+      description: "LMG-PL2-AP13"
+      enabled: true
+      idgroup: 351_AP
+      id: 5486
+
+    - mac: E4-AA-5D-AC-5A-84
+      description: "KBH-PL5-AP12"
+      enabled: true
+      idgroup: 351_AP
+      id: 2930
+
+    - mac: 00-C8-8B-72-88-80
+      description: "KBH-PL11-AP08"
+      enabled: true
+      idgroup: 351_AP
+      id: 3816
+
+    - mac: C8-4C-75-EE-17-E1
+      description: "KBH-PL12-AP02"
+      enabled: true
+      idgroup: 351_AP
+      id: 2234
+
+    - mac: 74-26-AC-75-C8-20
+      description: "AP 3702 KBH-PL4-AP02"
+      enabled: true
+      idgroup: 351_AP
+      id: 2228
+
+    - mac: 00-C8-8B-3B-8D-0C
+      description: "KBH-PL7-AP07"
+      enabled: true
+      idgroup: 351_AP
+      id: 3811
+
+    - mac: 00-BE-75-0A-16-C8
+      description: "LMG-PL2-AP11"
+      enabled: true
+      idgroup: 351_AP
+      id: 5484
+
+    - mac: BC-16-65-09-64-0C
+      description: "KBH-PL8-AP13"
+      enabled: true
+      idgroup: 351_AP
+      id: 2575
+
+    - mac: 00-3A-7D-4D-5B-D4
+      description: "KBH-PL7-AP52"
+      enabled: true
+      idgroup: 351_AP
+      id: 3697
+
+    - mac: 00-3A-7D-55-A8-84
+      description: "KBH-PL6-AP55"
+      enabled: true
+      idgroup: 351_AP
+      id: 3708
+
+    - mac: E4-AA-5D-B3-28-48
+      description: "KBH-PL8-AP05"
+      enabled: true
+      idgroup: 351_AP
+      id: 2926
+
+    - mac: 04-62-73-AB-EC-D0
+      description: "KBH-PL13-AP01"
+      enabled: true
+      idgroup: 351_AP
+      id: 2899
+
+    - mac: E4-AA-5D-BA-00-18
+      description: "KBH-PL5-AP04"
+      enabled: true
+      idgroup: 351_AP
+      id: 2931
+
+    - mac: 3C-08-F6-11-91-C0
+      description: "KBH-PL6-AP15"
+      enabled: true
+      idgroup: 351_AP
+      id: 2584
+
+    - mac: E4-AA-5D-A0-15-E0
+      description: "KBH-PL8-AP02"
+      enabled: true
+      idgroup: 351_AP
+      id: 2923
+
+    - mac: C8-4C-75-EE-19-C3
+      description: "KBH-PL11-AP12"
+      enabled: true
+      idgroup: 351_AP
+      id: 2242
+
+    - mac: 3C-08-F6-A6-FB-30
+      description: "KBH-PL7-AP17"
+      enabled: true
+      idgroup: 351_AP
+      id: 2581
+
+    - mac: 04-62-73-A3-99-38
+      description: "KBH-PL13-AP04"
+      enabled: true
+      idgroup: 351_AP
+      id: 2902
+
+    - mac: 3C-08-F6-A6-FA-C8
+      description: "AP AIR-CAP3702I-E-K9 802.11ac [kbh-pl6-s1 Gi7/11]"
+      enabled: true
+      idgroup: 351_AP
+      id: 2591
+
+    - mac: 2C-33-11-85-BC-00
+      description: "STP-PL7-AP03"
+      enabled: true
+      idgroup: 351_AP
+      id: 5275
+
+    - mac: C8-4C-75-F3-D9-92
+      description: "AP AIR-LAP1142N-E-K9 802.11n c8:4c:75:f3:d9:92"
+      enabled: true
+      idgroup: 351_AP
+      id: 2273
+
+    - mac: 00-3A-7D-26-72-14
+      description: "KBH-PL7-AP50"
+      enabled: true
+      idgroup: 351_AP
+      id: 3695
+
+    - mac: C8-4C-75-EE-17-F7
+      description: "KBH-PL12-AP04"
+      enabled: true
+      idgroup: 351_AP
+      id: 2238
+
+    - mac: C8-4C-75-F3-D8-7E
+      description: "KBH-PL12-AP03"
+      enabled: true
+      idgroup: 351_AP
+      id: 2264
+
+    - mac: 00-C8-8B-66-2A-98
+      description: "KBH-PL11-AP09"
+      enabled: true
+      idgroup: 351_AP
+      id: 3813
+
+    - mac: 00-D7-8F-9A-1B-26
+      description: "Servicefinder AP"
+      enabled: true
+      idgroup: 351_AP
+      id: 5273
+
+    - mac: 00-C8-8B-69-FA-36
+      description: "LMG-PL2-AP14"
+      enabled: true
+      idgroup: 351_AP
+      id: 5513
+
+    - mac: 28-AC-9E-E6-20-88
+      description: "LMG-PL2-AP02"
+      enabled: true
+      idgroup: 351_AP
+      id: 5474
+
+    - mac: 00-F2-8B-34-B8-10
+      description: "KBH-PL12-AP05"
+      enabled: true
+      idgroup: 351_AP
+      id: 2997
+
+    - mac: C8-4C-75-F3-D8-35
+      description: "AP AIR-LAP1142N-E-K9 802.11n c8:4c:75:f3:d8:35"
+      enabled: true
+      idgroup: 351_AP
+      id: 2257
+
+    - mac: C8-4C-75-EE-1C-76
+      description: "KBH-PL5-AP05"
+      enabled: true
+      idgroup: 351_AP
+      id: 2246
+
+    - mac: A0-E0-AF-2D-53-D6
+      description: "KBH-PL2-AP01"
+      enabled: true
+      idgroup: 351_AP
+      id: 5665
+
+    - mac: 00-3A-7D-61-BF-34
+      description: "KBH-PL6-AP57"
+      enabled: true
+      idgroup: 351_AP
+      id: 3714
+
+    - mac: 3C-08-F6-11-92-00
+      description: "BJG-PL4-AP02"
+      enabled: true
+      idgroup: 351_AP
+      id: 2577
+
+    - mac: 00-BE-75-0A-14-E8
+      description: "LMG-PL2-AP09"
+      enabled: true
+      idgroup: 351_AP
+      id: 5477
+
+    - mac: 74-26-AC-75-C6-2C
+      description: "KBH-PL8-AP20"
+      enabled: true
+      idgroup: 351_AP
+      id: 2693
+
+    - mac: 4C-00-82-AD-51-64
+      description: "KBH-PL11-AP03"
+      enabled: true
+      idgroup: 351_AP
+      id: 2424
+
+    - mac: C8-4C-75-F3-D8-EC
+      description: "KBH-PL3-AP02"
+      enabled: true
+      idgroup: 351_AP
+      id: 2271
+
+    - mac: 00-3A-7D-55-99-08
+      description: "KBH-PL7-AP55"
+      enabled: true
+      idgroup: 351_AP
+      id: 3703
+
+    - mac: 00-BE-75-0A-14-DC
+      description: "LMG-PL2-AP06"
+      enabled: true
+      idgroup: 351_AP
+      id: 5479
+
+    - mac: 00-3A-7D-5C-1C-1C
+      description: "KBH-PL7-AP60"
+      enabled: true
+      idgroup: 351_AP
+      id: 3711
+
+    - mac: C8-4C-75-F3-E1-D9
+      description: "KBH-PL5-AP06"
+      enabled: true
+      idgroup: 351_AP
+      id: 2280
+
+    - mac: 00-FC-BA-2A-10-AC
+      description: "LMG-PL2-AP05"
+      enabled: true
+      idgroup: 351_AP
+      id: 5480
+
+    - mac: BC-16-65-09-65-40
+      description: "KBH-PL8-AP11"
+      enabled: true
+      idgroup: 351_AP
+      id: 2596
+
+    - mac: C8-4C-75-F3-D8-71
+      description: "KBH-PL7-AP09"
+      enabled: true
+      idgroup: 351_AP
+      id: 2262
+
+    - mac: C8-4C-75-F3-D8-2D
+      description: "KBH-PL7-AP08"
+      enabled: true
+      idgroup: 351_AP
+      id: 2256
+
+    - mac: 00-F2-8B-46-21-30
+      description: "KBH-PL5-AP07"
+      enabled: true
+      idgroup: 351_AP
+      id: 2998
+
+    - mac: E4-AA-5D-B8-C5-50
+      description: "Cisco3700, KBH-PL8-AP08"
+      enabled: true
+      idgroup: 351_AP
+      id: 2935
+
+    - mac: BC-16-65-09-66-68
+      description: "KBH-PL7-AP16"
+      enabled: true
+      idgroup: 351_AP
+      id: 2585
+
+    - mac: 00-3A-7D-61-C1-98
+      description: "KBH-PL6-AP58"
+      enabled: true
+      idgroup: 351_AP
+      id: 3716
+
+    - mac: C8-4C-75-EE-17-17
+      description: "KBH-PL12-AP09"
+      enabled: true
+      idgroup: 351_AP
+      id: 2223
+
+    - mac: 04-62-73-A5-80-E4
+      description: "KBH-PL13-AP06"
+      enabled: true
+      idgroup: 351_AP
+      id: 2903
+
+    - mac: C8-4C-75-F3-D8-AD
+      description: "KBH-PL12-AP06"
+      enabled: true
+      idgroup: 351_AP
+      id: 2268
+
+    - mac: C8-4C-75-F3-D8-CB
+      description: "KBH-PL6-AP01"
+      enabled: true
+      idgroup: 351_AP
+      id: 2269
+
+    - mac: BC-16-65-09-62-E0
+      description: "KBH-PL7-AP18"
+      enabled: true
+      idgroup: 351_AP
+      id: 2579
+
+    - mac: 00-C8-8B-66-2F-98
+      description: "KBH-PL11-AP10"
+      enabled: true
+      idgroup: 351_AP
+      id: 3814
+
+    - mac: 3C-08-F6-A6-FF-FC
+      description: "KBH-PL12-AP10"
+      enabled: true
+      idgroup: 351_AP
+      id: 2598
+
+    - mac: 4C-00-82-77-1F-A7
+      description: "KBH-PL11-AP04"
+      enabled: true
+      idgroup: 351_AP
+      id: 2422
+
+    - mac: E4-AA-5D-BA-00-D0
+      description: "KBH-PL8-AP10"
+      enabled: true
+      idgroup: 351_AP
+      id: 2933
+
+    - mac: 00-3A-7D-55-98-DC
+      description: "KBH-PL6-AP53"
+      enabled: true
+      idgroup: 351_AP
+      id: 3702
+
+    - mac: 00-FC-BA-75-50-EC
+      description: "LMG-PL2-AP07"
+      enabled: true
+      idgroup: 351_AP
+      id: 5489
+
+    - mac: 74-26-AC-5B-D1-C4
+      description: "KBH-PL8-AP19"
+      enabled: true
+      idgroup: 351_AP
+      id: 2691
+
+    - mac: C8-4C-75-F3-E1-1F
+      description: "KBH-PL5-AP10"
+      enabled: true
+      idgroup: 351_AP
+      id: 2278
+
+    - mac: E4-AA-5D-AC-5A-2C
+      description: "KBH-PL6-AP06"
+      enabled: true
+      idgroup: 351_AP
+      id: 2928
+
+    - mac: 00-3A-7D-55-A3-00
+      description: "KBH-PL7-AP57"
+      enabled: true
+      idgroup: 351_AP
+      id: 3705
+
+    - mac: C8-4C-75-EE-17-40
+      description: "AP AIR-LAP1142N-E-K9 802.11n c8:4c:75:ee:17:40"
+      enabled: true
+      idgroup: 351_AP
+      id: 2225
+
+    - mac: 3C-08-F6-11-92-18
+      description: "AP AIR-CAP3702I-E-K9 802.11ac [kbh-pl6-s1 Gi3/27]"
+      enabled: true
+      idgroup: 351_AP
+      id: 2588
+
+    - mac: 00-3A-7D-4D-5C-40
+      description: "KBH-PL7-AP53"
+      enabled: true
+      idgroup: 351_AP
+      id: 3698
+
+    - mac: 00-3A-7D-61-C2-1C
+      description: "KBH-PL7-AP62"
+      enabled: true
+      idgroup: 351_AP
+      id: 3717
+
+    - mac: 4C-00-82-AD-51-7E
+      description: "KBH-PL11-AP01"
+      enabled: true
+      idgroup: 351_AP
+      id: 2420
+      
+    - mac: 3C-51-0E-49-8D-6E
+      description: "Foor 11"
+      enabled: true
+      idgroup: 351_AP
+      id: 6937
+      
+    - mac: 3C-51-0E-40-AA-64
+      description: "Foor 11"
+      enabled: true
+      idgroup: 351_AP
+      id: 6937
+      
+    - mac: 3C-51-0E-60-0B-6E
+      description: "Foor 11"
+      enabled: true
+      idgroup: 351_AP
+      id: 6937
+      
+    - mac: 3C-51-0E-49-92-F0
+      description: "Foor 11"
+      enabled: true
+      idgroup: 351_AP
+      id: 6937
+      
+    - mac: 3C-51-0E-60-0B-40
+      description: "Foor 11"
+      enabled: true
+      idgroup: 351_AP
+      id: 6937
+      
+    - mac: 3C-51-0E-4E-AC-84
+      description: "Foor 11"
+      enabled: true
+      idgroup: 351_AP
+      id: 6937
+      
+    - mac: 3C-51-0E-60-18-74
+      description: "Foor 11"
+      enabled: true
+      idgroup: 351_AP
+      id: 6937
+

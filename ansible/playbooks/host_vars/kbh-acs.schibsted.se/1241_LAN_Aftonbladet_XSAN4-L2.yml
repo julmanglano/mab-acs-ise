@@ -1,0 +1,122 @@
+1241_LAN_Aftonbladet_XSAN4-L2:
+
+    - mac: AC-87-A3-0F-8F-6E
+      description: "XSAN4, Redigering 9, backend"
+      enabled: false
+      idgroup: 1241_LAN_Aftonbladet_XSAN4-L2
+      id: 2767
+
+    - mac: 40-6C-8F-BC-7D-18
+      description: "XSAN4, 3 playout, backend"
+      enabled: true
+      idgroup: 1241_LAN_Aftonbladet_XSAN4-L2
+      id: 2907
+
+    - mac: 38-C9-86-31-E9-99
+      description: "iMac 57093i"
+      enabled: true
+      idgroup: 1241_LAN_Aftonbladet_XSAN4-L2
+      id: 5359
+
+    - mac: 00-3E-E1-CD-47-A9
+      description: "AB-TV SRQ150200"
+      enabled: true
+      idgroup: 1241_LAN_Aftonbladet_XSAN4-L2
+      id: 5364
+
+    - mac: AC-87-A3-0F-C5-08
+      description: "XSAN4, Redigering 4, backend"
+      enabled: true
+      idgroup: 1241_LAN_Aftonbladet_XSAN4-L2
+      id: 2763
+
+    - mac: 38-C9-86-3A-56-D8
+      description: "XSAN4, Redigering 9, backend"
+      enabled: true
+      idgroup: 1241_LAN_Aftonbladet_XSAN4-L2
+      id: 5501
+
+    - mac: 00-3E-E1-CF-75-29
+      description: "XSAN4, Studio 3 Playout NY, backend"
+      enabled: true
+      idgroup: 1241_LAN_Aftonbladet_XSAN4-L2
+      id: 5447
+
+    - mac: AC-87-A3-12-96-87
+      description: "XSAN4, Redigering 7, backend (not B8-09-8A-BA-5A-C3)"
+      enabled: true
+      idgroup: 1241_LAN_Aftonbladet_XSAN4-L2
+      id: 2769
+
+    - mac: 00-3E-E1-C5-ED-0B
+      description: "no description"
+      enabled: true
+      idgroup: 1241_LAN_Aftonbladet_XSAN4-L2
+      id: 2828
+
+    - mac: AC-87-A3-1D-07-79
+      description: "XSAN4, Redigering 8, backend"
+      enabled: true
+      idgroup: 1241_LAN_Aftonbladet_XSAN4-L2
+      id: 2766
+
+    - mac: AC-87-A3-0F-8F-6E
+      description: "XSAN4, Redigering 9, backend"
+      enabled: false
+      idgroup: 1241_LAN_Aftonbladet_XSAN4-L2
+      id: 2767
+
+    - mac: 40-6C-8F-BC-7D-18
+      description: "XSAN4, 3 playout, backend"
+      enabled: true
+      idgroup: 1241_LAN_Aftonbladet_XSAN4-L2
+      id: 2907
+
+    - mac: 38-C9-86-31-E9-99
+      description: "iMac 57093i"
+      enabled: true
+      idgroup: 1241_LAN_Aftonbladet_XSAN4-L2
+      id: 5359
+
+    - mac: 00-3E-E1-CD-47-A9
+      description: "AB-TV SRQ150200"
+      enabled: true
+      idgroup: 1241_LAN_Aftonbladet_XSAN4-L2
+      id: 5364
+
+    - mac: AC-87-A3-0F-C5-08
+      description: "XSAN4, Redigering 4, backend"
+      enabled: true
+      idgroup: 1241_LAN_Aftonbladet_XSAN4-L2
+      id: 2763
+
+    - mac: 38-C9-86-3A-56-D8
+      description: "XSAN4, Redigering 9, backend"
+      enabled: true
+      idgroup: 1241_LAN_Aftonbladet_XSAN4-L2
+      id: 5501
+
+    - mac: 00-3E-E1-CF-75-29
+      description: "XSAN4, Studio 3 Playout NY, backend"
+      enabled: true
+      idgroup: 1241_LAN_Aftonbladet_XSAN4-L2
+      id: 5447
+
+    - mac: AC-87-A3-12-96-87
+      description: "XSAN4, Redigering 7, backend (not B8-09-8A-BA-5A-C3)"
+      enabled: true
+      idgroup: 1241_LAN_Aftonbladet_XSAN4-L2
+      id: 2769
+
+    - mac: 00-3E-E1-C5-ED-0B
+      description: "no description"
+      enabled: true
+      idgroup: 1241_LAN_Aftonbladet_XSAN4-L2
+      id: 2828
+
+    - mac: AC-87-A3-1D-07-79
+      description: "XSAN4, Redigering 8, backend"
+      enabled: true
+      idgroup: 1241_LAN_Aftonbladet_XSAN4-L2
+      id: 2766
+

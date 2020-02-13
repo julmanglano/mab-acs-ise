@@ -1,0 +1,138 @@
+---
+# tasks file for /etc/ansible/roles/ise_MAB
+
+
+- name: Create  
+  template: src=ise_all_macs_var.j2 dest="{{ role_path }}/files/ALLMACS.yml"
+
+- name: INCLUDE variable ALLMACS
+  include_vars: 
+         file: files/ALLMACS.yml
+         
+- fail: msg="NO NEW MACS ( id 0 ) TO BE ADDED"
+  when: item.mac is not defined
+  with_items:
+         - "{{ ALLMACS }}"
+   
+- name: Create JSON files for newly added MACs ( id 0 )  
+  template: src=ise_create_macs_json.j2 dest="{{ role_path }}/files/{{item.mac}}.json"
+  with_items:
+         - "{{ ALLMACS }}"
+  
+- name: POST ( ADD NEW MAC TO API)
+  uri:
+     validate_certs: False
+     url: https://{{ ansible_host }}:{{ api_port }}/ers/config/endpoint
+     method: POST
+     headers:
+        Content-type: "application/json"
+        Accept: "application/json"
+                
+     body_format: json
+     src: "{{ role_path }}/files/{{item.mac}}.json"
+     status_code: 201,500
+     return_content: yes
+     user: "{{ API_CREDENTIALS.api_username }}"
+     password: "{{ API_CREDENTIALS.api_password }}"
+     force_basic_auth: yes
+  ignore_errors: yes
+  with_items:
+         - "{{ ALLMACS }}"
+  when:  item.id == 0 and item.enabled == True
+  register: out
+
+- debug: msg="item.stdout={{item.status}}"
+  with_items: "{{ out.results }}" 
+  when:  item.status  == 500
+
+- name: GET ID IF THE MAC ALREADY EXISTS
+  uri:
+     validate_certs: False
+     url: https://{{ ansible_host }}:{{ api_port }}/ers/config/endpoint?filter=mac.EQ.{{item.item.mac}}
+     method: GET
+     headers:
+        Content-type: "application/json"
+        Accept: "application/json"
+                
+     body_format: json
+     status_code: 200
+     return_content: yes
+     user: "{{ API_CREDENTIALS.api_username }}"
+     password: "{{ API_CREDENTIALS.api_password }}"
+     force_basic_auth: yes
+     
+  #ignore_errors: yes
+  with_items:
+         - "{{ out.results }}"
+  register: endpoint_id
+  when:  item.status  == 500
+
+- set_fact:
+    uuid: []
+
+- set_fact:
+   uuid: "{{ uuid + [item.0.json.SearchResult.resources[0].id] }}"
+  with_together:
+             - "{{ endpoint_id.results }}"
+             - "{{ out.results }}"
+  when:  item.1.status  == 500
+
+- debug:
+       msg: "{{ uuid }}"
+
+#- name: ID debug LOOP
+#  debug:
+#         msg: "{{ item.0.uuid }}"
+#         msg: "{{ item.1.mac }}"
+#  with_together:
+#          - "{{ uuid }}"
+#          - "{{ ALLMACS }}"
+#          - "{{ out.results }}"
+#  when:  item.2.status  == 500
+
+- set_fact:
+    emac: []
+- set_fact:
+    emac: "{{ emac + [item.0.mac] }}"
+  with_together:
+          - "{{ ALLMACS }}"
+          - "{{ out.results }}"
+  when:  item.1.status  == 500
+
+- debug:
+       msg: "{{ emac }}"
+
+- name: PUT (UPDATING MAC IF IT ALREADY EXISTS)
+  uri:
+     validate_certs: False
+     url: https://{{ ansible_host }}:{{ api_port }}/ers/config/endpoint/{{ item.0 }}
+     method: PUT
+     headers:
+        Content-type: "application/json"
+        Accept: "application/json"
+                
+     body_format: json
+     src: "{{ role_path }}/files/{{item.1}}.json"
+     status_code: 200
+     return_content: yes
+     user: "{{ API_CREDENTIALS.api_username }}"
+     password: "{{ API_CREDENTIALS.api_password }}"
+     force_basic_auth: yes
+  ignore_errors: no
+  with_together:
+         - "{{ uuid }}"
+         - "{{ emac }}"
+
+- name: DELETE tmp files
+  file:
+      path: "{{ role_path }}/files/{{item.mac}}.json"
+      state: absent
+  with_items:
+         - "{{ ALLMACS }}"
+  when: item.id == 0
+  
+- name: DELETE tmp files
+  file:
+      path: "{{ role_path }}/files/ALLMACS.yml"
+      state: absent
+

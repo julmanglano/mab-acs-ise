@@ -1,0 +1,146 @@
+3200_LAN_Compricer:
+
+    - mac: 48-D6-D5-02-36-5C
+      description: "SRQ188598 Chromecasts Ultra Compricer 20181029"
+      enabled: true
+      idgroup: 3200_LAN_Compricer
+      id: 5428
+
+    - mac: 44-09-B8-11-70-77
+      description: "SRQ188598 Chromecasts Ultra Compricer 20180912"
+      enabled: true
+      idgroup: 3200_LAN_Compricer
+      id: 5416
+
+    - mac: 44-09-B8-3F-80-37
+      description: "SRQ188598 Chromecasts Ultra Compricer 20180912"
+      enabled: true
+      idgroup: 3200_LAN_Compricer
+      id: 5414
+
+    - mac: 44-09-B8-20-7E-AD
+      description: "SRQ188598 Chromecasts Ultra Compricer 20180912"
+      enabled: true
+      idgroup: 3200_LAN_Compricer
+      id: 5412
+
+    - mac: 44-09-B8-30-55-00
+      description: "SRQ188598 Chromecasts Ultra Compricer 20180912"
+      enabled: true
+      idgroup: 3200_LAN_Compricer
+      id: 5419
+
+    - mac: 54-60-09-4F-9A-00
+      description: "SRQ188598 Chromecasts Ultra Compricer 20181029"
+      enabled: true
+      idgroup: 3200_LAN_Compricer
+      id: 5432
+
+    - mac: 44-09-B8-31-3A-76
+      description: "SRQ188598 Chromecasts Ultra Compricer 20180912"
+      enabled: true
+      idgroup: 3200_LAN_Compricer
+      id: 5415
+
+    - mac: 54-60-09-4F-9A-3C
+      description: "SRQ188598 Chromecasts Ultra Compricer 20181029"
+      enabled: true
+      idgroup: 3200_LAN_Compricer
+      id: 5426
+
+    - mac: 44-09-B8-31-39-B9
+      description: "SRQ188598 Chromecasts Ultra Compricer 20180912"
+      enabled: true
+      idgroup: 3200_LAN_Compricer
+      id: 5413
+
+    - mac: 54-60-09-4F-A2-7A
+      description: "SRQ188598 Chromecasts Ultra Compricer 20181029"
+      enabled: true
+      idgroup: 3200_LAN_Compricer
+      id: 5429
+
+    - mac: 48-D6-D5-02-2A-F4
+      description: "SRQ188598 Chromecasts Ultra Compricer 20181029"
+      enabled: true
+      idgroup: 3200_LAN_Compricer
+      id: 5430
+
+    - mac: 48-D6-D5-02-36-CC
+      description: "SRQ188598 Chromecasts Ultra Compricer 20181029"
+      enabled: true
+      idgroup: 3200_LAN_Compricer
+      id: 5431
+
+    - mac: 48-D6-D5-02-36-5C
+      description: "SRQ188598 Chromecasts Ultra Compricer 20181029"
+      enabled: true
+      idgroup: 3200_LAN_Compricer
+      id: 5428
+
+    - mac: 44-09-B8-11-70-77
+      description: "SRQ188598 Chromecasts Ultra Compricer 20180912"
+      enabled: true
+      idgroup: 3200_LAN_Compricer
+      id: 5416
+
+    - mac: 44-09-B8-3F-80-37
+      description: "SRQ188598 Chromecasts Ultra Compricer 20180912"
+      enabled: true
+      idgroup: 3200_LAN_Compricer
+      id: 5414
+
+    - mac: 44-09-B8-20-7E-AD
+      description: "SRQ188598 Chromecasts Ultra Compricer 20180912"
+      enabled: true
+      idgroup: 3200_LAN_Compricer
+      id: 5412
+
+    - mac: 44-09-B8-30-55-00
+      description: "SRQ188598 Chromecasts Ultra Compricer 20180912"
+      enabled: true
+      idgroup: 3200_LAN_Compricer
+      id: 5419
+
+    - mac: 54-60-09-4F-9A-00
+      description: "SRQ188598 Chromecasts Ultra Compricer 20181029"
+      enabled: true
+      idgroup: 3200_LAN_Compricer
+      id: 5432
+
+    - mac: 44-09-B8-31-3A-76
+      description: "SRQ188598 Chromecasts Ultra Compricer 20180912"
+      enabled: true
+      idgroup: 3200_LAN_Compricer
+      id: 5415
+
+    - mac: 54-60-09-4F-9A-3C
+      description: "SRQ188598 Chromecasts Ultra Compricer 20181029"
+      enabled: true
+      idgroup: 3200_LAN_Compricer
+      id: 5426
+
+    - mac: 44-09-B8-31-39-B9
+      description: "SRQ188598 Chromecasts Ultra Compricer 20180912"
+      enabled: true
+      idgroup: 3200_LAN_Compricer
+      id: 5413
+
+    - mac: 54-60-09-4F-A2-7A
+      description: "SRQ188598 Chromecasts Ultra Compricer 20181029"
+      enabled: true
+      idgroup: 3200_LAN_Compricer
+      id: 5429
+
+    - mac: 48-D6-D5-02-2A-F4
+      description: "SRQ188598 Chromecasts Ultra Compricer 20181029"
+      enabled: true
+      idgroup: 3200_LAN_Compricer
+      id: 5430
+
+    - mac: 48-D6-D5-02-36-CC
+      description: "SRQ188598 Chromecasts Ultra Compricer 20181029"
+      enabled: true
+      idgroup: 3200_LAN_Compricer
+      id: 5431
+

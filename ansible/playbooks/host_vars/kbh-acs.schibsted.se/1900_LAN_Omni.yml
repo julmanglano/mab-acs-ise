@@ -1,0 +1,14 @@
+1900_LAN_Omni:
+
+    - mac: 00-22-FB-3A-87-F8
+      description: "no description"
+      enabled: false
+      idgroup: 1900_LAN_Omni
+      id: 1608
+
+    - mac: 00-22-FB-3A-87-F8
+      description: "no description"
+      enabled: false
+      idgroup: 1900_LAN_Omni
+      id: 1608
+

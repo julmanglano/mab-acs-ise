@@ -1,0 +1,9 @@
+{
+"ERSEndPoint" : {
+"name" : "FAKE again",
+"description" : "FAKE again",
+"mac" : "cC:cc:81:82:83:84",
+"groupId" : "be583170-34fa-11e9-b397-7ae569c42f35",
+"staticGroupAssignment" : true
+}
+}

@@ -1,0 +1,123 @@
+1803_LAN_VIPadm:
+
+    - mac: 50-AF-73-2D-EB-C4
+      description: "Unison Visit KBH 2"
+      enabled: true
+      idgroup: 1803_LAN_VIPadm
+      id: 5531
+
+    - mac: 00-E0-4C-36-00-0D
+      description: "VIPadmin ipad1"
+      enabled: true
+      idgroup: 1803_LAN_VIPadm
+      id: 5421
+
+    - mac: 9C-AE-D3-A8-A7-9F
+      description: "VIPadmin printer"
+      enabled: true
+      idgroup: 1803_LAN_VIPadm
+      id: 5302
+
+    - mac: 00-1D-9A-05-1F-7F
+      description: "Unison visit printer KBH"
+      enabled: true
+      idgroup: 1803_LAN_VIPadm
+      id: 5529
+
+    - mac: 50-AF-73-2D-DD-6D
+      description: "Unison Visit KBH 1"
+      enabled: true
+      idgroup: 1803_LAN_VIPadm
+      id: 5530
+
+    - mac: 9C-AE-D3-A8-A7-98
+      description: "VIPadmin printer"
+      enabled: true
+      idgroup: 1803_LAN_VIPadm
+      id: 5303
+
+    - mac: 00-E0-4C-36-00-49
+      description: "VIPadmin ipad4"
+      enabled: true
+      idgroup: 1803_LAN_VIPadm
+      id: 5424
+
+    - mac: 00-E0-4C-36-00-32
+      description: "VIPadmin ipad3"
+      enabled: true
+      idgroup: 1803_LAN_VIPadm
+      id: 5423
+
+    - mac: 00-E0-4C-36-00-29
+      description: "VIPadmin ipad2"
+      enabled: true
+      idgroup: 1803_LAN_VIPadm
+      id: 5422
+    
+    - mac: 50-AF-73-2D-DD-C1
+      description: "Besoksdator kbh SRQ270500"
+      enabled: true
+      idgroup: 1803_LAN_VIPadm
+      id: 5422
+    
+
+    - mac: 50-AF-73-2D-EB-C4
+      description: "Unison Visit KBH 2"
+      enabled: true
+      idgroup: 1803_LAN_VIPadm
+      id: 5531
+
+    - mac: 50-AF-73-2D-DD-C1
+      description: "Besoksdator kbh SRQ270500"
+      enabled: true
+      idgroup: 1803_LAN_VIPadm
+      id: 5557
+
+    - mac: 00-E0-4C-36-00-0D
+      description: "VIPadmin ipad1"
+      enabled: true
+      idgroup: 1803_LAN_VIPadm
+      id: 5421
+
+    - mac: 9C-AE-D3-A8-A7-9F
+      description: "VIPadmin printer"
+      enabled: true
+      idgroup: 1803_LAN_VIPadm
+      id: 5302
+
+    - mac: 00-1D-9A-05-1F-7F
+      description: "Unison visit printer KBH"
+      enabled: true
+      idgroup: 1803_LAN_VIPadm
+      id: 5529
+
+    - mac: 50-AF-73-2D-DD-6D
+      description: "Unison Visit KBH 1"
+      enabled: true
+      idgroup: 1803_LAN_VIPadm
+      id: 5530
+
+    - mac: 9C-AE-D3-A8-A7-98
+      description: "VIPadmin printer"
+      enabled: true
+      idgroup: 1803_LAN_VIPadm
+      id: 5303
+
+    - mac: 00-E0-4C-36-00-49
+      description: "VIPadmin ipad4"
+      enabled: true
+      idgroup: 1803_LAN_VIPadm
+      id: 5424
+
+    - mac: 00-E0-4C-36-00-32
+      description: "VIPadmin ipad3"
+      enabled: true
+      idgroup: 1803_LAN_VIPadm
+      id: 5423
+
+    - mac: 00-E0-4C-36-00-29
+      description: "VIPadmin ipad2"
+      enabled: true
+      idgroup: 1803_LAN_VIPadm
+      id: 5422
+

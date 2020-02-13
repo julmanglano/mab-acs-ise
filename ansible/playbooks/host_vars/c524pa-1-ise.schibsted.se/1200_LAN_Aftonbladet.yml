@@ -1,0 +1,386 @@
+1200_LAN_Aftonbladet:
+
+    - mac: 34-E6-D7-24-50-25
+      description: "SpeedTest centos // 2015-11-02"
+      enabled: true
+      idgroup: 1200_LAN_Aftonbladet
+      id: 2898
+
+    - mac: 00-26-B0-E0-57-9A
+      description: "Carolinas Byrmos MacBookPro"
+      enabled: true
+      idgroup: 1200_LAN_Aftonbladet
+      id: 1195
+
+    - mac: E4-7C-F9-B5-CF-87
+      description: "AB IT-Utveckling TV3"
+      enabled: true
+      idgroup: 1200_LAN_Aftonbladet
+      id: 1662
+
+    - mac: 00-23-68-0A-C2-B9
+      description: "Handdator for paketmottagning vaktis //JF"
+      enabled: true
+      idgroup: 1200_LAN_Aftonbladet
+      id: 1361
+
+    - mac: 00-21-32-01-23-AC
+      description: "SRQ65532 20160926 JF"
+      enabled: true
+      idgroup: 1200_LAN_Aftonbladet
+      id: 5160
+
+    - mac: 40-6C-8F-B7-D3-FB
+      description: "Tobias Genberg #142674"
+      enabled: true
+      idgroup: 1200_LAN_Aftonbladet
+      id: 2379
+
+    - mac: 18-03-73-E0-F1-77
+      description: "Case 165558 pb. Genberg"
+      enabled: true
+      idgroup: 1200_LAN_Aftonbladet
+      id: 2619
+
+    - mac: 9C-EB-E8-0C-D7-59
+      description: "Tobias Genbergs Konsult"
+      enabled: true
+      idgroup: 1200_LAN_Aftonbladet
+      id: 2374
+
+    - mac: 00-16-A6-12-77-2B
+      description: "Emergency net1 Utbildning"
+      enabled: true
+      idgroup: 1200_LAN_Aftonbladet
+      id: 1347
+
+    - mac: 70-56-81-E5-4D-15
+      description: "apple tv Case: 105480 //2012-09-13, Mats"
+      enabled: true
+      idgroup: 1200_LAN_Aftonbladet
+      id: 2071
+
+    - mac: 00-26-B0-E4-ED-D8
+      description: "Aftonbladet Stins 24423"
+      enabled: true
+      idgroup: 1200_LAN_Aftonbladet
+      id: 1150
+
+    - mac: 7C-6D-62-8E-CE-2D
+      description: "Mats Juling Schibsted"
+      enabled: true
+      idgroup: 1200_LAN_Aftonbladet
+      id: 284
+
+    - mac: D0-03-4B-47-C6-D2
+      description: "SRQ41002"
+      enabled: true
+      idgroup: 1200_LAN_Aftonbladet
+      id: 2979
+
+    - mac: F0-DE-F1-55-24-7C
+      description: "Konsulter Norge"
+      enabled: true
+      idgroup: 1200_LAN_Aftonbladet
+      id: 1949
+
+    - mac: 34-E6-D7-04-8D-D7
+      description: "no description"
+      enabled: true
+      idgroup: 1200_LAN_Aftonbladet
+      id: 2867
+
+    - mac: AC-87-A3-1A-60-87
+      description: "Mac Mini - Robert Soderlund"
+      enabled: true
+      idgroup: 1200_LAN_Aftonbladet
+      id: 2800
+
+    - mac: 5C-26-0A-15-E1-C7
+      description: "2013-04-14 Temp problem med X //JF"
+      enabled: true
+      idgroup: 1200_LAN_Aftonbladet
+      id: 2307
+
+    - mac: 5C-26-0A-29-28-61
+      description: "Anders Larssons Dator // 2013-08-12, Mats"
+      enabled: true
+      idgroup: 1200_LAN_Aftonbladet
+      id: 2377
+
+    - mac: 04-69-F8-AE-81-90
+      description: "SRQ46620 20160426 JF"
+      enabled: true
+      idgroup: 1200_LAN_Aftonbladet
+      id: 3964
+
+    - mac: 5C-26-0A-22-9C-76
+      description: "TEmp for test, kan troligen raderas om du hittar denna //JF 20130429"
+      enabled: true
+      idgroup: 1200_LAN_Aftonbladet
+      id: 2313
+
+    - mac: 6C-C2-17-4D-D7-87
+      description: "Printer GBG"
+      enabled: true
+      idgroup: 1200_LAN_Aftonbladet
+      id: 2863
+
+    - mac: 00-23-68-0A-C2-BA
+      description: "Handdator for paketmottagning vaktis //JF"
+      enabled: true
+      idgroup: 1200_LAN_Aftonbladet
+      id: 1362
+
+    - mac: D0-03-4B-51-25-EE
+      description: "SRQ41002"
+      enabled: true
+      idgroup: 1200_LAN_Aftonbladet
+      id: 2980
+
+    - mac: B8-27-EB-74-90-A4
+      description: "Tobias Genberg"
+      enabled: true
+      idgroup: 1200_LAN_Aftonbladet
+      id: 2311
+
+    - mac: C8-BC-C8-8E-17-A6
+      description: "Hemsynktest Mats"
+      enabled: true
+      idgroup: 1200_LAN_Aftonbladet
+      id: 2025
+
+    - mac: 28-37-37-01-39-E0
+      description: "Konsulter Norge "
+      enabled: true
+      idgroup: 1200_LAN_Aftonbladet
+      id: 1948
+
+    - mac: E4-11-5B-4C-30-2D
+      description: "Sentor konsult p.b av Tobias G"
+      enabled: true
+      idgroup: 1200_LAN_Aftonbladet
+      id: 2375
+
+    - mac: 18-3D-A2-2F-1E-50
+      description: "Mab Anders Larsson WLAN //2013-08-12"
+      enabled: true
+      idgroup: 1200_LAN_Aftonbladet
+      id: 2378
+
+    - mac: B8-27-EB-1C-D9-19
+      description: "Ref: Tobias Genberg"
+      enabled: true
+      idgroup: 1200_LAN_Aftonbladet
+      id: 2309
+
+    - mac: C4-2C-03-27-F1-65
+      description: "50200 iMac Test. /Yngve 120730"
+      enabled: true
+      idgroup: 1200_LAN_Aftonbladet
+      id: 2068
+
+    - mac: 00-19-E3-3D-9B-FD
+      description: "Marlene Segelsbos gamla macintosh Aftonbladet"
+      enabled: true
+      idgroup: 1200_LAN_Aftonbladet
+      id: 1105
+
+    - mac: 00-18-39-3B-06-A5
+      description: "Linksys WLRouter utbildning"
+      enabled: false
+      idgroup: 1200_LAN_Aftonbladet
+      id: 1276
+
+    - mac: 34-E6-D7-24-50-25
+      description: "SpeedTest centos // 2015-11-02"
+      enabled: true
+      idgroup: 1200_LAN_Aftonbladet
+      id: 2898
+
+    - mac: 00-26-B0-E0-57-9A
+      description: "Carolinas Byrmos MacBookPro"
+      enabled: true
+      idgroup: 1200_LAN_Aftonbladet
+      id: 1195
+
+    - mac: E4-7C-F9-B5-CF-87
+      description: "AB IT-Utveckling TV3"
+      enabled: true
+      idgroup: 1200_LAN_Aftonbladet
+      id: 1662
+
+    - mac: 00-23-68-0A-C2-B9
+      description: "Handdator for paketmottagning vaktis //JF"
+      enabled: true
+      idgroup: 1200_LAN_Aftonbladet
+      id: 1361
+
+    - mac: 00-21-32-01-23-AC
+      description: "SRQ65532 20160926 JF"
+      enabled: true
+      idgroup: 1200_LAN_Aftonbladet
+      id: 5160
+
+    - mac: 40-6C-8F-B7-D3-FB
+      description: "Tobias Genberg #142674"
+      enabled: true
+      idgroup: 1200_LAN_Aftonbladet
+      id: 2379
+
+    - mac: 18-03-73-E0-F1-77
+      description: "Case 165558 pb. Genberg"
+      enabled: true
+      idgroup: 1200_LAN_Aftonbladet
+      id: 2619
+
+    - mac: 9C-EB-E8-0C-D7-59
+      description: "Tobias Genbergs Konsult"
+      enabled: true
+      idgroup: 1200_LAN_Aftonbladet
+      id: 2374
+
+    - mac: 00-16-A6-12-77-2B
+      description: "Emergency net1 Utbildning"
+      enabled: true
+      idgroup: 1200_LAN_Aftonbladet
+      id: 1347
+
+    - mac: 70-56-81-E5-4D-15
+      description: "apple tv Case: 105480 //2012-09-13, Mats"
+      enabled: true
+      idgroup: 1200_LAN_Aftonbladet
+      id: 2071
+
+    - mac: 00-26-B0-E4-ED-D8
+      description: "Aftonbladet Stins 24423"
+      enabled: true
+      idgroup: 1200_LAN_Aftonbladet
+      id: 1150
+
+    - mac: 7C-6D-62-8E-CE-2D
+      description: "Mats Juling Schibsted"
+      enabled: true
+      idgroup: 1200_LAN_Aftonbladet
+      id: 284
+
+    - mac: D0-03-4B-47-C6-D2
+      description: "SRQ41002"
+      enabled: true
+      idgroup: 1200_LAN_Aftonbladet
+      id: 2979
+
+    - mac: F0-DE-F1-55-24-7C
+      description: "Konsulter Norge"
+      enabled: true
+      idgroup: 1200_LAN_Aftonbladet
+      id: 1949
+
+    - mac: 34-E6-D7-04-8D-D7
+      description: "no description"
+      enabled: true
+      idgroup: 1200_LAN_Aftonbladet
+      id: 2867
+
+    - mac: AC-87-A3-1A-60-87
+      description: "Mac Mini - Robert Soderlund"
+      enabled: true
+      idgroup: 1200_LAN_Aftonbladet
+      id: 2800
+
+    - mac: 5C-26-0A-15-E1-C7
+      description: "2013-04-14 Temp problem med X //JF"
+      enabled: true
+      idgroup: 1200_LAN_Aftonbladet
+      id: 2307
+
+    - mac: 5C-26-0A-29-28-61
+      description: "Anders Larssons Dator // 2013-08-12, Mats"
+      enabled: true
+      idgroup: 1200_LAN_Aftonbladet
+      id: 2377
+
+    - mac: 04-69-F8-AE-81-90
+      description: "SRQ46620 20160426 JF"
+      enabled: true
+      idgroup: 1200_LAN_Aftonbladet
+      id: 3964
+
+    - mac: 5C-26-0A-22-9C-76
+      description: "TEmp for test, kan troligen raderas om du hittar denna //JF 20130429"
+      enabled: true
+      idgroup: 1200_LAN_Aftonbladet
+      id: 2313
+
+    - mac: 6C-C2-17-4D-D7-87
+      description: "Printer GBG"
+      enabled: true
+      idgroup: 1200_LAN_Aftonbladet
+      id: 2863
+
+    - mac: 00-23-68-0A-C2-BA
+      description: "Handdator for paketmottagning vaktis //JF"
+      enabled: true
+      idgroup: 1200_LAN_Aftonbladet
+      id: 1362
+
+    - mac: D0-03-4B-51-25-EE
+      description: "SRQ41002"
+      enabled: true
+      idgroup: 1200_LAN_Aftonbladet
+      id: 2980
+
+    - mac: B8-27-EB-74-90-A4
+      description: "Tobias Genberg"
+      enabled: true
+      idgroup: 1200_LAN_Aftonbladet
+      id: 2311
+
+    - mac: C8-BC-C8-8E-17-A6
+      description: "Hemsynktest Mats"
+      enabled: true
+      idgroup: 1200_LAN_Aftonbladet
+      id: 2025
+
+    - mac: 28-37-37-01-39-E0
+      description: "Konsulter Norge "
+      enabled: true
+      idgroup: 1200_LAN_Aftonbladet
+      id: 1948
+
+    - mac: E4-11-5B-4C-30-2D
+      description: "Sentor konsult p.b av Tobias G"
+      enabled: true
+      idgroup: 1200_LAN_Aftonbladet
+      id: 2375
+
+    - mac: 18-3D-A2-2F-1E-50
+      description: "Mab Anders Larsson WLAN //2013-08-12"
+      enabled: true
+      idgroup: 1200_LAN_Aftonbladet
+      id: 2378
+
+    - mac: B8-27-EB-1C-D9-19
+      description: "Ref: Tobias Genberg"
+      enabled: true
+      idgroup: 1200_LAN_Aftonbladet
+      id: 2309
+
+    - mac: C4-2C-03-27-F1-65
+      description: "50200 iMac Test. /Yngve 120730"
+      enabled: true
+      idgroup: 1200_LAN_Aftonbladet
+      id: 2068
+
+    - mac: 00-19-E3-3D-9B-FD
+      description: "Marlene Segelsbos gamla macintosh Aftonbladet"
+      enabled: true
+      idgroup: 1200_LAN_Aftonbladet
+      id: 1105
+
+    - mac: 00-18-39-3B-06-A5
+      description: "Linksys WLRouter utbildning"
+      enabled: false
+      idgroup: 1200_LAN_Aftonbladet
+      id: 1276
+

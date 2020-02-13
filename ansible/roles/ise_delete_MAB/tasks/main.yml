@@ -1,0 +1,94 @@
+---
+# tasks file for /etc/ansible/roles/ise_MAB
+
+
+- name: Create  
+  template: src=ise_all_macs_var.j2 dest="{{ role_path }}/files/ALLMACS.yml"
+
+- name: INCLUDE variable ALLMACS
+  include_vars: 
+         file: files/ALLMACS.yml
+         
+- fail: msg="NO NEW MACS ( id -1 ) TO BE DELETED"
+  when: item.mac is not defined
+  with_items:
+         - "{{ ALLMACS }}"
+   
+- name: Create JSON files for newly added MACs ( id 0 )  
+  template: src=ise_create_macs_json.j2 dest="{{ role_path }}/files/{{item.mac}}.json"
+  with_items:
+         - "{{ ALLMACS }}"
+  
+
+- name: GET ID OF THE MACs to BE REMOVED
+  uri:
+     validate_certs: False
+     url: https://{{ ansible_host }}:{{ api_port }}/ers/config/endpoint?filter=mac.EQ.{{item.mac}}
+     method: GET
+     headers:
+        Content-type: "application/json"
+        Accept: "application/json"
+                
+     body_format: json
+     status_code: 200
+     return_content: yes
+     user: "{{ API_CREDENTIALS.api_username }}"
+     password: "{{ API_CREDENTIALS.api_password }}"
+     force_basic_auth: yes
+     
+  #ignore_error: yes
+  with_items:
+         - "{{ ALLMACS }}"
+  register: endpoint_id
+  when:  item.id == -1
+
+- set_fact:
+    uuid: []
+- set_fact:
+   uuid: "{{ uuid + [item.json.SearchResult.resources[0].id] }}"
+  with_items:
+             - "{{ endpoint_id.results }}"
+     
+- name: ID debug LOOP
+  debug:
+         msg: "{{ item.0.uuid }}"
+         msg: "{{ item.1.mac }}"
+  with_together:
+          - "{{ uuid }}"
+          - "{{ ALLMACS }}"
+  
+
+- name: DELETE MAC
+  uri:
+     validate_certs: False
+     url: https://{{ ansible_host }}:{{ api_port }}/ers/config/endpoint/{{ item.0 }}
+     method: DELETE
+     headers:
+        Content-type: "application/json"
+        Accept: "application/json"
+                
+     body_format: json
+     src: "{{ role_path }}/files/{{item.1.mac}}.json"
+     status_code: 204
+     return_content: yes
+     user: "{{ API_CREDENTIALS.api_username }}"
+     password: "{{ API_CREDENTIALS.api_password }}"
+     force_basic_auth: yes
+  ignore_errors: no
+  with_together:
+         - "{{ uuid }}"
+         - "{{ ALLMACS }}"
+
+- name: DELETE tmp files
+  file:
+      path: "{{ role_path }}/files/{{item.mac}}.json"
+      state: absent
+  with_items:
+         - "{{ ALLMACS }}"
+  when: item.id == 0
+  
+- name: DELETE tmp files
+  file:
+      path: "{{ role_path }}/files/ALLMACS.yml"
+      state: absent
+

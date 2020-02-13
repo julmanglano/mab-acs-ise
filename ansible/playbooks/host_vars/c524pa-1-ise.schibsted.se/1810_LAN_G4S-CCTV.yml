@@ -1,0 +1,926 @@
+1810_LAN_G4S-CCTV:
+
+    - mac: 14-02-EC-40-7E-59
+      description: "Ny styrdator NIC 1 / Plan 03"
+      enabled: true
+      idgroup: 1810_LAN_G4S-CCTV
+      id: 4054
+
+    - mac: AC-CC-8E-02-57-F8
+      description: "Natverkshogtalare Plan 12.1"
+      enabled: true
+      idgroup: 1810_LAN_G4S-CCTV
+      id: 2969
+
+    - mac: AC-CC-8E-24-C5-BF
+      description: "overvakningskamera"
+      enabled: true
+      idgroup: 1810_LAN_G4S-CCTV
+      id: 4788
+
+    - mac: AC-CC-8E-24-BD-27
+      description: "overvakningskamera"
+      enabled: true
+      idgroup: 1810_LAN_G4S-CCTV
+      id: 4774
+
+    - mac: 48-45-20-65-ED-AC
+      description: "Workstation for Cameras"
+      enabled: true
+      idgroup: 1810_LAN_G4S-CCTV
+      id: 5464
+
+    - mac: AC-CC-8E-24-B2-2E
+      description: "overvakningskamera"
+      enabled: true
+      idgroup: 1810_LAN_G4S-CCTV
+      id: 4766
+
+    - mac: AC-CC-8E-02-58-5F
+      description: "Natverkshogtalare Plan 07.2"
+      enabled: true
+      idgroup: 1810_LAN_G4S-CCTV
+      id: 2958
+
+    - mac: AC-CC-8E-24-C4-CF
+      description: "overvakningskamera"
+      enabled: true
+      idgroup: 1810_LAN_G4S-CCTV
+      id: 4784
+
+    - mac: 7C-1E-B3-03-72-A2
+      description: "stanley MIC"
+      enabled: true
+      idgroup: 1810_LAN_G4S-CCTV
+      id: 5503
+
+    - mac: AC-CC-8E-02-58-47
+      description: "Natverkshogtalare Plan 05.3"
+      enabled: true
+      idgroup: 1810_LAN_G4S-CCTV
+      id: 2952
+
+    - mac: AC-CC-8E-02-58-0E
+      description: "Natverkshogtalare Plan 11"
+      enabled: true
+      idgroup: 1810_LAN_G4S-CCTV
+      id: 2966
+
+    - mac: AC-CC-8E-24-C4-B0
+      description: "overvakningskamera Plan 10"
+      enabled: true
+      idgroup: 1810_LAN_G4S-CCTV
+      id: 4779
+
+    - mac: AC-CC-8E-24-B8-37
+      description: "overvakningskamera"
+      enabled: true
+      idgroup: 1810_LAN_G4S-CCTV
+      id: 4772
+
+    - mac: AC-CC-8E-24-B7-BB
+      description: "overvakningskamera"
+      enabled: true
+      idgroup: 1810_LAN_G4S-CCTV
+      id: 4770
+
+    - mac: AC-CC-8E-24-B0-02
+      description: "overvakningskamera"
+      enabled: true
+      idgroup: 1810_LAN_G4S-CCTV
+      id: 4764
+
+    - mac: F0-1F-AF-49-79-8D
+      description: "G4s-laptop "
+      enabled: true
+      idgroup: 1810_LAN_G4S-CCTV
+      id: 5041
+
+    - mac: AC-CC-8E-01-73-CF
+      description: "Natverkshogtalare Plan 02"
+      enabled: true
+      idgroup: 1810_LAN_G4S-CCTV
+      id: 4740
+
+    - mac: E0-DC-A0-05-51-40
+      description: "Ny Siemens PLC (garaget)"
+      enabled: true
+      idgroup: 1810_LAN_G4S-CCTV
+      id: 4961
+
+    - mac: AC-CC-8E-24-C5-55
+      description: ""
+      enabled: true
+      idgroup: 1810_LAN_G4S-CCTV
+      id: 4786
+
+    - mac: AC-CC-8E-01-72-1C
+      description: "Natverkshogtalare Plan 06"
+      enabled: true
+      idgroup: 1810_LAN_G4S-CCTV
+      id: 4737
+
+    - mac: AC-CC-8E-4E-C9-7A
+      description: "overvakningskamera Plan 1"
+      enabled: true
+      idgroup: 1810_LAN_G4S-CCTV
+      id: 4797
+
+    - mac: AC-CC-8E-02-57-AD
+      description: "Natverkshogtalare Plan 08.3"
+      enabled: true
+      idgroup: 1810_LAN_G4S-CCTV
+      id: 2963
+
+    - mac: AC-CC-8E-02-58-5A
+      description: "Natverkshogtalare Plan 07.3"
+      enabled: true
+      idgroup: 1810_LAN_G4S-CCTV
+      id: 2959
+
+    - mac: 1C-DE-A7-67-DE-70
+      description: "no description"
+      enabled: true
+      idgroup: 1810_LAN_G4S-CCTV
+      id: 5327
+
+    - mac: AC-CC-8E-01-4B-A7
+      description: "Natverkshogtalare Plan 11"
+      enabled: true
+      idgroup: 1810_LAN_G4S-CCTV
+      id: 4733
+
+    - mac: AC-CC-8E-24-C4-B8
+      description: "overvakningskamera"
+      enabled: true
+      idgroup: 1810_LAN_G4S-CCTV
+      id: 4781
+
+    - mac: AC-CC-8E-24-C4-AF
+      description: "overvakningskamera"
+      enabled: true
+      idgroup: 1810_LAN_G4S-CCTV
+      id: 4778
+
+    - mac: AC-CC-8E-02-58-43
+      description: "Natverkshogtalare Plan 05.4"
+      enabled: true
+      idgroup: 1810_LAN_G4S-CCTV
+      id: 2953
+
+    - mac: AC-CC-8E-02-57-9B
+      description: "Natverkshogtalare Plan 06.3"
+      enabled: true
+      idgroup: 1810_LAN_G4S-CCTV
+      id: 2956
+
+    - mac: AC-CC-8E-01-73-BF
+      description: "Natverkshogtalare Plan 03"
+      enabled: true
+      idgroup: 1810_LAN_G4S-CCTV
+      id: 4739
+
+    - mac: AC-CC-8E-02-58-2C
+      description: "Natverkshogtalare Plan 08"
+      enabled: true
+      idgroup: 1810_LAN_G4S-CCTV
+      id: 2961
+
+    - mac: AC-CC-8E-02-58-23
+      description: "Natverkshogtalare Plan 07.4"
+      enabled: true
+      idgroup: 1810_LAN_G4S-CCTV
+      id: 2960
+
+    - mac: AC-CC-8E-01-01-67
+      description: "Natverkshogtalare Plan 02"
+      enabled: true
+      idgroup: 1810_LAN_G4S-CCTV
+      id: 2948
+
+    - mac: AC-CC-8E-02-58-69
+      description: "Natverkshogtalare Plan 04"
+      enabled: true
+      idgroup: 1810_LAN_G4S-CCTV
+      id: 2949
+
+    - mac: AC-CC-8E-24-C4-C8
+      description: "overvakningskamera"
+      enabled: true
+      idgroup: 1810_LAN_G4S-CCTV
+      id: 4783
+
+    - mac: AC-CC-8E-24-D4-00
+      description: "overvakningskamera plan 10"
+      enabled: true
+      idgroup: 1810_LAN_G4S-CCTV
+      id: 4791
+
+    - mac: AC-CC-8E-24-64-22
+      description: "overvakningskamera"
+      enabled: true
+      idgroup: 1810_LAN_G4S-CCTV
+      id: 4762
+
+    - mac: AC-CC-8E-24-B7-B3
+      description: "overvakningskamera"
+      enabled: true
+      idgroup: 1810_LAN_G4S-CCTV
+      id: 4769
+
+    - mac: AC-CC-8E-01-01-6B
+      description: "44-051 - Plan 13 Vid Terrass"
+      enabled: true
+      idgroup: 1810_LAN_G4S-CCTV
+      id: 2895
+
+    - mac: AC-CC-8E-24-C4-6B
+      description: "overvakningskamera"
+      enabled: true
+      idgroup: 1810_LAN_G4S-CCTV
+      id: 4776
+
+    - mac: AC-CC-8E-24-D7-17
+      description: "overvakningskamera Plan 10"
+      enabled: true
+      idgroup: 1810_LAN_G4S-CCTV
+      id: 4793
+
+    - mac: AC-CC-8E-01-73-71
+      description: "Natverkshogtalare Plan 06"
+      enabled: true
+      idgroup: 1810_LAN_G4S-CCTV
+      id: 4738
+
+    - mac: AC-CC-8E-24-CE-8C
+      description: "overvakningskamera"
+      enabled: true
+      idgroup: 1810_LAN_G4S-CCTV
+      id: 4789
+
+    - mac: AC-CC-8E-24-C4-D0
+      description: "overvakningskamera"
+      enabled: true
+      idgroup: 1810_LAN_G4S-CCTV
+      id: 4785
+
+    - mac: AC-CC-8E-02-58-18
+      description: "Natverkshogtalare Plan 11.1"
+      enabled: true
+      idgroup: 1810_LAN_G4S-CCTV
+      id: 2967
+
+    - mac: AC-CC-8E-02-58-30
+      description: "Natverkshogtalare Plan 07"
+      enabled: true
+      idgroup: 1810_LAN_G4S-CCTV
+      id: 2957
+
+    - mac: AC-CC-8E-02-58-1D
+      description: "Natverkshogtalare Plan 05"
+      enabled: true
+      idgroup: 1810_LAN_G4S-CCTV
+      id: 2950
+
+    - mac: AC-CC-8E-01-5B-3F
+      description: "Natverkshogtalare Plan 10"
+      enabled: true
+      idgroup: 1810_LAN_G4S-CCTV
+      id: 4736
+
+    - mac: AC-CC-8E-42-D4-00
+      description: "overvakningskamera Plan 10"
+      enabled: true
+      idgroup: 1810_LAN_G4S-CCTV
+      id: 4796
+
+    - mac: AC-CC-8E-24-C5-56
+      description: "overvakningskamera"
+      enabled: true
+      idgroup: 1810_LAN_G4S-CCTV
+      id: 4787
+
+    - mac: AC-CC-8E-01-57-CE
+      description: "Natverkshogtalare Plan 11"
+      enabled: true
+      idgroup: 1810_LAN_G4S-CCTV
+      id: 4735
+
+    - mac: AC-CC-8E-02-58-3A
+      description: "Natverkshogtalare Plan 08.5"
+      enabled: true
+      idgroup: 1810_LAN_G4S-CCTV
+      id: 2965
+
+    - mac: AC-CC-8E-02-58-0A
+      description: "Natverkshogtalare Plan 08.4"
+      enabled: true
+      idgroup: 1810_LAN_G4S-CCTV
+      id: 2964
+
+    - mac: AC-CC-8E-02-58-54
+      description: "Natverkshogtalare Plan 05.2"
+      enabled: true
+      idgroup: 1810_LAN_G4S-CCTV
+      id: 2951
+
+    - mac: AC-CC-8E-24-B8-36
+      description: "overvakningskamera"
+      enabled: true
+      idgroup: 1810_LAN_G4S-CCTV
+      id: 4771
+
+    - mac: AC-CC-8E-24-B2-35
+      description: "overvakningskamera"
+      enabled: true
+      idgroup: 1810_LAN_G4S-CCTV
+      id: 4767
+
+    - mac: AC-CC-8E-24-BA-D2
+      description: "overvakningskamera"
+      enabled: true
+      idgroup: 1810_LAN_G4S-CCTV
+      id: 4773
+
+    - mac: 00-D0-C9-F6-3C-3D
+      description: "ADAM modul / Plan 01"
+      enabled: true
+      idgroup: 1810_LAN_G4S-CCTV
+      id: 3818
+
+    - mac: 84-7B-EB-21-91-A8
+      description: "Workstation for cameras."
+      enabled: true
+      idgroup: 1810_LAN_G4S-CCTV
+      id: 5465
+
+    - mac: AC-CC-8E-24-B5-0F
+      description: "overvakningskamera"
+      enabled: true
+      idgroup: 1810_LAN_G4S-CCTV
+      id: 4768
+
+    - mac: AC-CC-8E-24-C4-6C
+      description: "overvakningskamera"
+      enabled: true
+      idgroup: 1810_LAN_G4S-CCTV
+      id: 4777
+
+    - mac: AC-CC-8E-02-58-4C
+      description: "Natverkshogtalare Plan 06"
+      enabled: true
+      idgroup: 1810_LAN_G4S-CCTV
+      id: 2954
+
+    - mac: AC-CC-8E-24-B2-27
+      description: "overvakningskamera Plan 11"
+      enabled: true
+      idgroup: 1810_LAN_G4S-CCTV
+      id: 4765
+
+    - mac: 00-1D-70-60-4D-22
+      description: "G4S telefon"
+      enabled: true
+      idgroup: 1810_LAN_G4S-CCTV
+      id: 1706
+
+    - mac: AC-CC-8E-01-57-C6
+      description: "Natverkshogtalare Plan 10"
+      enabled: true
+      idgroup: 1810_LAN_G4S-CCTV
+      id: 4734
+
+    - mac: AC-CC-8E-02-58-65
+      description: "Natverkshogtalare Plan 08.2"
+      enabled: true
+      idgroup: 1810_LAN_G4S-CCTV
+      id: 2962
+
+    - mac: AC-CC-8E-24-C4-B1
+      description: "overvakningskamera Plan 10"
+      enabled: true
+      idgroup: 1810_LAN_G4S-CCTV
+      id: 4780
+
+    - mac: AC-CC-8E-24-B0-00
+      description: "overvakningskamera"
+      enabled: true
+      idgroup: 1810_LAN_G4S-CCTV
+      id: 4763
+
+    - mac: AC-CC-8E-24-CE-B1
+      description: "overvakningskamera"
+      enabled: true
+      idgroup: 1810_LAN_G4S-CCTV
+      id: 4790
+
+    - mac: AC-CC-8E-02-58-01
+      description: "Natverkshogtalare Plan 06.2"
+      enabled: true
+      idgroup: 1810_LAN_G4S-CCTV
+      id: 2955
+
+    - mac: AC-CC-8E-24-BF-CA
+      description: "overvakningskamera"
+      enabled: true
+      idgroup: 1810_LAN_G4S-CCTV
+      id: 4775
+
+    - mac: AC-CC-8E-24-D7-16
+      description: "overvakningskamera Plan 11"
+      enabled: true
+      idgroup: 1810_LAN_G4S-CCTV
+      id: 4792
+
+    - mac: 1C-DE-A7-67-D1-C6
+      description: "no description"
+      enabled: true
+      idgroup: 1810_LAN_G4S-CCTV
+      id: 5326
+
+    - mac: AC-CC-8E-02-0B-E3
+      description: "Natverkshogtalare Plan 12"
+      enabled: true
+      idgroup: 1810_LAN_G4S-CCTV
+      id: 2968
+
+    - mac: 7C-1E-B3-03-7C-B9
+      description: "no description"
+      enabled: true
+      idgroup: 1810_LAN_G4S-CCTV
+      id: 5497
+
+    - mac: AC-CC-8E-01-46-76
+      description: "Natverkshogtalare Plan 10"
+      enabled: true
+      idgroup: 1810_LAN_G4S-CCTV
+      id: 4732
+
+    - mac: AC-CC-8E-01-01-D3
+      description: "44-050 - Plan 13 Vid Balkong"
+      enabled: true
+      idgroup: 1810_LAN_G4S-CCTV
+      id: 2894
+
+    - mac: 14-02-EC-40-7E-59
+      description: "Ny styrdator NIC 1 / Plan 03"
+      enabled: true
+      idgroup: 1810_LAN_G4S-CCTV
+      id: 4054
+
+    - mac: AC-CC-8E-02-57-F8
+      description: "Natverkshogtalare Plan 12.1"
+      enabled: true
+      idgroup: 1810_LAN_G4S-CCTV
+      id: 2969
+
+    - mac: AC-CC-8E-24-C5-BF
+      description: "overvakningskamera"
+      enabled: true
+      idgroup: 1810_LAN_G4S-CCTV
+      id: 4788
+
+    - mac: AC-CC-8E-24-BD-27
+      description: "overvakningskamera"
+      enabled: true
+      idgroup: 1810_LAN_G4S-CCTV
+      id: 4774
+
+    - mac: 48-45-20-65-ED-AC
+      description: "Workstation for Cameras"
+      enabled: true
+      idgroup: 1810_LAN_G4S-CCTV
+      id: 5464
+
+    - mac: AC-CC-8E-24-B2-2E
+      description: "overvakningskamera"
+      enabled: true
+      idgroup: 1810_LAN_G4S-CCTV
+      id: 4766
+
+    - mac: AC-CC-8E-02-58-5F
+      description: "Natverkshogtalare Plan 07.2"
+      enabled: true
+      idgroup: 1810_LAN_G4S-CCTV
+      id: 2958
+
+    - mac: AC-CC-8E-24-C4-CF
+      description: "overvakningskamera"
+      enabled: true
+      idgroup: 1810_LAN_G4S-CCTV
+      id: 4784
+
+    - mac: 7C-1E-B3-03-72-A2
+      description: "stanley MIC"
+      enabled: true
+      idgroup: 1810_LAN_G4S-CCTV
+      id: 5503
+
+    - mac: AC-CC-8E-02-58-47
+      description: "Natverkshogtalare Plan 05.3"
+      enabled: true
+      idgroup: 1810_LAN_G4S-CCTV
+      id: 2952
+
+    - mac: AC-CC-8E-02-58-0E
+      description: "Natverkshogtalare Plan 11"
+      enabled: true
+      idgroup: 1810_LAN_G4S-CCTV
+      id: 2966
+
+    - mac: AC-CC-8E-24-C4-B0
+      description: "overvakningskamera Plan 10"
+      enabled: true
+      idgroup: 1810_LAN_G4S-CCTV
+      id: 4779
+
+    - mac: AC-CC-8E-24-B8-37
+      description: "overvakningskamera"
+      enabled: true
+      idgroup: 1810_LAN_G4S-CCTV
+      id: 4772
+
+    - mac: AC-CC-8E-24-B7-BB
+      description: "overvakningskamera"
+      enabled: true
+      idgroup: 1810_LAN_G4S-CCTV
+      id: 4770
+
+    - mac: AC-CC-8E-24-B0-02
+      description: "overvakningskamera"
+      enabled: true
+      idgroup: 1810_LAN_G4S-CCTV
+      id: 4764
+
+    - mac: F0-1F-AF-49-79-8D
+      description: "G4s-laptop "
+      enabled: true
+      idgroup: 1810_LAN_G4S-CCTV
+      id: 5041
+
+    - mac: AC-CC-8E-01-73-CF
+      description: "Natverkshogtalare Plan 02"
+      enabled: true
+      idgroup: 1810_LAN_G4S-CCTV
+      id: 4740
+
+    - mac: E0-DC-A0-05-51-40
+      description: "Ny Siemens PLC (garaget)"
+      enabled: true
+      idgroup: 1810_LAN_G4S-CCTV
+      id: 4961
+
+    - mac: AC-CC-8E-24-C5-55
+      description: ""
+      enabled: true
+      idgroup: 1810_LAN_G4S-CCTV
+      id: 4786
+
+    - mac: AC-CC-8E-01-72-1C
+      description: "Natverkshogtalare Plan 06"
+      enabled: true
+      idgroup: 1810_LAN_G4S-CCTV
+      id: 4737
+
+    - mac: AC-CC-8E-4E-C9-7A
+      description: "overvakningskamera Plan 1"
+      enabled: true
+      idgroup: 1810_LAN_G4S-CCTV
+      id: 4797
+
+    - mac: AC-CC-8E-02-57-AD
+      description: "Natverkshogtalare Plan 08.3"
+      enabled: true
+      idgroup: 1810_LAN_G4S-CCTV
+      id: 2963
+
+    - mac: AC-CC-8E-02-58-5A
+      description: "Natverkshogtalare Plan 07.3"
+      enabled: true
+      idgroup: 1810_LAN_G4S-CCTV
+      id: 2959
+
+    - mac: 1C-DE-A7-67-DE-70
+      description: "no description"
+      enabled: true
+      idgroup: 1810_LAN_G4S-CCTV
+      id: 5327
+
+    - mac: AC-CC-8E-01-4B-A7
+      description: "Natverkshogtalare Plan 11"
+      enabled: true
+      idgroup: 1810_LAN_G4S-CCTV
+      id: 4733
+
+    - mac: AC-CC-8E-24-C4-B8
+      description: "overvakningskamera"
+      enabled: true
+      idgroup: 1810_LAN_G4S-CCTV
+      id: 4781
+
+    - mac: AC-CC-8E-24-C4-AF
+      description: "overvakningskamera"
+      enabled: true
+      idgroup: 1810_LAN_G4S-CCTV
+      id: 4778
+
+    - mac: AC-CC-8E-02-58-43
+      description: "Natverkshogtalare Plan 05.4"
+      enabled: true
+      idgroup: 1810_LAN_G4S-CCTV
+      id: 2953
+
+    - mac: AC-CC-8E-02-57-9B
+      description: "Natverkshogtalare Plan 06.3"
+      enabled: true
+      idgroup: 1810_LAN_G4S-CCTV
+      id: 2956
+
+    - mac: AC-CC-8E-01-73-BF
+      description: "Natverkshogtalare Plan 03"
+      enabled: true
+      idgroup: 1810_LAN_G4S-CCTV
+      id: 4739
+
+    - mac: AC-CC-8E-02-58-2C
+      description: "Natverkshogtalare Plan 08"
+      enabled: true
+      idgroup: 1810_LAN_G4S-CCTV
+      id: 2961
+
+    - mac: AC-CC-8E-02-58-23
+      description: "Natverkshogtalare Plan 07.4"
+      enabled: true
+      idgroup: 1810_LAN_G4S-CCTV
+      id: 2960
+
+    - mac: AC-CC-8E-01-01-67
+      description: "Natverkshogtalare Plan 02"
+      enabled: true
+      idgroup: 1810_LAN_G4S-CCTV
+      id: 2948
+
+    - mac: AC-CC-8E-02-58-69
+      description: "Natverkshogtalare Plan 04"
+      enabled: true
+      idgroup: 1810_LAN_G4S-CCTV
+      id: 2949
+
+    - mac: AC-CC-8E-24-C4-C8
+      description: "overvakningskamera"
+      enabled: true
+      idgroup: 1810_LAN_G4S-CCTV
+      id: 4783
+
+    - mac: AC-CC-8E-24-D4-00
+      description: "overvakningskamera plan 10"
+      enabled: true
+      idgroup: 1810_LAN_G4S-CCTV
+      id: 4791
+
+    - mac: AC-CC-8E-24-64-22
+      description: "overvakningskamera"
+      enabled: true
+      idgroup: 1810_LAN_G4S-CCTV
+      id: 4762
+
+    - mac: AC-CC-8E-24-B7-B3
+      description: "overvakningskamera"
+      enabled: true
+      idgroup: 1810_LAN_G4S-CCTV
+      id: 4769
+
+    - mac: AC-CC-8E-01-01-6B
+      description: "44-051 - Plan 13 Vid Terrass"
+      enabled: true
+      idgroup: 1810_LAN_G4S-CCTV
+      id: 2895
+
+    - mac: AC-CC-8E-24-C4-6B
+      description: "overvakningskamera"
+      enabled: true
+      idgroup: 1810_LAN_G4S-CCTV
+      id: 4776
+
+    - mac: AC-CC-8E-24-D7-17
+      description: "overvakningskamera Plan 10"
+      enabled: true
+      idgroup: 1810_LAN_G4S-CCTV
+      id: 4793
+
+    - mac: AC-CC-8E-01-73-71
+      description: "Natverkshogtalare Plan 06"
+      enabled: true
+      idgroup: 1810_LAN_G4S-CCTV
+      id: 4738
+
+    - mac: AC-CC-8E-24-CE-8C
+      description: "overvakningskamera"
+      enabled: true
+      idgroup: 1810_LAN_G4S-CCTV
+      id: 4789
+
+    - mac: AC-CC-8E-24-C4-D0
+      description: "overvakningskamera"
+      enabled: true
+      idgroup: 1810_LAN_G4S-CCTV
+      id: 4785
+
+    - mac: AC-CC-8E-02-58-18
+      description: "Natverkshogtalare Plan 11.1"
+      enabled: true
+      idgroup: 1810_LAN_G4S-CCTV
+      id: 2967
+
+    - mac: AC-CC-8E-02-58-30
+      description: "Natverkshogtalare Plan 07"
+      enabled: true
+      idgroup: 1810_LAN_G4S-CCTV
+      id: 2957
+
+    - mac: AC-CC-8E-02-58-1D
+      description: "Natverkshogtalare Plan 05"
+      enabled: true
+      idgroup: 1810_LAN_G4S-CCTV
+      id: 2950
+
+    - mac: AC-CC-8E-01-5B-3F
+      description: "Natverkshogtalare Plan 10"
+      enabled: true
+      idgroup: 1810_LAN_G4S-CCTV
+      id: 4736
+
+    - mac: AC-CC-8E-42-D4-00
+      description: "overvakningskamera Plan 10"
+      enabled: true
+      idgroup: 1810_LAN_G4S-CCTV
+      id: 4796
+
+    - mac: AC-CC-8E-24-C5-56
+      description: "overvakningskamera"
+      enabled: true
+      idgroup: 1810_LAN_G4S-CCTV
+      id: 4787
+
+    - mac: AC-CC-8E-01-57-CE
+      description: "Natverkshogtalare Plan 11"
+      enabled: true
+      idgroup: 1810_LAN_G4S-CCTV
+      id: 4735
+
+    - mac: AC-CC-8E-02-58-3A
+      description: "Natverkshogtalare Plan 08.5"
+      enabled: true
+      idgroup: 1810_LAN_G4S-CCTV
+      id: 2965
+
+    - mac: AC-CC-8E-02-58-0A
+      description: "Natverkshogtalare Plan 08.4"
+      enabled: true
+      idgroup: 1810_LAN_G4S-CCTV
+      id: 2964
+
+    - mac: AC-CC-8E-02-58-54
+      description: "Natverkshogtalare Plan 05.2"
+      enabled: true
+      idgroup: 1810_LAN_G4S-CCTV
+      id: 2951
+
+    - mac: AC-CC-8E-24-B8-36
+      description: "overvakningskamera"
+      enabled: true
+      idgroup: 1810_LAN_G4S-CCTV
+      id: 4771
+
+    - mac: AC-CC-8E-24-B2-35
+      description: "overvakningskamera"
+      enabled: true
+      idgroup: 1810_LAN_G4S-CCTV
+      id: 4767
+
+    - mac: AC-CC-8E-24-BA-D2
+      description: "overvakningskamera"
+      enabled: true
+      idgroup: 1810_LAN_G4S-CCTV
+      id: 4773
+
+    - mac: 00-D0-C9-F6-3C-3D
+      description: "ADAM modul / Plan 01"
+      enabled: true
+      idgroup: 1810_LAN_G4S-CCTV
+      id: 3818
+
+    - mac: 84-7B-EB-21-91-A8
+      description: "Workstation for cameras."
+      enabled: true
+      idgroup: 1810_LAN_G4S-CCTV
+      id: 5465
+
+    - mac: AC-CC-8E-24-B5-0F
+      description: "overvakningskamera"
+      enabled: true
+      idgroup: 1810_LAN_G4S-CCTV
+      id: 4768
+
+    - mac: AC-CC-8E-24-C4-6C
+      description: "overvakningskamera"
+      enabled: true
+      idgroup: 1810_LAN_G4S-CCTV
+      id: 4777
+
+    - mac: AC-CC-8E-02-58-4C
+      description: "Natverkshogtalare Plan 06"
+      enabled: true
+      idgroup: 1810_LAN_G4S-CCTV
+      id: 2954
+
+    - mac: AC-CC-8E-24-B2-27
+      description: "overvakningskamera Plan 11"
+      enabled: true
+      idgroup: 1810_LAN_G4S-CCTV
+      id: 4765
+
+    - mac: 00-1D-70-60-4D-22
+      description: "G4S telefon"
+      enabled: true
+      idgroup: 1810_LAN_G4S-CCTV
+      id: 1706
+
+    - mac: AC-CC-8E-01-57-C6
+      description: "Natverkshogtalare Plan 10"
+      enabled: true
+      idgroup: 1810_LAN_G4S-CCTV
+      id: 4734
+
+    - mac: AC-CC-8E-02-58-65
+      description: "Natverkshogtalare Plan 08.2"
+      enabled: true
+      idgroup: 1810_LAN_G4S-CCTV
+      id: 2962
+
+    - mac: AC-CC-8E-24-C4-B1
+      description: "overvakningskamera Plan 10"
+      enabled: true
+      idgroup: 1810_LAN_G4S-CCTV
+      id: 4780
+
+    - mac: AC-CC-8E-24-B0-00
+      description: "overvakningskamera"
+      enabled: true
+      idgroup: 1810_LAN_G4S-CCTV
+      id: 4763
+
+    - mac: AC-CC-8E-24-CE-B1
+      description: "overvakningskamera"
+      enabled: true
+      idgroup: 1810_LAN_G4S-CCTV
+      id: 4790
+
+    - mac: AC-CC-8E-02-58-01
+      description: "Natverkshogtalare Plan 06.2"
+      enabled: true
+      idgroup: 1810_LAN_G4S-CCTV
+      id: 2955
+
+    - mac: AC-CC-8E-24-BF-CA
+      description: "overvakningskamera"
+      enabled: true
+      idgroup: 1810_LAN_G4S-CCTV
+      id: 4775
+
+    - mac: AC-CC-8E-24-D7-16
+      description: "overvakningskamera Plan 11"
+      enabled: true
+      idgroup: 1810_LAN_G4S-CCTV
+      id: 4792
+
+    - mac: 1C-DE-A7-67-D1-C6
+      description: "no description"
+      enabled: true
+      idgroup: 1810_LAN_G4S-CCTV
+      id: 5326
+
+    - mac: AC-CC-8E-02-0B-E3
+      description: "Natverkshogtalare Plan 12"
+      enabled: true
+      idgroup: 1810_LAN_G4S-CCTV
+      id: 2968
+
+    - mac: 7C-1E-B3-03-7C-B9
+      description: "no description"
+      enabled: true
+      idgroup: 1810_LAN_G4S-CCTV
+      id: 5497
+
+    - mac: AC-CC-8E-01-46-76
+      description: "Natverkshogtalare Plan 10"
+      enabled: true
+      idgroup: 1810_LAN_G4S-CCTV
+      id: 4732
+
+    - mac: AC-CC-8E-01-01-D3
+      description: "44-050 - Plan 13 Vid Balkong"
+      enabled: true
+      idgroup: 1810_LAN_G4S-CCTV
+      id: 2894
+

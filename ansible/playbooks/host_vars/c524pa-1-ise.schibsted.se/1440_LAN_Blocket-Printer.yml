@@ -1,0 +1,26 @@
+1440_LAN_Blocket-Printer:
+
+    - mac: 00-1F-29-24-B8-21
+      description: "no description"
+      enabled: true
+      idgroup: 1440_LAN_Blocket-Printer
+      id: 861
+
+    - mac: 64-51-06-21-EF-01
+      description: "Skrivare blocket"
+      enabled: true
+      idgroup: 1440_LAN_Blocket-Printer
+      id: 2726
+
+    - mac: 00-1F-29-24-B8-21
+      description: "no description"
+      enabled: true
+      idgroup: 1440_LAN_Blocket-Printer
+      id: 861
+
+    - mac: 64-51-06-21-EF-01
+      description: "Skrivare blocket"
+      enabled: true
+      idgroup: 1440_LAN_Blocket-Printer
+      id: 2726
+

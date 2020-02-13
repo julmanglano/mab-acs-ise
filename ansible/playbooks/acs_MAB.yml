@@ -1,0 +1,8 @@
+---
+- hosts: kbh-acs.schibsted.se
+  gather_facts: no
+  connection: local
+  
+  roles:
+      - ../roles/acs_MAB
+      - ../roles/replace_MAB_id

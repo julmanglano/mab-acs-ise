@@ -1,0 +1,98 @@
+1204_LAN_Aftonbladet-IT:
+
+    - mac: F8-CA-B8-25-B0-14
+      description: "TV-konsult 20170214 //JF"
+      enabled: true
+      idgroup: 1204_LAN_Aftonbladet-IT
+      id: 5246
+
+    - mac: 34-E6-D7-64-76-27
+      description: "For testing Tilly //JF 20150824"
+      enabled: true
+      idgroup: 1204_LAN_Aftonbladet-IT
+      id: 2866
+
+    - mac: 08-66-98-BD-17-76
+      description: "Apple TV - SRQ82035"
+      enabled: true
+      idgroup: 1204_LAN_Aftonbladet-IT
+      id: 5211
+
+    - mac: 3C-07-54-17-7B-FB
+      description: "Patrik Lehtihet/Sentor Pentest, p.b. Robert Soderlund // 2014-09-12"
+      enabled: true
+      idgroup: 1204_LAN_Aftonbladet-IT
+      id: 2728
+
+    - mac: D4-BE-D9-28-2B-09
+      description: "Tysk ljudtekniker 2017-03-23"
+      enabled: true
+      idgroup: 1204_LAN_Aftonbladet-IT
+      id: 5255
+
+    - mac: 00-0D-B9-3E-9C-10
+      description: "Netrounds AdHoc"
+      enabled: true
+      idgroup: 1204_LAN_Aftonbladet-IT
+      id: 2938
+
+    - mac: 98-5A-EB-CA-67-93
+      description: "Lars Mathiesen enet dongle"
+      enabled: false
+      idgroup: 1204_LAN_Aftonbladet-IT
+      id: 2887
+
+    - mac: C8-69-CD-08-E5-24
+      description: "Aftonbladet, AppleTV p.b. Vasse // 2015-09-21, Magnus"
+      enabled: true
+      idgroup: 1204_LAN_Aftonbladet-IT
+      id: 2872
+
+    - mac: F8-CA-B8-25-B0-14
+      description: "TV-konsult 20170214 //JF"
+      enabled: true
+      idgroup: 1204_LAN_Aftonbladet-IT
+      id: 5246
+
+    - mac: 34-E6-D7-64-76-27
+      description: "For testing Tilly //JF 20150824"
+      enabled: true
+      idgroup: 1204_LAN_Aftonbladet-IT
+      id: 2866
+
+    - mac: 08-66-98-BD-17-76
+      description: "Apple TV - SRQ82035"
+      enabled: true
+      idgroup: 1204_LAN_Aftonbladet-IT
+      id: 5211
+
+    - mac: 3C-07-54-17-7B-FB
+      description: "Patrik Lehtihet/Sentor Pentest, p.b. Robert Soderlund // 2014-09-12"
+      enabled: true
+      idgroup: 1204_LAN_Aftonbladet-IT
+      id: 2728
+
+    - mac: D4-BE-D9-28-2B-09
+      description: "Tysk ljudtekniker 2017-03-23"
+      enabled: true
+      idgroup: 1204_LAN_Aftonbladet-IT
+      id: 5255
+
+    - mac: 00-0D-B9-3E-9C-10
+      description: "Netrounds AdHoc"
+      enabled: true
+      idgroup: 1204_LAN_Aftonbladet-IT
+      id: 2938
+
+    - mac: 98-5A-EB-CA-67-93
+      description: "Lars Mathiesen enet dongle"
+      enabled: false
+      idgroup: 1204_LAN_Aftonbladet-IT
+      id: 2887
+
+    - mac: C8-69-CD-08-E5-24
+      description: "Aftonbladet, AppleTV p.b. Vasse // 2015-09-21, Magnus"
+      enabled: true
+      idgroup: 1204_LAN_Aftonbladet-IT
+      id: 2872
+

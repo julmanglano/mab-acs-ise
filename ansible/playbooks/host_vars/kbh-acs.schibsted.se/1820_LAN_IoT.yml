@@ -1,0 +1,14 @@
+1820_LAN_IoT:
+
+    - mac: 38-4B-76-F0-97-01
+      description: "Airtame POC"
+      enabled: true
+      idgroup: 1820_LAN_IoT
+      id: 5456
+
+    - mac: 38-4B-76-F0-97-01
+      description: "Airtame POC"
+      enabled: true
+      idgroup: 1820_LAN_IoT
+      id: 5456
+

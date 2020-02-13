@@ -1,0 +1,194 @@
+1600_LAN_TvB:
+
+    - mac: 94-9F-3E-8F-14-CA
+      description: "Sonos pl4"
+      enabled: true
+      idgroup: 1600_LAN_TvB
+      id: 5335
+
+    - mac: 00-26-B0-EF-22-32
+      description: "no description"
+      enabled: true
+      idgroup: 1600_LAN_TvB
+      id: 8
+
+    - mac: F4-81-39-D0-7F-7E
+      description: "Vinguiden Canon MG7550"
+      enabled: true
+      idgroup: 1600_LAN_TvB
+      id: 5370
+
+    - mac: B0-34-95-37-60-30
+      description: "Apple TV "
+      enabled: true
+      idgroup: 1600_LAN_TvB
+      id: 2712
+
+    - mac: 00-0D-B9-3E-9F-04
+      description: "Netrounds SE-CLIENT eth0"
+      enabled: true
+      idgroup: 1600_LAN_TvB
+      id: 2919
+
+    - mac: 00-15-99-D6-3B-8B
+      description: "Vinguiden printer SEC001599D63B8B"
+      enabled: true
+      idgroup: 1600_LAN_TvB
+      id: 5369
+
+    - mac: F4-7B-5E-08-D8-5C
+      description: "overvakningsskarm"
+      enabled: true
+      idgroup: 1600_LAN_TvB
+      id: 2312
+
+    - mac: B8-27-EB-C0-C4-B0
+      description: "overvakningsskarm"
+      enabled: true
+      idgroup: 1600_LAN_TvB
+      id: 2332
+
+    - mac: AC-E2-D3-D9-0A-59
+      description: "Vinguiden printer SRQ159863"
+      enabled: true
+      idgroup: 1600_LAN_TvB
+      id: 5386
+
+    - mac: 1C-3E-84-70-3B-7E
+      description: "print.mobilio.schibsted.se"
+      enabled: true
+      idgroup: 1600_LAN_TvB
+      id: 2622
+
+    - mac: 5C-AA-FD-44-AD-B6
+      description: "Sonos SD"
+      enabled: true
+      idgroup: 1600_LAN_TvB
+      id: 2974
+
+    - mac: B0-34-95-37-60-2F
+      description: "Apple TV "
+      enabled: true
+      idgroup: 1600_LAN_TvB
+      id: 2711
+
+    - mac: 20-C9-D0-29-7D-28
+      description: "Tilly - 170902"
+      enabled: true
+      idgroup: 1600_LAN_TvB
+      id: 5332
+
+    - mac: B8-27-EB-FB-F3-77
+      description: "Prisjakt sales statistics screen"
+      enabled: true
+      idgroup: 1600_LAN_TvB
+      id: 5328
+
+    - mac: 00-13-37-A5-EF-C8
+      description: "TEMPORARY lanTurtle JF"
+      enabled: true
+      idgroup: 1600_LAN_TvB
+      id: 5178
+
+    - mac: C8-69-CD-C7-E2-A9
+      description: "Lendo appletv SRQ177735"
+      enabled: true
+      idgroup: 1600_LAN_TvB
+      id: 5388
+
+    - mac: 94-9F-3E-8F-14-CA
+      description: "Sonos pl4"
+      enabled: true
+      idgroup: 1600_LAN_TvB
+      id: 5335
+
+    - mac: 00-26-B0-EF-22-32
+      description: "no description"
+      enabled: true
+      idgroup: 1600_LAN_TvB
+      id: 8
+
+    - mac: F4-81-39-D0-7F-7E
+      description: "Vinguiden Canon MG7550"
+      enabled: true
+      idgroup: 1600_LAN_TvB
+      id: 5370
+
+    - mac: B0-34-95-37-60-30
+      description: "Apple TV "
+      enabled: true
+      idgroup: 1600_LAN_TvB
+      id: 2712
+
+    - mac: 00-0D-B9-3E-9F-04
+      description: "Netrounds SE-CLIENT eth0"
+      enabled: true
+      idgroup: 1600_LAN_TvB
+      id: 2919
+
+    - mac: 00-15-99-D6-3B-8B
+      description: "Vinguiden printer SEC001599D63B8B"
+      enabled: true
+      idgroup: 1600_LAN_TvB
+      id: 5369
+
+    - mac: F4-7B-5E-08-D8-5C
+      description: "overvakningsskarm"
+      enabled: true
+      idgroup: 1600_LAN_TvB
+      id: 2312
+
+    - mac: B8-27-EB-C0-C4-B0
+      description: "overvakningsskarm"
+      enabled: true
+      idgroup: 1600_LAN_TvB
+      id: 2332
+
+    - mac: AC-E2-D3-D9-0A-59
+      description: "Vinguiden printer SRQ159863"
+      enabled: true
+      idgroup: 1600_LAN_TvB
+      id: 5386
+
+    - mac: 1C-3E-84-70-3B-7E
+      description: "print.mobilio.schibsted.se"
+      enabled: true
+      idgroup: 1600_LAN_TvB
+      id: 2622
+
+    - mac: 5C-AA-FD-44-AD-B6
+      description: "Sonos SD"
+      enabled: true
+      idgroup: 1600_LAN_TvB
+      id: 2974
+
+    - mac: B0-34-95-37-60-2F
+      description: "Apple TV "
+      enabled: true
+      idgroup: 1600_LAN_TvB
+      id: 2711
+
+    - mac: 20-C9-D0-29-7D-28
+      description: "Tilly - 170902"
+      enabled: true
+      idgroup: 1600_LAN_TvB
+      id: 5332
+
+    - mac: B8-27-EB-FB-F3-77
+      description: "Prisjakt sales statistics screen"
+      enabled: true
+      idgroup: 1600_LAN_TvB
+      id: 5328
+
+    - mac: 00-13-37-A5-EF-C8
+      description: "TEMPORARY lanTurtle JF"
+      enabled: true
+      idgroup: 1600_LAN_TvB
+      id: 5178
+
+    - mac: C8-69-CD-C7-E2-A9
+      description: "Lendo appletv SRQ177735"
+      enabled: true
+      idgroup: 1600_LAN_TvB
+      id: 5388
+

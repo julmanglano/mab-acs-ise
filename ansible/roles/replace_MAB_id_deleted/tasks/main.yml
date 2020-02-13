@@ -1,0 +1,11 @@
+---
+# tasks file for /etc/ansible/roles/replace_MAB_id
+
+
+- name: REPLACE id -1
+  replace:
+     path: "host_vars/{{ ansible_host }}/{{ item.name }}.yml"
+     regexp: '^(.*)id: -1$'
+     replace: '      id: deleted'
+  with_items:
+            - "{{ IDGROUPS }}"

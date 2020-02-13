@@ -1,0 +1,2065 @@
+3600_Videoconference:
+
+    - mac: 88-43-E1-C6-6E-01
+      description: "Touchpanel Estland"
+      enabled: true
+      idgroup: 3600_Videoconference
+      id: 2830
+
+    - mac: 50-0F-80-AB-25-FE
+      description: "Videokonferens, touch plan 12 Jans rum"
+      enabled: true
+      idgroup: 3600_Videoconference
+      id: 5372
+
+    - mac: 88-43-E1-C6-72-97
+      description: "Touchpanel Lettland"
+      enabled: true
+      idgroup: 3600_Videoconference
+      id: 2831
+
+    - mac: 64-9E-F3-57-DA-08
+      description: "Touchpanel Rum 1309"
+      enabled: true
+      idgroup: 3600_Videoconference
+      id: 5084
+
+    - mac: 2C-86-D2-88-27-47
+      description: "Videokonferens - Cam Sverige Plan5 //2017-01-26"
+      enabled: true
+      idgroup: 3600_Videoconference
+      id: 5213
+
+    - mac: 64-9E-F3-57-D9-DF
+      description: "Touchpanel Rum 1317"
+      enabled: true
+      idgroup: 3600_Videoconference
+      id: 5085
+
+    - mac: E4-C7-22-6B-18-30
+      description: "Videokonferens - Italien //2015-03-19 - case: SRQ19098 - Mats"
+      enabled: true
+      idgroup: 3600_Videoconference
+      id: 2776
+
+    - mac: 64-9E-F3-57-DA-1E
+      description: "Touchpanel plan6 Hanoi"
+      enabled: true
+      idgroup: 3600_Videoconference
+      id: 4258
+
+    - mac: 00-5F-86-93-FF-E9
+      description: "Touchpanel plan 6 Dorotea"
+      enabled: true
+      idgroup: 3600_Videoconference
+      id: 5227
+
+    - mac: 88-43-E1-C6-1E-F0
+      description: "Touchpanel Goteborg"
+      enabled: true
+      idgroup: 3600_Videoconference
+      id: 2939
+
+    - mac: 00-76-86-44-D2-F8
+      description: "Videokonferens, Orrefors plan 8 kamera"
+      enabled: true
+      idgroup: 3600_Videoconference
+      id: 5186
+
+    - mac: 28-52-61-F1-E3-F0
+      description: "Video system, room Stockholm"
+      enabled: true
+      idgroup: 3600_Videoconference
+      id: 5433
+
+    - mac: 50-0F-80-AB-65-87
+      description: "Glasburen PL 7 AB Skarm, pb. Tvarberg 20180823 ML "
+      enabled: true
+      idgroup: 3600_Videoconference
+      id: 5399
+
+    - mac: 88-43-E1-C6-62-76
+      description: "Touchpanel Finland"
+      enabled: true
+      idgroup: 3600_Videoconference
+      id: 2795
+
+    - mac: 88-43-E1-C6-62-72
+      description: "Touchpanel Danmark"
+      enabled: true
+      idgroup: 3600_Videoconference
+      id: 2798
+
+    - mac: 00-CC-FC-61-3A-28
+      description: "Videokonferens Rum 1309"
+      enabled: true
+      idgroup: 3600_Videoconference
+      id: 5091
+
+    - mac: D4-E8-80-C8-8E-DE
+      description: "Big Standup Touch"
+      enabled: true
+      idgroup: 3600_Videoconference
+      id: 5492
+
+    - mac: 64-9E-F3-57-D9-F1
+      description: "Touchpanel Rum 1307"
+      enabled: true
+      idgroup: 3600_Videoconference
+      id: 5082
+
+    - mac: 88-43-E1-C6-63-3E
+      description: "Touchpanel Italien"
+      enabled: true
+      idgroup: 3600_Videoconference
+      id: 2796
+
+    - mac: 0C-11-67-02-51-5F
+      description: "Videokonferens - Kamera - Valdemarsvik"
+      enabled: true
+      idgroup: 3600_Videoconference
+      id: 5196
+
+    - mac: E4-C7-22-6B-19-64
+      description: "Videokonferens - Mexiko //2015-03-19 - case: SRQ19098 - Mats"
+      enabled: true
+      idgroup: 3600_Videoconference
+      id: 2780
+
+    - mac: 00-50-60-82-56-A6
+      description: "Videokonferens, Singapore // 2014-01-31"
+      enabled: true
+      idgroup: 3600_Videoconference
+      id: 2436
+
+    - mac: 00-62-EC-8E-31-F9
+      description: "Videokonferens touch, Faleknberg, plan 10 // 2017-05-05"
+      enabled: true
+      idgroup: 3600_Videoconference
+      id: 5266
+
+    - mac: 0C-11-67-02-52-CC
+      description: "Videokonferens plan8 nytt rum"
+      enabled: true
+      idgroup: 3600_Videoconference
+      id: 2988
+
+    - mac: 00-CC-FC-61-57-36
+      description: "Videokonferens Rum 1318"
+      enabled: true
+      idgroup: 3600_Videoconference
+      id: 5093
+
+    - mac: 70-01-B5-CD-CA-F4
+      description: "SX80-1 "
+      enabled: true
+      idgroup: 3600_Videoconference
+      id: 5436
+
+    - mac: A8-9D-21-48-3C-48
+      description: "Videokonferens - Sverige //2015-03-19 - case: SRQ19098 - Mats"
+      enabled: true
+      idgroup: 3600_Videoconference
+      id: 2774
+
+    - mac: 64-9E-F3-57-53-5B
+      description: "Touchpanel Argentina"
+      enabled: true
+      idgroup: 3600_Videoconference
+      id: 2971
+
+    - mac: 64-9E-F3-57-B4-84
+      description: "Touchpanel plan8 nytt rum"
+      enabled: true
+      idgroup: 3600_Videoconference
+      id: 2989
+
+    - mac: 64-9E-F3-57-2E-42
+      description: "BytBil - Videokonferenssystem"
+      enabled: true
+      idgroup: 3600_Videoconference
+      id: 5225
+
+    - mac: A8-9D-21-48-3B-C3
+      description: "Videokonferens - Lettland //2015-03-19 - case: SRQ19098 - Mats"
+      enabled: true
+      idgroup: 3600_Videoconference
+      id: 2782
+
+    - mac: 00-56-2B-77-6B-B4
+      description: "Videokonferens, system plan 13 Gunnar Stromblad"
+      enabled: true
+      idgroup: 3600_Videoconference
+      id: 5157
+
+    - mac: 0C-11-67-02-52-CE
+      description: "Videokonferens plan5 nytt rum"
+      enabled: true
+      idgroup: 3600_Videoconference
+      id: 2992
+
+    - mac: 64-9E-F3-57-B3-64
+      description: "Touchpanel plan8 nytt rum"
+      enabled: true
+      idgroup: 3600_Videoconference
+      id: 2986
+
+    - mac: 00-BC-60-92-BB-CD
+      description: "vc floor 13th kbh"
+      enabled: true
+      idgroup: 3600_Videoconference
+      id: 5681
+
+    - mac: E4-C7-22-6A-FE-B5
+      description: "Videokonferens, vendela // 2015-02-02"
+      enabled: true
+      idgroup: 3600_Videoconference
+      id: 2758
+
+    - mac: 00-FE-C8-60-56-E6
+      description: "BytBil"
+      enabled: true
+      idgroup: 3600_Videoconference
+      id: 5231
+
+    - mac: 00-50-60-07-57-6B
+      description: "Videkonferens - Codec"
+      enabled: true
+      idgroup: 3600_Videoconference
+      id: 5206
+
+    - mac: 88-43-E1-C6-63-88
+      description: "Touchpanel Grekland"
+      enabled: true
+      idgroup: 3600_Videoconference
+      id: 2791
+
+    - mac: D8-67-D9-73-3B-D0
+      description: "Videokonferens, Medkannande Marit // 2013-11-22"
+      enabled: true
+      idgroup: 3600_Videoconference
+      id: 2438
+
+    - mac: 00-62-EC-B1-E3-33
+      description: "Touchpanel Skara"
+      enabled: true
+      idgroup: 3600_Videoconference
+      id: 5355
+
+    - mac: A8-9D-21-48-4D-F6
+      description: "Videokonferens - Estland //2015-03-19 - case: SRQ19098 - Mats"
+      enabled: true
+      idgroup: 3600_Videoconference
+      id: 2772
+
+    - mac: 88-43-E1-C6-63-78
+      description: "Touchpanel Mexico"
+      enabled: true
+      idgroup: 3600_Videoconference
+      id: 2794
+
+    - mac: E4-C7-22-6B-21-92
+      description: "Videokonferens - Grekland //2015-03-19 - case: SRQ19098 - Mats"
+      enabled: true
+      idgroup: 3600_Videoconference
+      id: 2779
+
+    - mac: 00-CC-FC-61-3A-2D
+      description: "Videokonferens Rum 1308"
+      enabled: true
+      idgroup: 3600_Videoconference
+      id: 5090
+
+    - mac: 64-9E-F3-57-C9-53
+      description: "Touchpanel Rum 1306"
+      enabled: true
+      idgroup: 3600_Videoconference
+      id: 5081
+
+    - mac: E4-C7-22-65-37-DD
+      description: "Videokonferens - touchpanel, Norge // 2014-08-20"
+      enabled: true
+      idgroup: 3600_Videoconference
+      id: 2717
+
+    - mac: 50-61-BF-92-34-F0
+      description: "Videokonferens, DX80 PoC //SRQ185253, 180822 Mats"
+      enabled: true
+      idgroup: 3600_Videoconference
+      id: 5397
+
+    - mac: 00-62-EC-8E-33-63
+      description: "Touchpanel Polen Pl13"
+      enabled: true
+      idgroup: 3600_Videoconference
+      id: 5267
+
+    - mac: 00-50-60-0C-D0-34
+      description: "Spanien"
+      enabled: true
+      idgroup: 3600_Videoconference
+      id: 2857
+
+    - mac: 00-7E-95-40-4A-60
+      description: "SX80-2"
+      enabled: true
+      idgroup: 3600_Videoconference
+      id: 5438
+
+    - mac: 00-CA-E5-C9-52-F2
+      description: "Videokonferens Rum 1317"
+      enabled: true
+      idgroup: 3600_Videoconference
+      id: 5092
+
+    - mac: 64-9E-F3-57-D9-24
+      description: "Touchpanel Rum 1319"
+      enabled: true
+      idgroup: 3600_Videoconference
+      id: 5087
+
+    - mac: 00-CA-E5-C9-0F-A5
+      description: "Videokonferens plan6 Hanoi"
+      enabled: true
+      idgroup: 3600_Videoconference
+      id: 3817
+
+    - mac: 40-CE-24-72-8E-DD
+      description: "Videkonferens -Skara"
+      enabled: true
+      idgroup: 3600_Videoconference
+      id: 5354
+
+    - mac: 00-62-EC-8D-D7-70
+      description: "Videokonferens - Touchpanel - Fagerhult"
+      enabled: true
+      idgroup: 3600_Videoconference
+      id: 5193
+
+    - mac: 00-AF-1F-1F-03-0A
+      description: "Videokonferens - Kamera"
+      enabled: true
+      idgroup: 3600_Videoconference
+      id: 5191
+
+    - mac: D4-E8-80-C8-72-05
+      description: "Open Area Floor 13"
+      enabled: true
+      idgroup: 3600_Videoconference
+      id: 5657
+
+    - mac: A8-9D-21-48-3C-3D
+      description: "Videokonferens - Spanien //2015-03-19 - case: SRQ19098 - Mats"
+      enabled: true
+      idgroup: 3600_Videoconference
+      id: 2777
+
+    - mac: E4-C7-22-68-CB-0C
+      description: "no description"
+      enabled: true
+      idgroup: 3600_Videoconference
+      id: 5662
+
+    - mac: 00-CA-E5-C9-52-E4
+      description: "Videokonferens Rum 1319"
+      enabled: true
+      idgroup: 3600_Videoconference
+      id: 5094
+
+    - mac: E4-C7-22-6B-18-0B
+      description: "Videokonferens - temporary, pb John Mats, // 2014-11-19"
+      enabled: true
+      idgroup: 3600_Videoconference
+      id: 2743
+
+    - mac: 40-CE-24-72-8F-13
+      description: "Svedala"
+      enabled: true
+      idgroup: 3600_Videoconference
+      id: 5357
+
+    - mac: 50-0F-80-AB-93-FE
+      description: "SX80-2 Touch/ Open Area Floor 13 Touch"
+      enabled: true
+      idgroup: 3600_Videoconference
+      id: 5439
+
+    - mac: 64-F6-9D-66-BF-94
+      description: "Norge test - delete after 2019-11-30"
+      enabled: true
+      idgroup: 3600_Videoconference
+      id: 5566
+
+    - mac: 00-50-60-82-65-2F
+      description: "Malaysia Testenhet"
+      enabled: true
+      idgroup: 3600_Videoconference
+      id: 2617
+
+    - mac: 0C-11-67-02-52-DB
+      description: "Videokonferens plan8 nytt rum"
+      enabled: true
+      idgroup: 3600_Videoconference
+      id: 2987
+
+    - mac: E4-C7-22-6B-18-DB
+      description: "Videokonferens - Danmark //2015-03-19 - case: SRQ19098 - Mats"
+      enabled: true
+      idgroup: 3600_Videoconference
+      id: 2775
+
+    - mac: 64-9E-F3-57-C3-0C
+      description: "Touchpanel Rum 1318"
+      enabled: true
+      idgroup: 3600_Videoconference
+      id: 5086
+
+    - mac: 88-43-E1-C6-71-08
+      description: "Touch panel room Bjursholm"
+      enabled: true
+      idgroup: 3600_Videoconference
+      id: 5435
+
+    - mac: 1C-E8-5D-F5-CD-CF
+      description: "Videokonferens, Belgien, plan 13 // 2015-01-12"
+      enabled: true
+      idgroup: 3600_Videoconference
+      id: 2970
+
+    - mac: 88-43-E1-C6-61-B7
+      description: "Touchpanel Argentina OLD"
+      enabled: false
+      idgroup: 3600_Videoconference
+      id: 2797
+
+    - mac: 00-62-EC-8D-D6-6A
+      description: "Videokonferens - Tounchpanel"
+      enabled: true
+      idgroup: 3600_Videoconference
+      id: 5189
+
+    - mac: 00-62-EC-8D-C4-1C
+      description: "Videokonferens, Orrefors plan 8 touchpanel"
+      enabled: true
+      idgroup: 3600_Videoconference
+      id: 5187
+
+    - mac: 00-A3-D1-5D-FD-6B
+      description: "Videokonferens, system plan 6 Krokom"
+      enabled: true
+      idgroup: 3600_Videoconference
+      id: 5287
+
+    - mac: B0-26-80-35-FF-10
+      description: "Videkonferens -Leksand"
+      enabled: true
+      idgroup: 3600_Videoconference
+      id: 5453
+
+    - mac: E4-AA-5D-A2-43-56
+      description: "BytBil - Videokonferenssystem"
+      enabled: true
+      idgroup: 3600_Videoconference
+      id: 5226
+
+    - mac: 64-9E-F3-57-7C-8A
+      description: "Touch panel room Stockholm"
+      enabled: true
+      idgroup: 3600_Videoconference
+      id: 5434
+
+    - mac: E4-C7-22-6B-23-7D
+      description: "Videokonferens - Argentina //2015-03-19 - case: SRQ19098 - Mats"
+      enabled: true
+      idgroup: 3600_Videoconference
+      id: 2781
+
+    - mac: E4-C7-22-6B-0A-19
+      description: "Videokonferens Aftonbladet3"
+      enabled: true
+      idgroup: 3600_Videoconference
+      id: 2760
+
+    - mac: 00-27-90-FF-E2-94
+      description: "Videokonferens, plan 12 Jans rum"
+      enabled: true
+      idgroup: 3600_Videoconference
+      id: 5373
+
+    - mac: 00-62-EC-8D-D6-22
+      description: "Videokonferens - Touchpanel - Valdermarsvik"
+      enabled: true
+      idgroup: 3600_Videoconference
+      id: 5195
+
+    - mac: 84-B8-02-CD-7B-2A
+      description: "Videokonferens AB  Norrahamngatan GTB"
+      enabled: true
+      idgroup: 3600_Videoconference
+      id: 2908
+
+    - mac: 64-9E-F3-57-D9-E5
+      description: "Touchpanel Rum 1308"
+      enabled: true
+      idgroup: 3600_Videoconference
+      id: 5083
+
+    - mac: 50-0F-80-AB-D3-19
+      description: "Touch Frankrike"
+      enabled: true
+      idgroup: 3600_Videoconference
+      id: 5565
+
+    - mac: 00-62-EC-B1-E3-4B
+      description: "Touchpanel Svedala"
+      enabled: true
+      idgroup: 3600_Videoconference
+      id: 5356
+
+    - mac: 00-CA-E5-C9-52-E6
+      description: "Videokonferens Rum 1306"
+      enabled: true
+      idgroup: 3600_Videoconference
+      id: 5088
+
+    - mac: E4-C7-22-64-51-C8
+      description: "Videokonferens - temporary, pb John Mats, // 2014-11-07"
+      enabled: true
+      idgroup: 3600_Videoconference
+      id: 2740
+
+    - mac: 00-50-60-82-BE-01
+      description: "Videokonferens, Blocket pl12 // 2013-11-22"
+      enabled: true
+      idgroup: 3600_Videoconference
+      id: 2440
+
+    - mac: A8-9D-21-48-4F-E1
+      description: "Videokonferens - Frankrike //2015-03-19 - case: SRQ19098 - Mats"
+      enabled: true
+      idgroup: 3600_Videoconference
+      id: 2773
+
+    - mac: 00-50-60-82-8E-5C
+      description: "Videokonferens, Malaysia // 2013-11-22"
+      enabled: true
+      idgroup: 3600_Videoconference
+      id: 2437
+
+    - mac: 50-0F-80-AB-90-13
+      description: "SX80-1 Touch"
+      enabled: true
+      idgroup: 3600_Videoconference
+      id: 5437
+
+    - mac: E4-C7-22-6B-18-F4
+      description: "Videokonferens - Finland //2015-03-19 - case: SRQ19098 - Mats"
+      enabled: true
+      idgroup: 3600_Videoconference
+      id: 2771
+
+    - mac: E4-C7-22-6B-08-09
+      description: "Videokonferens Aftonbladet2"
+      enabled: true
+      idgroup: 3600_Videoconference
+      id: 2759
+
+    - mac: 00-CC-FC-60-DB-B3
+      description: "Videokonferens Rum 1307"
+      enabled: true
+      idgroup: 3600_Videoconference
+      id: 5089
+
+    - mac: 00-FE-C8-5F-D7-32
+      description: "Videokonferens - Kamera - Fagerhult"
+      enabled: true
+      idgroup: 3600_Videoconference
+      id: 5194
+
+    - mac: 00-62-EC-8D-7A-28
+      description: "Videokonferens, touch plan 13 Gunnar Stromblad"
+      enabled: true
+      idgroup: 3600_Videoconference
+      id: 5156
+
+    - mac: E4-C7-22-61-47-72
+      description: "Videokonferens, Times, pl. 6  // 2013-12-20"
+      enabled: true
+      idgroup: 3600_Videoconference
+      id: 2454
+
+    - mac: 6C-8B-D3-AB-B0-14
+      description: "Ralul Room Floor13 // 2019-06-19"
+      enabled: true
+      idgroup: 3600_Videoconference
+      id: 5500
+
+    - mac: 64-9E-F3-57-D9-B3
+      description: "Videokoferens- Touchpanel"
+      enabled: true
+      idgroup: 3600_Videoconference
+      id: 5205
+
+    - mac: 00-62-EC-8E-0C-D3
+      description: "Videokonferens touch, Belgien, plan 13 // 2017-01-26"
+      enabled: true
+      idgroup: 3600_Videoconference
+      id: 5210
+
+    - mac: 64-9E-F3-57-B2-9C
+      description: "Touchpanel plan2 nytt rum"
+      enabled: true
+      idgroup: 3600_Videoconference
+      id: 2991
+
+    - mac: 88-43-E1-C6-62-BA
+      description: "Touchpanel Brasilien"
+      enabled: true
+      idgroup: 3600_Videoconference
+      id: 2802
+
+    - mac: D8-67-D9-7B-33-19
+      description: "Videokonferens, Blocket pl11 // 2013-11-22"
+      enabled: true
+      idgroup: 3600_Videoconference
+      id: 2439
+
+    - mac: 00-FE-C8-60-56-C7
+      description: "Videokonferens - Kamera"
+      enabled: true
+      idgroup: 3600_Videoconference
+      id: 5190
+
+    - mac: 00-62-EC-8D-C4-24
+      description: "Videokonferens - Touchpanel"
+      enabled: true
+      idgroup: 3600_Videoconference
+      id: 5192
+
+    - mac: E4-C7-22-6B-18-7C
+      description: "Videokonferens - Brasilien //2015-03-19 - case: SRQ19098 - Mats"
+      enabled: true
+      idgroup: 3600_Videoconference
+      id: 2778
+
+    - mac: 88-43-E1-C6-72-BC
+      description: "Touchpanel Krokom Pl6 "
+      enabled: true
+      idgroup: 3600_Videoconference
+      id: 4647
+
+    - mac: 50-0F-80-AB-2F-08
+      description: "Touchpanel Leksand"
+      enabled: true
+      idgroup: 3600_Videoconference
+      id: 5452
+
+    - mac: 70-01-B5-CC-05-F6
+      description: "Glasburen PL 7 AB Kamera, pb. Tvarberg 20180823 ML "
+      enabled: true
+      idgroup: 3600_Videoconference
+      id: 5398
+
+    - mac: E4-C7-22-68-4F-66
+      description: "Videokonferens Aftonbladet"
+      enabled: true
+      idgroup: 3600_Videoconference
+      id: 2755
+
+    - mac: 00-50-60-83-38-15
+      description: "Frankrike"
+      enabled: true
+      idgroup: 3600_Videoconference
+      id: 2858
+
+    - mac: 00-62-EC-8D-7A-BB
+      description: "Videokonferens - Touchpanel Sverige Plan5 //2017-01-26"
+      enabled: true
+      idgroup: 3600_Videoconference
+      id: 5212
+
+    - mac: E4-C7-22-64-FA-81
+      description: "Videokonferens, Norge // 2014-08-20"
+      enabled: true
+      idgroup: 3600_Videoconference
+      id: 2716
+
+    - mac: 88-43-E1-C6-6E-01
+      description: "Touchpanel Estland"
+      enabled: true
+      idgroup: 3600_Videoconference
+      id: 2830
+
+    - mac: 50-0F-80-AB-25-FE
+      description: "Videokonferens, touch plan 12 Jans rum"
+      enabled: true
+      idgroup: 3600_Videoconference
+      id: 5372
+
+    - mac: 88-43-E1-C6-72-97
+      description: "Touchpanel Lettland"
+      enabled: true
+      idgroup: 3600_Videoconference
+      id: 2831
+
+    - mac: 64-9E-F3-57-DA-08
+      description: "Touchpanel Rum 1309"
+      enabled: true
+      idgroup: 3600_Videoconference
+      id: 5084
+
+    - mac: 2C-86-D2-88-27-47
+      description: "Videokonferens - Cam Sverige Plan5 //2017-01-26"
+      enabled: true
+      idgroup: 3600_Videoconference
+      id: 5213
+
+    - mac: 64-9E-F3-57-D9-DF
+      description: "Touchpanel Rum 1317"
+      enabled: true
+      idgroup: 3600_Videoconference
+      id: 5085
+
+    - mac: E4-C7-22-6B-18-30
+      description: "Videokonferens - Italien //2015-03-19 - case: SRQ19098 - Mats"
+      enabled: true
+      idgroup: 3600_Videoconference
+      id: 2776
+
+    - mac: 64-9E-F3-57-DA-1E
+      description: "Touchpanel plan6 Hanoi"
+      enabled: true
+      idgroup: 3600_Videoconference
+      id: 4258
+
+    - mac: 00-5F-86-93-FF-E9
+      description: "Touchpanel plan 6 Dorotea"
+      enabled: true
+      idgroup: 3600_Videoconference
+      id: 5227
+
+    - mac: 88-43-E1-C6-1E-F0
+      description: "Touchpanel Goteborg"
+      enabled: true
+      idgroup: 3600_Videoconference
+      id: 2939
+
+    - mac: 00-76-86-44-D2-F8
+      description: "Videokonferens, Orrefors plan 8 kamera"
+      enabled: true
+      idgroup: 3600_Videoconference
+      id: 5186
+
+    - mac: 28-52-61-F1-E3-F0
+      description: "Video system, room Stockholm"
+      enabled: true
+      idgroup: 3600_Videoconference
+      id: 5433
+
+    - mac: 50-0F-80-AB-65-87
+      description: "Glasburen PL 7 AB Skarm, pb. Tvarberg 20180823 ML "
+      enabled: true
+      idgroup: 3600_Videoconference
+      id: 5399
+
+    - mac: 88-43-E1-C6-62-76
+      description: "Touchpanel Finland"
+      enabled: true
+      idgroup: 3600_Videoconference
+      id: 2795
+
+    - mac: 88-43-E1-C6-62-72
+      description: "Touchpanel Danmark"
+      enabled: true
+      idgroup: 3600_Videoconference
+      id: 2798
+
+    - mac: 00-CC-FC-61-3A-28
+      description: "Videokonferens Rum 1309"
+      enabled: true
+      idgroup: 3600_Videoconference
+      id: 5091
+
+    - mac: D4-E8-80-C8-8E-DE
+      description: "Big Standup Touch"
+      enabled: true
+      idgroup: 3600_Videoconference
+      id: 5492
+
+    - mac: 64-9E-F3-57-D9-F1
+      description: "Touchpanel Rum 1307"
+      enabled: true
+      idgroup: 3600_Videoconference
+      id: 5082
+
+    - mac: 88-43-E1-C6-63-3E
+      description: "Touchpanel Italien"
+      enabled: true
+      idgroup: 3600_Videoconference
+      id: 2796
+
+    - mac: 0C-11-67-02-51-5F
+      description: "Videokonferens - Kamera - Valdemarsvik"
+      enabled: true
+      idgroup: 3600_Videoconference
+      id: 5196
+
+    - mac: E4-C7-22-6B-19-64
+      description: "Videokonferens - Mexiko //2015-03-19 - case: SRQ19098 - Mats"
+      enabled: true
+      idgroup: 3600_Videoconference
+      id: 2780
+
+    - mac: 00-50-60-82-56-A6
+      description: "Videokonferens, Singapore // 2014-01-31"
+      enabled: true
+      idgroup: 3600_Videoconference
+      id: 2436
+
+    - mac: 00-62-EC-8E-31-F9
+      description: "Videokonferens touch, Faleknberg, plan 10 // 2017-05-05"
+      enabled: true
+      idgroup: 3600_Videoconference
+      id: 5266
+
+    - mac: 0C-11-67-02-52-CC
+      description: "Videokonferens plan8 nytt rum"
+      enabled: true
+      idgroup: 3600_Videoconference
+      id: 2988
+
+    - mac: 00-CC-FC-61-57-36
+      description: "Videokonferens Rum 1318"
+      enabled: true
+      idgroup: 3600_Videoconference
+      id: 5093
+
+    - mac: 70-01-B5-CD-CA-F4
+      description: "SX80-1 "
+      enabled: true
+      idgroup: 3600_Videoconference
+      id: 5436
+
+    - mac: A8-9D-21-48-3C-48
+      description: "Videokonferens - Sverige //2015-03-19 - case: SRQ19098 - Mats"
+      enabled: true
+      idgroup: 3600_Videoconference
+      id: 2774
+
+    - mac: 64-9E-F3-57-53-5B
+      description: "Touchpanel Argentina"
+      enabled: true
+      idgroup: 3600_Videoconference
+      id: 2971
+
+    - mac: 64-9E-F3-57-B4-84
+      description: "Touchpanel plan8 nytt rum"
+      enabled: true
+      idgroup: 3600_Videoconference
+      id: 2989
+
+    - mac: 64-9E-F3-57-2E-42
+      description: "BytBil - Videokonferenssystem"
+      enabled: true
+      idgroup: 3600_Videoconference
+      id: 5225
+
+    - mac: A8-9D-21-48-3B-C3
+      description: "Videokonferens - Lettland //2015-03-19 - case: SRQ19098 - Mats"
+      enabled: true
+      idgroup: 3600_Videoconference
+      id: 2782
+
+    - mac: 00-56-2B-77-6B-B4
+      description: "Videokonferens, system plan 13 Gunnar Stromblad"
+      enabled: true
+      idgroup: 3600_Videoconference
+      id: 5157
+
+    - mac: 0C-11-67-02-52-CE
+      description: "Videokonferens plan5 nytt rum"
+      enabled: true
+      idgroup: 3600_Videoconference
+      id: 2992
+
+    - mac: 64-9E-F3-57-B3-64
+      description: "Touchpanel plan8 nytt rum"
+      enabled: true
+      idgroup: 3600_Videoconference
+      id: 2986
+
+    - mac: 00-BC-60-92-BB-CD
+      description: "vc floor 13th kbh"
+      enabled: true
+      idgroup: 3600_Videoconference
+      id: 5681
+
+    - mac: E4-C7-22-6A-FE-B5
+      description: "Videokonferens, vendela // 2015-02-02"
+      enabled: true
+      idgroup: 3600_Videoconference
+      id: 2758
+
+    - mac: 00-FE-C8-60-56-E6
+      description: "BytBil"
+      enabled: true
+      idgroup: 3600_Videoconference
+      id: 5231
+
+    - mac: 00-50-60-07-57-6B
+      description: "Videkonferens - Codec"
+      enabled: true
+      idgroup: 3600_Videoconference
+      id: 5206
+
+    - mac: 88-43-E1-C6-63-88
+      description: "Touchpanel Grekland"
+      enabled: true
+      idgroup: 3600_Videoconference
+      id: 2791
+
+    - mac: D8-67-D9-73-3B-D0
+      description: "Videokonferens, Medkannande Marit // 2013-11-22"
+      enabled: true
+      idgroup: 3600_Videoconference
+      id: 2438
+
+    - mac: 00-62-EC-B1-E3-33
+      description: "Touchpanel Skara"
+      enabled: true
+      idgroup: 3600_Videoconference
+      id: 5355
+
+    - mac: A8-9D-21-48-4D-F6
+      description: "Videokonferens - Estland //2015-03-19 - case: SRQ19098 - Mats"
+      enabled: true
+      idgroup: 3600_Videoconference
+      id: 2772
+
+    - mac: 88-43-E1-C6-63-78
+      description: "Touchpanel Mexico"
+      enabled: true
+      idgroup: 3600_Videoconference
+      id: 2794
+
+    - mac: E4-C7-22-6B-21-92
+      description: "Videokonferens - Grekland //2015-03-19 - case: SRQ19098 - Mats"
+      enabled: true
+      idgroup: 3600_Videoconference
+      id: 2779
+
+    - mac: 00-CC-FC-61-3A-2D
+      description: "Videokonferens Rum 1308"
+      enabled: true
+      idgroup: 3600_Videoconference
+      id: 5090
+
+    - mac: 64-9E-F3-57-C9-53
+      description: "Touchpanel Rum 1306"
+      enabled: true
+      idgroup: 3600_Videoconference
+      id: 5081
+
+    - mac: E4-C7-22-65-37-DD
+      description: "Videokonferens - touchpanel, Norge // 2014-08-20"
+      enabled: true
+      idgroup: 3600_Videoconference
+      id: 2717
+
+    - mac: 50-61-BF-92-34-F0
+      description: "Videokonferens, DX80 PoC //SRQ185253, 180822 Mats"
+      enabled: true
+      idgroup: 3600_Videoconference
+      id: 5397
+
+    - mac: 00-62-EC-8E-33-63
+      description: "Touchpanel Polen Pl13"
+      enabled: true
+      idgroup: 3600_Videoconference
+      id: 5267
+
+    - mac: 00-50-60-0C-D0-34
+      description: "Spanien"
+      enabled: true
+      idgroup: 3600_Videoconference
+      id: 2857
+
+    - mac: 00-7E-95-40-4A-60
+      description: "SX80-2"
+      enabled: true
+      idgroup: 3600_Videoconference
+      id: 5438
+
+    - mac: 00-CA-E5-C9-52-F2
+      description: "Videokonferens Rum 1317"
+      enabled: true
+      idgroup: 3600_Videoconference
+      id: 5092
+
+    - mac: 64-9E-F3-57-D9-24
+      description: "Touchpanel Rum 1319"
+      enabled: true
+      idgroup: 3600_Videoconference
+      id: 5087
+
+    - mac: 00-CA-E5-C9-0F-A5
+      description: "Videokonferens plan6 Hanoi"
+      enabled: true
+      idgroup: 3600_Videoconference
+      id: 3817
+
+    - mac: 40-CE-24-72-8E-DD
+      description: "Videkonferens -Skara"
+      enabled: true
+      idgroup: 3600_Videoconference
+      id: 5354
+
+    - mac: 00-62-EC-8D-D7-70
+      description: "Videokonferens - Touchpanel - Fagerhult"
+      enabled: true
+      idgroup: 3600_Videoconference
+      id: 5193
+
+    - mac: 00-AF-1F-1F-03-0A
+      description: "Videokonferens - Kamera"
+      enabled: true
+      idgroup: 3600_Videoconference
+      id: 5191
+
+    - mac: D4-E8-80-C8-72-05
+      description: "Open Area Floor 13"
+      enabled: true
+      idgroup: 3600_Videoconference
+      id: 5657
+
+    - mac: A8-9D-21-48-3C-3D
+      description: "Videokonferens - Spanien //2015-03-19 - case: SRQ19098 - Mats"
+      enabled: true
+      idgroup: 3600_Videoconference
+      id: 2777
+
+    - mac: E4-C7-22-68-CB-0C
+      description: "no description"
+      enabled: true
+      idgroup: 3600_Videoconference
+      id: 5662
+
+    - mac: 00-CA-E5-C9-52-E4
+      description: "Videokonferens Rum 1319"
+      enabled: true
+      idgroup: 3600_Videoconference
+      id: 5094
+
+    - mac: E4-C7-22-6B-18-0B
+      description: "Videokonferens - temporary, pb John Mats, // 2014-11-19"
+      enabled: true
+      idgroup: 3600_Videoconference
+      id: 2743
+
+    - mac: 40-CE-24-72-8F-13
+      description: "Svedala"
+      enabled: true
+      idgroup: 3600_Videoconference
+      id: 5357
+
+    - mac: 50-0F-80-AB-93-FE
+      description: "SX80-2 Touch/ Open Area Floor 13 Touch"
+      enabled: true
+      idgroup: 3600_Videoconference
+      id: 5439
+
+    - mac: 64-F6-9D-66-BF-94
+      description: "Norge test - delete after 2019-11-30"
+      enabled: true
+      idgroup: 3600_Videoconference
+      id: 5566
+
+    - mac: 00-50-60-82-65-2F
+      description: "Malaysia Testenhet"
+      enabled: true
+      idgroup: 3600_Videoconference
+      id: 2617
+
+    - mac: 0C-11-67-02-52-DB
+      description: "Videokonferens plan8 nytt rum"
+      enabled: true
+      idgroup: 3600_Videoconference
+      id: 2987
+
+    - mac: E4-C7-22-6B-18-DB
+      description: "Videokonferens - Danmark //2015-03-19 - case: SRQ19098 - Mats"
+      enabled: true
+      idgroup: 3600_Videoconference
+      id: 2775
+
+    - mac: 64-9E-F3-57-C3-0C
+      description: "Touchpanel Rum 1318"
+      enabled: true
+      idgroup: 3600_Videoconference
+      id: 5086
+
+    - mac: 88-43-E1-C6-71-08
+      description: "Touch panel room Bjursholm"
+      enabled: true
+      idgroup: 3600_Videoconference
+      id: 5435
+
+    - mac: 1C-E8-5D-F5-CD-CF
+      description: "Videokonferens, Belgien, plan 13 // 2015-01-12"
+      enabled: true
+      idgroup: 3600_Videoconference
+      id: 2970
+
+    - mac: 88-43-E1-C6-61-B7
+      description: "Touchpanel Argentina OLD"
+      enabled: false
+      idgroup: 3600_Videoconference
+      id: 2797
+
+    - mac: 00-62-EC-8D-D6-6A
+      description: "Videokonferens - Tounchpanel"
+      enabled: true
+      idgroup: 3600_Videoconference
+      id: 5189
+
+    - mac: 00-62-EC-8D-C4-1C
+      description: "Videokonferens, Orrefors plan 8 touchpanel"
+      enabled: true
+      idgroup: 3600_Videoconference
+      id: 5187
+
+    - mac: 00-A3-D1-5D-FD-6B
+      description: "Videokonferens, system plan 6 Krokom"
+      enabled: true
+      idgroup: 3600_Videoconference
+      id: 5287
+
+    - mac: B0-26-80-35-FF-10
+      description: "Videkonferens -Leksand"
+      enabled: true
+      idgroup: 3600_Videoconference
+      id: 5453
+
+    - mac: E4-AA-5D-A2-43-56
+      description: "BytBil - Videokonferenssystem"
+      enabled: true
+      idgroup: 3600_Videoconference
+      id: 5226
+
+    - mac: 64-9E-F3-57-7C-8A
+      description: "Touch panel room Stockholm"
+      enabled: true
+      idgroup: 3600_Videoconference
+      id: 5434
+
+    - mac: E4-C7-22-6B-23-7D
+      description: "Videokonferens - Argentina //2015-03-19 - case: SRQ19098 - Mats"
+      enabled: true
+      idgroup: 3600_Videoconference
+      id: 2781
+
+    - mac: E4-C7-22-6B-0A-19
+      description: "Videokonferens Aftonbladet3"
+      enabled: true
+      idgroup: 3600_Videoconference
+      id: 2760
+
+    - mac: 00-27-90-FF-E2-94
+      description: "Videokonferens, plan 12 Jans rum"
+      enabled: true
+      idgroup: 3600_Videoconference
+      id: 5373
+
+    - mac: 00-62-EC-8D-D6-22
+      description: "Videokonferens - Touchpanel - Valdermarsvik"
+      enabled: true
+      idgroup: 3600_Videoconference
+      id: 5195
+
+    - mac: 84-B8-02-CD-7B-2A
+      description: "Videokonferens AB  Norrahamngatan GTB"
+      enabled: true
+      idgroup: 3600_Videoconference
+      id: 2908
+
+    - mac: 64-9E-F3-57-D9-E5
+      description: "Touchpanel Rum 1308"
+      enabled: true
+      idgroup: 3600_Videoconference
+      id: 5083
+
+    - mac: 50-0F-80-AB-D3-19
+      description: "Touch Frankrike"
+      enabled: true
+      idgroup: 3600_Videoconference
+      id: 5565
+
+    - mac: 00-62-EC-B1-E3-4B
+      description: "Touchpanel Svedala"
+      enabled: true
+      idgroup: 3600_Videoconference
+      id: 5356
+
+    - mac: 00-CA-E5-C9-52-E6
+      description: "Videokonferens Rum 1306"
+      enabled: true
+      idgroup: 3600_Videoconference
+      id: 5088
+
+    - mac: E4-C7-22-64-51-C8
+      description: "Videokonferens - temporary, pb John Mats, // 2014-11-07"
+      enabled: true
+      idgroup: 3600_Videoconference
+      id: 2740
+
+    - mac: 00-50-60-82-BE-01
+      description: "Videokonferens, Blocket pl12 // 2013-11-22"
+      enabled: true
+      idgroup: 3600_Videoconference
+      id: 2440
+
+    - mac: A8-9D-21-48-4F-E1
+      description: "Videokonferens - Frankrike //2015-03-19 - case: SRQ19098 - Mats"
+      enabled: true
+      idgroup: 3600_Videoconference
+      id: 2773
+
+    - mac: 00-50-60-82-8E-5C
+      description: "Videokonferens, Malaysia // 2013-11-22"
+      enabled: true
+      idgroup: 3600_Videoconference
+      id: 2437
+
+    - mac: 50-0F-80-AB-90-13
+      description: "SX80-1 Touch"
+      enabled: true
+      idgroup: 3600_Videoconference
+      id: 5437
+
+    - mac: E4-C7-22-6B-18-F4
+      description: "Videokonferens - Finland //2015-03-19 - case: SRQ19098 - Mats"
+      enabled: true
+      idgroup: 3600_Videoconference
+      id: 2771
+
+    - mac: E4-C7-22-6B-08-09
+      description: "Videokonferens Aftonbladet2"
+      enabled: true
+      idgroup: 3600_Videoconference
+      id: 2759
+
+    - mac: 00-CC-FC-60-DB-B3
+      description: "Videokonferens Rum 1307"
+      enabled: true
+      idgroup: 3600_Videoconference
+      id: 5089
+
+    - mac: 00-FE-C8-5F-D7-32
+      description: "Videokonferens - Kamera - Fagerhult"
+      enabled: true
+      idgroup: 3600_Videoconference
+      id: 5194
+
+    - mac: 00-62-EC-8D-7A-28
+      description: "Videokonferens, touch plan 13 Gunnar Stromblad"
+      enabled: true
+      idgroup: 3600_Videoconference
+      id: 5156
+
+    - mac: E4-C7-22-61-47-72
+      description: "Videokonferens, Times, pl. 6  // 2013-12-20"
+      enabled: true
+      idgroup: 3600_Videoconference
+      id: 2454
+
+    - mac: 6C-8B-D3-AB-B0-14
+      description: "Ralul Room Floor13 // 2019-06-19"
+      enabled: true
+      idgroup: 3600_Videoconference
+      id: 5500
+
+    - mac: 64-9E-F3-57-D9-B3
+      description: "Videokoferens- Touchpanel"
+      enabled: true
+      idgroup: 3600_Videoconference
+      id: 5205
+
+    - mac: 00-62-EC-8E-0C-D3
+      description: "Videokonferens touch, Belgien, plan 13 // 2017-01-26"
+      enabled: true
+      idgroup: 3600_Videoconference
+      id: 5210
+
+    - mac: 64-9E-F3-57-B2-9C
+      description: "Touchpanel plan2 nytt rum"
+      enabled: true
+      idgroup: 3600_Videoconference
+      id: 2991
+
+    - mac: 88-43-E1-C6-62-BA
+      description: "Touchpanel Brasilien"
+      enabled: true
+      idgroup: 3600_Videoconference
+      id: 2802
+
+    - mac: D8-67-D9-7B-33-19
+      description: "Videokonferens, Blocket pl11 // 2013-11-22"
+      enabled: true
+      idgroup: 3600_Videoconference
+      id: 2439
+
+    - mac: 00-FE-C8-60-56-C7
+      description: "Videokonferens - Kamera"
+      enabled: true
+      idgroup: 3600_Videoconference
+      id: 5190
+
+    - mac: 00-62-EC-8D-C4-24
+      description: "Videokonferens - Touchpanel"
+      enabled: true
+      idgroup: 3600_Videoconference
+      id: 5192
+
+    - mac: E4-C7-22-6B-18-7C
+      description: "Videokonferens - Brasilien //2015-03-19 - case: SRQ19098 - Mats"
+      enabled: true
+      idgroup: 3600_Videoconference
+      id: 2778
+
+    - mac: 88-43-E1-C6-72-BC
+      description: "Touchpanel Krokom Pl6 "
+      enabled: true
+      idgroup: 3600_Videoconference
+      id: 4647
+
+    - mac: 50-0F-80-AB-2F-08
+      description: "Touchpanel Leksand"
+      enabled: true
+      idgroup: 3600_Videoconference
+      id: 5452
+
+    - mac: 70-01-B5-CC-05-F6
+      description: "Glasburen PL 7 AB Kamera, pb. Tvarberg 20180823 ML "
+      enabled: true
+      idgroup: 3600_Videoconference
+      id: 5398
+
+    - mac: E4-C7-22-68-4F-66
+      description: "Videokonferens Aftonbladet"
+      enabled: true
+      idgroup: 3600_Videoconference
+      id: 2755
+
+    - mac: 00-50-60-83-38-15
+      description: "Frankrike"
+      enabled: true
+      idgroup: 3600_Videoconference
+      id: 2858
+
+    - mac: 00-62-EC-8D-7A-BB
+      description: "Videokonferens - Touchpanel Sverige Plan5 //2017-01-26"
+      enabled: true
+      idgroup: 3600_Videoconference
+      id: 5212
+
+    - mac: E4-C7-22-64-FA-81
+      description: "Videokonferens, Norge // 2014-08-20"
+      enabled: true
+      idgroup: 3600_Videoconference
+      id: 2716
+
+    - mac: 88-43-E1-C6-6E-01
+      description: "Touchpanel Estland"
+      enabled: true
+      idgroup: 3600_Videoconference
+      id: 2830
+
+    - mac: 50-0F-80-AB-25-FE
+      description: "Videokonferens, touch plan 12 Jans rum"
+      enabled: true
+      idgroup: 3600_Videoconference
+      id: 5372
+
+    - mac: 88-43-E1-C6-72-97
+      description: "Touchpanel Lettland"
+      enabled: true
+      idgroup: 3600_Videoconference
+      id: 2831
+
+    - mac: 64-9E-F3-57-DA-08
+      description: "Touchpanel Rum 1309"
+      enabled: true
+      idgroup: 3600_Videoconference
+      id: 5084
+
+    - mac: 2C-86-D2-88-27-47
+      description: "Videokonferens - Cam Sverige Plan5 //2017-01-26"
+      enabled: true
+      idgroup: 3600_Videoconference
+      id: 5213
+
+    - mac: 64-9E-F3-57-D9-DF
+      description: "Touchpanel Rum 1317"
+      enabled: true
+      idgroup: 3600_Videoconference
+      id: 5085
+
+    - mac: E4-C7-22-6B-18-30
+      description: "Videokonferens - Italien //2015-03-19 - case: SRQ19098 - Mats"
+      enabled: true
+      idgroup: 3600_Videoconference
+      id: 2776
+
+    - mac: 64-9E-F3-57-DA-1E
+      description: "Touchpanel plan6 Hanoi"
+      enabled: true
+      idgroup: 3600_Videoconference
+      id: 4258
+
+    - mac: 00-5F-86-93-FF-E9
+      description: "Touchpanel plan 6 Dorotea"
+      enabled: true
+      idgroup: 3600_Videoconference
+      id: 5227
+
+    - mac: 88-43-E1-C6-1E-F0
+      description: "Touchpanel Goteborg"
+      enabled: true
+      idgroup: 3600_Videoconference
+      id: 2939
+
+    - mac: 00-76-86-44-D2-F8
+      description: "Videokonferens, Orrefors plan 8 kamera"
+      enabled: true
+      idgroup: 3600_Videoconference
+      id: 5186
+
+    - mac: 28-52-61-F1-E3-F0
+      description: "Video system, room Stockholm"
+      enabled: true
+      idgroup: 3600_Videoconference
+      id: 5433
+
+    - mac: 50-0F-80-AB-65-87
+      description: "Glasburen PL 7 AB Skarm, pb. Tvarberg 20180823 ML "
+      enabled: true
+      idgroup: 3600_Videoconference
+      id: 5399
+
+    - mac: 88-43-E1-C6-62-76
+      description: "Touchpanel Finland"
+      enabled: true
+      idgroup: 3600_Videoconference
+      id: 2795
+
+    - mac: 88-43-E1-C6-62-72
+      description: "Touchpanel Danmark"
+      enabled: true
+      idgroup: 3600_Videoconference
+      id: 2798
+
+    - mac: 00-CC-FC-61-3A-28
+      description: "Videokonferens Rum 1309"
+      enabled: true
+      idgroup: 3600_Videoconference
+      id: 5091
+
+    - mac: D4-E8-80-C8-8E-DE
+      description: "Big Standup Touch"
+      enabled: true
+      idgroup: 3600_Videoconference
+      id: 5492
+
+    - mac: 64-9E-F3-57-D9-F1
+      description: "Touchpanel Rum 1307"
+      enabled: true
+      idgroup: 3600_Videoconference
+      id: 5082
+
+    - mac: 88-43-E1-C6-63-3E
+      description: "Touchpanel Italien"
+      enabled: true
+      idgroup: 3600_Videoconference
+      id: 2796
+
+    - mac: 0C-11-67-02-51-5F
+      description: "Videokonferens - Kamera - Valdemarsvik"
+      enabled: true
+      idgroup: 3600_Videoconference
+      id: 5196
+
+    - mac: E4-C7-22-6B-19-64
+      description: "Videokonferens - Mexiko //2015-03-19 - case: SRQ19098 - Mats"
+      enabled: true
+      idgroup: 3600_Videoconference
+      id: 2780
+
+    - mac: 00-50-60-82-56-A6
+      description: "Videokonferens, Singapore // 2014-01-31"
+      enabled: true
+      idgroup: 3600_Videoconference
+      id: 2436
+
+    - mac: 00-62-EC-8E-31-F9
+      description: "Videokonferens touch, Faleknberg, plan 10 // 2017-05-05"
+      enabled: true
+      idgroup: 3600_Videoconference
+      id: 5266
+
+    - mac: 0C-11-67-02-52-CC
+      description: "Videokonferens plan8 nytt rum"
+      enabled: true
+      idgroup: 3600_Videoconference
+      id: 2988
+
+    - mac: 00-CC-FC-61-57-36
+      description: "Videokonferens Rum 1318"
+      enabled: true
+      idgroup: 3600_Videoconference
+      id: 5093
+
+    - mac: 70-01-B5-CD-CA-F4
+      description: "SX80-1 "
+      enabled: true
+      idgroup: 3600_Videoconference
+      id: 5436
+
+    - mac: A8-9D-21-48-3C-48
+      description: "Videokonferens - Sverige //2015-03-19 - case: SRQ19098 - Mats"
+      enabled: true
+      idgroup: 3600_Videoconference
+      id: 2774
+
+    - mac: 64-9E-F3-57-53-5B
+      description: "Touchpanel Argentina"
+      enabled: true
+      idgroup: 3600_Videoconference
+      id: 2971
+
+    - mac: 64-9E-F3-57-B4-84
+      description: "Touchpanel plan8 nytt rum"
+      enabled: true
+      idgroup: 3600_Videoconference
+      id: 2989
+
+    - mac: 64-9E-F3-57-2E-42
+      description: "BytBil - Videokonferenssystem"
+      enabled: true
+      idgroup: 3600_Videoconference
+      id: 5225
+
+    - mac: A8-9D-21-48-3B-C3
+      description: "Videokonferens - Lettland //2015-03-19 - case: SRQ19098 - Mats"
+      enabled: true
+      idgroup: 3600_Videoconference
+      id: 2782
+
+    - mac: 00-56-2B-77-6B-B4
+      description: "Videokonferens, system plan 13 Gunnar Stromblad"
+      enabled: true
+      idgroup: 3600_Videoconference
+      id: 5157
+
+    - mac: 0C-11-67-02-52-CE
+      description: "Videokonferens plan5 nytt rum"
+      enabled: true
+      idgroup: 3600_Videoconference
+      id: 2992
+
+    - mac: 64-9E-F3-57-B3-64
+      description: "Touchpanel plan8 nytt rum"
+      enabled: true
+      idgroup: 3600_Videoconference
+      id: 2986
+
+    - mac: 00-BC-60-92-BB-CD
+      description: "vc floor 13th kbh"
+      enabled: true
+      idgroup: 3600_Videoconference
+      id: 5681
+
+    - mac: E4-C7-22-6A-FE-B5
+      description: "Videokonferens, vendela // 2015-02-02"
+      enabled: true
+      idgroup: 3600_Videoconference
+      id: 2758
+
+    - mac: 00-FE-C8-60-56-E6
+      description: "BytBil"
+      enabled: true
+      idgroup: 3600_Videoconference
+      id: 5231
+
+    - mac: 00-50-60-07-57-6B
+      description: "Videkonferens - Codec"
+      enabled: true
+      idgroup: 3600_Videoconference
+      id: 5206
+
+    - mac: 88-43-E1-C6-63-88
+      description: "Touchpanel Grekland"
+      enabled: true
+      idgroup: 3600_Videoconference
+      id: 2791
+
+    - mac: D8-67-D9-73-3B-D0
+      description: "Videokonferens, Medkannande Marit // 2013-11-22"
+      enabled: true
+      idgroup: 3600_Videoconference
+      id: 2438
+
+    - mac: 00-62-EC-B1-E3-33
+      description: "Touchpanel Skara"
+      enabled: true
+      idgroup: 3600_Videoconference
+      id: 5355
+
+    - mac: A8-9D-21-48-4D-F6
+      description: "Videokonferens - Estland //2015-03-19 - case: SRQ19098 - Mats"
+      enabled: true
+      idgroup: 3600_Videoconference
+      id: 2772
+
+    - mac: 88-43-E1-C6-63-78
+      description: "Touchpanel Mexico"
+      enabled: true
+      idgroup: 3600_Videoconference
+      id: 2794
+
+    - mac: E4-C7-22-6B-21-92
+      description: "Videokonferens - Grekland //2015-03-19 - case: SRQ19098 - Mats"
+      enabled: true
+      idgroup: 3600_Videoconference
+      id: 2779
+
+    - mac: 00-CC-FC-61-3A-2D
+      description: "Videokonferens Rum 1308"
+      enabled: true
+      idgroup: 3600_Videoconference
+      id: 5090
+
+    - mac: 64-9E-F3-57-C9-53
+      description: "Touchpanel Rum 1306"
+      enabled: true
+      idgroup: 3600_Videoconference
+      id: 5081
+
+    - mac: E4-C7-22-65-37-DD
+      description: "Videokonferens - touchpanel, Norge // 2014-08-20"
+      enabled: true
+      idgroup: 3600_Videoconference
+      id: 2717
+
+    - mac: 50-61-BF-92-34-F0
+      description: "Videokonferens, DX80 PoC //SRQ185253, 180822 Mats"
+      enabled: true
+      idgroup: 3600_Videoconference
+      id: 5397
+
+    - mac: 00-62-EC-8E-33-63
+      description: "Touchpanel Polen Pl13"
+      enabled: true
+      idgroup: 3600_Videoconference
+      id: 5267
+
+    - mac: 00-50-60-0C-D0-34
+      description: "Spanien"
+      enabled: true
+      idgroup: 3600_Videoconference
+      id: 2857
+
+    - mac: 00-7E-95-40-4A-60
+      description: "SX80-2"
+      enabled: true
+      idgroup: 3600_Videoconference
+      id: 5438
+
+    - mac: 00-CA-E5-C9-52-F2
+      description: "Videokonferens Rum 1317"
+      enabled: true
+      idgroup: 3600_Videoconference
+      id: 5092
+
+    - mac: 64-9E-F3-57-D9-24
+      description: "Touchpanel Rum 1319"
+      enabled: true
+      idgroup: 3600_Videoconference
+      id: 5087
+
+    - mac: 00-CA-E5-C9-0F-A5
+      description: "Videokonferens plan6 Hanoi"
+      enabled: true
+      idgroup: 3600_Videoconference
+      id: 3817
+
+    - mac: 40-CE-24-72-8E-DD
+      description: "Videkonferens -Skara"
+      enabled: true
+      idgroup: 3600_Videoconference
+      id: 5354
+
+    - mac: 00-62-EC-8D-D7-70
+      description: "Videokonferens - Touchpanel - Fagerhult"
+      enabled: true
+      idgroup: 3600_Videoconference
+      id: 5193
+
+    - mac: 00-AF-1F-1F-03-0A
+      description: "Videokonferens - Kamera"
+      enabled: true
+      idgroup: 3600_Videoconference
+      id: 5191
+
+    - mac: D4-E8-80-C8-72-05
+      description: "Open Area Floor 13"
+      enabled: true
+      idgroup: 3600_Videoconference
+      id: 5657
+
+    - mac: A8-9D-21-48-3C-3D
+      description: "Videokonferens - Spanien //2015-03-19 - case: SRQ19098 - Mats"
+      enabled: true
+      idgroup: 3600_Videoconference
+      id: 2777
+
+    - mac: E4-C7-22-68-CB-0C
+      description: "no description"
+      enabled: true
+      idgroup: 3600_Videoconference
+      id: 5662
+
+    - mac: 00-CA-E5-C9-52-E4
+      description: "Videokonferens Rum 1319"
+      enabled: true
+      idgroup: 3600_Videoconference
+      id: 5094
+
+    - mac: E4-C7-22-6B-18-0B
+      description: "Videokonferens - temporary, pb John Mats, // 2014-11-19"
+      enabled: true
+      idgroup: 3600_Videoconference
+      id: 2743
+
+    - mac: 40-CE-24-72-8F-13
+      description: "Svedala"
+      enabled: true
+      idgroup: 3600_Videoconference
+      id: 5357
+
+    - mac: 50-0F-80-AB-93-FE
+      description: "SX80-2 Touch/ Open Area Floor 13 Touch"
+      enabled: true
+      idgroup: 3600_Videoconference
+      id: 5439
+
+    - mac: 64-F6-9D-66-BF-94
+      description: "Norge test - delete after 2019-11-30"
+      enabled: true
+      idgroup: 3600_Videoconference
+      id: 5566
+
+    - mac: 00-50-60-82-65-2F
+      description: "Malaysia Testenhet"
+      enabled: true
+      idgroup: 3600_Videoconference
+      id: 2617
+
+    - mac: 0C-11-67-02-52-DB
+      description: "Videokonferens plan8 nytt rum"
+      enabled: true
+      idgroup: 3600_Videoconference
+      id: 2987
+
+    - mac: E4-C7-22-6B-18-DB
+      description: "Videokonferens - Danmark //2015-03-19 - case: SRQ19098 - Mats"
+      enabled: true
+      idgroup: 3600_Videoconference
+      id: 2775
+
+    - mac: 64-9E-F3-57-C3-0C
+      description: "Touchpanel Rum 1318"
+      enabled: true
+      idgroup: 3600_Videoconference
+      id: 5086
+
+    - mac: 88-43-E1-C6-71-08
+      description: "Touch panel room Bjursholm"
+      enabled: true
+      idgroup: 3600_Videoconference
+      id: 5435
+
+    - mac: 1C-E8-5D-F5-CD-CF
+      description: "Videokonferens, Belgien, plan 13 // 2015-01-12"
+      enabled: true
+      idgroup: 3600_Videoconference
+      id: 2970
+
+    - mac: 88-43-E1-C6-61-B7
+      description: "Touchpanel Argentina OLD"
+      enabled: false
+      idgroup: 3600_Videoconference
+      id: 2797
+
+    - mac: 00-62-EC-8D-D6-6A
+      description: "Videokonferens - Tounchpanel"
+      enabled: true
+      idgroup: 3600_Videoconference
+      id: 5189
+
+    - mac: 00-62-EC-8D-C4-1C
+      description: "Videokonferens, Orrefors plan 8 touchpanel"
+      enabled: true
+      idgroup: 3600_Videoconference
+      id: 5187
+
+    - mac: 00-A3-D1-5D-FD-6B
+      description: "Videokonferens, system plan 6 Krokom"
+      enabled: true
+      idgroup: 3600_Videoconference
+      id: 5287
+
+    - mac: B0-26-80-35-FF-10
+      description: "Videkonferens -Leksand"
+      enabled: true
+      idgroup: 3600_Videoconference
+      id: 5453
+
+    - mac: E4-AA-5D-A2-43-56
+      description: "BytBil - Videokonferenssystem"
+      enabled: true
+      idgroup: 3600_Videoconference
+      id: 5226
+
+    - mac: 64-9E-F3-57-7C-8A
+      description: "Touch panel room Stockholm"
+      enabled: true
+      idgroup: 3600_Videoconference
+      id: 5434
+
+    - mac: E4-C7-22-6B-23-7D
+      description: "Videokonferens - Argentina //2015-03-19 - case: SRQ19098 - Mats"
+      enabled: true
+      idgroup: 3600_Videoconference
+      id: 2781
+
+    - mac: E4-C7-22-6B-0A-19
+      description: "Videokonferens Aftonbladet3"
+      enabled: true
+      idgroup: 3600_Videoconference
+      id: 2760
+
+    - mac: 00-27-90-FF-E2-94
+      description: "Videokonferens, plan 12 Jans rum"
+      enabled: true
+      idgroup: 3600_Videoconference
+      id: 5373
+
+    - mac: 00-62-EC-8D-D6-22
+      description: "Videokonferens - Touchpanel - Valdermarsvik"
+      enabled: true
+      idgroup: 3600_Videoconference
+      id: 5195
+
+    - mac: 84-B8-02-CD-7B-2A
+      description: "Videokonferens AB  Norrahamngatan GTB"
+      enabled: true
+      idgroup: 3600_Videoconference
+      id: 2908
+
+    - mac: 64-9E-F3-57-D9-E5
+      description: "Touchpanel Rum 1308"
+      enabled: true
+      idgroup: 3600_Videoconference
+      id: 5083
+
+    - mac: 50-0F-80-AB-D3-19
+      description: "Touch Frankrike"
+      enabled: true
+      idgroup: 3600_Videoconference
+      id: 5565
+
+    - mac: 00-62-EC-B1-E3-4B
+      description: "Touchpanel Svedala"
+      enabled: true
+      idgroup: 3600_Videoconference
+      id: 5356
+
+    - mac: 00-CA-E5-C9-52-E6
+      description: "Videokonferens Rum 1306"
+      enabled: true
+      idgroup: 3600_Videoconference
+      id: 5088
+
+    - mac: E4-C7-22-64-51-C8
+      description: "Videokonferens - temporary, pb John Mats, // 2014-11-07"
+      enabled: true
+      idgroup: 3600_Videoconference
+      id: 2740
+
+    - mac: 00-50-60-82-BE-01
+      description: "Videokonferens, Blocket pl12 // 2013-11-22"
+      enabled: true
+      idgroup: 3600_Videoconference
+      id: 2440
+
+    - mac: A8-9D-21-48-4F-E1
+      description: "Videokonferens - Frankrike //2015-03-19 - case: SRQ19098 - Mats"
+      enabled: true
+      idgroup: 3600_Videoconference
+      id: 2773
+
+    - mac: 00-50-60-82-8E-5C
+      description: "Videokonferens, Malaysia // 2013-11-22"
+      enabled: true
+      idgroup: 3600_Videoconference
+      id: 2437
+
+    - mac: 50-0F-80-AB-90-13
+      description: "SX80-1 Touch"
+      enabled: true
+      idgroup: 3600_Videoconference
+      id: 5437
+
+    - mac: E4-C7-22-6B-18-F4
+      description: "Videokonferens - Finland //2015-03-19 - case: SRQ19098 - Mats"
+      enabled: true
+      idgroup: 3600_Videoconference
+      id: 2771
+
+    - mac: E4-C7-22-6B-08-09
+      description: "Videokonferens Aftonbladet2"
+      enabled: true
+      idgroup: 3600_Videoconference
+      id: 2759
+
+    - mac: 00-CC-FC-60-DB-B3
+      description: "Videokonferens Rum 1307"
+      enabled: true
+      idgroup: 3600_Videoconference
+      id: 5089
+
+    - mac: 00-FE-C8-5F-D7-32
+      description: "Videokonferens - Kamera - Fagerhult"
+      enabled: true
+      idgroup: 3600_Videoconference
+      id: 5194
+
+    - mac: 00-62-EC-8D-7A-28
+      description: "Videokonferens, touch plan 13 Gunnar Stromblad"
+      enabled: true
+      idgroup: 3600_Videoconference
+      id: 5156
+
+    - mac: E4-C7-22-61-47-72
+      description: "Videokonferens, Times, pl. 6  // 2013-12-20"
+      enabled: true
+      idgroup: 3600_Videoconference
+      id: 2454
+
+    - mac: 6C-8B-D3-AB-B0-14
+      description: "Ralul Room Floor13 // 2019-06-19"
+      enabled: true
+      idgroup: 3600_Videoconference
+      id: 5500
+
+    - mac: 64-9E-F3-57-D9-B3
+      description: "Videokoferens- Touchpanel"
+      enabled: true
+      idgroup: 3600_Videoconference
+      id: 5205
+
+    - mac: 00-62-EC-8E-0C-D3
+      description: "Videokonferens touch, Belgien, plan 13 // 2017-01-26"
+      enabled: true
+      idgroup: 3600_Videoconference
+      id: 5210
+
+    - mac: 64-9E-F3-57-B2-9C
+      description: "Touchpanel plan2 nytt rum"
+      enabled: true
+      idgroup: 3600_Videoconference
+      id: 2991
+
+    - mac: 88-43-E1-C6-62-BA
+      description: "Touchpanel Brasilien"
+      enabled: true
+      idgroup: 3600_Videoconference
+      id: 2802
+
+    - mac: D8-67-D9-7B-33-19
+      description: "Videokonferens, Blocket pl11 // 2013-11-22"
+      enabled: true
+      idgroup: 3600_Videoconference
+      id: 2439
+
+    - mac: 00-FE-C8-60-56-C7
+      description: "Videokonferens - Kamera"
+      enabled: true
+      idgroup: 3600_Videoconference
+      id: 5190
+
+    - mac: 00-62-EC-8D-C4-24
+      description: "Videokonferens - Touchpanel"
+      enabled: true
+      idgroup: 3600_Videoconference
+      id: 5192
+
+    - mac: E4-C7-22-6B-18-7C
+      description: "Videokonferens - Brasilien //2015-03-19 - case: SRQ19098 - Mats"
+      enabled: true
+      idgroup: 3600_Videoconference
+      id: 2778
+
+    - mac: 88-43-E1-C6-72-BC
+      description: "Touchpanel Krokom Pl6 "
+      enabled: true
+      idgroup: 3600_Videoconference
+      id: 4647
+
+    - mac: 50-0F-80-AB-2F-08
+      description: "Touchpanel Leksand"
+      enabled: true
+      idgroup: 3600_Videoconference
+      id: 5452
+
+    - mac: 70-01-B5-CC-05-F6
+      description: "Glasburen PL 7 AB Kamera, pb. Tvarberg 20180823 ML "
+      enabled: true
+      idgroup: 3600_Videoconference
+      id: 5398
+
+    - mac: E4-C7-22-68-4F-66
+      description: "Videokonferens Aftonbladet"
+      enabled: true
+      idgroup: 3600_Videoconference
+      id: 2755
+
+    - mac: 00-50-60-83-38-15
+      description: "Frankrike"
+      enabled: true
+      idgroup: 3600_Videoconference
+      id: 2858
+
+    - mac: 00-62-EC-8D-7A-BB
+      description: "Videokonferens - Touchpanel Sverige Plan5 //2017-01-26"
+      enabled: true
+      idgroup: 3600_Videoconference
+      id: 5212
+
+    - mac: E4-C7-22-64-FA-81
+      description: "Videokonferens, Norge // 2014-08-20"
+      enabled: true
+      idgroup: 3600_Videoconference
+      id: 2716
+    
+    - mac: 80-E0-1D-6D-B5-D8
+      description: "Portugal VC"
+      enabled: true
+      idgroup: 3600_Videoconference
+      id: 3200
+
+    - mac: C4-b2-39-7d-ad-54
+      description: "VD SvD"
+      enabled: true
+      idgroup: 3600_Videoconference
+      id: 910

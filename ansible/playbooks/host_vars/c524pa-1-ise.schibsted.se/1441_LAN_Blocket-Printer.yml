@@ -1,0 +1,98 @@
+1441_LAN_Blocket-Printer:
+
+    - mac: 9C-93-4E-66-CF-CB
+      description: "Xerox TestPrinter 20151215 JF"
+      enabled: true
+      idgroup: 1441_LAN_Blocket-Printer
+      id: 2942
+
+    - mac: 00-17-C8-26-AF-A0
+      description: "Vaning 11, Blocket (11550)"
+      enabled: true
+      idgroup: 1441_LAN_Blocket-Printer
+      id: 5119
+
+    - mac: 00-14-38-4B-70-5B
+      description: "no description"
+      enabled: true
+      idgroup: 1441_LAN_Blocket-Printer
+      id: 862
+
+    - mac: 00-80-77-52-95-09
+      description: "SRQ09382 20140922 JF"
+      enabled: true
+      idgroup: 1441_LAN_Blocket-Printer
+      id: 2734
+
+    - mac: 00-80-91-6D-77-61
+      description: "Skrivare Multirum 12320"
+      enabled: true
+      idgroup: 1441_LAN_Blocket-Printer
+      id: 850
+
+    - mac: 00-80-91-6D-54-DE
+      description: "Skrivare Multirum Plan 11"
+      enabled: true
+      idgroup: 1441_LAN_Blocket-Printer
+      id: 849
+
+    - mac: 00-17-C8-26-99-03
+      description: "Vaning 12, Blocket (12320)"
+      enabled: true
+      idgroup: 1441_LAN_Blocket-Printer
+      id: 5120
+
+    - mac: 00-80-91-6D-53-2C
+      description: "Skrivare Multirum 6111 - Blocket Plan 6"
+      enabled: true
+      idgroup: 1441_LAN_Blocket-Printer
+      id: 848
+
+    - mac: 9C-93-4E-66-CF-CB
+      description: "Xerox TestPrinter 20151215 JF"
+      enabled: true
+      idgroup: 1441_LAN_Blocket-Printer
+      id: 2942
+
+    - mac: 00-17-C8-26-AF-A0
+      description: "Vaning 11, Blocket (11550)"
+      enabled: true
+      idgroup: 1441_LAN_Blocket-Printer
+      id: 5119
+
+    - mac: 00-14-38-4B-70-5B
+      description: "no description"
+      enabled: true
+      idgroup: 1441_LAN_Blocket-Printer
+      id: 862
+
+    - mac: 00-80-77-52-95-09
+      description: "SRQ09382 20140922 JF"
+      enabled: true
+      idgroup: 1441_LAN_Blocket-Printer
+      id: 2734
+
+    - mac: 00-80-91-6D-77-61
+      description: "Skrivare Multirum 12320"
+      enabled: true
+      idgroup: 1441_LAN_Blocket-Printer
+      id: 850
+
+    - mac: 00-80-91-6D-54-DE
+      description: "Skrivare Multirum Plan 11"
+      enabled: true
+      idgroup: 1441_LAN_Blocket-Printer
+      id: 849
+
+    - mac: 00-17-C8-26-99-03
+      description: "Vaning 12, Blocket (12320)"
+      enabled: true
+      idgroup: 1441_LAN_Blocket-Printer
+      id: 5120
+
+    - mac: 00-80-91-6D-53-2C
+      description: "Skrivare Multirum 6111 - Blocket Plan 6"
+      enabled: true
+      idgroup: 1441_LAN_Blocket-Printer
+      id: 848
+

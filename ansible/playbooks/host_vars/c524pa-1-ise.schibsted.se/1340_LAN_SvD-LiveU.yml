@@ -1,0 +1,14 @@
+1340_LAN_SvD-LiveU:
+
+    - mac: D4-AE-52-CE-09-72
+      description: "SVD LiveU - remove 2016-11-11"
+      enabled: false
+      idgroup: 1340_LAN_SvD-LiveU
+      id: 5176
+
+    - mac: D4-AE-52-CE-09-72
+      description: "SVD LiveU - remove 2016-11-11"
+      enabled: false
+      idgroup: 1340_LAN_SvD-LiveU
+      id: 5176
+

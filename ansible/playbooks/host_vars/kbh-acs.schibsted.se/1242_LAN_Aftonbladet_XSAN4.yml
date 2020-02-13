@@ -1,0 +1,134 @@
+1242_LAN_Aftonbladet_XSAN4:
+
+    - mac: A8-60-B6-2F-DF-2F
+      description: "57093i"
+      enabled: true
+      idgroup: 1242_LAN_Aftonbladet_XSAN4
+      id: 5556
+
+    - mac: 40-6C-8F-2D-55-9D
+      description: "XSAN4, Redigering 7, frontend"
+      enabled: true
+      idgroup: 1242_LAN_Aftonbladet_XSAN4
+      id: 2765
+
+    - mac: A8-20-66-28-B3-A7
+      description: "XSAN4, Redigering not 7, frontend"
+      enabled: true
+      idgroup: 1242_LAN_Aftonbladet_XSAN4
+      id: 2770
+
+    - mac: AC-87-A3-0F-B6-1D
+      description: "Vasse SRQ26755 2015-07-10 //JF"
+      enabled: true
+      idgroup: 1242_LAN_Aftonbladet_XSAN4
+      id: 2862
+
+    - mac: 00-3E-E1-C5-ED-0C
+      description: "no description"
+      enabled: true
+      idgroup: 1242_LAN_Aftonbladet_XSAN4
+      id: 2829
+
+    - mac: 00-3E-E1-CD-47-AA
+      description: "AB-TV SRQ150200"
+      enabled: true
+      idgroup: 1242_LAN_Aftonbladet_XSAN4
+      id: 5363
+
+    - mac: AC-87-A3-01-40-BE
+      description: "XSAN4, Redigering 4, frontend"
+      enabled: true
+      idgroup: 1242_LAN_Aftonbladet_XSAN4
+      id: 2764
+
+    - mac: 0C-4D-E9-CD-55-E2
+      description: "VLAN 1242"
+      enabled: true
+      idgroup: 1242_LAN_Aftonbladet_XSAN4
+      id: 5207
+
+    - mac: 0C-4D-E9-CD-9C-A5
+      description: "iMac 57093i"
+      enabled: true
+      idgroup: 1242_LAN_Aftonbladet_XSAN4
+      id: 5360
+
+    - mac: 68-5B-35-7D-86-94
+      description: "XSAN4, Redigering 9, frontend"
+      enabled: true
+      idgroup: 1242_LAN_Aftonbladet_XSAN4
+      id: 2768
+    
+    - mac: 30-23-03-06-6A-A5
+      description: "XSAN4, Redigering 9, frontend"
+      enabled: true
+      idgroup: 1242_LAN_Aftonbladet_XSAN4
+      id: 259
+
+    - mac: A8-60-B6-2F-DF-2F
+      description: "57093i"
+      enabled: true
+      idgroup: 1242_LAN_Aftonbladet_XSAN4
+      id: 5556
+
+    - mac: 40-6C-8F-2D-55-9D
+      description: "XSAN4, Redigering 7, frontend"
+      enabled: true
+      idgroup: 1242_LAN_Aftonbladet_XSAN4
+      id: 2765
+
+    - mac: A8-20-66-28-B3-A7
+      description: "XSAN4, Redigering not 7, frontend"
+      enabled: true
+      idgroup: 1242_LAN_Aftonbladet_XSAN4
+      id: 2770
+
+    - mac: AC-87-A3-0F-B6-1D
+      description: "Vasse SRQ26755 2015-07-10 //JF"
+      enabled: true
+      idgroup: 1242_LAN_Aftonbladet_XSAN4
+      id: 2862
+
+    - mac: 30-23-03-06-6A-A5
+      description: "XSAN4, Redigering 9, frontend"
+      enabled: true
+      idgroup: 1242_LAN_Aftonbladet_XSAN4
+      id: 5850
+
+    - mac: 00-3E-E1-C5-ED-0C
+      description: "no description"
+      enabled: true
+      idgroup: 1242_LAN_Aftonbladet_XSAN4
+      id: 2829
+
+    - mac: 00-3E-E1-CD-47-AA
+      description: "AB-TV SRQ150200"
+      enabled: true
+      idgroup: 1242_LAN_Aftonbladet_XSAN4
+      id: 5363
+
+    - mac: AC-87-A3-01-40-BE
+      description: "XSAN4, Redigering 4, frontend"
+      enabled: true
+      idgroup: 1242_LAN_Aftonbladet_XSAN4
+      id: 2764
+
+    - mac: 0C-4D-E9-CD-55-E2
+      description: "VLAN 1242"
+      enabled: true
+      idgroup: 1242_LAN_Aftonbladet_XSAN4
+      id: 5207
+
+    - mac: 0C-4D-E9-CD-9C-A5
+      description: "iMac 57093i"
+      enabled: true
+      idgroup: 1242_LAN_Aftonbladet_XSAN4
+      id: 5360
+
+    - mac: 68-5B-35-7D-86-94
+      description: "XSAN4, Redigering 9, frontend"
+      enabled: true
+      idgroup: 1242_LAN_Aftonbladet_XSAN4
+      id: 2768
+

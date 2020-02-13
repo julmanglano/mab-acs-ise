@@ -1,0 +1,854 @@
+1400_LAN_Blocket-Dev:
+
+    - mac: 10-DD-B1-BF-1A-D4
+      description: "Tripwell support 3 "
+      enabled: true
+      idgroup: 1400_LAN_Blocket-Dev
+      id: 2345
+
+    - mac: 68-5B-35-AD-B7-B6
+      description: "SRQ03033"
+      enabled: true
+      idgroup: 1400_LAN_Blocket-Dev
+      id: 2699
+
+    - mac: C4-2C-03-11-1B-C4
+      description: "SRQ00627 - Pontus"
+      enabled: true
+      idgroup: 1400_LAN_Blocket-Dev
+      id: 2676
+
+    - mac: 68-5B-35-9F-F1-DE
+      description: "SRQ07056"
+      enabled: true
+      idgroup: 1400_LAN_Blocket-Dev
+      id: 2710
+
+    - mac: 00-23-32-C1-E7-F6
+      description: "Arin Sinabian"
+      enabled: true
+      idgroup: 1400_LAN_Blocket-Dev
+      id: 1622
+
+    - mac: 00-1C-BF-A2-58-C7
+      description: "Adina Duta Wlan"
+      enabled: true
+      idgroup: 1400_LAN_Blocket-Dev
+      id: 1627
+
+    - mac: 58-B0-35-F2-A7-A4
+      description: "Blocket Salj TEST PC tas bort 20131201"
+      enabled: true
+      idgroup: 1400_LAN_Blocket-Dev
+      id: 2093
+
+    - mac: 70-5A-B6-B5-2B-05
+      description: "Blocket Johan Blom"
+      enabled: true
+      idgroup: 1400_LAN_Blocket-Dev
+      id: 1921
+
+    - mac: 6C-88-14-8F-28-58
+      description: "Norsk PC WLAN"
+      enabled: true
+      idgroup: 1400_LAN_Blocket-Dev
+      id: 2614
+
+    - mac: 00-21-70-A6-C6-92
+      description: "no description"
+      enabled: true
+      idgroup: 1400_LAN_Blocket-Dev
+      id: 1511
+
+    - mac: 10-DD-B1-BE-AE-D6
+      description: "Tripwell support 2"
+      enabled: true
+      idgroup: 1400_LAN_Blocket-Dev
+      id: 2342
+
+    - mac: 10-DD-B1-BF-21-48
+      description: "Tripwell support 1"
+      enabled: true
+      idgroup: 1400_LAN_Blocket-Dev
+      id: 2341
+
+    - mac: 00-0C-29-35-B6-8E
+      description: "Johan Blom"
+      enabled: true
+      idgroup: 1400_LAN_Blocket-Dev
+      id: 1920
+
+    - mac: 0C-60-76-30-D2-3D
+      description: "Andreea Trif Wlan"
+      enabled: true
+      idgroup: 1400_LAN_Blocket-Dev
+      id: 1625
+
+    - mac: 0C-4D-E9-A2-20-69
+      description: "SRQ08917"
+      enabled: true
+      idgroup: 1400_LAN_Blocket-Dev
+      id: 2731
+
+    - mac: 7C-C3-A1-89-27-36
+      description: "Nils Hermansson"
+      enabled: true
+      idgroup: 1400_LAN_Blocket-Dev
+      id: 2050
+
+    - mac: F0-DE-F1-C4-7A-59
+      description: "Blocket Sergio Visinoni"
+      enabled: true
+      idgroup: 1400_LAN_Blocket-Dev
+      id: 1976
+
+    - mac: D4-9A-20-E2-97-0A
+      description: "IMAC BLOCKET"
+      enabled: true
+      idgroup: 1400_LAN_Blocket-Dev
+      id: 1996
+
+    - mac: A8-20-66-55-4A-28
+      description: "Pontus Lundvall case 148098"
+      enabled: true
+      idgroup: 1400_LAN_Blocket-Dev
+      id: 2418
+
+    - mac: D8-D3-85-1E-A7-5E
+      description: "Konsult"
+      enabled: true
+      idgroup: 1400_LAN_Blocket-Dev
+      id: 1512
+
+    - mac: 10-9A-DD-42-10-E8
+      description: "Maria Lourdes Indiano"
+      enabled: true
+      idgroup: 1400_LAN_Blocket-Dev
+      id: 1644
+
+    - mac: 0C-4D-E9-BE-F2-74
+      description: "SRQ12184, StepStone"
+      enabled: true
+      idgroup: 1400_LAN_Blocket-Dev
+      id: 2873
+
+    - mac: 0C-4D-E9-C6-89-13
+      description: "SRQ12335"
+      enabled: true
+      idgroup: 1400_LAN_Blocket-Dev
+      id: 2748
+
+    - mac: A8-20-66-23-C3-F6
+      description: "Request ID : 163899"
+      enabled: true
+      idgroup: 1400_LAN_Blocket-Dev
+      id: 2606
+
+    - mac: 70-5A-B6-AD-BA-75
+      description: "Mikael Jonsson bestaller at konsult - Blocket"
+      enabled: true
+      idgroup: 1400_LAN_Blocket-Dev
+      id: 1922
+
+    - mac: 68-5B-35-AD-B2-A9
+      description: "SRQ03033"
+      enabled: true
+      idgroup: 1400_LAN_Blocket-Dev
+      id: 2697
+
+    - mac: 00-26-C7-54-54-4C
+      description: "Blocket Mikael Jonsson"
+      enabled: true
+      idgroup: 1400_LAN_Blocket-Dev
+      id: 2097
+
+    - mac: 40-6C-8F-20-46-E6
+      description: "Emil Bryggare Blocket SD94957 /YA"
+      enabled: true
+      idgroup: 1400_LAN_Blocket-Dev
+      id: 2015
+
+    - mac: 00-21-5D-08-D1-CA
+      description: "Konsult WLAN"
+      enabled: true
+      idgroup: 1400_LAN_Blocket-Dev
+      id: 1514
+
+    - mac: 0C-4D-E9-C7-01-EB
+      description: "SRQ12335"
+      enabled: true
+      idgroup: 1400_LAN_Blocket-Dev
+      id: 2746
+
+    - mac: 00-25-9C-CF-A8-E0
+      description: "Pontus Lundvall"
+      enabled: true
+      idgroup: 1400_LAN_Blocket-Dev
+      id: 2333
+
+    - mac: D4-9A-20-E0-00-78
+      description: "Blocket iMac"
+      enabled: true
+      idgroup: 1400_LAN_Blocket-Dev
+      id: 1974
+
+    - mac: C8-2A-14-07-74-EA
+      description: "no description"
+      enabled: true
+      idgroup: 1400_LAN_Blocket-Dev
+      id: 2129
+
+    - mac: 10-DD-B1-BE-AE-7C
+      description: "Tripwell support 4"
+      enabled: true
+      idgroup: 1400_LAN_Blocket-Dev
+      id: 2344
+
+    - mac: 00-1D-72-FA-5F-D6
+      description: "Trimbitas Sorin lan"
+      enabled: true
+      idgroup: 1400_LAN_Blocket-Dev
+      id: 1628
+
+    - mac: A8-20-66-23-C5-66
+      description: "Pontus Lundvall, Case 164311"
+      enabled: true
+      idgroup: 1400_LAN_Blocket-Dev
+      id: 2610
+
+    - mac: A8-20-66-55-51-A6
+      description: "no description"
+      enabled: true
+      idgroup: 1400_LAN_Blocket-Dev
+      id: 2432
+
+    - mac: 10-DD-B1-A9-6B-ED
+      description: "Dator i last rum pa Blocket IT"
+      enabled: true
+      idgroup: 1400_LAN_Blocket-Dev
+      id: 5230
+
+    - mac: 00-21-5D-F1-36-46
+      description: "Blocket-Mikael Jonsson"
+      enabled: true
+      idgroup: 1400_LAN_Blocket-Dev
+      id: 1621
+
+    - mac: EC-A8-6B-F5-8D-BF
+      description: "Case 166717, Pontus Lundvall"
+      enabled: true
+      idgroup: 1400_LAN_Blocket-Dev
+      id: 2651
+
+    - mac: 3C-97-0E-9E-18-31
+      description: "Norsk PC LAN"
+      enabled: true
+      idgroup: 1400_LAN_Blocket-Dev
+      id: 2615
+
+    - mac: A8-20-66-29-10-47
+      description: "SRQ09386 - blo-tv2"
+      enabled: true
+      idgroup: 1400_LAN_Blocket-Dev
+      id: 2735
+
+    - mac: 00-16-D3-8B-18-17
+      description: "Adina Duta lan"
+      enabled: true
+      idgroup: 1400_LAN_Blocket-Dev
+      id: 1626
+
+    - mac: 40-6C-8F-51-F2-89
+      description: "SRQ31463 Pontus Lundvall 20151008 //JF"
+      enabled: true
+      idgroup: 1400_LAN_Blocket-Dev
+      id: 2881
+
+    - mac: F0-DE-F1-01-76-D2
+      description: "Blocket Mikael Jonsson"
+      enabled: true
+      idgroup: 1400_LAN_Blocket-Dev
+      id: 2098
+
+    - mac: 00-A0-D1-34-B8-8A
+      description: "160851"
+      enabled: true
+      idgroup: 1400_LAN_Blocket-Dev
+      id: 2604
+
+    - mac: 68-5B-35-98-4A-A0
+      description: "SRQ29536, StepStone"
+      enabled: true
+      idgroup: 1400_LAN_Blocket-Dev
+      id: 2750
+
+    - mac: 00-1D-BA-66-4C-49
+      description: "Blocket-Mikael Jonsson"
+      enabled: true
+      idgroup: 1400_LAN_Blocket-Dev
+      id: 1619
+
+    - mac: 68-5B-35-9A-7B-74
+      description: "SRQ31463 Pontus Lundvall 20151008 //JF"
+      enabled: true
+      idgroup: 1400_LAN_Blocket-Dev
+      id: 2880
+
+    - mac: 00-1F-16-0D-43-87
+      description: "Karl Eckerlund utv Blocket"
+      enabled: true
+      idgroup: 1400_LAN_Blocket-Dev
+      id: 1958
+
+    - mac: 00-DB-DF-11-CF-24
+      description: "Nils Hermansson "
+      enabled: true
+      idgroup: 1400_LAN_Blocket-Dev
+      id: 2049
+
+    - mac: 00-26-C7-19-0F-12
+      description: "Konsult WLAN"
+      enabled: true
+      idgroup: 1400_LAN_Blocket-Dev
+      id: 1513
+
+    - mac: 70-56-81-EF-1E-15
+      description: "blocket apple tv"
+      enabled: true
+      idgroup: 1400_LAN_Blocket-Dev
+      id: 2058
+
+    - mac: 00-11-0F-01-DA-EE
+      description: "SRQ15820"
+      enabled: true
+      idgroup: 1400_LAN_Blocket-Dev
+      id: 2757
+
+    - mac: 00-26-9E-3A-A2-24
+      description: "Andreea Trif lan"
+      enabled: true
+      idgroup: 1400_LAN_Blocket-Dev
+      id: 1624
+
+    - mac: 10-DD-B1-BC-23-34
+      description: "no description"
+      enabled: true
+      idgroup: 1400_LAN_Blocket-Dev
+      id: 2323
+
+    - mac: 0C-4D-E9-A2-8A-F3
+      description: "SRQ08917"
+      enabled: true
+      idgroup: 1400_LAN_Blocket-Dev
+      id: 2732
+
+    - mac: 00-1D-E0-3B-0E-7B
+      description: "Blocket Micke SD-ID: 95366"
+      enabled: true
+      idgroup: 1400_LAN_Blocket-Dev
+      id: 2016
+
+    - mac: 68-5B-35-AD-91-79
+      description: "SRQ03033"
+      enabled: true
+      idgroup: 1400_LAN_Blocket-Dev
+      id: 2698
+
+    - mac: A8-20-66-03-E0-C6
+      description: "Blocket konsult"
+      enabled: true
+      idgroup: 1400_LAN_Blocket-Dev
+      id: 2352
+
+    - mac: 78-7B-8A-CD-D7-C6
+      description: "Blocket Device SRQ194311"
+      enabled: true
+      idgroup: 1400_LAN_Blocket-Dev
+      id: 5420
+
+    - mac: 10-60-4B-DC-41-C8
+      description: "Case 167082 // 2014-03-17"
+      enabled: true
+      idgroup: 1400_LAN_Blocket-Dev
+      id: 2660
+
+    - mac: 68-5B-35-9B-74-01
+      description: "Pontus Lundvall - MacMini"
+      enabled: true
+      idgroup: 1400_LAN_Blocket-Dev
+      id: 5181
+
+    - mac: 08-00-27-63-82-E7
+      description: "Blocket-Mikael Jonsson"
+      enabled: true
+      idgroup: 1400_LAN_Blocket-Dev
+      id: 1620
+
+    - mac: 10-DD-B1-CE-9F-62
+      description: "SRQ03033"
+      enabled: true
+      idgroup: 1400_LAN_Blocket-Dev
+      id: 2700
+
+    - mac: 10-9A-DD-42-7B-3B
+      description: "SRQ39345 blocket 20160125 JF"
+      enabled: true
+      idgroup: 1400_LAN_Blocket-Dev
+      id: 2975
+
+    - mac: 0C-4D-E9-C6-D6-D9
+      description: "SRQ12335"
+      enabled: true
+      idgroup: 1400_LAN_Blocket-Dev
+      id: 2747
+
+    - mac: A0-48-1C-DC-57-E3
+      description: "SRQ20752 Dis 15/5 2015"
+      enabled: false
+      idgroup: 1400_LAN_Blocket-Dev
+      id: 2793
+
+    - mac: 00-24-2C-0B-74-DB
+      description: "Trimbitas Sorin Wlan"
+      enabled: true
+      idgroup: 1400_LAN_Blocket-Dev
+      id: 1629
+
+    - mac: 70-5A-B6-AD-B9-87
+      description: "Emil Kvarnhammar Blocket"
+      enabled: true
+      idgroup: 1400_LAN_Blocket-Dev
+      id: 1918
+
+    - mac: 70-56-81-EF-1E-14
+      description: "blocket apple tv"
+      enabled: true
+      idgroup: 1400_LAN_Blocket-Dev
+      id: 2063
+
+    - mac: 10-DD-B1-BF-1A-D4
+      description: "Tripwell support 3 "
+      enabled: true
+      idgroup: 1400_LAN_Blocket-Dev
+      id: 2345
+
+    - mac: 68-5B-35-AD-B7-B6
+      description: "SRQ03033"
+      enabled: true
+      idgroup: 1400_LAN_Blocket-Dev
+      id: 2699
+
+    - mac: C4-2C-03-11-1B-C4
+      description: "SRQ00627 - Pontus"
+      enabled: true
+      idgroup: 1400_LAN_Blocket-Dev
+      id: 2676
+
+    - mac: 68-5B-35-9F-F1-DE
+      description: "SRQ07056"
+      enabled: true
+      idgroup: 1400_LAN_Blocket-Dev
+      id: 2710
+
+    - mac: 00-23-32-C1-E7-F6
+      description: "Arin Sinabian"
+      enabled: true
+      idgroup: 1400_LAN_Blocket-Dev
+      id: 1622
+
+    - mac: 00-1C-BF-A2-58-C7
+      description: "Adina Duta Wlan"
+      enabled: true
+      idgroup: 1400_LAN_Blocket-Dev
+      id: 1627
+
+    - mac: 58-B0-35-F2-A7-A4
+      description: "Blocket Salj TEST PC tas bort 20131201"
+      enabled: true
+      idgroup: 1400_LAN_Blocket-Dev
+      id: 2093
+
+    - mac: 70-5A-B6-B5-2B-05
+      description: "Blocket Johan Blom"
+      enabled: true
+      idgroup: 1400_LAN_Blocket-Dev
+      id: 1921
+
+    - mac: 6C-88-14-8F-28-58
+      description: "Norsk PC WLAN"
+      enabled: true
+      idgroup: 1400_LAN_Blocket-Dev
+      id: 2614
+
+    - mac: 00-21-70-A6-C6-92
+      description: "no description"
+      enabled: true
+      idgroup: 1400_LAN_Blocket-Dev
+      id: 1511
+
+    - mac: 10-DD-B1-BE-AE-D6
+      description: "Tripwell support 2"
+      enabled: true
+      idgroup: 1400_LAN_Blocket-Dev
+      id: 2342
+
+    - mac: 10-DD-B1-BF-21-48
+      description: "Tripwell support 1"
+      enabled: true
+      idgroup: 1400_LAN_Blocket-Dev
+      id: 2341
+
+    - mac: 00-0C-29-35-B6-8E
+      description: "Johan Blom"
+      enabled: true
+      idgroup: 1400_LAN_Blocket-Dev
+      id: 1920
+
+    - mac: 0C-60-76-30-D2-3D
+      description: "Andreea Trif Wlan"
+      enabled: true
+      idgroup: 1400_LAN_Blocket-Dev
+      id: 1625
+
+    - mac: 0C-4D-E9-A2-20-69
+      description: "SRQ08917"
+      enabled: true
+      idgroup: 1400_LAN_Blocket-Dev
+      id: 2731
+
+    - mac: 7C-C3-A1-89-27-36
+      description: "Nils Hermansson"
+      enabled: true
+      idgroup: 1400_LAN_Blocket-Dev
+      id: 2050
+
+    - mac: F0-DE-F1-C4-7A-59
+      description: "Blocket Sergio Visinoni"
+      enabled: true
+      idgroup: 1400_LAN_Blocket-Dev
+      id: 1976
+
+    - mac: D4-9A-20-E2-97-0A
+      description: "IMAC BLOCKET"
+      enabled: true
+      idgroup: 1400_LAN_Blocket-Dev
+      id: 1996
+
+    - mac: A8-20-66-55-4A-28
+      description: "Pontus Lundvall case 148098"
+      enabled: true
+      idgroup: 1400_LAN_Blocket-Dev
+      id: 2418
+
+    - mac: D8-D3-85-1E-A7-5E
+      description: "Konsult"
+      enabled: true
+      idgroup: 1400_LAN_Blocket-Dev
+      id: 1512
+
+    - mac: 10-9A-DD-42-10-E8
+      description: "Maria Lourdes Indiano"
+      enabled: true
+      idgroup: 1400_LAN_Blocket-Dev
+      id: 1644
+
+    - mac: 0C-4D-E9-BE-F2-74
+      description: "SRQ12184, StepStone"
+      enabled: true
+      idgroup: 1400_LAN_Blocket-Dev
+      id: 2873
+
+    - mac: 0C-4D-E9-C6-89-13
+      description: "SRQ12335"
+      enabled: true
+      idgroup: 1400_LAN_Blocket-Dev
+      id: 2748
+
+    - mac: A8-20-66-23-C3-F6
+      description: "Request ID : 163899"
+      enabled: true
+      idgroup: 1400_LAN_Blocket-Dev
+      id: 2606
+
+    - mac: 70-5A-B6-AD-BA-75
+      description: "Mikael Jonsson bestaller at konsult - Blocket"
+      enabled: true
+      idgroup: 1400_LAN_Blocket-Dev
+      id: 1922
+
+    - mac: 68-5B-35-AD-B2-A9
+      description: "SRQ03033"
+      enabled: true
+      idgroup: 1400_LAN_Blocket-Dev
+      id: 2697
+
+    - mac: 00-26-C7-54-54-4C
+      description: "Blocket Mikael Jonsson"
+      enabled: true
+      idgroup: 1400_LAN_Blocket-Dev
+      id: 2097
+
+    - mac: 40-6C-8F-20-46-E6
+      description: "Emil Bryggare Blocket SD94957 /YA"
+      enabled: true
+      idgroup: 1400_LAN_Blocket-Dev
+      id: 2015
+
+    - mac: 00-21-5D-08-D1-CA
+      description: "Konsult WLAN"
+      enabled: true
+      idgroup: 1400_LAN_Blocket-Dev
+      id: 1514
+
+    - mac: 0C-4D-E9-C7-01-EB
+      description: "SRQ12335"
+      enabled: true
+      idgroup: 1400_LAN_Blocket-Dev
+      id: 2746
+
+    - mac: 00-25-9C-CF-A8-E0
+      description: "Pontus Lundvall"
+      enabled: true
+      idgroup: 1400_LAN_Blocket-Dev
+      id: 2333
+
+    - mac: D4-9A-20-E0-00-78
+      description: "Blocket iMac"
+      enabled: true
+      idgroup: 1400_LAN_Blocket-Dev
+      id: 1974
+
+    - mac: C8-2A-14-07-74-EA
+      description: "no description"
+      enabled: true
+      idgroup: 1400_LAN_Blocket-Dev
+      id: 2129
+
+    - mac: 10-DD-B1-BE-AE-7C
+      description: "Tripwell support 4"
+      enabled: true
+      idgroup: 1400_LAN_Blocket-Dev
+      id: 2344
+
+    - mac: 00-1D-72-FA-5F-D6
+      description: "Trimbitas Sorin lan"
+      enabled: true
+      idgroup: 1400_LAN_Blocket-Dev
+      id: 1628
+
+    - mac: A8-20-66-23-C5-66
+      description: "Pontus Lundvall, Case 164311"
+      enabled: true
+      idgroup: 1400_LAN_Blocket-Dev
+      id: 2610
+
+    - mac: A8-20-66-55-51-A6
+      description: "no description"
+      enabled: true
+      idgroup: 1400_LAN_Blocket-Dev
+      id: 2432
+
+    - mac: 10-DD-B1-A9-6B-ED
+      description: "Dator i last rum pa Blocket IT"
+      enabled: true
+      idgroup: 1400_LAN_Blocket-Dev
+      id: 5230
+
+    - mac: 00-21-5D-F1-36-46
+      description: "Blocket-Mikael Jonsson"
+      enabled: true
+      idgroup: 1400_LAN_Blocket-Dev
+      id: 1621
+
+    - mac: EC-A8-6B-F5-8D-BF
+      description: "Case 166717, Pontus Lundvall"
+      enabled: true
+      idgroup: 1400_LAN_Blocket-Dev
+      id: 2651
+
+    - mac: 3C-97-0E-9E-18-31
+      description: "Norsk PC LAN"
+      enabled: true
+      idgroup: 1400_LAN_Blocket-Dev
+      id: 2615
+
+    - mac: A8-20-66-29-10-47
+      description: "SRQ09386 - blo-tv2"
+      enabled: true
+      idgroup: 1400_LAN_Blocket-Dev
+      id: 2735
+
+    - mac: 00-16-D3-8B-18-17
+      description: "Adina Duta lan"
+      enabled: true
+      idgroup: 1400_LAN_Blocket-Dev
+      id: 1626
+
+    - mac: 40-6C-8F-51-F2-89
+      description: "SRQ31463 Pontus Lundvall 20151008 //JF"
+      enabled: true
+      idgroup: 1400_LAN_Blocket-Dev
+      id: 2881
+
+    - mac: F0-DE-F1-01-76-D2
+      description: "Blocket Mikael Jonsson"
+      enabled: true
+      idgroup: 1400_LAN_Blocket-Dev
+      id: 2098
+
+    - mac: 00-A0-D1-34-B8-8A
+      description: "160851"
+      enabled: true
+      idgroup: 1400_LAN_Blocket-Dev
+      id: 2604
+
+    - mac: 68-5B-35-98-4A-A0
+      description: "SRQ29536, StepStone"
+      enabled: true
+      idgroup: 1400_LAN_Blocket-Dev
+      id: 2750
+
+    - mac: 00-1D-BA-66-4C-49
+      description: "Blocket-Mikael Jonsson"
+      enabled: true
+      idgroup: 1400_LAN_Blocket-Dev
+      id: 1619
+
+    - mac: 68-5B-35-9A-7B-74
+      description: "SRQ31463 Pontus Lundvall 20151008 //JF"
+      enabled: true
+      idgroup: 1400_LAN_Blocket-Dev
+      id: 2880
+
+    - mac: 00-1F-16-0D-43-87
+      description: "Karl Eckerlund utv Blocket"
+      enabled: true
+      idgroup: 1400_LAN_Blocket-Dev
+      id: 1958
+
+    - mac: 00-DB-DF-11-CF-24
+      description: "Nils Hermansson "
+      enabled: true
+      idgroup: 1400_LAN_Blocket-Dev
+      id: 2049
+
+    - mac: 00-26-C7-19-0F-12
+      description: "Konsult WLAN"
+      enabled: true
+      idgroup: 1400_LAN_Blocket-Dev
+      id: 1513
+
+    - mac: 70-56-81-EF-1E-15
+      description: "blocket apple tv"
+      enabled: true
+      idgroup: 1400_LAN_Blocket-Dev
+      id: 2058
+
+    - mac: 00-11-0F-01-DA-EE
+      description: "SRQ15820"
+      enabled: true
+      idgroup: 1400_LAN_Blocket-Dev
+      id: 2757
+
+    - mac: 00-26-9E-3A-A2-24
+      description: "Andreea Trif lan"
+      enabled: true
+      idgroup: 1400_LAN_Blocket-Dev
+      id: 1624
+
+    - mac: 10-DD-B1-BC-23-34
+      description: "no description"
+      enabled: true
+      idgroup: 1400_LAN_Blocket-Dev
+      id: 2323
+
+    - mac: 0C-4D-E9-A2-8A-F3
+      description: "SRQ08917"
+      enabled: true
+      idgroup: 1400_LAN_Blocket-Dev
+      id: 2732
+
+    - mac: 00-1D-E0-3B-0E-7B
+      description: "Blocket Micke SD-ID: 95366"
+      enabled: true
+      idgroup: 1400_LAN_Blocket-Dev
+      id: 2016
+
+    - mac: 68-5B-35-AD-91-79
+      description: "SRQ03033"
+      enabled: true
+      idgroup: 1400_LAN_Blocket-Dev
+      id: 2698
+
+    - mac: A8-20-66-03-E0-C6
+      description: "Blocket konsult"
+      enabled: true
+      idgroup: 1400_LAN_Blocket-Dev
+      id: 2352
+
+    - mac: 78-7B-8A-CD-D7-C6
+      description: "Blocket Device SRQ194311"
+      enabled: true
+      idgroup: 1400_LAN_Blocket-Dev
+      id: 5420
+
+    - mac: 10-60-4B-DC-41-C8
+      description: "Case 167082 // 2014-03-17"
+      enabled: true
+      idgroup: 1400_LAN_Blocket-Dev
+      id: 2660
+
+    - mac: 68-5B-35-9B-74-01
+      description: "Pontus Lundvall - MacMini"
+      enabled: true
+      idgroup: 1400_LAN_Blocket-Dev
+      id: 5181
+
+    - mac: 08-00-27-63-82-E7
+      description: "Blocket-Mikael Jonsson"
+      enabled: true
+      idgroup: 1400_LAN_Blocket-Dev
+      id: 1620
+
+    - mac: 10-DD-B1-CE-9F-62
+      description: "SRQ03033"
+      enabled: true
+      idgroup: 1400_LAN_Blocket-Dev
+      id: 2700
+
+    - mac: 10-9A-DD-42-7B-3B
+      description: "SRQ39345 blocket 20160125 JF"
+      enabled: true
+      idgroup: 1400_LAN_Blocket-Dev
+      id: 2975
+
+    - mac: 0C-4D-E9-C6-D6-D9
+      description: "SRQ12335"
+      enabled: true
+      idgroup: 1400_LAN_Blocket-Dev
+      id: 2747
+
+    - mac: A0-48-1C-DC-57-E3
+      description: "SRQ20752 Dis 15/5 2015"
+      enabled: false
+      idgroup: 1400_LAN_Blocket-Dev
+      id: 2793
+
+    - mac: 00-24-2C-0B-74-DB
+      description: "Trimbitas Sorin Wlan"
+      enabled: true
+      idgroup: 1400_LAN_Blocket-Dev
+      id: 1629
+
+    - mac: 70-5A-B6-AD-B9-87
+      description: "Emil Kvarnhammar Blocket"
+      enabled: true
+      idgroup: 1400_LAN_Blocket-Dev
+      id: 1918
+
+    - mac: 70-56-81-EF-1E-14
+      description: "blocket apple tv"
+      enabled: true
+      idgroup: 1400_LAN_Blocket-Dev
+      id: 2063
+

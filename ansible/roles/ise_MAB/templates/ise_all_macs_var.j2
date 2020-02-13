@@ -1,0 +1,13 @@
+ALLMACS:
+{%for item in IDGROUPS %}
+{% for it in lookup ('vars', item.name) %}
+{% if it.id == 0 %}
+- mac: {{ it.mac | replace ('-',':') }}
+  description: "{{ it.description }}"
+  idgroup: {{ item.id }}
+  igroupname: {{ item.name }}
+  enabled: {{ it.enabled }}
+  id: {{ it.id }}
+{% endif %}
+{% endfor %}
+{% endfor %}

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:host xmlns:ns2="identity.rest.mgmt.acs.nm.cisco.com">
+   <id>{{ item.id }}</id>
+   <description>{{ item.description }}</description>
+   <identityGroupName>All Groups:{{ item.idgroup }}</identityGroupName>
+   {% if item.enabled == True %}
+   <enabled>true</enabled>
+   {% endif %}
+   <macAddress>{{ item.mac }}</macAddress>
+</ns2:host>

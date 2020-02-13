@@ -1,0 +1,1469 @@
+1028_OFFICE-PLAYIPP:
+
+    - mac: 34-D0-B8-70-81-1B
+      description: "IT Dev pl6 sk3"
+      enabled: true
+      idgroup: 1028_OFFICE-PLAYIPP
+      id: 5560
+
+    - mac: 34-D0-B8-70-82-73
+      description: "AB KPI-Vagg KPI5"
+      enabled: true
+      idgroup: 1028_OFFICE-PLAYIPP
+      id: 5623
+
+    - mac: 34-D0-B8-70-81-FF
+      description: "Ab Sport pl7 sk1"
+      enabled: true
+      idgroup: 1028_OFFICE-PLAYIPP
+      id: 5577
+
+    - mac: 34-D0-B8-70-81-03
+      description: "no description"
+      enabled: true
+      idgroup: 1028_OFFICE-PLAYIPP
+      id: 5630
+
+    - mac: 34-D0-B8-70-81-06
+      description: "AB KPI-Vagg KPI6"
+      enabled: true
+      idgroup: 1028_OFFICE-PLAYIPP
+      id: 5596
+
+    - mac: 18-65-71-5E-B3-3E
+      description: "Entrance Floor 6 SW"
+      enabled: true
+      idgroup: 1028_OFFICE-PLAYIPP
+      id: 5553
+
+    - mac: 18-65-71-5D-2D-AE
+      description: "Entrance Floor 13 NW"
+      enabled: true
+      idgroup: 1028_OFFICE-PLAYIPP
+      id: 5536
+
+    - mac: 18-65-71-5E-B3-2A
+      description: "Entrance Floor 5 SW"
+      enabled: true
+      idgroup: 1028_OFFICE-PLAYIPP
+      id: 5554
+
+    - mac: 18-65-71-5E-B2-F2
+      description: "Entrance Floor 8 SW"
+      enabled: true
+      idgroup: 1028_OFFICE-PLAYIPP
+      id: 5541
+
+    - mac: 18-65-71-5E-B2-B5
+      description: "Entrance Floor 7 NW"
+      enabled: true
+      idgroup: 1028_OFFICE-PLAYIPP
+      id: 5544
+
+    - mac: 34-D0-B8-70-81-60
+      description: "AB CRM PL7 SK2"
+      enabled: true
+      idgroup: 1028_OFFICE-PLAYIPP
+      id: 5694
+
+    - mac: 34-D0-B8-70-80-FF
+      description: "TV.NU pl7 sk4"
+      enabled: true
+      idgroup: 1028_OFFICE-PLAYIPP
+      id: 5671
+
+    - mac: 34-D0-B8-70-82-71
+      description: "TV.NU pl7 sk1"
+      enabled: true
+      idgroup: 1028_OFFICE-PLAYIPP
+      id: 5668
+
+    - mac: 34-D0-B8-70-81-54
+      description: "AB Marknad Pentry pl8 sk2"
+      enabled: true
+      idgroup: 1028_OFFICE-PLAYIPP
+      id: 5571
+
+    - mac: 34-D0-B8-70-80-E2
+      description: "Klart.se sk2"
+      enabled: true
+      idgroup: 1028_OFFICE-PLAYIPP
+      id: 5675
+
+    - mac: 34-D0-B8-70-82-02
+      description: "Playipp"
+      enabled: true
+      idgroup: 1028_OFFICE-PLAYIPP
+      id: 5522
+
+    - mac: 34-D0-B8-70-82-40
+      description: "no description"
+      enabled: true
+      idgroup: 1028_OFFICE-PLAYIPP
+      id: 5646
+
+    - mac: 34-D0-B8-70-81-63
+      description: "no description"
+      enabled: true
+      idgroup: 1028_OFFICE-PLAYIPP
+      id: 5654
+
+    - mac: 34-D0-B8-70-81-CF
+      description: "IT Dev pl6 sk1"
+      enabled: true
+      idgroup: 1028_OFFICE-PLAYIPP
+      id: 5559
+
+    - mac: 18-65-71-5E-B2-CF
+      description: "Entrance Floor 8 SE"
+      enabled: true
+      idgroup: 1028_OFFICE-PLAYIPP
+      id: 5542
+
+    - mac: 18-65-71-5D-72-67
+      description: "Entrance Floor 12 NE"
+      enabled: true
+      idgroup: 1028_OFFICE-PLAYIPP
+      id: 5538
+
+    - mac: 34-D0-B8-70-81-24
+      description: "AB Plus pl7 sk1"
+      enabled: true
+      idgroup: 1028_OFFICE-PLAYIPP
+      id: 5586
+
+    - mac: 34-D0-B8-70-81-C5
+      description: "AB KPI-Vagg KPI1"
+      enabled: true
+      idgroup: 1028_OFFICE-PLAYIPP
+      id: 5591
+
+    - mac: 34-D0-B8-70-81-C3
+      description: "no description"
+      enabled: true
+      idgroup: 1028_OFFICE-PLAYIPP
+      id: 5633
+
+    - mac: 34-D0-B8-70-80-F7
+      description: "Skarm 4 "
+      enabled: true
+      idgroup: 1028_OFFICE-PLAYIPP
+      id: 5569
+
+    - mac: 34-D0-B8-70-82-1B
+      description: "SSI BO SK1"
+      enabled: true
+      idgroup: 1028_OFFICE-PLAYIPP
+      id: 5578
+
+    - mac: 6C-21-A2-18-C6-E9
+      description: "Playipp"
+      enabled: true
+      idgroup: 1028_OFFICE-PLAYIPP
+      id: 5519
+
+    - mac: 34-D0-B8-70-81-A8
+      description: "Ab red vagg pl7 sk3"
+      enabled: true
+      idgroup: 1028_OFFICE-PLAYIPP
+      id: 5629
+
+    - mac: 34-D0-B8-70-81-DA
+      description: "IT BI pl6"
+      enabled: true
+      idgroup: 1028_OFFICE-PLAYIPP
+      id: 5562
+
+    - mac: 34-D0-B8-70-82-75
+      description: "no description"
+      enabled: true
+      idgroup: 1028_OFFICE-PLAYIPP
+      id: 5642
+
+    - mac: 34-D0-B8-70-82-4B
+      description: "AB KPI-Vagg KPI2"
+      enabled: true
+      idgroup: 1028_OFFICE-PLAYIPP
+      id: 5592
+
+    - mac: DC-A6-32-2C-B6-6A
+      description: "Playipp"
+      enabled: true
+      idgroup: 1028_OFFICE-PLAYIPP
+      id: 5558
+
+    - mac: 34-D0-B8-70-81-20
+      description: "no description"
+      enabled: true
+      idgroup: 1028_OFFICE-PLAYIPP
+      id: 5637
+
+    - mac: 34-D0-B8-70-81-CB
+      description: "no description"
+      enabled: true
+      idgroup: 1028_OFFICE-PLAYIPP
+      id: 5676
+
+    - mac: 18-65-71-5E-B2-C9
+      description: "Entrance Floor 5 NW"
+      enabled: true
+      idgroup: 1028_OFFICE-PLAYIPP
+      id: 5548
+
+    - mac: 34-D0-B8-70-81-05
+      description: "SvD Red Nyheter pl5 sk2"
+      enabled: true
+      idgroup: 1028_OFFICE-PLAYIPP
+      id: 5573
+
+    - mac: 34-D0-B8-70-82-2C
+      description: "no description"
+      enabled: true
+      idgroup: 1028_OFFICE-PLAYIPP
+      id: 5632
+
+    - mac: 18-65-71-5D-2D-B8
+      description: "Entrance Floor 13 NE"
+      enabled: true
+      idgroup: 1028_OFFICE-PLAYIPP
+      id: 5535
+
+    - mac: 34-D0-B8-70-82-B1
+      description: " Ab Noje pl7 sk4"
+      enabled: true
+      idgroup: 1028_OFFICE-PLAYIPP
+      id: 5659
+
+    - mac: 34-D0-B8-70-80-D7
+      description: "no description"
+      enabled: true
+      idgroup: 1028_OFFICE-PLAYIPP
+      id: 5635
+
+    - mac: 34-D0-B8-70-81-F1
+      description: "no description"
+      enabled: true
+      idgroup: 1028_OFFICE-PLAYIPP
+      id: 5644
+
+    - mac: 18-65-71-5E-B2-FA
+      description: "Entrance Floor 7 NE"
+      enabled: true
+      idgroup: 1028_OFFICE-PLAYIPP
+      id: 5545
+
+    - mac: 18-65-71-5D-2D-8E
+      description: "Entrance Floor 8 NE"
+      enabled: true
+      idgroup: 1028_OFFICE-PLAYIPP
+      id: 5551
+
+    - mac: 18-65-71-5E-B2-77
+      description: "Entrance Floor 7 SE"
+      enabled: true
+      idgroup: 1028_OFFICE-PLAYIPP
+      id: 5546
+
+    - mac: 34-D0-B8-70-82-61
+      description: "IT Dev pl6 sk2"
+      enabled: true
+      idgroup: 1028_OFFICE-PLAYIPP
+      id: 5561
+
+    - mac: 34-D0-B8-70-82-2B
+      description: "SSI Forsaljning sk1"
+      enabled: true
+      idgroup: 1028_OFFICE-PLAYIPP
+      id: 5582
+
+    - mac: 18-65-71-5E-B2-F0
+      description: "Entrance Floor 12 NW"
+      enabled: true
+      idgroup: 1028_OFFICE-PLAYIPP
+      id: 5537
+
+    - mac: 34-D0-B8-70-81-7A
+      description: "Klart.se sk1"
+      enabled: true
+      idgroup: 1028_OFFICE-PLAYIPP
+      id: 5674
+
+    - mac: 34-D0-B8-70-81-70
+      description: "Ab Taket pl7 sk7"
+      enabled: true
+      idgroup: 1028_OFFICE-PLAYIPP
+      id: 5574
+
+    - mac: 34-D0-B8-70-82-51
+      description: "AB KPI-Vagg KPI4"
+      enabled: true
+      idgroup: 1028_OFFICE-PLAYIPP
+      id: 5594
+
+    - mac: 34-D0-B8-70-81-90
+      description: " TV.NU pl7 sk3"
+      enabled: true
+      idgroup: 1028_OFFICE-PLAYIPP
+      id: 5670
+
+    - mac: 34-D0-B8-70-82-1C
+      description: "AB Marknad Pentry pl7 SK1"
+      enabled: true
+      idgroup: 1028_OFFICE-PLAYIPP
+      id: 5580
+
+    - mac: 34-D0-B8-70-82-25
+      description: "TV.NU pl7 sk2"
+      enabled: true
+      idgroup: 1028_OFFICE-PLAYIPP
+      id: 5669
+
+    - mac: 34-D0-B8-70-82-32
+      description: "AB KPI-Vagg KPI3"
+      enabled: true
+      idgroup: 1028_OFFICE-PLAYIPP
+      id: 5655
+
+    - mac: 18-65-71-5D-77-BF
+      description: "Entrance Floor 8 NW"
+      enabled: true
+      idgroup: 1028_OFFICE-PLAYIPP
+      id: 5543
+
+    - mac: 34-D0-B8-70-81-D8
+      description: "no description"
+      enabled: true
+      idgroup: 1028_OFFICE-PLAYIPP
+      id: 5645
+
+    - mac: 34-D0-B8-70-81-79
+      description: "no description"
+      enabled: true
+      idgroup: 1028_OFFICE-PLAYIPP
+      id: 5677
+
+    - mac: 34-D0-B8-70-80-CF
+      description: "Konferensen vid Norge"
+      enabled: true
+      idgroup: 1028_OFFICE-PLAYIPP
+      id: 5667
+
+    - mac: 34-D0-B8-70-81-C2
+      description: "no description"
+      enabled: true
+      idgroup: 1028_OFFICE-PLAYIPP
+      id: 5636
+
+    - mac: 34-D0-B8-70-82-13
+      description: "TV.NU pl7 sk5"
+      enabled: true
+      idgroup: 1028_OFFICE-PLAYIPP
+      id: 5672
+
+    - mac: 34-D0-B8-70-81-13
+      description: "Conference Floor 5 Stairs"
+      enabled: true
+      idgroup: 1028_OFFICE-PLAYIPP
+      id: 5590
+
+    - mac: 34-D0-B8-70-82-0F
+      description: "Ab red vagg pl7 sk1"
+      enabled: true
+      idgroup: 1028_OFFICE-PLAYIPP
+      id: 5624
+
+    - mac: 18-65-71-5D-72-6C
+      description: "Entrance Floor 4 SW"
+      enabled: true
+      idgroup: 1028_OFFICE-PLAYIPP
+      id: 5555
+
+    - mac: 34-D0-B8-70-82-9F
+      description: "no description"
+      enabled: true
+      idgroup: 1028_OFFICE-PLAYIPP
+      id: 5653
+
+    - mac: 18-65-71-5E-B3-18
+      description: "Entrance Floor 5 NE"
+      enabled: true
+      idgroup: 1028_OFFICE-PLAYIPP
+      id: 5549
+
+    - mac: 18-65-71-5E-B2-F5
+      description: "Entrance Floor 11 NE"
+      enabled: true
+      idgroup: 1028_OFFICE-PLAYIPP
+      id: 5540
+
+    - mac: 34-D0-B8-70-80-CD
+      description: "Ab Sport pl7 sk2"
+      enabled: true
+      idgroup: 1028_OFFICE-PLAYIPP
+      id: 5587
+
+    - mac: 34-D0-B8-70-81-F8
+      description: "no description"
+      enabled: true
+      idgroup: 1028_OFFICE-PLAYIPP
+      id: 5647
+
+    - mac: 34-D0-B8-70-80-FE
+      description: "no description"
+      enabled: true
+      idgroup: 1028_OFFICE-PLAYIPP
+      id: 5639
+
+    - mac: 34-D0-B8-70-82-46
+      description: "AB Marknad Pentry pl7 sk2"
+      enabled: true
+      idgroup: 1028_OFFICE-PLAYIPP
+      id: 5568
+
+    - mac: 34-D0-B8-70-80-BE
+      description: "no description"
+      enabled: true
+      idgroup: 1028_OFFICE-PLAYIPP
+      id: 5634
+
+    - mac: 34-D0-B8-70-82-34
+      description: "SSI Forsaljning sk5"
+      enabled: true
+      idgroup: 1028_OFFICE-PLAYIPP
+      id: 5576
+
+    - mac: 6C-21-A2-0E-2C-2B
+      description: "Playipp"
+      enabled: true
+      idgroup: 1028_OFFICE-PLAYIPP
+      id: 5520
+
+    - mac: 34-D0-B8-70-80-EF
+      description: "SSI Produkt sk2"
+      enabled: true
+      idgroup: 1028_OFFICE-PLAYIPP
+      id: 5570
+
+    - mac: 34-D0-B8-70-81-C6
+      description: "Playipp"
+      enabled: true
+      idgroup: 1028_OFFICE-PLAYIPP
+      id: 5523
+
+    - mac: 34-D0-B8-70-82-A7
+      description: "no description"
+      enabled: true
+      idgroup: 1028_OFFICE-PLAYIPP
+      id: 5651
+
+    - mac: 34-D0-B8-70-81-15
+      description: "no description"
+      enabled: true
+      idgroup: 1028_OFFICE-PLAYIPP
+      id: 5673
+
+    - mac: 34-D0-B8-70-81-7E
+      description: "no description"
+      enabled: true
+      idgroup: 1028_OFFICE-PLAYIPP
+      id: 5648
+
+    - mac: 34-D0-B8-70-81-9C
+      description: "SSI Forsaljning sk3"
+      enabled: true
+      idgroup: 1028_OFFICE-PLAYIPP
+      id: 5581
+
+    - mac: 18-65-71-5D-2D-A5
+      description: "Entrance Floor 6 NE"
+      enabled: true
+      idgroup: 1028_OFFICE-PLAYIPP
+      id: 5534
+
+    - mac: 34-D0-B8-70-81-59
+      description: "no description"
+      enabled: true
+      idgroup: 1028_OFFICE-PLAYIPP
+      id: 5641
+
+    - mac: 34-D0-B8-70-82-93
+      description: "Visitor screen"
+      enabled: true
+      idgroup: 1028_OFFICE-PLAYIPP
+      id: 5588
+
+    - mac: 34-D0-B8-70-82-41
+      description: "Skarm 1 "
+      enabled: true
+      idgroup: 1028_OFFICE-PLAYIPP
+      id: 5579
+
+    - mac: 34-D0-B8-70-83-32
+      description: "AB KPI-Vagg KPI3"
+      enabled: true
+      idgroup: 1028_OFFICE-PLAYIPP
+      id: 5593
+
+    - mac: 18-65-71-5E-B2-7F
+      description: "Entrance Floor 11 NW"
+      enabled: true
+      idgroup: 1028_OFFICE-PLAYIPP
+      id: 5539
+
+    - mac: 34-D0-B8-70-81-CE
+      description: "Ab red vagg pl7 sk2"
+      enabled: true
+      idgroup: 1028_OFFICE-PLAYIPP
+      id: 5628
+
+    - mac: 18-65-71-5E-B2-B3
+      description: "Entrance Floor 5 SE"
+      enabled: true
+      idgroup: 1028_OFFICE-PLAYIPP
+      id: 5550
+
+    - mac: 34-D0-B8-70-81-78
+      description: "SSI kok sk2"
+      enabled: true
+      idgroup: 1028_OFFICE-PLAYIPP
+      id: 5572
+
+    - mac: 34-D0-B8-70-81-9E
+      description: "AB KPI-Vagg KPI7"
+      enabled: true
+      idgroup: 1028_OFFICE-PLAYIPP
+      id: 5656
+
+    - mac: 18-65-71-7F-ED-2D
+      description: "new playip box  46"
+      enabled: true
+      idgroup: 1028_OFFICE-PLAYIPP
+      id: 5526
+
+    - mac: 18-65-71-5D-2D-A4
+      description: "Entrance Floor 6 SE"
+      enabled: true
+      idgroup: 1028_OFFICE-PLAYIPP
+      id: 5552
+
+    - mac: 34-D0-B8-70-82-AA
+      description: "Ab Sport pl7 sk4"
+      enabled: true
+      idgroup: 1028_OFFICE-PLAYIPP
+      id: 5583
+
+    - mac: 34-D0-B8-70-80-F0
+      description: "AB Audience engagement/marknad Pentry pl7 sk4"
+      enabled: true
+      idgroup: 1028_OFFICE-PLAYIPP
+      id: 5575
+
+    - mac: 34-D0-B8-70-80-E1
+      description: "no description"
+      enabled: true
+      idgroup: 1028_OFFICE-PLAYIPP
+      id: 5638
+
+    - mac: 34-D0-B8-70-81-EF
+      description: "AB KPI-Vagg KPI5"
+      enabled: true
+      idgroup: 1028_OFFICE-PLAYIPP
+      id: 5595
+
+    - mac: 34-D0-B8-70-81-DE
+      description: "no description"
+      enabled: true
+      idgroup: 1028_OFFICE-PLAYIPP
+      id: 5643
+
+    - mac: 18-65-71-5E-B2-BF
+      description: "Entrance Floor 7 SW"
+      enabled: true
+      idgroup: 1028_OFFICE-PLAYIPP
+      id: 5547
+    
+    - mac: 34-d0-b8-70-81-97
+      description: "AB KPI-Vagg 2 KPI2"
+      enabled: true
+      idgroup: 1028_OFFICE-PLAYIPP
+      id: 666
+    
+    - mac: 34-d0-b8-70-81-5f
+      description: "AB KPI-Vagg 2 KPI3"
+      enabled: true
+      idgroup: 1028_OFFICE-PLAYIPP
+      id: 666
+    - mac: 34-d0-b8-70-81-99
+      description: "AB KPI-Vagg 2 KPI4"
+      enabled: true
+      idgroup: 1028_OFFICE-PLAYIPP
+      id: 666
+    - mac: 34-d0-b8-70-81-5a
+      description: "AB KPI-Vagg 2 KPI5"
+      enabled: true
+      idgroup: 1028_OFFICE-PLAYIPP
+      id: 666
+    - mac: 34-d0-b8-70-81-a3
+      description: "AB KPI-Vagg 2 KPI6"
+      enabled: true
+      idgroup: 1028_OFFICE-PLAYIPP
+      id: 666
+    
+    - mac: aa-bb-de-de-44-55
+      description: "Testing Playbook"
+      enabled: true
+      idgroup: 1028_OFFICE-PLAYIPP
+      id: 666
+      
+    - mac: 34-D0-B8-70-82-57
+      description: "no description"
+      enabled: true
+      idgroup: 1028_OFFICE-PLAYIPP
+      id: 3099
+      
+    - mac: 34-D0-B8-70-82-28
+      description: "PlayIPP Box"
+      enabled: true
+      idgroup: 1028_OFFICE-PLAYIPP
+      id: 3099
+    
+    - mac: 34-D0-B8-70-82-B0
+      description: "playipp box"
+      enabled: true
+      idgroup: 1028_OFFICE-PLAYIPP
+      id: 3099
+      
+      
+    - mac: 34-D0-B8-70-82-1A
+      description: "playipp box"
+      enabled: true
+      idgroup: 1028_OFFICE-PLAYIPP
+      id: 7383
+      
+    - mac: 34-D0-B8-70-81-E4
+      description: "playipp box"
+      enabled: true
+      idgroup: 1028_OFFICE-PLAYIPP
+      id: 7383
+    
+    - mac: 34-D0-B8-70-81-DF
+      description: "playipp box"
+      enabled: true
+      idgroup: 1028_OFFICE-PLAYIPP
+      id: 7383
+      
+    - mac: 34-D0-B8-70-81-1F
+      description: "playipp box"
+      enabled: true
+      idgroup: 1028_OFFICE-PLAYIPP
+      id: 7383
+      
+    - mac: 34-D0-B8-70-82-36
+      description: "playipp box"
+      enabled: true
+      idgroup: 1028_OFFICE-PLAYIPP
+      id: 7383
+    
+    - mac: 34-D0-B8-70-80-F3
+      description: "playipp box"
+      enabled: true
+      idgroup: 1028_OFFICE-PLAYIPP
+      id: 7383
+    
+    - mac: 34-D0-B8-70-80-F8
+      description: "playipp box"
+      enabled: true
+      idgroup: 1028_OFFICE-PLAYIPP
+      id: 7383
+    
+    - mac: 34-D0-B8-70-81-B2
+      description: "playipp box"
+      enabled: true
+      idgroup: 1028_OFFICE-PLAYIPP
+      id: 7383
+    
+    - mac: 34-D0-B8-70-81-4F
+      description: "playipp box"
+      enabled: true
+      idgroup: 1028_OFFICE-PLAYIPP
+      id: 7383
+      
+    - mac: 34-D0-B8-70-82-6A
+      description: "playipp box"
+      enabled: true
+      idgroup: 1028_OFFICE-PLAYIPP
+      id: 7383
+      
+    - mac: 34-D0-B8-70-82-69
+      description: "playipp box"
+      enabled: true
+      idgroup: 1028_OFFICE-PLAYIPP
+      id: 7383
+    
+    - mac: 34-D0-B8-70-82-96
+      description: "playipp box"
+      enabled: true
+      idgroup: 1028_OFFICE-PLAYIPP
+      id: 444
+      
+    - mac: 34-D0-B8-70-81-C4
+      description: "playipp box"
+      enabled: true
+      idgroup: 1028_OFFICE-PLAYIPP
+      id: 7383
+    
+    - mac: 34-D0-B8-70-80-ED
+      description: "AB-noje pl7  sk4"
+      enabled: true
+      idgroup: 1028_OFFICE-PLAYIPP
+      id: 7744
+      
+    - mac: 6c-21-a2-18-be-31
+      description: "MPC Cognition sk1"
+      enabled: true
+      idgroup: 1028_OFFICE-PLAYIPP
+      id: 9775
+      
+    - mac: 34-D0-B8-70-81-1B
+      description: "IT Dev pl6 sk3"
+      enabled: true
+      idgroup: 1028_OFFICE-PLAYIPP
+      id: 5560
+
+    - mac: 34-D0-B8-70-82-73
+      description: "AB KPI-Vagg KPI5"
+      enabled: true
+      idgroup: 1028_OFFICE-PLAYIPP
+      id: 5623
+
+    - mac: 34-D0-B8-70-80-F3
+      description: "playipp box"
+      enabled: true
+      idgroup: 1028_OFFICE-PLAYIPP
+      id: 5810
+
+    - mac: 34-D0-B8-70-81-FF
+      description: "Ab Sport pl7 sk1"
+      enabled: true
+      idgroup: 1028_OFFICE-PLAYIPP
+      id: 5577
+
+    - mac: 34-D0-B8-70-81-03
+      description: "no description"
+      enabled: true
+      idgroup: 1028_OFFICE-PLAYIPP
+      id: 5630
+
+    - mac: 34-D0-B8-70-81-06
+      description: "AB KPI-Vagg KPI6"
+      enabled: true
+      idgroup: 1028_OFFICE-PLAYIPP
+      id: 5596
+
+    - mac: 18-65-71-5E-B3-3E
+      description: "Entrance Floor 6 SW"
+      enabled: true
+      idgroup: 1028_OFFICE-PLAYIPP
+      id: 5553
+
+    - mac: 18-65-71-5D-2D-AE
+      description: "Entrance Floor 13 NW"
+      enabled: true
+      idgroup: 1028_OFFICE-PLAYIPP
+      id: 5536
+
+    - mac: 18-65-71-5E-B3-2A
+      description: "Entrance Floor 5 SW"
+      enabled: true
+      idgroup: 1028_OFFICE-PLAYIPP
+      id: 5554
+
+    - mac: 18-65-71-5E-B2-F2
+      description: "Entrance Floor 8 SW"
+      enabled: true
+      idgroup: 1028_OFFICE-PLAYIPP
+      id: 5541
+
+    - mac: 18-65-71-5E-B2-B5
+      description: "Entrance Floor 7 NW"
+      enabled: true
+      idgroup: 1028_OFFICE-PLAYIPP
+      id: 5544
+
+    - mac: 34-D0-B8-70-81-E4
+      description: "playipp box"
+      enabled: true
+      idgroup: 1028_OFFICE-PLAYIPP
+      id: 5806
+
+    - mac: 34-D0-B8-70-81-60
+      description: "AB CRM PL7 SK2"
+      enabled: true
+      idgroup: 1028_OFFICE-PLAYIPP
+      id: 5694
+
+    - mac: 34-D0-B8-70-80-FF
+      description: "TV.NU pl7 sk4"
+      enabled: true
+      idgroup: 1028_OFFICE-PLAYIPP
+      id: 5671
+
+    - mac: 34-D0-B8-70-82-71
+      description: "TV.NU pl7 sk1"
+      enabled: true
+      idgroup: 1028_OFFICE-PLAYIPP
+      id: 5668
+
+    - mac: 34-D0-B8-70-81-54
+      description: "AB Marknad Pentry pl8 sk2"
+      enabled: true
+      idgroup: 1028_OFFICE-PLAYIPP
+      id: 5571
+
+    - mac: 34-D0-B8-70-80-E2
+      description: "Klart.se sk2"
+      enabled: true
+      idgroup: 1028_OFFICE-PLAYIPP
+      id: 5675
+
+    - mac: 34-D0-B8-70-82-02
+      description: "Playipp"
+      enabled: true
+      idgroup: 1028_OFFICE-PLAYIPP
+      id: 5522
+
+    - mac: 34-D0-B8-70-82-40
+      description: "no description"
+      enabled: true
+      idgroup: 1028_OFFICE-PLAYIPP
+      id: 5646
+
+    - mac: 34-D0-B8-70-81-DF
+      description: "playipp box"
+      enabled: true
+      idgroup: 1028_OFFICE-PLAYIPP
+      id: 5807
+
+    - mac: 34-D0-B8-70-81-63
+      description: "no description"
+      enabled: true
+      idgroup: 1028_OFFICE-PLAYIPP
+      id: 5654
+
+    - mac: 34-D0-B8-70-81-CF
+      description: "IT Dev pl6 sk1"
+      enabled: true
+      idgroup: 1028_OFFICE-PLAYIPP
+      id: 5559
+
+    - mac: 18-65-71-5E-B2-CF
+      description: "Entrance Floor 8 SE"
+      enabled: true
+      idgroup: 1028_OFFICE-PLAYIPP
+      id: 5542
+
+    - mac: 18-65-71-5D-72-67
+      description: "Entrance Floor 12 NE"
+      enabled: true
+      idgroup: 1028_OFFICE-PLAYIPP
+      id: 5538
+
+    - mac: 34-D0-B8-70-82-57
+      description: "no description"
+      enabled: true
+      idgroup: 1028_OFFICE-PLAYIPP
+      id: 5802
+
+    - mac: 34-D0-B8-70-81-24
+      description: "AB Plus pl7 sk1"
+      enabled: true
+      idgroup: 1028_OFFICE-PLAYIPP
+      id: 5586
+
+    - mac: 34-D0-B8-70-80-F8
+      description: "playipp box"
+      enabled: true
+      idgroup: 1028_OFFICE-PLAYIPP
+      id: 5811
+
+    - mac: 34-D0-B8-70-82-36
+      description: "playipp box"
+      enabled: true
+      idgroup: 1028_OFFICE-PLAYIPP
+      id: 5809
+
+    - mac: 34-D0-B8-70-81-C5
+      description: "AB KPI-Vagg KPI1"
+      enabled: true
+      idgroup: 1028_OFFICE-PLAYIPP
+      id: 5591
+
+    - mac: 34-D0-B8-70-81-C3
+      description: "no description"
+      enabled: true
+      idgroup: 1028_OFFICE-PLAYIPP
+      id: 5633
+
+    - mac: 34-D0-B8-70-80-F7
+      description: "Skarm 4 "
+      enabled: true
+      idgroup: 1028_OFFICE-PLAYIPP
+      id: 5569
+
+    - mac: 34-D0-B8-70-82-1B
+      description: "SSI BO SK1"
+      enabled: true
+      idgroup: 1028_OFFICE-PLAYIPP
+      id: 5578
+
+    - mac: 6C-21-A2-18-C6-E9
+      description: "Playipp"
+      enabled: true
+      idgroup: 1028_OFFICE-PLAYIPP
+      id: 5519
+
+    - mac: 34-D0-B8-70-81-A8
+      description: "Ab red vagg pl7 sk3"
+      enabled: true
+      idgroup: 1028_OFFICE-PLAYIPP
+      id: 5629
+
+    - mac: 34-D0-B8-70-81-DA
+      description: "IT BI pl6"
+      enabled: true
+      idgroup: 1028_OFFICE-PLAYIPP
+      id: 5562
+
+    - mac: 34-D0-B8-70-82-75
+      description: "no description"
+      enabled: true
+      idgroup: 1028_OFFICE-PLAYIPP
+      id: 5642
+
+    - mac: 34-D0-B8-70-82-4B
+      description: "AB KPI-Vagg KPI2"
+      enabled: true
+      idgroup: 1028_OFFICE-PLAYIPP
+      id: 5592
+
+    - mac: DC-A6-32-2C-B6-6A
+      description: "Playipp"
+      enabled: true
+      idgroup: 1028_OFFICE-PLAYIPP
+      id: 5558
+
+    - mac: 34-D0-B8-70-81-20
+      description: "no description"
+      enabled: true
+      idgroup: 1028_OFFICE-PLAYIPP
+      id: 5637
+
+    - mac: 34-D0-B8-70-81-CB
+      description: "no description"
+      enabled: true
+      idgroup: 1028_OFFICE-PLAYIPP
+      id: 5676
+
+    - mac: 18-65-71-5E-B2-C9
+      description: "Entrance Floor 5 NW"
+      enabled: true
+      idgroup: 1028_OFFICE-PLAYIPP
+      id: 5548
+
+    - mac: AA-BB-CC-CC-CC-00
+      description: "MPC Cognition sk1"
+      enabled: true
+      idgroup: 1028_OFFICE-PLAYIPP
+      id: 5854
+
+    - mac: 34-D0-B8-70-81-05
+      description: "SvD Red Nyheter pl5 sk2"
+      enabled: true
+      idgroup: 1028_OFFICE-PLAYIPP
+      id: 5573
+
+    - mac: 34-D0-B8-70-82-2C
+      description: "no description"
+      enabled: true
+      idgroup: 1028_OFFICE-PLAYIPP
+      id: 5632
+
+    - mac: 18-65-71-5D-2D-B8
+      description: "Entrance Floor 13 NE"
+      enabled: true
+      idgroup: 1028_OFFICE-PLAYIPP
+      id: 5535
+
+    - mac: 34-D0-B8-70-82-B1
+      description: " Ab Noje pl7 sk4"
+      enabled: true
+      idgroup: 1028_OFFICE-PLAYIPP
+      id: 5659
+
+    - mac: 34-D0-B8-70-81-4F
+      description: "playipp box"
+      enabled: true
+      idgroup: 1028_OFFICE-PLAYIPP
+      id: 5813
+
+    - mac: 34-D0-B8-70-82-96
+      description: "playipp box"
+      enabled: true
+      idgroup: 1028_OFFICE-PLAYIPP
+      id: 5816
+
+    - mac: 34-D0-B8-70-80-D7
+      description: "no description"
+      enabled: true
+      idgroup: 1028_OFFICE-PLAYIPP
+      id: 5635
+
+    - mac: 34-D0-B8-70-81-F1
+      description: "no description"
+      enabled: true
+      idgroup: 1028_OFFICE-PLAYIPP
+      id: 5644
+
+    - mac: 18-65-71-5E-B2-FA
+      description: "Entrance Floor 7 NE"
+      enabled: true
+      idgroup: 1028_OFFICE-PLAYIPP
+      id: 5545
+
+    - mac: 18-65-71-5D-2D-8E
+      description: "Entrance Floor 8 NE"
+      enabled: true
+      idgroup: 1028_OFFICE-PLAYIPP
+      id: 5551
+
+    - mac: 18-65-71-5E-B2-77
+      description: "Entrance Floor 7 SE"
+      enabled: true
+      idgroup: 1028_OFFICE-PLAYIPP
+      id: 5546
+
+    - mac: 34-D0-B8-70-82-61
+      description: "IT Dev pl6 sk2"
+      enabled: true
+      idgroup: 1028_OFFICE-PLAYIPP
+      id: 5561
+
+    - mac: 34-D0-B8-70-82-2B
+      description: "SSI Forsaljning sk1"
+      enabled: true
+      idgroup: 1028_OFFICE-PLAYIPP
+      id: 5582
+
+    - mac: 18-65-71-5E-B2-F0
+      description: "Entrance Floor 12 NW"
+      enabled: true
+      idgroup: 1028_OFFICE-PLAYIPP
+      id: 5537
+
+    - mac: 34-D0-B8-70-81-7A
+      description: "Klart.se sk1"
+      enabled: true
+      idgroup: 1028_OFFICE-PLAYIPP
+      id: 5674
+
+    - mac: 34-D0-B8-70-81-70
+      description: "Ab Taket pl7 sk7"
+      enabled: true
+      idgroup: 1028_OFFICE-PLAYIPP
+      id: 5574
+
+    - mac: 34-D0-B8-70-82-51
+      description: "AB KPI-Vagg KPI4"
+      enabled: true
+      idgroup: 1028_OFFICE-PLAYIPP
+      id: 5594
+
+    - mac: 34-D0-B8-70-81-90
+      description: " TV.NU pl7 sk3"
+      enabled: true
+      idgroup: 1028_OFFICE-PLAYIPP
+      id: 5670
+
+    - mac: 34-D0-B8-70-82-1C
+      description: "AB Marknad Pentry pl7 SK1"
+      enabled: true
+      idgroup: 1028_OFFICE-PLAYIPP
+      id: 5580
+
+    - mac: 34-D0-B8-70-82-25
+      description: "TV.NU pl7 sk2"
+      enabled: true
+      idgroup: 1028_OFFICE-PLAYIPP
+      id: 5669
+
+    - mac: 34-D0-B8-70-82-32
+      description: "AB KPI-Vagg KPI3"
+      enabled: true
+      idgroup: 1028_OFFICE-PLAYIPP
+      id: 5655
+
+    - mac: 18-65-71-5D-77-BF
+      description: "Entrance Floor 8 NW"
+      enabled: true
+      idgroup: 1028_OFFICE-PLAYIPP
+      id: 5543
+
+    - mac: 34-D0-B8-70-81-D8
+      description: "no description"
+      enabled: true
+      idgroup: 1028_OFFICE-PLAYIPP
+      id: 5645
+
+    - mac: 34-D0-B8-70-82-A0
+      description: "PlayIPP 2019-12-04"
+      enabled: true
+      idgroup: 1028_OFFICE-PLAYIPP
+      id: 5818
+
+    - mac: 34-D0-B8-70-81-79
+      description: "no description"
+      enabled: true
+      idgroup: 1028_OFFICE-PLAYIPP
+      id: 5677
+
+    - mac: 34-D0-B8-70-80-CF
+      description: "Konferensen vid Norge"
+      enabled: true
+      idgroup: 1028_OFFICE-PLAYIPP
+      id: 5667
+
+    - mac: 34-D0-B8-70-81-C2
+      description: "no description"
+      enabled: true
+      idgroup: 1028_OFFICE-PLAYIPP
+      id: 5636
+
+    - mac: 34-D0-B8-70-81-1F
+      description: "playipp box"
+      enabled: true
+      idgroup: 1028_OFFICE-PLAYIPP
+      id: 5808
+
+    - mac: 34-D0-B8-70-81-A3
+      description: "AB KPI-Vagg 2 KPI6"
+      enabled: true
+      idgroup: 1028_OFFICE-PLAYIPP
+      id: 5792
+
+    - mac: 34-D0-B8-70-82-13
+      description: "TV.NU pl7 sk5"
+      enabled: true
+      idgroup: 1028_OFFICE-PLAYIPP
+      id: 5672
+
+    - mac: 34-D0-B8-70-81-13
+      description: "Conference Floor 5 Stairs"
+      enabled: true
+      idgroup: 1028_OFFICE-PLAYIPP
+      id: 5590
+
+    - mac: 34-D0-B8-70-82-0F
+      description: "Ab red vagg pl7 sk1"
+      enabled: true
+      idgroup: 1028_OFFICE-PLAYIPP
+      id: 5624
+
+    - mac: 34-D0-B8-70-81-97
+      description: "AB KPI-Vagg 2 KPI2"
+      enabled: true
+      idgroup: 1028_OFFICE-PLAYIPP
+      id: 5788
+
+    - mac: 18-65-71-5D-72-6C
+      description: "Entrance Floor 4 SW"
+      enabled: true
+      idgroup: 1028_OFFICE-PLAYIPP
+      id: 5555
+
+    - mac: 34-D0-B8-70-82-9F
+      description: "no description"
+      enabled: true
+      idgroup: 1028_OFFICE-PLAYIPP
+      id: 5653
+
+    - mac: 18-65-71-5E-B3-18
+      description: "Entrance Floor 5 NE"
+      enabled: true
+      idgroup: 1028_OFFICE-PLAYIPP
+      id: 5549
+
+    - mac: 18-65-71-5E-B2-F5
+      description: "Entrance Floor 11 NE"
+      enabled: true
+      idgroup: 1028_OFFICE-PLAYIPP
+      id: 5540
+
+    - mac: 34-D0-B8-70-80-CD
+      description: "Ab Sport pl7 sk2"
+      enabled: true
+      idgroup: 1028_OFFICE-PLAYIPP
+      id: 5587
+
+    - mac: 34-D0-B8-70-81-F8
+      description: "no description"
+      enabled: true
+      idgroup: 1028_OFFICE-PLAYIPP
+      id: 5647
+
+    - mac: 34-D0-B8-70-81-B2
+      description: "playipp box"
+      enabled: true
+      idgroup: 1028_OFFICE-PLAYIPP
+      id: 5812
+
+    - mac: 34-D0-B8-70-82-1A
+      description: "playipp box"
+      enabled: true
+      idgroup: 1028_OFFICE-PLAYIPP
+      id: 5805
+
+    - mac: 34-D0-B8-70-80-FE
+      description: "no description"
+      enabled: true
+      idgroup: 1028_OFFICE-PLAYIPP
+      id: 5639
+
+    - mac: 34-D0-B8-70-81-99
+      description: "AB KPI-Vagg 2 KPI4"
+      enabled: true
+      idgroup: 1028_OFFICE-PLAYIPP
+      id: 5790
+
+    - mac: 34-D0-B8-70-82-46
+      description: "AB Marknad Pentry pl7 sk2"
+      enabled: true
+      idgroup: 1028_OFFICE-PLAYIPP
+      id: 5568
+
+    - mac: 34-D0-B8-70-80-BE
+      description: "no description"
+      enabled: true
+      idgroup: 1028_OFFICE-PLAYIPP
+      id: 5634
+
+    - mac: 34-D0-B8-70-82-34
+      description: "SSI Forsaljning sk5"
+      enabled: true
+      idgroup: 1028_OFFICE-PLAYIPP
+      id: 5576
+
+    - mac: 6C-21-A2-0E-2C-2B
+      description: "Playipp"
+      enabled: true
+      idgroup: 1028_OFFICE-PLAYIPP
+      id: 5520
+
+    - mac: 34-D0-B8-70-80-EF
+      description: "SSI Produkt sk2"
+      enabled: true
+      idgroup: 1028_OFFICE-PLAYIPP
+      id: 5570
+
+    - mac: 34-D0-B8-70-81-C6
+      description: "Playipp"
+      enabled: true
+      idgroup: 1028_OFFICE-PLAYIPP
+      id: 5523
+
+    - mac: 34-D0-B8-70-80-ED
+      description: "AB-noje pl7  sk4"
+      enabled: true
+      idgroup: 1028_OFFICE-PLAYIPP
+      id: 5824
+
+    - mac: 34-D0-B8-70-82-A7
+      description: "no description"
+      enabled: true
+      idgroup: 1028_OFFICE-PLAYIPP
+      id: 5651
+
+    - mac: 34-D0-B8-70-81-15
+      description: "no description"
+      enabled: true
+      idgroup: 1028_OFFICE-PLAYIPP
+      id: 5673
+
+    - mac: 34-D0-B8-70-81-7E
+      description: "no description"
+      enabled: true
+      idgroup: 1028_OFFICE-PLAYIPP
+      id: 5648
+
+    - mac: 34-D0-B8-70-81-5F
+      description: "AB KPI-Vagg 2 KPI3"
+      enabled: true
+      idgroup: 1028_OFFICE-PLAYIPP
+      id: 5789
+
+    - mac: 34-D0-B8-70-81-9C
+      description: "SSI Forsaljning sk3"
+      enabled: true
+      idgroup: 1028_OFFICE-PLAYIPP
+      id: 5581
+
+    - mac: 18-65-71-5D-2D-A5
+      description: "Entrance Floor 6 NE"
+      enabled: true
+      idgroup: 1028_OFFICE-PLAYIPP
+      id: 5534
+
+    - mac: 34-D0-B8-70-82-6A
+      description: "playipp box"
+      enabled: true
+      idgroup: 1028_OFFICE-PLAYIPP
+      id: 5814
+
+    - mac: 34-D0-B8-70-82-69
+      description: "playipp box"
+      enabled: true
+      idgroup: 1028_OFFICE-PLAYIPP
+      id: 5815
+
+    - mac: 34-D0-B8-70-81-59
+      description: "no description"
+      enabled: true
+      idgroup: 1028_OFFICE-PLAYIPP
+      id: 5641
+
+    - mac: 34-D0-B8-70-82-93
+      description: "Visitor screen"
+      enabled: true
+      idgroup: 1028_OFFICE-PLAYIPP
+      id: 5588
+
+    - mac: 34-D0-B8-70-82-41
+      description: "Skarm 1 "
+      enabled: true
+      idgroup: 1028_OFFICE-PLAYIPP
+      id: 5579
+
+    - mac: 34-D0-B8-70-83-32
+      description: "AB KPI-Vagg KPI3"
+      enabled: true
+      idgroup: 1028_OFFICE-PLAYIPP
+      id: 5593
+
+    - mac: 18-65-71-5E-B2-7F
+      description: "Entrance Floor 11 NW"
+      enabled: true
+      idgroup: 1028_OFFICE-PLAYIPP
+      id: 5539
+
+    - mac: 34-D0-B8-70-82-B0
+      description: "Servicedesk intern"
+      enabled: true
+      idgroup: 1028_OFFICE-PLAYIPP
+      id: 5846
+
+    - mac: 34-D0-B8-70-81-CE
+      description: "Ab red vagg pl7 sk2"
+      enabled: true
+      idgroup: 1028_OFFICE-PLAYIPP
+      id: 5628
+
+    - mac: 18-65-71-5E-B2-B3
+      description: "Entrance Floor 5 SE"
+      enabled: true
+      idgroup: 1028_OFFICE-PLAYIPP
+      id: 5550
+
+    - mac: 6C-21-A2-18-BE-31
+      description: "Playipp"
+      enabled: true
+      idgroup: 1028_OFFICE-PLAYIPP
+      id: 5851
+
+    - mac: 34-D0-B8-70-81-5A
+      description: "AB KPI-Vagg 2 KPI5"
+      enabled: true
+      idgroup: 1028_OFFICE-PLAYIPP
+      id: 5791
+
+    - mac: 34-D0-B8-70-81-78
+      description: "SSI kok sk2"
+      enabled: true
+      idgroup: 1028_OFFICE-PLAYIPP
+      id: 5572
+
+    - mac: 34-D0-B8-70-81-9E
+      description: "AB KPI-Vagg KPI7"
+      enabled: true
+      idgroup: 1028_OFFICE-PLAYIPP
+      id: 5656
+
+    - mac: 34-D0-B8-70-81-C4
+      description: "playipp box"
+      enabled: true
+      idgroup: 1028_OFFICE-PLAYIPP
+      id: 5817
+
+    - mac: 18-65-71-7F-ED-2D
+      description: "new playip box  46"
+      enabled: true
+      idgroup: 1028_OFFICE-PLAYIPP
+      id: 5526
+
+    - mac: 18-65-71-5D-2D-A4
+      description: "Entrance Floor 6 SE"
+      enabled: true
+      idgroup: 1028_OFFICE-PLAYIPP
+      id: 5552
+
+    - mac: 34-D0-B8-70-82-AA
+      description: "Ab Sport pl7 sk4"
+      enabled: true
+      idgroup: 1028_OFFICE-PLAYIPP
+      id: 5583
+
+    - mac: 34-D0-B8-70-82-28
+      description: "PlayIPP Box"
+      enabled: true
+      idgroup: 1028_OFFICE-PLAYIPP
+      id: 5803
+
+    - mac: 34-D0-B8-70-80-F0
+      description: "AB Audience engagement/marknad Pentry pl7 sk4"
+      enabled: true
+      idgroup: 1028_OFFICE-PLAYIPP
+      id: 5575
+
+    - mac: 34-D0-B8-70-80-E1
+      description: "no description"
+      enabled: true
+      idgroup: 1028_OFFICE-PLAYIPP
+      id: 5638
+
+    - mac: 34-D0-B8-70-81-EF
+      description: "AB KPI-Vagg KPI5"
+      enabled: true
+      idgroup: 1028_OFFICE-PLAYIPP
+      id: 5595
+
+    - mac: 34-D0-B8-70-81-DE
+      description: "no description"
+      enabled: true
+      idgroup: 1028_OFFICE-PLAYIPP
+      id: 5643
+
+    - mac: 18-65-71-5E-B2-BF
+      description: "Entrance Floor 7 SW"
+      enabled: true
+      idgroup: 1028_OFFICE-PLAYIPP
+      id: 5547
+
+    - mac: 34-d0-b8-70-99-52
+      description: "AB KPI-vagg KPI4"
+      enabled: true
+      idgroup: 1028_OFFICE-PLAYIPP
+      id: 4156
+    - mac: aa-aa-66-66-66-66
+      description: "FAKE"
+      enabled: true
+      idgroup: 1028_OFFICE-PLAYIPP
+      id: 2648
+

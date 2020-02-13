@@ -1,0 +1,92 @@
+---	
+# tasks file for /etc/ansible/roles/acs_MAB
+
+- name: INCLUDE variables
+  include_vars: 
+         dir: "{{ role_path }}/vars/"
+         
+- name: IMPORT task for creating ALLMACS variable
+  template: src=acs_all_macs_var.j2 dest="{{ role_path }}/files/ALLMACS.yml"
+  tags:
+         - xml
+- name: INCLUDE variable ALLMACS
+  include_vars: 
+         file: files/ALLMACS.yml
+- fail: msg="NO NEW MACS ( id 0 ) TO BE ADDED"
+  when: item.mac is not defined
+  with_items:
+         - "{{ ALLMACS }}"
+
+- name: Create XML files for newly added MACs ( id 0 )  
+  template: src=acs_create_macs_xml.j2 dest="{{ role_path }}/files/{{item.mac}}.xml"
+  with_items:
+         - "{{ ALLMACS }}"
+  when:  item.id == 0 
+  tags:
+         - xml
+  
+- name: GET COOKIE
+  uri:
+     validate_certs: False
+     url: https://10.11.27.21/Rest/Common/AcsVersion/
+     method: GET
+     user: "{{ API_CREDENTIALS.api_username }}"
+     password: "{{ API_CREDENTIALS.api_password }}"
+     force_basic_auth: yes
+     return_content: yes
+     status_code: 200
+  register: login
+  tags:
+        - cookie
+
+
+- name: DEBUG
+  debug:
+         msg: "{{ login.set_cookie }}"
+         
+- name: POST 
+  uri:
+     validate_certs: False
+     url: https://10.11.27.21/Rest/Identity/Host
+     method: POST
+     headers:
+        Content-type: "application/xml"
+        Cookie: "{{ login.set_cookie }}"
+        
+     body_format: raw
+     src: "{{ role_path }}/files/{{item.mac}}.xml"
+     status_code: 200
+     return_content: yes
+  with_items:
+         - "{{ ALLMACS }}"
+  when:  item.id == 0 and item.enabled == True
+  register: out
+
+- name: DELETE tmp files
+  file:
+      path: "{{ role_path }}/files/{{item.mac}}.xml"
+      state: absent
+  with_items:
+         - "{{ ALLMACS }}"
+  when:  item.id == 0 
+
+- name: UPDATE ISE FILEs
+  copy:
+        src: "{{ role_path }}/vars/{{ item.name }}.yml"
+        dest: /etc/ansible/playbooks/host_vars/c524pa-1-ise.schibsted.se/
+  with_items: 
+             - "{{ IDGROUPS }}"
+
+- name: RANDOM ID
+  set_fact:
+        r: "{{ 10000 | random }}"
+
+- debug: msg="RANDOM ID is {{ r }}"
+
+- name: REPLACE id 0
+  replace:
+     path: "{{ role_path }}/vars/{{ item.name }}.yml"
+     regexp: '^(.*)id: 0$'
+     replace: '      id: {{ r }}'
+  with_items:
+            - "{{ IDGROUPS }}"

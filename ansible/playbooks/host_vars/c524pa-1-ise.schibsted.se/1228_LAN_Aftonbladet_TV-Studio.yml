@@ -1,0 +1,1839 @@
+1228_LAN_Aftonbladet_TV-Studio:
+
+    - mac: 00-80-45-30-1E-88
+      description: "Studio 1 - kamera2"
+      enabled: true
+      idgroup: 1228_LAN_Aftonbladet_TV-Studio
+      id: 2812
+
+    - mac: 92-A1-DA-DB-AA-00
+      description: "Skaarhoj Quickbar /SRQ257104"
+      enabled: true
+      idgroup: 1228_LAN_Aftonbladet_TV-Studio
+      id: 5521
+
+    - mac: 00-0B-72-05-7D-00
+      description: "SRQ138521"
+      enabled: true
+      idgroup: 1228_LAN_Aftonbladet_TV-Studio
+      id: 5345
+
+    - mac: 00-21-5F-02-02-A1
+      description: "SRQ63638, 2016-09-12//ML"
+      enabled: true
+      idgroup: 1228_LAN_Aftonbladet_TV-Studio
+      id: 5148
+
+    - mac: 28-CF-E9-07-CB-1D
+      description: "Mac2 studio2 ReqID 143729 20130822"
+      enabled: true
+      idgroup: 1228_LAN_Aftonbladet_TV-Studio
+      id: 2387
+
+    - mac: 00-0F-9B-02-68-1E
+      description: "no description"
+      enabled: true
+      idgroup: 1228_LAN_Aftonbladet_TV-Studio
+      id: 5404
+
+    - mac: 00-11-32-33-32-7B
+      description: "NAS Nic1"
+      enabled: true
+      idgroup: 1228_LAN_Aftonbladet_TV-Studio
+      id: 2718
+
+    - mac: 00-13-16-01-30-86
+      description: "LBP 17"
+      enabled: true
+      idgroup: 1228_LAN_Aftonbladet_TV-Studio
+      id: 2843
+
+    - mac: 00-21-01-0C-1C-9B
+      description: "AEQ SIP Terminator for ABTV"
+      enabled: true
+      idgroup: 1228_LAN_Aftonbladet_TV-Studio
+      id: 5598
+
+    - mac: 00-0E-C6-AC-76-67
+      description: "SRQ190360 3D printer 20180917"
+      enabled: true
+      idgroup: 1228_LAN_Aftonbladet_TV-Studio
+      id: 5418
+
+    - mac: A8-60-B6-24-71-1F
+      description: "Mac Mini - Mikael Werneholm"
+      enabled: true
+      idgroup: 1228_LAN_Aftonbladet_TV-Studio
+      id: 5261
+
+    - mac: 7C-2E-0D-04-CF-74
+      description: "SRQ39949 - BildMixer // 2016-01-28, JF"
+      enabled: true
+      idgroup: 1228_LAN_Aftonbladet_TV-Studio
+      id: 2976
+
+    - mac: 00-3E-E1-C5-8B-D7
+      description: "AB-tv vasse SRQ187336"
+      enabled: true
+      idgroup: 1228_LAN_Aftonbladet_TV-Studio
+      id: 5401
+
+    - mac: 7C-2E-0D-02-74-EA
+      description: "Bildmixer"
+      enabled: true
+      idgroup: 1228_LAN_Aftonbladet_TV-Studio
+      id: 5188
+
+    - mac: 00-0B-72-04-73-89
+      description: "no description"
+      enabled: true
+      idgroup: 1228_LAN_Aftonbladet_TV-Studio
+      id: 5251
+
+    - mac: 40-20-10-04-FF-FF
+      description: "Logo inserter Vasse 2015-07-07 //JF"
+      enabled: true
+      idgroup: 1228_LAN_Aftonbladet_TV-Studio
+      id: 2859
+
+    - mac: 00-13-16-01-36-6E
+      description: "TV routerpanel. P:B Christoffer Madison"
+      enabled: true
+      idgroup: 1228_LAN_Aftonbladet_TV-Studio
+      id: 3374
+
+    - mac: 00-04-5F-8D-79-FF
+      description: "Viprinet VoIP LAN2"
+      enabled: true
+      idgroup: 1228_LAN_Aftonbladet_TV-Studio
+      id: 5215
+
+    - mac: 00-0C-17-36-02-0D
+      description: "AJA FS1-X 2 (BACKUP)"
+      enabled: true
+      idgroup: 1228_LAN_Aftonbladet_TV-Studio
+      id: 2849
+
+    - mac: 68-5B-35-9F-EA-72
+      description: "Vasse 14-03-11"
+      enabled: true
+      idgroup: 1228_LAN_Aftonbladet_TV-Studio
+      id: 2654
+
+    - mac: 88-51-FB-5C-19-A6
+      description: "HEGO-HPAF2 ReqID 143729 20130822"
+      enabled: true
+      idgroup: 1228_LAN_Aftonbladet_TV-Studio
+      id: 2385
+
+    - mac: 92-A1-DA-17-7E-84
+      description: "kaarhoj Quickbar  AB/SRQ254490"
+      enabled: true
+      idgroup: 1228_LAN_Aftonbladet_TV-Studio
+      id: 5515
+
+    - mac: 4C-0B-BE-0B-5E-34
+      description: "VSM-SOFT-LJUD"
+      enabled: true
+      idgroup: 1228_LAN_Aftonbladet_TV-Studio
+      id: 2845
+
+    - mac: 00-11-32-33-32-7C
+      description: "NAS Nic2"
+      enabled: true
+      idgroup: 1228_LAN_Aftonbladet_TV-Studio
+      id: 2719
+
+    - mac: 40-6C-8F-B8-25-ED
+      description: "Case 127671 // 2013-03-21, Magnus"
+      enabled: true
+      idgroup: 1228_LAN_Aftonbladet_TV-Studio
+      id: 2302
+
+    - mac: 00-0B-72-05-BB-EB
+      description: "Vasse 2015-07-07 //JF ersatter 00-0B-72-04-72-35"
+      enabled: true
+      idgroup: 1228_LAN_Aftonbladet_TV-Studio
+      id: 2856
+
+    - mac: 00-0B-72-05-B5-21
+      description: "Vasse 2015-07-06 //JF"
+      enabled: true
+      idgroup: 1228_LAN_Aftonbladet_TV-Studio
+      id: 2853
+
+    - mac: 00-04-B3-F0-37-21
+      description: "AB-tv vasse"
+      enabled: true
+      idgroup: 1228_LAN_Aftonbladet_TV-Studio
+      id: 5342
+
+    - mac: 98-10-E8-F0-29-D0
+      description: "SRQ140761 //ML"
+      enabled: true
+      idgroup: 1228_LAN_Aftonbladet_TV-Studio
+      id: 5349
+
+    - mac: 00-80-45-30-1E-7A
+      description: "Studio 1 - kamera4"
+      enabled: true
+      idgroup: 1228_LAN_Aftonbladet_TV-Studio
+      id: 2814
+
+    - mac: 00-13-16-01-30-87
+      description: "LBP 17"
+      enabled: true
+      idgroup: 1228_LAN_Aftonbladet_TV-Studio
+      id: 2842
+
+    - mac: 00-0B-CD-45-FF-77
+      description: "Videorouter-windows"
+      enabled: true
+      idgroup: 1228_LAN_Aftonbladet_TV-Studio
+      id: 2383
+
+    - mac: 68-5B-35-99-B8-35
+      description: "Vasse 14-03-11"
+      enabled: true
+      idgroup: 1228_LAN_Aftonbladet_TV-Studio
+      id: 2652
+
+    - mac: E4-8D-8C-59-71-8E
+      description: "Mikrotik Almedalen"
+      enabled: true
+      idgroup: 1228_LAN_Aftonbladet_TV-Studio
+      id: 5300
+
+    - mac: 00-80-45-30-16-D1
+      description: "Studio 2 - kamera5"
+      enabled: true
+      idgroup: 1228_LAN_Aftonbladet_TV-Studio
+      id: 2820
+
+    - mac: 00-80-45-30-16-F8
+      description: "Studio 2 - kamera2"
+      enabled: true
+      idgroup: 1228_LAN_Aftonbladet_TV-Studio
+      id: 2817
+
+    - mac: 78-51-0C-00-9F-EC
+      description: "AB-tv vasse Liveview"
+      enabled: true
+      idgroup: 1228_LAN_Aftonbladet_TV-Studio
+      id: 5392
+
+    - mac: 00-0B-97-76-48-CB
+      description: "Tak-kamera studio 2 // case 146312 // 2013-09-10 LM"
+      enabled: true
+      idgroup: 1228_LAN_Aftonbladet_TV-Studio
+      id: 2409
+
+    - mac: 00-05-1B-A1-52-FD
+      description: "p.b. Vasse 2015-06-16"
+      enabled: true
+      idgroup: 1228_LAN_Aftonbladet_TV-Studio
+      id: 2833
+
+    - mac: 00-13-16-01-34-48
+      description: "TV routerpanel. P:B Christoffer Madison"
+      enabled: true
+      idgroup: 1228_LAN_Aftonbladet_TV-Studio
+      id: 3372
+
+    - mac: 00-08-E1-00-A7-B1
+      description: "Viprinet VoIP Receiver"
+      enabled: true
+      idgroup: 1228_LAN_Aftonbladet_TV-Studio
+      id: 5238
+
+    - mac: 3C-07-54-7E-C5-DC
+      description: "Recorder studio2 ReqID 143729 20130822"
+      enabled: true
+      idgroup: 1228_LAN_Aftonbladet_TV-Studio
+      id: 2392
+
+    - mac: 40-6C-8F-BC-8C-9F
+      description: "Case 127671 // 2013-03-21, Magnus"
+      enabled: true
+      idgroup: 1228_LAN_Aftonbladet_TV-Studio
+      id: 2304
+
+    - mac: EC-B1-D7-7F-18-C4
+      description: "VSM-SERVER-BACKUP"
+      enabled: true
+      idgroup: 1228_LAN_Aftonbladet_TV-Studio
+      id: 2847
+
+    - mac: F8-CA-B8-26-58-EA
+      description: "PC - laptop tv studio 56877 //2016-06-09, Mats"
+      enabled: true
+      idgroup: 1228_LAN_Aftonbladet_TV-Studio
+      id: 5123
+
+    - mac: 00-50-C2-13-54-AF
+      description: "no description"
+      enabled: true
+      idgroup: 1228_LAN_Aftonbladet_TV-Studio
+      id: 5494
+
+    - mac: EC-B5-FA-1E-32-53
+      description: "Philips Hue light bulb"
+      enabled: true
+      idgroup: 1228_LAN_Aftonbladet_TV-Studio
+      id: 5524
+
+    - mac: 00-0B-72-05-79-78
+      description: "V_Pro8_1 SRQ26393"
+      enabled: true
+      idgroup: 1228_LAN_Aftonbladet_TV-Studio
+      id: 2851
+
+    - mac: 00-25-90-C5-F5-88
+      description: "Elemental, Eth0 p.b. Vasse 2015-10-02"
+      enabled: true
+      idgroup: 1228_LAN_Aftonbladet_TV-Studio
+      id: 2835
+
+    - mac: 00-05-1B-A1-71-8A
+      description: "tmp - p.b. Vasse 2015-06-16"
+      enabled: true
+      idgroup: 1228_LAN_Aftonbladet_TV-Studio
+      id: 2834
+
+    - mac: 00-10-B1-07-C0-12
+      description: "SRQ00378 - BildMixer STUDIO 1 // 2014-03-24, Magnus"
+      enabled: true
+      idgroup: 1228_LAN_Aftonbladet_TV-Studio
+      id: 2673
+
+    - mac: 00-3E-E1-CC-4F-BD
+      description: "SRQ136932"
+      enabled: true
+      idgroup: 1228_LAN_Aftonbladet_TV-Studio
+      id: 5344
+
+    - mac: 00-80-45-30-36-A5
+      description: "Studio 3 - kamerakontroll"
+      enabled: true
+      idgroup: 1228_LAN_Aftonbladet_TV-Studio
+      id: 2821
+
+    - mac: 00-90-F9-34-70-10
+      description: "Vass consultant 20180205"
+      enabled: true
+      idgroup: 1228_LAN_Aftonbladet_TV-Studio
+      id: 5362
+
+    - mac: 00-10-B1-04-C1-9C
+      description: "no description"
+      enabled: true
+      idgroup: 1228_LAN_Aftonbladet_TV-Studio
+      id: 2322
+
+    - mac: 00-80-45-30-3B-29
+      description: "Studio 2 - kamerakontroll"
+      enabled: true
+      idgroup: 1228_LAN_Aftonbladet_TV-Studio
+      id: 2815
+
+    - mac: 00-50-C2-09-F3-64
+      description: "Quartz SRQ26393"
+      enabled: true
+      idgroup: 1228_LAN_Aftonbladet_TV-Studio
+      id: 2850
+
+    - mac: 28-CF-E9-07-CE-ED
+      description: "Mac4 studio2 ReqID 143729 20130822"
+      enabled: true
+      idgroup: 1228_LAN_Aftonbladet_TV-Studio
+      id: 2389
+
+    - mac: 00-0E-98-00-5D-BF
+      description: "intercom frame plan 2"
+      enabled: true
+      idgroup: 1228_LAN_Aftonbladet_TV-Studio
+      id: 2382
+
+    - mac: 68-5B-35-94-AB-6D
+      description: "3Skype"
+      enabled: true
+      idgroup: 1228_LAN_Aftonbladet_TV-Studio
+      id: 5150
+
+    - mac: 7C-2E-0D-02-7A-3D
+      description: "Smart2 - Case: 168391 // 2014-03-19"
+      enabled: true
+      idgroup: 1228_LAN_Aftonbladet_TV-Studio
+      id: 2663
+
+    - mac: 7C-2E-0D-02-7B-17
+      description: "Master - Case: 168391 // 2014-03-19"
+      enabled: true
+      idgroup: 1228_LAN_Aftonbladet_TV-Studio
+      id: 2661
+
+    - mac: 00-01-29-F7-56-D0
+      description: "TV-studion, gammal PC (deko)"
+      enabled: true
+      idgroup: 1228_LAN_Aftonbladet_TV-Studio
+      id: 1657
+
+    - mac: 00-0B-72-01-3E-18
+      description: "Vasse 2015-07-08 //JF"
+      enabled: true
+      idgroup: 1228_LAN_Aftonbladet_TV-Studio
+      id: 2860
+
+    - mac: 28-CF-E9-07-CE-67
+      description: "Mac5 studio2 ReqID 143729 20130822"
+      enabled: true
+      idgroup: 1228_LAN_Aftonbladet_TV-Studio
+      id: 2390
+
+    - mac: 00-0B-72-01-3E-13
+      description: "no description"
+      enabled: true
+      idgroup: 1228_LAN_Aftonbladet_TV-Studio
+      id: 2837
+
+    - mac: 00-3E-E1-C5-8B-CF
+      description: "p.b. Vasse 2015-05-26"
+      enabled: true
+      idgroup: 1228_LAN_Aftonbladet_TV-Studio
+      id: 2826
+
+    - mac: 7C-2E-0D-09-1E-9F
+      description: "7c-2e-0d-09-1e-9f"
+      enabled: true
+      idgroup: 1228_LAN_Aftonbladet_TV-Studio
+      id: 5283
+
+    - mac: 00-13-16-01-36-71
+      description: "TV routerpanel. P:B Christoffer Madison"
+      enabled: true
+      idgroup: 1228_LAN_Aftonbladet_TV-Studio
+      id: 3376
+
+    - mac: AC-1F-6B-B1-7F-98
+      description: "SRQ214928"
+      enabled: true
+      idgroup: 1228_LAN_Aftonbladet_TV-Studio
+      id: 5450
+
+    - mac: 00-04-A3-A7-CF-2A
+      description: "Viprinet live video test"
+      enabled: true
+      idgroup: 1228_LAN_Aftonbladet_TV-Studio
+      id: 5229
+
+    - mac: 9C-E1-D6-00-19-17
+      description: "SRQ124165"
+      enabled: true
+      idgroup: 1228_LAN_Aftonbladet_TV-Studio
+      id: 5333
+
+    - mac: 00-80-45-30-0F-E7
+      description: "Studio 3 - kamera3"
+      enabled: true
+      idgroup: 1228_LAN_Aftonbladet_TV-Studio
+      id: 2824
+
+    - mac: 98-5A-EB-C7-38-61
+      description: "Testmaskin. Kan raderas! /Tilly 20151105"
+      enabled: true
+      idgroup: 1228_LAN_Aftonbladet_TV-Studio
+      id: 2909
+
+    - mac: 98-10-E8-F1-75-30
+      description: "Vasse SRQ112913 2017-08-08"
+      enabled: true
+      idgroup: 1228_LAN_Aftonbladet_TV-Studio
+      id: 5316
+
+    - mac: 00-03-1D-0C-D3-E3
+      description: "Aftonbladet Intenord sender"
+      enabled: true
+      idgroup: 1228_LAN_Aftonbladet_TV-Studio
+      id: 5301
+
+    - mac: 7C-2E-0D-09-1A-4A
+      description: "7c-2e-0d-09-1a-4a"
+      enabled: true
+      idgroup: 1228_LAN_Aftonbladet_TV-Studio
+      id: 5284
+
+    - mac: 00-0B-72-04-73-8D
+      description: "no description"
+      enabled: true
+      idgroup: 1228_LAN_Aftonbladet_TV-Studio
+      id: 5252
+
+    - mac: 00-80-45-30-11-15
+      description: "Studio 3 - kamera4"
+      enabled: true
+      idgroup: 1228_LAN_Aftonbladet_TV-Studio
+      id: 2825
+
+    - mac: 00-0E-98-02-99-A6
+      description: "Aftonbladet Clearcom LQ"
+      enabled: true
+      idgroup: 1228_LAN_Aftonbladet_TV-Studio
+      id: 5269
+
+    - mac: EC-B1-D7-7F-BD-94
+      description: "VSM-SERVER-MAIN"
+      enabled: true
+      idgroup: 1228_LAN_Aftonbladet_TV-Studio
+      id: 2846
+
+    - mac: 7C-2E-0D-05-C3-D0
+      description: "SmartScope Duo Vasse 2015-07-07 //JF"
+      enabled: true
+      idgroup: 1228_LAN_Aftonbladet_TV-Studio
+      id: 2855
+
+    - mac: 00-10-B1-07-C0-65
+      description: "SRQ00378 - BildMixer STUDIO 2 // 2014-03-24, Magnus"
+      enabled: true
+      idgroup: 1228_LAN_Aftonbladet_TV-Studio
+      id: 2674
+
+    - mac: 34-17-EB-ED-A3-75
+      description: "Dell R230"
+      enabled: true
+      idgroup: 1228_LAN_Aftonbladet_TV-Studio
+      id: 4100
+
+    - mac: 40-6C-8F-BC-8C-F5
+      description: "Case 127671 // 2013-03-21, Magnus"
+      enabled: true
+      idgroup: 1228_LAN_Aftonbladet_TV-Studio
+      id: 2303
+
+    - mac: 00-21-01-1A-22-FA
+      description: "AEQ SIP Terminator for ABTV"
+      enabled: true
+      idgroup: 1228_LAN_Aftonbladet_TV-Studio
+      id: 5599
+
+    - mac: 00-0B-72-05-8D-CE
+      description: "Vasse 2016-09-09"
+      enabled: true
+      idgroup: 1228_LAN_Aftonbladet_TV-Studio
+      id: 5147
+
+    - mac: 00-80-45-30-1E-7B
+      description: "Studio 1 - kamera1"
+      enabled: true
+      idgroup: 1228_LAN_Aftonbladet_TV-Studio
+      id: 2811
+
+    - mac: 00-0B-97-76-6C-08
+      description: "Kamera TV studio"
+      enabled: true
+      idgroup: 1228_LAN_Aftonbladet_TV-Studio
+      id: 5197
+
+    - mac: 28-CF-E9-07-CE-E9
+      description: "Mac1 studio2 ReqID 143729 20130822"
+      enabled: true
+      idgroup: 1228_LAN_Aftonbladet_TV-Studio
+      id: 2386
+
+    - mac: 00-13-16-01-2F-15
+      description: "Smart Hub"
+      enabled: true
+      idgroup: 1228_LAN_Aftonbladet_TV-Studio
+      id: 2841
+
+    - mac: 00-13-16-01-48-AF
+      description: "VSM-Panel"
+      enabled: true
+      idgroup: 1228_LAN_Aftonbladet_TV-Studio
+      id: 5600
+
+    - mac: 00-0C-17-10-1C-89
+      description: "Video converter"
+      enabled: true
+      idgroup: 1228_LAN_Aftonbladet_TV-Studio
+      id: 5170
+
+    - mac: 00-0B-72-05-BB-EE
+      description: "SRQ60816, ljudmixer // 2016-08-23"
+      enabled: true
+      idgroup: 1228_LAN_Aftonbladet_TV-Studio
+      id: 5140
+
+    - mac: 4C-0B-BE-0B-5E-3E
+      description: "VSM-SOFT-TOM"
+      enabled: true
+      idgroup: 1228_LAN_Aftonbladet_TV-Studio
+      id: 2844
+
+    - mac: 00-0F-9B-03-05-44
+      description: "AJA Frame 2"
+      enabled: true
+      idgroup: 1228_LAN_Aftonbladet_TV-Studio
+      id: 5307
+
+    - mac: 00-1D-C1-17-C6-86
+      description: "AEQ SIP Terminator for ABTV"
+      enabled: true
+      idgroup: 1228_LAN_Aftonbladet_TV-Studio
+      id: 5597
+
+    - mac: 00-0C-17-36-02-10
+      description: "AJA FS1-X 1 (MAIN)"
+      enabled: true
+      idgroup: 1228_LAN_Aftonbladet_TV-Studio
+      id: 2848
+
+    - mac: 0C-C4-7A-AC-3B-9C
+      description: "Megellan Controller 2, Port 1"
+      enabled: true
+      idgroup: 1228_LAN_Aftonbladet_TV-Studio
+      id: 5245
+
+    - mac: 00-0B-72-01-3F-03
+      description: "Vasse 2016-06-09//LM"
+      enabled: true
+      idgroup: 1228_LAN_Aftonbladet_TV-Studio
+      id: 5121
+
+    - mac: 28-CF-E9-07-E5-CD
+      description: "Mac3 studio2 ReqID 143729 20130822"
+      enabled: true
+      idgroup: 1228_LAN_Aftonbladet_TV-Studio
+      id: 2388
+
+    - mac: A8-60-B6-0E-E6-BE
+      description: "SRQ64543  // 2016-09-15, Mats"
+      enabled: true
+      idgroup: 1228_LAN_Aftonbladet_TV-Studio
+      id: 5151
+
+    - mac: 0C-C4-7A-AC-3B-9A
+      description: "Megellan Controller  1, Port 1"
+      enabled: true
+      idgroup: 1228_LAN_Aftonbladet_TV-Studio
+      id: 5244
+
+    - mac: 00-25-90-C0-32-2F
+      description: "Space RAID"
+      enabled: true
+      idgroup: 1228_LAN_Aftonbladet_TV-Studio
+      id: 2393
+
+    - mac: 8C-C1-21-EF-C2-BC
+      description: "Studio 1 - kamerakontroll"
+      enabled: true
+      idgroup: 1228_LAN_Aftonbladet_TV-Studio
+      id: 2810
+
+    - mac: C4-2C-03-29-96-26
+      description: "Case 127671 // 2013-03-21, Magnus"
+      enabled: true
+      idgroup: 1228_LAN_Aftonbladet_TV-Studio
+      id: 2305
+
+    - mac: 00-13-16-01-34-47
+      description: "TV routerpanel. P:B Christoffer Madison"
+      enabled: true
+      idgroup: 1228_LAN_Aftonbladet_TV-Studio
+      id: 3371
+
+    - mac: 7C-2E-0D-01-6C-25
+      description: "Black Magic Panel studio plan 7"
+      enabled: true
+      idgroup: 1228_LAN_Aftonbladet_TV-Studio
+      id: 2348
+
+    - mac: 00-0B-72-05-B6-30
+      description: "Vasse 2015-07-06 //JF"
+      enabled: true
+      idgroup: 1228_LAN_Aftonbladet_TV-Studio
+      id: 2854
+
+    - mac: 00-50-C2-80-63-0F
+      description: "telos vx test"
+      enabled: true
+      idgroup: 1228_LAN_Aftonbladet_TV-Studio
+      id: 5493
+
+    - mac: 88-51-FB-5A-65-2B
+      description: "HEGO-HPAF1 ReqID 143729 20130822"
+      enabled: true
+      idgroup: 1228_LAN_Aftonbladet_TV-Studio
+      id: 2384
+
+    - mac: 00-80-45-30-16-CF
+      description: "Studio 1 - kamera3"
+      enabled: true
+      idgroup: 1228_LAN_Aftonbladet_TV-Studio
+      id: 2813
+
+    - mac: 68-5B-35-9F-DE-78
+      description: "Vasse 14-03-11"
+      enabled: true
+      idgroup: 1228_LAN_Aftonbladet_TV-Studio
+      id: 2653
+
+    - mac: 68-5B-35-9F-E0-58
+      description: "Vasse 14-03-11"
+      enabled: true
+      idgroup: 1228_LAN_Aftonbladet_TV-Studio
+      id: 2656
+
+    - mac: 00-80-45-30-1E-99
+      description: "Studio 2 - kamera3"
+      enabled: true
+      idgroup: 1228_LAN_Aftonbladet_TV-Studio
+      id: 2818
+
+    - mac: 00-90-F9-34-70-59
+      description: "SRQ149674 Imagine Multiviewer"
+      enabled: true
+      idgroup: 1228_LAN_Aftonbladet_TV-Studio
+      id: 5361
+
+    - mac: 7C-2E-0D-01-D4-7A
+      description: "Case 150326"
+      enabled: true
+      idgroup: 1228_LAN_Aftonbladet_TV-Studio
+      id: 2429
+
+    - mac: 40-6C-8F-BC-7F-23
+      description: "Playout studio2 ReqID 143729 20130822"
+      enabled: true
+      idgroup: 1228_LAN_Aftonbladet_TV-Studio
+      id: 2391
+
+    - mac: 00-80-45-30-16-CE
+      description: "Studio 2 - kamera4"
+      enabled: true
+      idgroup: 1228_LAN_Aftonbladet_TV-Studio
+      id: 2819
+
+    - mac: 00-08-E1-05-14-17
+      description: "Viprinet VoIP Sender"
+      enabled: true
+      idgroup: 1228_LAN_Aftonbladet_TV-Studio
+      id: 5239
+
+    - mac: 00-04-B3-F0-37-1A
+      description: "AB-tv vasse"
+      enabled: true
+      idgroup: 1228_LAN_Aftonbladet_TV-Studio
+      id: 5341
+
+    - mac: 00-30-18-09-34-28
+      description: "Vasse SRQ184855 20180821 //JF"
+      enabled: true
+      idgroup: 1228_LAN_Aftonbladet_TV-Studio
+      id: 5396
+
+    - mac: 00-0B-72-05-7D-4C
+      description: "Vasse"
+      enabled: true
+      idgroup: 1228_LAN_Aftonbladet_TV-Studio
+      id: 5256
+
+    - mac: 00-3E-E1-CD-B8-67
+      description: "no description"
+      enabled: true
+      idgroup: 1228_LAN_Aftonbladet_TV-Studio
+      id: 5411
+
+    - mac: 00-21-01-A8-01-0A
+      description: "Systel  IP AB"
+      enabled: true
+      idgroup: 1228_LAN_Aftonbladet_TV-Studio
+      id: 5602
+
+    - mac: 7C-2E-0D-02-4A-18
+      description: "Router  - Case: 168391 // 2014-03-19"
+      enabled: true
+      idgroup: 1228_LAN_Aftonbladet_TV-Studio
+      id: 2664
+
+    - mac: 00-13-16-01-36-6F
+      description: "TV routerpanel. P:B Christoffer Madison"
+      enabled: true
+      idgroup: 1228_LAN_Aftonbladet_TV-Studio
+      id: 3375
+
+    - mac: 70-CD-60-F3-EB-AE
+      description: "SRQ00364 // 2014-03-24, Magnus"
+      enabled: true
+      idgroup: 1228_LAN_Aftonbladet_TV-Studio
+      id: 2672
+
+    - mac: 7C-2E-0D-01-89-34
+      description: "Black Magic Router studio plan 7"
+      enabled: true
+      idgroup: 1228_LAN_Aftonbladet_TV-Studio
+      id: 2347
+
+    - mac: 00-80-45-30-0F-EC
+      description: "Studio 3 - kamera1"
+      enabled: true
+      idgroup: 1228_LAN_Aftonbladet_TV-Studio
+      id: 2822
+
+    - mac: 00-0B-72-05-79-79
+      description: "V_Pro8_2 SRQ26393"
+      enabled: true
+      idgroup: 1228_LAN_Aftonbladet_TV-Studio
+      id: 2852
+
+    - mac: 00-25-90-EB-04-99
+      description: "Elemental Eth1 p.b. Vasse 2015-06-16"
+      enabled: true
+      idgroup: 1228_LAN_Aftonbladet_TV-Studio
+      id: 2836
+
+    - mac: 00-04-B3-F0-2E-7F
+      description: "SRQ144043 //2018-01-11, Mats"
+      enabled: true
+      idgroup: 1228_LAN_Aftonbladet_TV-Studio
+      id: 5351
+
+    - mac: 38-C9-86-43-2D-A3
+      description: "no description"
+      enabled: true
+      idgroup: 1228_LAN_Aftonbladet_TV-Studio
+      id: 5250
+
+    - mac: 00-80-45-30-16-ED
+      description: "Studio 2 - kamera1"
+      enabled: true
+      idgroup: 1228_LAN_Aftonbladet_TV-Studio
+      id: 2816
+
+    - mac: 00-13-16-01-36-69
+      description: "TV routerpanel. P:B Christoffer Madison"
+      enabled: true
+      idgroup: 1228_LAN_Aftonbladet_TV-Studio
+      id: 3373
+
+    - mac: 00-80-45-30-11-46
+      description: "Studio 3 - kamera2"
+      enabled: true
+      idgroup: 1228_LAN_Aftonbladet_TV-Studio
+      id: 2823
+
+    - mac: 00-3E-E1-CF-75-28
+      description: "AB-tv vasse"
+      enabled: true
+      idgroup: 1228_LAN_Aftonbladet_TV-Studio
+      id: 5446
+
+    - mac: 00-10-B1-04-C2-06
+      description: "Bildmixer AB"
+      enabled: true
+      idgroup: 1228_LAN_Aftonbladet_TV-Studio
+      id: 2742
+
+    - mac: 20-D5-BF-05-76-2F
+      description: "Tivo - SRQ34723 // LM 151119"
+      enabled: true
+      idgroup: 1228_LAN_Aftonbladet_TV-Studio
+      id: 2921
+
+    - mac: 00-0F-9B-03-05-89
+      description: "AJA Frame 1"
+      enabled: true
+      idgroup: 1228_LAN_Aftonbladet_TV-Studio
+      id: 5306
+
+    - mac: 7C-2E-0D-08-0D-70
+      description: "SRQ77487  20161216 JF"
+      enabled: true
+      idgroup: 1228_LAN_Aftonbladet_TV-Studio
+      id: 5199
+
+    - mac: 00-21-5F-02-08-91
+      description: "kvm 16 portar SRQ65531 20160926 JF"
+      enabled: true
+      idgroup: 1228_LAN_Aftonbladet_TV-Studio
+      id: 5158
+
+    - mac: 00-24-9B-17-9A-A9
+      description: "no description"
+      enabled: true
+      idgroup: 1228_LAN_Aftonbladet_TV-Studio
+      id: 5175
+
+    - mac: 7C-2E-0D-02-7A-4F
+      description: "Smart1 - Case: 168391 // 2014-03-19"
+      enabled: true
+      idgroup: 1228_LAN_Aftonbladet_TV-Studio
+      id: 2662
+
+    - mac: 00-0B-72-05-94-AE
+      description: "Ravenna A - Plan2  // 2016-06-09, Mats"
+      enabled: true
+      idgroup: 1228_LAN_Aftonbladet_TV-Studio
+      id: 5122
+
+    - mac: 00-01-29-54-AB-56
+      description: "AB-tv vasse"
+      enabled: true
+      idgroup: 1228_LAN_Aftonbladet_TV-Studio
+      id: 5505
+    
+    - mac: 00-80-45-30-2C-98 
+      description: "Kamera AB SRQ270023"
+      enabled: true
+      idgroup: 1228_LAN_Aftonbladet_TV-Studio
+      id: 101010
+    
+    - mac: 00-21-5F-02-19-01
+      description: "KVM Matrix plan 7"
+      enabled: true
+      idgroup: 1228_LAN_Aftonbladet_TV-Studio
+      id: 8646
+
+
+
+    - mac: 00-80-45-30-1E-88
+      description: "Studio 1 - kamera2"
+      enabled: true
+      idgroup: 1228_LAN_Aftonbladet_TV-Studio
+      id: 2812
+
+    - mac: 92-A1-DA-DB-AA-00
+      description: "Skaarhoj Quickbar /SRQ257104"
+      enabled: true
+      idgroup: 1228_LAN_Aftonbladet_TV-Studio
+      id: 5521
+
+    - mac: 00-0B-72-05-7D-00
+      description: "SRQ138521"
+      enabled: true
+      idgroup: 1228_LAN_Aftonbladet_TV-Studio
+      id: 5345
+
+    - mac: 00-21-5F-02-02-A1
+      description: "SRQ63638, 2016-09-12//ML"
+      enabled: true
+      idgroup: 1228_LAN_Aftonbladet_TV-Studio
+      id: 5148
+
+    - mac: 28-CF-E9-07-CB-1D
+      description: "Mac2 studio2 ReqID 143729 20130822"
+      enabled: true
+      idgroup: 1228_LAN_Aftonbladet_TV-Studio
+      id: 2387
+
+    - mac: 00-0F-9B-02-68-1E
+      description: "no description"
+      enabled: true
+      idgroup: 1228_LAN_Aftonbladet_TV-Studio
+      id: 5404
+
+    - mac: 00-11-32-33-32-7B
+      description: "NAS Nic1"
+      enabled: true
+      idgroup: 1228_LAN_Aftonbladet_TV-Studio
+      id: 2718
+
+    - mac: 00-13-16-01-30-86
+      description: "LBP 17"
+      enabled: true
+      idgroup: 1228_LAN_Aftonbladet_TV-Studio
+      id: 2843
+
+    - mac: 00-21-01-0C-1C-9B
+      description: "AEQ SIP Terminator for ABTV"
+      enabled: true
+      idgroup: 1228_LAN_Aftonbladet_TV-Studio
+      id: 5598
+
+    - mac: 00-0E-C6-AC-76-67
+      description: "SRQ190360 3D printer 20180917"
+      enabled: true
+      idgroup: 1228_LAN_Aftonbladet_TV-Studio
+      id: 5418
+
+    - mac: A8-60-B6-24-71-1F
+      description: "Mac Mini - Mikael Werneholm"
+      enabled: true
+      idgroup: 1228_LAN_Aftonbladet_TV-Studio
+      id: 5261
+
+    - mac: 7C-2E-0D-04-CF-74
+      description: "SRQ39949 - BildMixer // 2016-01-28, JF"
+      enabled: true
+      idgroup: 1228_LAN_Aftonbladet_TV-Studio
+      id: 2976
+
+    - mac: 00-3E-E1-C5-8B-D7
+      description: "AB-tv vasse SRQ187336"
+      enabled: true
+      idgroup: 1228_LAN_Aftonbladet_TV-Studio
+      id: 5401
+
+    - mac: 7C-2E-0D-02-74-EA
+      description: "Bildmixer"
+      enabled: true
+      idgroup: 1228_LAN_Aftonbladet_TV-Studio
+      id: 5188
+
+    - mac: 00-0B-72-04-73-89
+      description: "no description"
+      enabled: true
+      idgroup: 1228_LAN_Aftonbladet_TV-Studio
+      id: 5251
+
+    - mac: 40-20-10-04-FF-FF
+      description: "Logo inserter Vasse 2015-07-07 //JF"
+      enabled: true
+      idgroup: 1228_LAN_Aftonbladet_TV-Studio
+      id: 2859
+
+    - mac: 00-13-16-01-36-6E
+      description: "TV routerpanel. P:B Christoffer Madison"
+      enabled: true
+      idgroup: 1228_LAN_Aftonbladet_TV-Studio
+      id: 3374
+
+    - mac: 00-04-5F-8D-79-FF
+      description: "Viprinet VoIP LAN2"
+      enabled: true
+      idgroup: 1228_LAN_Aftonbladet_TV-Studio
+      id: 5215
+
+    - mac: 00-0C-17-36-02-0D
+      description: "AJA FS1-X 2 (BACKUP)"
+      enabled: true
+      idgroup: 1228_LAN_Aftonbladet_TV-Studio
+      id: 2849
+
+    - mac: 68-5B-35-9F-EA-72
+      description: "Vasse 14-03-11"
+      enabled: true
+      idgroup: 1228_LAN_Aftonbladet_TV-Studio
+      id: 2654
+
+    - mac: 88-51-FB-5C-19-A6
+      description: "HEGO-HPAF2 ReqID 143729 20130822"
+      enabled: true
+      idgroup: 1228_LAN_Aftonbladet_TV-Studio
+      id: 2385
+
+    - mac: 92-A1-DA-17-7E-84
+      description: "kaarhoj Quickbar  AB/SRQ254490"
+      enabled: true
+      idgroup: 1228_LAN_Aftonbladet_TV-Studio
+      id: 5515
+
+    - mac: 4C-0B-BE-0B-5E-34
+      description: "VSM-SOFT-LJUD"
+      enabled: true
+      idgroup: 1228_LAN_Aftonbladet_TV-Studio
+      id: 2845
+
+    - mac: 00-11-32-33-32-7C
+      description: "NAS Nic2"
+      enabled: true
+      idgroup: 1228_LAN_Aftonbladet_TV-Studio
+      id: 2719
+
+    - mac: 40-6C-8F-B8-25-ED
+      description: "Case 127671 // 2013-03-21, Magnus"
+      enabled: true
+      idgroup: 1228_LAN_Aftonbladet_TV-Studio
+      id: 2302
+
+    - mac: 00-0B-72-05-BB-EB
+      description: "Vasse 2015-07-07 //JF ersatter 00-0B-72-04-72-35"
+      enabled: true
+      idgroup: 1228_LAN_Aftonbladet_TV-Studio
+      id: 2856
+
+    - mac: 00-0B-72-05-B5-21
+      description: "Vasse 2015-07-06 //JF"
+      enabled: true
+      idgroup: 1228_LAN_Aftonbladet_TV-Studio
+      id: 2853
+
+    - mac: 00-04-B3-F0-37-21
+      description: "AB-tv vasse"
+      enabled: true
+      idgroup: 1228_LAN_Aftonbladet_TV-Studio
+      id: 5342
+
+    - mac: 98-10-E8-F0-29-D0
+      description: "SRQ140761 //ML"
+      enabled: true
+      idgroup: 1228_LAN_Aftonbladet_TV-Studio
+      id: 5349
+
+    - mac: 00-80-45-30-1E-7A
+      description: "Studio 1 - kamera4"
+      enabled: true
+      idgroup: 1228_LAN_Aftonbladet_TV-Studio
+      id: 2814
+
+    - mac: 00-13-16-01-30-87
+      description: "LBP 17"
+      enabled: true
+      idgroup: 1228_LAN_Aftonbladet_TV-Studio
+      id: 2842
+
+    - mac: 00-0B-CD-45-FF-77
+      description: "Videorouter-windows"
+      enabled: true
+      idgroup: 1228_LAN_Aftonbladet_TV-Studio
+      id: 2383
+
+    - mac: 68-5B-35-99-B8-35
+      description: "Vasse 14-03-11"
+      enabled: true
+      idgroup: 1228_LAN_Aftonbladet_TV-Studio
+      id: 2652
+
+    - mac: E4-8D-8C-59-71-8E
+      description: "Mikrotik Almedalen"
+      enabled: true
+      idgroup: 1228_LAN_Aftonbladet_TV-Studio
+      id: 5300
+
+    - mac: 00-80-45-30-16-D1
+      description: "Studio 2 - kamera5"
+      enabled: true
+      idgroup: 1228_LAN_Aftonbladet_TV-Studio
+      id: 2820
+
+    - mac: 00-80-45-30-16-F8
+      description: "Studio 2 - kamera2"
+      enabled: true
+      idgroup: 1228_LAN_Aftonbladet_TV-Studio
+      id: 2817
+
+    - mac: 78-51-0C-00-9F-EC
+      description: "AB-tv vasse Liveview"
+      enabled: true
+      idgroup: 1228_LAN_Aftonbladet_TV-Studio
+      id: 5392
+
+    - mac: 00-0B-97-76-48-CB
+      description: "Tak-kamera studio 2 // case 146312 // 2013-09-10 LM"
+      enabled: true
+      idgroup: 1228_LAN_Aftonbladet_TV-Studio
+      id: 2409
+
+    - mac: 00-05-1B-A1-52-FD
+      description: "p.b. Vasse 2015-06-16"
+      enabled: true
+      idgroup: 1228_LAN_Aftonbladet_TV-Studio
+      id: 2833
+
+    - mac: 00-13-16-01-34-48
+      description: "TV routerpanel. P:B Christoffer Madison"
+      enabled: true
+      idgroup: 1228_LAN_Aftonbladet_TV-Studio
+      id: 3372
+
+    - mac: 00-08-E1-00-A7-B1
+      description: "Viprinet VoIP Receiver"
+      enabled: true
+      idgroup: 1228_LAN_Aftonbladet_TV-Studio
+      id: 5238
+
+    - mac: 3C-07-54-7E-C5-DC
+      description: "Recorder studio2 ReqID 143729 20130822"
+      enabled: true
+      idgroup: 1228_LAN_Aftonbladet_TV-Studio
+      id: 2392
+
+    - mac: 40-6C-8F-BC-8C-9F
+      description: "Case 127671 // 2013-03-21, Magnus"
+      enabled: true
+      idgroup: 1228_LAN_Aftonbladet_TV-Studio
+      id: 2304
+
+    - mac: EC-B1-D7-7F-18-C4
+      description: "VSM-SERVER-BACKUP"
+      enabled: true
+      idgroup: 1228_LAN_Aftonbladet_TV-Studio
+      id: 2847
+
+    - mac: F8-CA-B8-26-58-EA
+      description: "PC - laptop tv studio 56877 //2016-06-09, Mats"
+      enabled: true
+      idgroup: 1228_LAN_Aftonbladet_TV-Studio
+      id: 5123
+
+    - mac: 00-50-C2-13-54-AF
+      description: "no description"
+      enabled: true
+      idgroup: 1228_LAN_Aftonbladet_TV-Studio
+      id: 5494
+
+    - mac: EC-B5-FA-1E-32-53
+      description: "Philips Hue light bulb"
+      enabled: true
+      idgroup: 1228_LAN_Aftonbladet_TV-Studio
+      id: 5524
+
+    - mac: 00-0B-72-05-79-78
+      description: "V_Pro8_1 SRQ26393"
+      enabled: true
+      idgroup: 1228_LAN_Aftonbladet_TV-Studio
+      id: 2851
+
+    - mac: 00-25-90-C5-F5-88
+      description: "Elemental, Eth0 p.b. Vasse 2015-10-02"
+      enabled: true
+      idgroup: 1228_LAN_Aftonbladet_TV-Studio
+      id: 2835
+
+    - mac: 00-05-1B-A1-71-8A
+      description: "tmp - p.b. Vasse 2015-06-16"
+      enabled: true
+      idgroup: 1228_LAN_Aftonbladet_TV-Studio
+      id: 2834
+
+    - mac: 00-10-B1-07-C0-12
+      description: "SRQ00378 - BildMixer STUDIO 1 // 2014-03-24, Magnus"
+      enabled: true
+      idgroup: 1228_LAN_Aftonbladet_TV-Studio
+      id: 2673
+
+    - mac: 00-3E-E1-CC-4F-BD
+      description: "SRQ136932"
+      enabled: true
+      idgroup: 1228_LAN_Aftonbladet_TV-Studio
+      id: 5344
+
+    - mac: 00-80-45-30-36-A5
+      description: "Studio 3 - kamerakontroll"
+      enabled: true
+      idgroup: 1228_LAN_Aftonbladet_TV-Studio
+      id: 2821
+
+    - mac: 00-90-F9-34-70-10
+      description: "Vass consultant 20180205"
+      enabled: true
+      idgroup: 1228_LAN_Aftonbladet_TV-Studio
+      id: 5362
+
+    - mac: 00-10-B1-04-C1-9C
+      description: "no description"
+      enabled: true
+      idgroup: 1228_LAN_Aftonbladet_TV-Studio
+      id: 2322
+
+    - mac: 00-80-45-30-3B-29
+      description: "Studio 2 - kamerakontroll"
+      enabled: true
+      idgroup: 1228_LAN_Aftonbladet_TV-Studio
+      id: 2815
+
+    - mac: 00-50-C2-09-F3-64
+      description: "Quartz SRQ26393"
+      enabled: true
+      idgroup: 1228_LAN_Aftonbladet_TV-Studio
+      id: 2850
+
+    - mac: 28-CF-E9-07-CE-ED
+      description: "Mac4 studio2 ReqID 143729 20130822"
+      enabled: true
+      idgroup: 1228_LAN_Aftonbladet_TV-Studio
+      id: 2389
+
+    - mac: 00-0E-98-00-5D-BF
+      description: "intercom frame plan 2"
+      enabled: true
+      idgroup: 1228_LAN_Aftonbladet_TV-Studio
+      id: 2382
+
+    - mac: 68-5B-35-94-AB-6D
+      description: "3Skype"
+      enabled: true
+      idgroup: 1228_LAN_Aftonbladet_TV-Studio
+      id: 5150
+
+    - mac: 7C-2E-0D-02-7A-3D
+      description: "Smart2 - Case: 168391 // 2014-03-19"
+      enabled: true
+      idgroup: 1228_LAN_Aftonbladet_TV-Studio
+      id: 2663
+
+    - mac: 7C-2E-0D-02-7B-17
+      description: "Master - Case: 168391 // 2014-03-19"
+      enabled: true
+      idgroup: 1228_LAN_Aftonbladet_TV-Studio
+      id: 2661
+
+    - mac: 00-01-29-F7-56-D0
+      description: "TV-studion, gammal PC (deko)"
+      enabled: true
+      idgroup: 1228_LAN_Aftonbladet_TV-Studio
+      id: 1657
+
+    - mac: 00-0B-72-01-3E-18
+      description: "Vasse 2015-07-08 //JF"
+      enabled: true
+      idgroup: 1228_LAN_Aftonbladet_TV-Studio
+      id: 2860
+
+    - mac: 28-CF-E9-07-CE-67
+      description: "Mac5 studio2 ReqID 143729 20130822"
+      enabled: true
+      idgroup: 1228_LAN_Aftonbladet_TV-Studio
+      id: 2390
+
+    - mac: 00-0B-72-01-3E-13
+      description: "no description"
+      enabled: true
+      idgroup: 1228_LAN_Aftonbladet_TV-Studio
+      id: 2837
+
+    - mac: 00-3E-E1-C5-8B-CF
+      description: "p.b. Vasse 2015-05-26"
+      enabled: true
+      idgroup: 1228_LAN_Aftonbladet_TV-Studio
+      id: 2826
+
+    - mac: 7C-2E-0D-09-1E-9F
+      description: "7c-2e-0d-09-1e-9f"
+      enabled: true
+      idgroup: 1228_LAN_Aftonbladet_TV-Studio
+      id: 5283
+
+    - mac: 00-13-16-01-36-71
+      description: "TV routerpanel. P:B Christoffer Madison"
+      enabled: true
+      idgroup: 1228_LAN_Aftonbladet_TV-Studio
+      id: 3376
+
+    - mac: AC-1F-6B-B1-7F-98
+      description: "SRQ214928"
+      enabled: true
+      idgroup: 1228_LAN_Aftonbladet_TV-Studio
+      id: 5450
+
+    - mac: 00-04-A3-A7-CF-2A
+      description: "Viprinet live video test"
+      enabled: true
+      idgroup: 1228_LAN_Aftonbladet_TV-Studio
+      id: 5229
+
+    - mac: 9C-E1-D6-00-19-17
+      description: "SRQ124165"
+      enabled: true
+      idgroup: 1228_LAN_Aftonbladet_TV-Studio
+      id: 5333
+
+    - mac: 00-80-45-30-0F-E7
+      description: "Studio 3 - kamera3"
+      enabled: true
+      idgroup: 1228_LAN_Aftonbladet_TV-Studio
+      id: 2824
+
+    - mac: 98-5A-EB-C7-38-61
+      description: "Testmaskin. Kan raderas! /Tilly 20151105"
+      enabled: true
+      idgroup: 1228_LAN_Aftonbladet_TV-Studio
+      id: 2909
+
+    - mac: 98-10-E8-F1-75-30
+      description: "Vasse SRQ112913 2017-08-08"
+      enabled: true
+      idgroup: 1228_LAN_Aftonbladet_TV-Studio
+      id: 5316
+
+    - mac: 00-03-1D-0C-D3-E3
+      description: "Aftonbladet Intenord sender"
+      enabled: true
+      idgroup: 1228_LAN_Aftonbladet_TV-Studio
+      id: 5301
+
+    - mac: 7C-2E-0D-09-1A-4A
+      description: "7c-2e-0d-09-1a-4a"
+      enabled: true
+      idgroup: 1228_LAN_Aftonbladet_TV-Studio
+      id: 5284
+
+    - mac: 00-0B-72-04-73-8D
+      description: "no description"
+      enabled: true
+      idgroup: 1228_LAN_Aftonbladet_TV-Studio
+      id: 5252
+
+    - mac: 00-80-45-30-11-15
+      description: "Studio 3 - kamera4"
+      enabled: true
+      idgroup: 1228_LAN_Aftonbladet_TV-Studio
+      id: 2825
+
+    - mac: 00-0E-98-02-99-A6
+      description: "Aftonbladet Clearcom LQ"
+      enabled: true
+      idgroup: 1228_LAN_Aftonbladet_TV-Studio
+      id: 5269
+
+    - mac: EC-B1-D7-7F-BD-94
+      description: "VSM-SERVER-MAIN"
+      enabled: true
+      idgroup: 1228_LAN_Aftonbladet_TV-Studio
+      id: 2846
+
+    - mac: 7C-2E-0D-05-C3-D0
+      description: "SmartScope Duo Vasse 2015-07-07 //JF"
+      enabled: true
+      idgroup: 1228_LAN_Aftonbladet_TV-Studio
+      id: 2855
+
+    - mac: 00-10-B1-07-C0-65
+      description: "SRQ00378 - BildMixer STUDIO 2 // 2014-03-24, Magnus"
+      enabled: true
+      idgroup: 1228_LAN_Aftonbladet_TV-Studio
+      id: 2674
+
+    - mac: 00-0B-72-04-C3-05
+      description: "Nova 73 Ravenna kort"
+      enabled: true
+      idgroup: 1228_LAN_Aftonbladet_TV-Studio
+      id: 8304
+
+    - mac: 34-17-EB-ED-A3-75
+      description: "Dell R230"
+      enabled: true
+      idgroup: 1228_LAN_Aftonbladet_TV-Studio
+      id: 4100
+
+    - mac: 40-6C-8F-BC-8C-F5
+      description: "Case 127671 // 2013-03-21, Magnus"
+      enabled: true
+      idgroup: 1228_LAN_Aftonbladet_TV-Studio
+      id: 2303
+
+    - mac: 00-21-01-1A-22-FA
+      description: "AEQ SIP Terminator for ABTV"
+      enabled: true
+      idgroup: 1228_LAN_Aftonbladet_TV-Studio
+      id: 5599
+
+    - mac: 00-0B-72-05-8D-CE
+      description: "Vasse 2016-09-09"
+      enabled: true
+      idgroup: 1228_LAN_Aftonbladet_TV-Studio
+      id: 5147
+
+    - mac: 00-80-45-30-1E-7B
+      description: "Studio 1 - kamera1"
+      enabled: true
+      idgroup: 1228_LAN_Aftonbladet_TV-Studio
+      id: 2811
+
+    - mac: 00-0B-97-76-6C-08
+      description: "Kamera TV studio"
+      enabled: true
+      idgroup: 1228_LAN_Aftonbladet_TV-Studio
+      id: 5197
+
+    - mac: 28-CF-E9-07-CE-E9
+      description: "Mac1 studio2 ReqID 143729 20130822"
+      enabled: true
+      idgroup: 1228_LAN_Aftonbladet_TV-Studio
+      id: 2386
+
+    - mac: 00-13-16-01-2F-15
+      description: "Smart Hub"
+      enabled: true
+      idgroup: 1228_LAN_Aftonbladet_TV-Studio
+      id: 2841
+
+    - mac: 00-13-16-01-48-AF
+      description: "VSM-Panel"
+      enabled: true
+      idgroup: 1228_LAN_Aftonbladet_TV-Studio
+      id: 5600
+
+    - mac: 00-0C-17-10-1C-89
+      description: "Video converter"
+      enabled: true
+      idgroup: 1228_LAN_Aftonbladet_TV-Studio
+      id: 5170
+
+    - mac: 00-0B-72-05-BB-EE
+      description: "SRQ60816, ljudmixer // 2016-08-23"
+      enabled: true
+      idgroup: 1228_LAN_Aftonbladet_TV-Studio
+      id: 5140
+
+    - mac: 4C-0B-BE-0B-5E-3E
+      description: "VSM-SOFT-TOM"
+      enabled: true
+      idgroup: 1228_LAN_Aftonbladet_TV-Studio
+      id: 2844
+
+    - mac: 00-0F-9B-03-05-44
+      description: "AJA Frame 2"
+      enabled: true
+      idgroup: 1228_LAN_Aftonbladet_TV-Studio
+      id: 5307
+
+    - mac: 00-1D-C1-17-C6-86
+      description: "AEQ SIP Terminator for ABTV"
+      enabled: true
+      idgroup: 1228_LAN_Aftonbladet_TV-Studio
+      id: 5597
+
+    - mac: 00-0C-17-36-02-10
+      description: "AJA FS1-X 1 (MAIN)"
+      enabled: true
+      idgroup: 1228_LAN_Aftonbladet_TV-Studio
+      id: 2848
+
+    - mac: 0C-C4-7A-AC-3B-9C
+      description: "Megellan Controller 2, Port 1"
+      enabled: true
+      idgroup: 1228_LAN_Aftonbladet_TV-Studio
+      id: 5245
+
+    - mac: 00-0B-72-01-3F-03
+      description: "Vasse 2016-06-09//LM"
+      enabled: true
+      idgroup: 1228_LAN_Aftonbladet_TV-Studio
+      id: 5121
+
+    - mac: 28-CF-E9-07-E5-CD
+      description: "Mac3 studio2 ReqID 143729 20130822"
+      enabled: true
+      idgroup: 1228_LAN_Aftonbladet_TV-Studio
+      id: 2388
+
+    - mac: A8-60-B6-0E-E6-BE
+      description: "SRQ64543  // 2016-09-15, Mats"
+      enabled: true
+      idgroup: 1228_LAN_Aftonbladet_TV-Studio
+      id: 5151
+
+    - mac: 0C-C4-7A-AC-3B-9A
+      description: "Megellan Controller  1, Port 1"
+      enabled: true
+      idgroup: 1228_LAN_Aftonbladet_TV-Studio
+      id: 5244
+
+    - mac: 00-25-90-C0-32-2F
+      description: "Space RAID"
+      enabled: true
+      idgroup: 1228_LAN_Aftonbladet_TV-Studio
+      id: 2393
+
+    - mac: 00-90-F9-34-8E-4D
+      description: "p.b. IP3 Multiviewer 2019-12-04"
+      enabled: true
+      idgroup: 1228_LAN_Aftonbladet_TV-Studio
+      id: 5819
+
+    - mac: 8C-C1-21-EF-C2-BC
+      description: "Studio 1 - kamerakontroll"
+      enabled: true
+      idgroup: 1228_LAN_Aftonbladet_TV-Studio
+      id: 2810
+
+    - mac: C4-2C-03-29-96-26
+      description: "Case 127671 // 2013-03-21, Magnus"
+      enabled: true
+      idgroup: 1228_LAN_Aftonbladet_TV-Studio
+      id: 2305
+
+    - mac: 00-13-16-01-34-47
+      description: "TV routerpanel. P:B Christoffer Madison"
+      enabled: true
+      idgroup: 1228_LAN_Aftonbladet_TV-Studio
+      id: 3371
+
+    - mac: 7C-2E-0D-01-6C-25
+      description: "Black Magic Panel studio plan 7"
+      enabled: true
+      idgroup: 1228_LAN_Aftonbladet_TV-Studio
+      id: 2348
+
+    - mac: 00-0B-72-05-B6-30
+      description: "Vasse 2015-07-06 //JF"
+      enabled: true
+      idgroup: 1228_LAN_Aftonbladet_TV-Studio
+      id: 2854
+
+    - mac: 00-50-C2-80-63-0F
+      description: "telos vx test"
+      enabled: true
+      idgroup: 1228_LAN_Aftonbladet_TV-Studio
+      id: 5493
+
+    - mac: 88-51-FB-5A-65-2B
+      description: "HEGO-HPAF1 ReqID 143729 20130822"
+      enabled: true
+      idgroup: 1228_LAN_Aftonbladet_TV-Studio
+      id: 2384
+
+    - mac: 00-80-45-30-16-CF
+      description: "Studio 1 - kamera3"
+      enabled: true
+      idgroup: 1228_LAN_Aftonbladet_TV-Studio
+      id: 2813
+
+    - mac: 68-5B-35-9F-DE-78
+      description: "Vasse 14-03-11"
+      enabled: true
+      idgroup: 1228_LAN_Aftonbladet_TV-Studio
+      id: 2653
+
+    - mac: 68-5B-35-9F-E0-58
+      description: "Vasse 14-03-11"
+      enabled: true
+      idgroup: 1228_LAN_Aftonbladet_TV-Studio
+      id: 2656
+
+    - mac: 00-80-45-30-1E-99
+      description: "Studio 2 - kamera3"
+      enabled: true
+      idgroup: 1228_LAN_Aftonbladet_TV-Studio
+      id: 2818
+
+    - mac: 00-90-F9-34-70-59
+      description: "SRQ149674 Imagine Multiviewer"
+      enabled: true
+      idgroup: 1228_LAN_Aftonbladet_TV-Studio
+      id: 5361
+
+    - mac: 7C-2E-0D-01-D4-7A
+      description: "Case 150326"
+      enabled: true
+      idgroup: 1228_LAN_Aftonbladet_TV-Studio
+      id: 2429
+
+    - mac: 00-21-5F-02-19-01
+      description: "KVM Matrix plan 7"
+      enabled: true
+      idgroup: 1228_LAN_Aftonbladet_TV-Studio
+      id: 5853
+
+    - mac: 40-6C-8F-BC-7F-23
+      description: "Playout studio2 ReqID 143729 20130822"
+      enabled: true
+      idgroup: 1228_LAN_Aftonbladet_TV-Studio
+      id: 2391
+
+    - mac: 00-80-45-30-16-CE
+      description: "Studio 2 - kamera4"
+      enabled: true
+      idgroup: 1228_LAN_Aftonbladet_TV-Studio
+      id: 2819
+
+    - mac: 00-08-E1-05-14-17
+      description: "Viprinet VoIP Sender"
+      enabled: true
+      idgroup: 1228_LAN_Aftonbladet_TV-Studio
+      id: 5239
+
+    - mac: 00-04-B3-F0-37-1A
+      description: "AB-tv vasse"
+      enabled: true
+      idgroup: 1228_LAN_Aftonbladet_TV-Studio
+      id: 5341
+
+    - mac: 00-30-18-09-34-28
+      description: "Vasse SRQ184855 20180821 //JF"
+      enabled: true
+      idgroup: 1228_LAN_Aftonbladet_TV-Studio
+      id: 5396
+
+    - mac: 00-0B-72-05-7D-4C
+      description: "Vasse"
+      enabled: true
+      idgroup: 1228_LAN_Aftonbladet_TV-Studio
+      id: 5256
+
+    - mac: 00-3E-E1-CD-B8-67
+      description: "no description"
+      enabled: true
+      idgroup: 1228_LAN_Aftonbladet_TV-Studio
+      id: 5411
+
+    - mac: 00-21-01-A8-01-0A
+      description: "Systel  IP AB"
+      enabled: true
+      idgroup: 1228_LAN_Aftonbladet_TV-Studio
+      id: 5602
+
+    - mac: 7C-2E-0D-02-4A-18
+      description: "Router  - Case: 168391 // 2014-03-19"
+      enabled: true
+      idgroup: 1228_LAN_Aftonbladet_TV-Studio
+      id: 2664
+
+    - mac: 00-13-16-01-36-6F
+      description: "TV routerpanel. P:B Christoffer Madison"
+      enabled: true
+      idgroup: 1228_LAN_Aftonbladet_TV-Studio
+      id: 3375
+
+    - mac: 70-CD-60-F3-EB-AE
+      description: "SRQ00364 // 2014-03-24, Magnus"
+      enabled: true
+      idgroup: 1228_LAN_Aftonbladet_TV-Studio
+      id: 2672
+
+    - mac: 7C-2E-0D-01-89-34
+      description: "Black Magic Router studio plan 7"
+      enabled: true
+      idgroup: 1228_LAN_Aftonbladet_TV-Studio
+      id: 2347
+
+    - mac: 00-80-45-30-0F-EC
+      description: "Studio 3 - kamera1"
+      enabled: true
+      idgroup: 1228_LAN_Aftonbladet_TV-Studio
+      id: 2822
+
+    - mac: 00-0B-72-05-79-79
+      description: "V_Pro8_2 SRQ26393"
+      enabled: true
+      idgroup: 1228_LAN_Aftonbladet_TV-Studio
+      id: 2852
+
+    - mac: 00-25-90-EB-04-99
+      description: "Elemental Eth1 p.b. Vasse 2015-06-16"
+      enabled: true
+      idgroup: 1228_LAN_Aftonbladet_TV-Studio
+      id: 2836
+
+    - mac: 00-04-B3-F0-2E-7F
+      description: "SRQ144043 //2018-01-11, Mats"
+      enabled: true
+      idgroup: 1228_LAN_Aftonbladet_TV-Studio
+      id: 5351
+
+    - mac: 38-C9-86-43-2D-A3
+      description: "no description"
+      enabled: true
+      idgroup: 1228_LAN_Aftonbladet_TV-Studio
+      id: 5250
+
+    - mac: 00-80-45-30-16-ED
+      description: "Studio 2 - kamera1"
+      enabled: true
+      idgroup: 1228_LAN_Aftonbladet_TV-Studio
+      id: 2816
+
+    - mac: 00-13-16-01-36-69
+      description: "TV routerpanel. P:B Christoffer Madison"
+      enabled: true
+      idgroup: 1228_LAN_Aftonbladet_TV-Studio
+      id: 3373
+
+    - mac: 00-80-45-30-11-46
+      description: "Studio 3 - kamera2"
+      enabled: true
+      idgroup: 1228_LAN_Aftonbladet_TV-Studio
+      id: 2823
+
+    - mac: 00-3E-E1-CF-75-28
+      description: "AB-tv vasse"
+      enabled: true
+      idgroup: 1228_LAN_Aftonbladet_TV-Studio
+      id: 5446
+
+    - mac: 00-80-45-30-2C-98
+      description: "Kamera AB SRQ270023"
+      enabled: true
+      idgroup: 1228_LAN_Aftonbladet_TV-Studio
+      id: 5751
+
+    - mac: 00-10-B1-04-C2-06
+      description: "Bildmixer AB"
+      enabled: true
+      idgroup: 1228_LAN_Aftonbladet_TV-Studio
+      id: 2742
+
+    - mac: 20-D5-BF-05-76-2F
+      description: "Tivo - SRQ34723 // LM 151119"
+      enabled: true
+      idgroup: 1228_LAN_Aftonbladet_TV-Studio
+      id: 2921
+
+    - mac: 00-0F-9B-03-05-89
+      description: "AJA Frame 1"
+      enabled: true
+      idgroup: 1228_LAN_Aftonbladet_TV-Studio
+      id: 5306
+
+    - mac: 7C-2E-0D-08-0D-70
+      description: "SRQ77487  20161216 JF"
+      enabled: true
+      idgroup: 1228_LAN_Aftonbladet_TV-Studio
+      id: 5199
+
+    - mac: 00-21-5F-02-08-91
+      description: "kvm 16 portar SRQ65531 20160926 JF"
+      enabled: true
+      idgroup: 1228_LAN_Aftonbladet_TV-Studio
+      id: 5158
+
+    - mac: 00-24-9B-17-9A-A9
+      description: "no description"
+      enabled: true
+      idgroup: 1228_LAN_Aftonbladet_TV-Studio
+      id: 5175
+
+    - mac: 7C-2E-0D-02-7A-4F
+      description: "Smart1 - Case: 168391 // 2014-03-19"
+      enabled: true
+      idgroup: 1228_LAN_Aftonbladet_TV-Studio
+      id: 2662
+
+    - mac: 00-0B-72-05-94-AE
+      description: "Ravenna A - Plan2  // 2016-06-09, Mats"
+      enabled: true
+      idgroup: 1228_LAN_Aftonbladet_TV-Studio
+      id: 5122
+
+    - mac: 00-01-29-54-AB-56
+      description: "AB-tv vasse"
+      enabled: true
+      idgroup: 1228_LAN_Aftonbladet_TV-Studio
+      id: 5505
+
+    - mac: 10-dd-b1-ef-97-4a
+      description: "MAC computer SRQ280572"
+      enabled: true
+      idgroup: 1228_LAN_Aftonbladet_TV-Studio
+      id: 5097
+      
+    - mac: 10-dd-b1-ef-7f-e7
+      description: "MAC computer SRQ280572"
+      enabled: true
+      idgroup: 1228_LAN_Aftonbladet_TV-Studio
+      id: 9579
+      
+    - mac: 10-dd-b1-ef-87-13
+      description: "MAC computer SRQ280572"
+      enabled: true
+      idgroup: 1228_LAN_Aftonbladet_TV-Studio
+      id: 9579
+      
+    - mac: ac-87-a3-30-60-c4
+      description: "MAC computer SRQ280572"
+      enabled: true
+      idgroup: 1228_LAN_Aftonbladet_TV-Studio
+      id: 9579
+      
+    - mac: 10-dd-b1-ef-86-97
+      description: "MAC computer SRQ280572"
+      enabled: true
+      idgroup: 1228_LAN_Aftonbladet_TV-Studio
+      id: 1263
+      
+    - mac: 00-0B-72-01-41-AE
+      description: "Podstudio Lawo Crystal Podstudio"
+      enabled: true
+      idgroup: 1228_LAN_Aftonbladet_TV-Studio
+      id: 8892

@@ -1,0 +1,151 @@
+IDGROUPS:
+
+    - name: 1800_LAN_G4S-CardReader
+      id: a02cc590-3508-11e9-b397-7ae569c42f35
+      description: ""
+
+    - name: 1441_LAN_Blocket-Printer
+      id: 7856b670-3508-11e9-b397-7ae569c42f35
+      description: ""
+
+    - name: 3204_LAN_Compricer-IT
+      id: c6833990-3508-11e9-b397-7ae569c42f35
+      description: ""
+
+    - name: 1404_LAN_Blocket-Eco
+      id: 6f15c920-3508-11e9-b397-7ae569c42f35
+      description: ""
+
+    - name: 1704_LAN_Etech-IT
+      id: 653455e0-34e3-11e9-b397-7ae569c42f35
+      description: ""
+
+    - name: 1028_OFFICE-PLAYIPP
+      id: 58d5e160-c80e-11e9-bcfb-12aaa28c4a90
+      description: "PlayIP devices"
+
+    - name: 3104_LAN_Bytbil-IT
+      id: ac489840-3508-11e9-b397-7ae569c42f35
+      description: ""
+
+    - name: 1204_LAN_Aftonbladet-IT
+      id: 9298aac0-3508-11e9-b397-7ae569c42f35
+      description: ""
+
+    - name: 3200_LAN_Compricer
+      id: c23d7990-3508-11e9-b397-7ae569c42f35
+      description: ""
+
+    - name: 1240_LAN_Aftonbladet-Slask
+      id: 9b227d10-3508-11e9-b397-7ae569c42f35
+      description: ""
+
+    - name: 3304_LAN_Servicefinder-IT
+      id: b0f70520-3508-11e9-b397-7ae569c42f35
+      description: ""
+
+    - name: 351_AP
+      id: be583170-34fa-11e9-b397-7ae569c42f35
+      description: ""
+
+    - name: 1029_OFFICE-VC
+      id: 5733bae0-101f-11ea-bcfb-12aaa28c4a90
+      description: ""
+
+    - name: 1400_LAN_Blocket-Dev
+      id: 73e79c80-3508-11e9-b397-7ae569c42f35
+      description: ""
+
+    - name: 1108_LAN_Printer
+      id: 5b5b01b0-34fa-11e9-b397-7ae569c42f35
+      description: ""
+
+    - name: 1803_LAN_VIPadm
+      id: b90eb4b0-3508-11e9-b397-7ae569c42f35
+      description: ""
+
+    - name: 1700_LAN_Etech
+      id: 8fb2f850-34fa-11e9-b397-7ae569c42f35
+      description: ""
+
+    - name: 2000_LAN_Webtraffic
+      id: 60732480-3508-11e9-b397-7ae569c42f35
+      description: ""
+
+    - name: 1242_LAN_Aftonbladet_XSAN4
+      id: 86f1b9f0-3508-11e9-b397-7ae569c42f35
+      description: ""
+
+    - name: 2500_Telephony
+      id: 7e49b9a0-34fa-11e9-b397-7ae569c42f35
+      description: ""
+
+    - name: 1239_LAN_Aftonbladet_WebbTV
+      id: 8abbba40-3508-11e9-b397-7ae569c42f35
+      description: ""
+
+    - name: 1100_MCAST-IPTV
+      id: 6a43ceb0-3508-11e9-b397-7ae569c42f35
+      description: ""
+
+    - name: 1900_LAN_Omni
+      id: 53451e80-3508-11e9-b397-7ae569c42f35
+      description: ""
+
+    - name: 3100_LAN_Bytbil
+      id: a87a5230-3508-11e9-b397-7ae569c42f35
+      description: ""
+
+    - name: 1810_LAN_G4S-CCTV
+      id: b4f6e280-3508-11e9-b397-7ae569c42f35
+      description: ""
+
+
+    - name: 1200_LAN_Aftonbladet
+      id: 7d1e77b0-3508-11e9-b397-7ae569c42f35
+      description: ""
+
+    - name: 1229_LAN_Aftonbladet-TV-OPS-2
+      id: e76204a0-ffa8-11e9-bcfb-12aaa28c4a90
+      description: ""
+
+    - name: 1820_LAN_IoT
+      id: d22c7de0-3514-11e9-b397-7ae569c42f35
+      description: ""
+
+    - name: 1238_LAN_Aftonbladet-XSAN3
+      id: 9730d080-3508-11e9-b397-7ae569c42f35
+      description: ""
+
+    - name: 1600_LAN_TvB
+      id: a5724350-34fd-11e9-b397-7ae569c42f35
+      description: ""
+
+    - name: 3600_Videoconference
+      id: 9b559c00-34fd-11e9-b397-7ae569c42f35
+      description: ""
+
+    - name: 1228_LAN_Aftonbladet_TV-Studio
+      id: 8ea68900-3508-11e9-b397-7ae569c42f35
+      description: ""
+
+    - name: 330_LAN_Prisjakt-Vidyo
+      id: be47d560-3508-11e9-b397-7ae569c42f35
+      description: ""
+
+    - name: 1802_LAN_G4S-Client
+      id: a3db2791-3508-11e9-b397-7ae569c42f35
+      description: ""
+
+    - name: 1340_LAN_SvD-LiveU
+      id: 5a83fa40-3508-11e9-b397-7ae569c42f35
+      description: ""
+
+    - name: 1440_LAN_Blocket-Printer
+      id: 665aada0-3508-11e9-b397-7ae569c42f35
+      description: ""
+
+    - name: 1241_LAN_Aftonbladet_XSAN4-L2
+      id: 81179e50-3508-11e9-b397-7ae569c42f35
+      description: ""
+

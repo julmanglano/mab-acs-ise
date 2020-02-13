@@ -1,0 +1,2546 @@
+1704_LAN_Etech-IT:
+
+    - mac: 00-E0-B4-0A-C0-8A
+      description: "playipp"
+      enabled: true
+      idgroup: 1704_LAN_Etech-IT
+      id: 3892
+
+    - mac: 00-E0-B4-08-88-AB
+      description: "PlayIPP Box"
+      enabled: true
+      idgroup: 1704_LAN_Etech-IT
+      id: 2516
+
+    - mac: 00-E0-B4-08-89-DC
+      description: "PlayIPP Box"
+      enabled: true
+      idgroup: 1704_LAN_Etech-IT
+      id: 2538
+
+    - mac: 90-A2-DA-0F-2A-17
+      description: "Sergios Arduino // 2014-09-03, Magnus"
+      enabled: true
+      idgroup: 1704_LAN_Etech-IT
+      id: 2721
+
+    - mac: 00-E0-B4-08-89-AF
+      description: "PlayIPP Box"
+      enabled: true
+      idgroup: 1704_LAN_Etech-IT
+      id: 2551
+
+    - mac: 00-E0-B4-13-BB-58
+      description: "playipp"
+      enabled: true
+      idgroup: 1704_LAN_Etech-IT
+      id: 3936
+
+    - mac: 50-7B-9D-F5-92-27
+      description: "Henrik Grankvist - Netsafe"
+      enabled: true
+      idgroup: 1704_LAN_Etech-IT
+      id: 5167
+
+    - mac: 00-E0-B4-0C-B8-54
+      description: "playipp"
+      enabled: true
+      idgroup: 1704_LAN_Etech-IT
+      id: 3906
+
+    - mac: AC-87-A3-39-56-C8
+      description: "Magnus Jader MacPro 56710"
+      enabled: true
+      idgroup: 1704_LAN_Etech-IT
+      id: 1190
+
+    - mac: 34-D0-B8-70-13-6B
+      description: "Playipp"
+      enabled: true
+      idgroup: 1704_LAN_Etech-IT
+      id: 5510
+
+    - mac: 00-E0-B4-09-FE-FD
+      description: "playipp"
+      enabled: true
+      idgroup: 1704_LAN_Etech-IT
+      id: 3889
+
+    - mac: 0C-4D-E9-B1-7A-9B
+      description: "Markus Ljunghage, Cygate 2016-10-20"
+      enabled: true
+      idgroup: 1704_LAN_Etech-IT
+      id: 5171
+
+    - mac: 34-D0-B8-70-82-4F
+      description: "Playipp Servicedesk"
+      enabled: true
+      idgroup: 1704_LAN_Etech-IT
+      id: 5508
+
+    - mac: 00-E0-B4-0A-C1-0F
+      description: "playipp box som kom pa 10.18"
+      enabled: true
+      idgroup: 1704_LAN_Etech-IT
+      id: 2785
+
+    - mac: 00-E0-B4-0F-F9-49
+      description: "playipp"
+      enabled: true
+      idgroup: 1704_LAN_Etech-IT
+      id: 3925
+
+    - mac: 00-E0-B4-08-7F-F6
+      description: "PlayIpp-box"
+      enabled: true
+      idgroup: 1704_LAN_Etech-IT
+      id: 5208
+
+    - mac: 00-E0-B4-13-BB-21
+      description: "PlayIpp-box"
+      enabled: true
+      idgroup: 1704_LAN_Etech-IT
+      id: 5209
+
+    - mac: E4-3A-6E-06-2F-E8
+      description: "PlayIPP Box 1"
+      enabled: true
+      idgroup: 1704_LAN_Etech-IT
+      id: 5443
+
+    - mac: 00-E0-B4-17-0E-40
+      description: "PlayIpp-box"
+      enabled: true
+      idgroup: 1704_LAN_Etech-IT
+      id: 5172
+
+    - mac: 00-E0-B4-08-7F-EC
+      description: "PlayIPP Box"
+      enabled: true
+      idgroup: 1704_LAN_Etech-IT
+      id: 2524
+
+    - mac: C0-56-27-F2-E2-35
+      description: "Joacim Wicander, Netsafe"
+      enabled: true
+      idgroup: 1704_LAN_Etech-IT
+      id: 5340
+
+    - mac: 00-E0-B4-55-3E-67
+      description: "playipp"
+      enabled: true
+      idgroup: 1704_LAN_Etech-IT
+      id: 5385
+
+    - mac: 00-E0-B4-13-BC-26
+      description: "playipp"
+      enabled: true
+      idgroup: 1704_LAN_Etech-IT
+      id: 3939
+
+    - mac: 00-E0-B4-08-7F-F5
+      description: "PlayIPP Box"
+      enabled: true
+      idgroup: 1704_LAN_Etech-IT
+      id: 2528
+
+    - mac: 6C-21-A2-18-BC-47
+      description: "Playipp player"
+      enabled: true
+      idgroup: 1704_LAN_Etech-IT
+      id: 5506
+
+    - mac: 28-D2-44-92-7D-EE
+      description: "Kjell Andersson, Netsafe  // 2016-08-05, Magnus"
+      enabled: true
+      idgroup: 1704_LAN_Etech-IT
+      id: 5136
+
+    - mac: 00-E0-B4-08-7F-F3
+      description: "PlayIPP Box"
+      enabled: true
+      idgroup: 1704_LAN_Etech-IT
+      id: 2518
+
+    - mac: 50-7B-9D-20-DA-1C
+      description: "Walter Cruz, Conscia Netsafe"
+      enabled: true
+      idgroup: 1704_LAN_Etech-IT
+      id: 5263
+
+    - mac: 68-F7-28-34-B2-02
+      description: "Karim Latouche klatouch@redhat.com"
+      enabled: true
+      idgroup: 1704_LAN_Etech-IT
+      id: 5347
+
+    - mac: 00-E0-B4-0F-43-F6
+      description: "playipp"
+      enabled: true
+      idgroup: 1704_LAN_Etech-IT
+      id: 3908
+
+    - mac: 00-E0-B4-08-7D-EF
+      description: "PlayIPP Box"
+      enabled: true
+      idgroup: 1704_LAN_Etech-IT
+      id: 2545
+
+    - mac: B8-27-EB-AA-A9-6C
+      description: "Pi2 Martin"
+      enabled: true
+      idgroup: 1704_LAN_Etech-IT
+      id: 2761
+
+    - mac: 00-E0-B4-08-89-F6
+      description: "PlayIPP Box"
+      enabled: true
+      idgroup: 1704_LAN_Etech-IT
+      id: 2522
+
+    - mac: 00-E0-B4-08-89-14
+      description: "PlayIPP Box"
+      enabled: true
+      idgroup: 1704_LAN_Etech-IT
+      id: 2565
+
+    - mac: 0C-4D-E9-A9-17-D7
+      description: "Fanny noc temp 20190307"
+      enabled: false
+      idgroup: 1704_LAN_Etech-IT
+      id: 5466
+
+    - mac: B8-27-EB-0E-21-19
+      description: "DevTeam Raspberry"
+      enabled: true
+      idgroup: 1704_LAN_Etech-IT
+      id: 2362
+
+    - mac: 00-E0-B4-0C-B4-71
+      description: "playipp"
+      enabled: true
+      idgroup: 1704_LAN_Etech-IT
+      id: 3901
+
+    - mac: 00-E0-B4-17-0E-30
+      description: "PlayIPP Box"
+      enabled: true
+      idgroup: 1704_LAN_Etech-IT
+      id: 5165
+
+    - mac: 00-E0-B4-13-BC-1A
+      description: "PLAYIPP box "
+      enabled: true
+      idgroup: 1704_LAN_Etech-IT
+      id: 5337
+
+    - mac: 00-0D-5D-0B-BE-68
+      description: "RemotePowerSwitch Raritan "
+      enabled: true
+      idgroup: 1704_LAN_Etech-IT
+      id: 2686
+
+    - mac: 8C-16-45-66-BA-D5
+      description: "thinkpad temp clientmgmt"
+      enabled: true
+      idgroup: 1704_LAN_Etech-IT
+      id: 5425
+
+    - mac: 00-E0-B4-13-B9-73
+      description: "PlayIpp-box"
+      enabled: true
+      idgroup: 1704_LAN_Etech-IT
+      id: 3928
+
+    - mac: 40-6C-8F-3F-9D-7A
+      description: "felsokningsmac ftp //2015-11-03, Mats"
+      enabled: true
+      idgroup: 1704_LAN_Etech-IT
+      id: 2905
+
+    - mac: 00-E0-B4-13-BC-76
+      description: "PlayIPP Box"
+      enabled: true
+      idgroup: 1704_LAN_Etech-IT
+      id: 5184
+
+    - mac: 00-E0-B4-13-EA-4E
+      description: "playipp"
+      enabled: true
+      idgroup: 1704_LAN_Etech-IT
+      id: 3944
+
+    - mac: 00-E0-B4-13-B9-7D
+      description: "PlayIpp-box"
+      enabled: true
+      idgroup: 1704_LAN_Etech-IT
+      id: 3930
+
+    - mac: 00-E0-B4-0F-E3-F4
+      description: "playipp"
+      enabled: true
+      idgroup: 1704_LAN_Etech-IT
+      id: 3916
+
+    - mac: 00-E0-B4-14-B2-AF
+      description: "PlayIPP: Viktklubb pl8 sk1"
+      enabled: true
+      idgroup: 1704_LAN_Etech-IT
+      id: 3949
+
+    - mac: 00-E0-B4-08-89-82
+      description: "PlayIPP Box"
+      enabled: true
+      idgroup: 1704_LAN_Etech-IT
+      id: 2453
+
+    - mac: 00-E0-B4-08-7D-F2
+      description: "PlayIPP Box"
+      enabled: true
+      idgroup: 1704_LAN_Etech-IT
+      id: 2533
+
+    - mac: 00-E0-B4-13-B9-75
+      description: "PlayIpp-box"
+      enabled: true
+      idgroup: 1704_LAN_Etech-IT
+      id: 3929
+
+    - mac: 68-5B-35-9B-22-8A
+      description: "Markus Junghage/Cygate // 2015-09-07, Lars"
+      enabled: true
+      idgroup: 1704_LAN_Etech-IT
+      id: 2869
+
+    - mac: 00-E0-B4-0F-E3-EA
+      description: "PlayIpp-box"
+      enabled: true
+      idgroup: 1704_LAN_Etech-IT
+      id: 2792
+
+    - mac: A8-60-B6-19-A1-E9
+      description: "Konsult Daniel.Sigwid conoa"
+      enabled: true
+      idgroup: 1704_LAN_Etech-IT
+      id: 5280
+
+    - mac: 5C-F9-DD-5A-9D-AD
+      description: "Konsult Daniel.Forsberg conoa"
+      enabled: true
+      idgroup: 1704_LAN_Etech-IT
+      id: 5279
+
+    - mac: 00-E0-B4-13-B9-74
+      description: "PlayIpp-box"
+      enabled: true
+      idgroup: 1704_LAN_Etech-IT
+      id: 5131
+
+    - mac: A0-CE-C8-14-D9-FF
+      description: "Consultant Infra 20180814"
+      enabled: true
+      idgroup: 1704_LAN_Etech-IT
+      id: 5393
+
+    - mac: 00-E0-B4-0F-B8-83
+      description: "PlayIPP box"
+      enabled: true
+      idgroup: 1704_LAN_Etech-IT
+      id: 5320
+
+    - mac: 00-E0-B4-08-84-85
+      description: "PlayIPP Box"
+      enabled: true
+      idgroup: 1704_LAN_Etech-IT
+      id: 2543
+
+    - mac: 00-E0-B4-13-BC-2D
+      description: "playipp"
+      enabled: true
+      idgroup: 1704_LAN_Etech-IT
+      id: 3940
+
+    - mac: 00-E0-B4-08-89-26
+      description: "PlayIPP Box"
+      enabled: true
+      idgroup: 1704_LAN_Etech-IT
+      id: 2557
+
+    - mac: B8-27-EB-27-20-2A
+      description: "Martin Pi"
+      enabled: true
+      idgroup: 1704_LAN_Etech-IT
+      id: 2714
+
+    - mac: C4-B3-01-D4-E1-69
+      description: "Martin Hagelin - Schibsted PL"
+      enabled: true
+      idgroup: 1704_LAN_Etech-IT
+      id: 5331
+
+    - mac: 10-9A-DD-5C-5A-90
+      description: "TEST dator 50450 Ya"
+      enabled: true
+      idgroup: 1704_LAN_Etech-IT
+      id: 2024
+
+    - mac: 00-E0-B4-15-CE-C0
+      description: "PlaYipp box"
+      enabled: true
+      idgroup: 1704_LAN_Etech-IT
+      id: 5144
+
+    - mac: 20-C9-D0-2A-8D-6B
+      description: "KEP Konsult"
+      enabled: true
+      idgroup: 1704_LAN_Etech-IT
+      id: 2708
+
+    - mac: 00-E0-B4-08-88-76
+      description: "PlayIPP Box"
+      enabled: true
+      idgroup: 1704_LAN_Etech-IT
+      id: 2562
+
+    - mac: 6C-AD-F8-CF-C7-0C
+      description: "chromecast peso-test"
+      enabled: true
+      idgroup: 1704_LAN_Etech-IT
+      id: 2789
+
+    - mac: 00-E0-B4-08-7D-FB
+      description: "PlayIPP Box"
+      enabled: true
+      idgroup: 1704_LAN_Etech-IT
+      id: 2539
+
+    - mac: E4-3A-6E-04-F1-A1
+      description: "playipp"
+      enabled: true
+      idgroup: 1704_LAN_Etech-IT
+      id: 5383
+
+    - mac: 00-E0-B4-08-88-70
+      description: "PlayIPP Box"
+      enabled: true
+      idgroup: 1704_LAN_Etech-IT
+      id: 2530
+
+    - mac: 00-E0-B4-08-89-C2
+      description: "PlayIPP Box"
+      enabled: true
+      idgroup: 1704_LAN_Etech-IT
+      id: 2564
+
+    - mac: 00-1C-7F-83-9F-8F
+      description: "london checkpoint fw"
+      enabled: true
+      idgroup: 1704_LAN_Etech-IT
+      id: 5314
+
+    - mac: AC-87-A3-2E-1E-1F
+      description: ""
+      enabled: true
+      idgroup: 1704_LAN_Etech-IT
+      id: 4725
+
+    - mac: 00-E0-B4-08-7D-FA
+      description: "PlayIPP Box"
+      enabled: true
+      idgroup: 1704_LAN_Etech-IT
+      id: 2535
+
+    - mac: 00-E0-B4-0A-C2-2B
+      description: "playipp"
+      enabled: true
+      idgroup: 1704_LAN_Etech-IT
+      id: 3896
+
+    - mac: 00-E0-B4-14-0F-07
+      description: "PlayIpp-box"
+      enabled: true
+      idgroup: 1704_LAN_Etech-IT
+      id: 3947
+
+    - mac: E0-DB-55-C9-AE-A8
+      description: "Goran Tornqvist Conoa"
+      enabled: true
+      idgroup: 1704_LAN_Etech-IT
+      id: 5241
+
+    - mac: 00-E1-11-00-41-44
+      description: "Temporary for Conoa troubleshooting //2018-09-13, Mats"
+      enabled: true
+      idgroup: 1704_LAN_Etech-IT
+      id: 5417
+
+    - mac: 00-E0-B4-0F-E3-F7
+      description: "playipp"
+      enabled: true
+      idgroup: 1704_LAN_Etech-IT
+      id: 3918
+
+    - mac: 00-E0-B4-13-EA-28
+      description: "PlayIpp-box"
+      enabled: true
+      idgroup: 1704_LAN_Etech-IT
+      id: 5125
+
+    - mac: 00-E0-B4-13-B9-71
+      description: "PlayIpp-box"
+      enabled: true
+      idgroup: 1704_LAN_Etech-IT
+      id: 3927
+
+    - mac: 00-E0-B4-08-84-B7
+      description: "PlayIPP Box"
+      enabled: true
+      idgroup: 1704_LAN_Etech-IT
+      id: 2553
+
+    - mac: 00-E0-B4-08-89-B5
+      description: "PlayIPP Box"
+      enabled: true
+      idgroup: 1704_LAN_Etech-IT
+      id: 2569
+
+    - mac: 00-E0-B4-55-41-05
+      description: "PlayIPP Box"
+      enabled: true
+      idgroup: 1704_LAN_Etech-IT
+      id: 5390
+
+    - mac: 00-E0-B4-08-7F-EA
+      description: "PlayIPP Box"
+      enabled: true
+      idgroup: 1704_LAN_Etech-IT
+      id: 2571
+
+    - mac: 00-11-32-70-33-7D
+      description: "TommyC NAS 20170405 TEMP"
+      enabled: false
+      idgroup: 1704_LAN_Etech-IT
+      id: 5260
+
+    - mac: 8C-16-45-B1-10-DA
+      description: "Erik Axzell, T480s, Conscia Netsafe"
+      enabled: true
+      idgroup: 1704_LAN_Etech-IT
+      id: 5471
+
+    - mac: 00-E0-B4-08-88-A0
+      description: "PlayIPP Box"
+      enabled: true
+      idgroup: 1704_LAN_Etech-IT
+      id: 2555
+
+    - mac: 00-E0-B4-14-0F-C7
+      description: "PlayIpp-box"
+      enabled: true
+      idgroup: 1704_LAN_Etech-IT
+      id: 5080
+
+    - mac: 00-B5-6D-05-30-86
+      description: "Consultant Infra 20180815"
+      enabled: true
+      idgroup: 1704_LAN_Etech-IT
+      id: 5395
+
+    - mac: 52-54-00-B3-A5-13
+      description: "Sentor //2017-03-15, Mats"
+      enabled: true
+      idgroup: 1704_LAN_Etech-IT
+      id: 5247
+
+    - mac: 00-E0-B4-08-88-A7
+      description: "PlayIPP Box"
+      enabled: true
+      idgroup: 1704_LAN_Etech-IT
+      id: 2532
+
+    - mac: 34-D0-B8-70-58-1E
+      description: "PlayIPP Player"
+      enabled: true
+      idgroup: 1704_LAN_Etech-IT
+      id: 5491
+
+    - mac: E0-76-D0-5B-00-1F
+      description: "playipp"
+      enabled: true
+      idgroup: 1704_LAN_Etech-IT
+      id: 5180
+
+    - mac: 00-E0-B4-0C-B4-7C
+      description: "playipp box som kom pa 10.18"
+      enabled: true
+      idgroup: 1704_LAN_Etech-IT
+      id: 2787
+
+    - mac: 00-E0-B4-16-FD-8B
+      description: "PlayIpp-box"
+      enabled: true
+      idgroup: 1704_LAN_Etech-IT
+      id: 5169
+
+    - mac: E4-3A-6E-06-2E-DD
+      description: "PlayIPP Box 3"
+      enabled: true
+      idgroup: 1704_LAN_Etech-IT
+      id: 5445
+
+    - mac: 00-E0-B4-08-89-7E
+      description: "PlayIPP Box"
+      enabled: true
+      idgroup: 1704_LAN_Etech-IT
+      id: 2542
+
+    - mac: 00-E0-B4-08-84-A5
+      description: "PlayIPP Box"
+      enabled: true
+      idgroup: 1704_LAN_Etech-IT
+      id: 2560
+
+    - mac: B0-34-95-3A-F9-7E
+      description: "AppleTV Akvariet pl6"
+      enabled: true
+      idgroup: 1704_LAN_Etech-IT
+      id: 2730
+
+    - mac: 00-E0-B4-15-BB-51
+      description: "PlayIpp-box"
+      enabled: true
+      idgroup: 1704_LAN_Etech-IT
+      id: 5142
+
+    - mac: 00-E0-B4-15-70-12
+      description: "PlayIpp-box"
+      enabled: true
+      idgroup: 1704_LAN_Etech-IT
+      id: 5236
+
+    - mac: 00-E0-B4-0C-A9-B4
+      description: "playipp box som kom pa 10.18"
+      enabled: true
+      idgroup: 1704_LAN_Etech-IT
+      id: 2784
+
+    - mac: 90-A2-DA-0F-5D-A5
+      description: "Tommy C Arduino // 2014-12-05, JF"
+      enabled: true
+      idgroup: 1704_LAN_Etech-IT
+      id: 2749
+
+    - mac: 00-E0-B4-08-89-42
+      description: "PlayIPP Box"
+      enabled: true
+      idgroup: 1704_LAN_Etech-IT
+      id: 2523
+
+    - mac: E4-3A-6E-06-2D-F8
+      description: "PlayIPP Box 2"
+      enabled: true
+      idgroup: 1704_LAN_Etech-IT
+      id: 5444
+
+    - mac: 00-E0-B4-08-89-13
+      description: "PLAYipp box"
+      enabled: true
+      idgroup: 1704_LAN_Etech-IT
+      id: 2450
+
+    - mac: 00-E0-B4-08-88-90
+      description: "PlayIPP Box"
+      enabled: true
+      idgroup: 1704_LAN_Etech-IT
+      id: 2549
+
+    - mac: 00-E0-B4-0F-E3-D2
+      description: "playipp"
+      enabled: true
+      idgroup: 1704_LAN_Etech-IT
+      id: 3913
+
+    - mac: 00-E0-B4-0F-F9-3C
+      description: "playipp"
+      enabled: true
+      idgroup: 1704_LAN_Etech-IT
+      id: 2868
+
+    - mac: 00-E0-B4-08-7F-FA
+      description: "PlayIPP Box"
+      enabled: true
+      idgroup: 1704_LAN_Etech-IT
+      id: 2536
+
+    - mac: 00-E0-B4-13-BB-19
+      description: "playipp"
+      enabled: true
+      idgroup: 1704_LAN_Etech-IT
+      id: 3931
+
+    - mac: 00-E0-B4-17-0F-A9
+      description: "PlayIPP Box"
+      enabled: true
+      idgroup: 1704_LAN_Etech-IT
+      id: 5166
+
+    - mac: 00-E0-B4-13-BB-76
+      description: "PlayIpp-box"
+      enabled: true
+      idgroup: 1704_LAN_Etech-IT
+      id: 3937
+
+    - mac: 00-E0-B4-0A-C0-A6
+      description: "playipp"
+      enabled: true
+      idgroup: 1704_LAN_Etech-IT
+      id: 3893
+
+    - mac: 00-E0-B4-08-89-62
+      description: "PlayIPP Box"
+      enabled: true
+      idgroup: 1704_LAN_Etech-IT
+      id: 2540
+
+    - mac: 00-E0-B4-0A-0B-1F
+      description: "playipp"
+      enabled: true
+      idgroup: 1704_LAN_Etech-IT
+      id: 3890
+
+    - mac: 00-E0-B4-08-7F-F4
+      description: "PlayIPP Box"
+      enabled: true
+      idgroup: 1704_LAN_Etech-IT
+      id: 2521
+
+    - mac: 00-E0-B4-0F-62-56
+      description: "playipp"
+      enabled: true
+      idgroup: 1704_LAN_Etech-IT
+      id: 3911
+
+    - mac: 00-E0-B4-08-88-A4
+      description: "PlayIPP Box"
+      enabled: true
+      idgroup: 1704_LAN_Etech-IT
+      id: 2519
+
+    - mac: 00-E0-B4-08-7D-ED
+      description: "PlayIPP Box"
+      enabled: true
+      idgroup: 1704_LAN_Etech-IT
+      id: 2568
+
+    - mac: 00-E0-6F-26-45-2A
+      description: "playipp box"
+      enabled: true
+      idgroup: 1704_LAN_Etech-IT
+      id: 2426
+
+    - mac: 00-E0-B4-13-EA-58
+      description: "PlayIpp-box"
+      enabled: true
+      idgroup: 1704_LAN_Etech-IT
+      id: 3946
+
+    - mac: 00-E0-B4-08-88-52
+      description: "playipp box"
+      enabled: true
+      idgroup: 1704_LAN_Etech-IT
+      id: 2442
+
+    - mac: 00-E0-B4-13-EA-50
+      description: "playipp"
+      enabled: true
+      idgroup: 1704_LAN_Etech-IT
+      id: 3945
+
+    - mac: A8-20-66-A6-2F-1E
+      description: "jonasF Securedrop TEMP"
+      enabled: true
+      idgroup: 1704_LAN_Etech-IT
+      id: 5463
+
+    - mac: 00-E0-B4-13-B9-80
+      description: "PlayIPP Box"
+      enabled: true
+      idgroup: 1704_LAN_Etech-IT
+      id: 5182
+
+    - mac: 3C-07-54-5F-F5-B7
+      description: "MacInfra"
+      enabled: true
+      idgroup: 1704_LAN_Etech-IT
+      id: 5371
+
+    - mac: 00-E0-B4-0C-B8-51
+      description: "playipp"
+      enabled: true
+      idgroup: 1704_LAN_Etech-IT
+      id: 3905
+
+    - mac: 00-E0-B4-13-BC-89
+      description: "PlayIpp-box"
+      enabled: true
+      idgroup: 1704_LAN_Etech-IT
+      id: 5155
+
+    - mac: 00-E0-B4-0F-62-03
+      description: "playipp"
+      enabled: true
+      idgroup: 1704_LAN_Etech-IT
+      id: 3909
+
+    - mac: 00-E0-B4-08-84-9E
+      description: "PlayIPP Box"
+      enabled: true
+      idgroup: 1704_LAN_Etech-IT
+      id: 2559
+
+    - mac: 00-E0-B4-55-40-91
+      description: "PlayIPP Box"
+      enabled: true
+      idgroup: 1704_LAN_Etech-IT
+      id: 5391
+
+    - mac: 00-0D-5D-0B-BE-70
+      description: "RemotePowerSwitch Raritan "
+      enabled: true
+      idgroup: 1704_LAN_Etech-IT
+      id: 2685
+
+    - mac: 00-E0-B4-0F-E3-FA
+      description: "no description"
+      enabled: true
+      idgroup: 1704_LAN_Etech-IT
+      id: 2832
+
+    - mac: E8-6A-64-D8-4A-B9
+      description: "Henrik Grankvist, T490, Netsafe"
+      enabled: true
+      idgroup: 1704_LAN_Etech-IT
+      id: 5532
+
+    - mac: D4-BE-D9-14-F1-0F
+      description: "TEST_PC"
+      enabled: true
+      idgroup: 1704_LAN_Etech-IT
+      id: 2624
+
+    - mac: 00-E0-B4-16-FD-AE
+      description: "PlayIpp-box"
+      enabled: true
+      idgroup: 1704_LAN_Etech-IT
+      id: 5237
+
+    - mac: 00-E0-B4-13-BC-40
+      description: "PlayIpp-box"
+      enabled: true
+      idgroup: 1704_LAN_Etech-IT
+      id: 5126
+
+    - mac: 00-E0-B4-0F-E3-F0
+      description: "playipp"
+      enabled: true
+      idgroup: 1704_LAN_Etech-IT
+      id: 3915
+
+    - mac: 00-E0-B4-13-EA-45
+      description: "playipp"
+      enabled: true
+      idgroup: 1704_LAN_Etech-IT
+      id: 3943
+
+    - mac: 00-E0-B4-0C-B3-AC
+      description: "playipp"
+      enabled: true
+      idgroup: 1704_LAN_Etech-IT
+      id: 3900
+
+    - mac: 00-E0-6F-26-45-51
+      description: "PLAYipp box"
+      enabled: true
+      idgroup: 1704_LAN_Etech-IT
+      id: 2408
+
+    - mac: 00-E0-B4-13-BB-2D
+      description: "PlayIpp-box"
+      enabled: true
+      idgroup: 1704_LAN_Etech-IT
+      id: 3933
+
+    - mac: 00-E0-B4-08-89-CC
+      description: "PlayIPP Box"
+      enabled: true
+      idgroup: 1704_LAN_Etech-IT
+      id: 2537
+
+    - mac: 00-E0-B4-17-0E-3D
+      description: "PlayIPP Box"
+      enabled: true
+      idgroup: 1704_LAN_Etech-IT
+      id: 5164
+
+    - mac: 00-E0-B4-08-84-78
+      description: "PlayIPP Box"
+      enabled: true
+      idgroup: 1704_LAN_Etech-IT
+      id: 2529
+
+    - mac: 00-E0-B4-0F-F9-37
+      description: "playipp"
+      enabled: true
+      idgroup: 1704_LAN_Etech-IT
+      id: 3921
+
+    - mac: 00-E0-B4-13-BC-25
+      description: "playipp"
+      enabled: true
+      idgroup: 1704_LAN_Etech-IT
+      id: 3938
+
+    - mac: 00-E0-B4-0C-B8-83
+      description: "playipp"
+      enabled: true
+      idgroup: 1704_LAN_Etech-IT
+      id: 3907
+
+    - mac: 54-EE-75-3B-1C-5F
+      description: "no description"
+      enabled: true
+      idgroup: 1704_LAN_Etech-IT
+      id: 2888
+
+    - mac: 00-E0-B4-08-89-66
+      description: "PlayIPP Box"
+      enabled: true
+      idgroup: 1704_LAN_Etech-IT
+      id: 2566
+
+    - mac: 00-E0-B4-14-B2-B3
+      description: "PlayIPP: Viktklubb pl8 sk2"
+      enabled: true
+      idgroup: 1704_LAN_Etech-IT
+      id: 3950
+
+    - mac: 00-E0-B4-08-89-28
+      description: "PlayIPP Box"
+      enabled: true
+      idgroup: 1704_LAN_Etech-IT
+      id: 2546
+
+    - mac: 00-E0-B4-08-7D-FC
+      description: "PlayIPP Box"
+      enabled: true
+      idgroup: 1704_LAN_Etech-IT
+      id: 2517
+
+    - mac: 54-EE-75-CB-37-C7
+      description: "Cygate konsult Jim Granvik checkpoint //2017-07-24"
+      enabled: true
+      idgroup: 1704_LAN_Etech-IT
+      id: 5311
+
+    - mac: 00-1B-63-A8-94-11
+      description: "Mac i BGC"
+      enabled: true
+      idgroup: 1704_LAN_Etech-IT
+      id: 1964
+
+    - mac: 00-E0-B4-15-70-08
+      description: "PlaYipp box"
+      enabled: true
+      idgroup: 1704_LAN_Etech-IT
+      id: 5143
+
+    - mac: 00-E0-B4-08-7D-F4
+      description: "PlayIPP Box"
+      enabled: true
+      idgroup: 1704_LAN_Etech-IT
+      id: 2556
+
+    - mac: A8-20-66-03-5F-EC
+      description: "no description"
+      enabled: true
+      idgroup: 1704_LAN_Etech-IT
+      id: 2288
+
+    - mac: 00-E0-B4-0C-B8-44
+      description: "playipp box som kom pa 10.18"
+      enabled: true
+      idgroup: 1704_LAN_Etech-IT
+      id: 2788
+
+    - mac: 00-E0-B4-08-84-84
+      description: "PlayIPP Box"
+      enabled: true
+      idgroup: 1704_LAN_Etech-IT
+      id: 2531
+
+    - mac: 00-E0-B4-55-40-05
+      description: "playipp"
+      enabled: true
+      idgroup: 1704_LAN_Etech-IT
+      id: 5384
+
+    - mac: EC-F4-BB-2F-CB-4F
+      description: "Magnus Jader Dell Linux"
+      enabled: true
+      idgroup: 1704_LAN_Etech-IT
+      id: 67
+
+    - mac: 00-E0-B4-13-BC-3B
+      description: "PlayIpp-box"
+      enabled: true
+      idgroup: 1704_LAN_Etech-IT
+      id: 5128
+
+    - mac: 00-E0-B4-08-84-A8
+      description: "PlayIPP Box"
+      enabled: true
+      idgroup: 1704_LAN_Etech-IT
+      id: 2561
+
+    - mac: 34-E6-D7-0C-58-BC
+      description: "Sergio 2015-01-30"
+      enabled: true
+      idgroup: 1704_LAN_Etech-IT
+      id: 1603
+
+    - mac: E4-3A-6E-06-2F-1A
+      description: "PlayIPP Box"
+      enabled: true
+      idgroup: 1704_LAN_Etech-IT
+      id: 5389
+
+    - mac: 00-E0-B4-13-B9-85
+      description: "PlayIPP Box"
+      enabled: true
+      idgroup: 1704_LAN_Etech-IT
+      id: 5185
+
+    - mac: 00-E0-B4-0B-89-F3
+      description: "PlayIPP Box"
+      enabled: true
+      idgroup: 1704_LAN_Etech-IT
+      id: 5242
+
+    - mac: 00-1C-7F-83-B1-7D
+      description: "london checkpoint fw"
+      enabled: true
+      idgroup: 1704_LAN_Etech-IT
+      id: 5315
+
+    - mac: 00-E0-B4-08-7D-F1
+      description: "PlayIPP Box"
+      enabled: true
+      idgroup: 1704_LAN_Etech-IT
+      id: 2563
+
+    - mac: 54-EE-75-55-F9-D6
+      description: "Andreas Di Zazzo - Netsafe - PC"
+      enabled: true
+      idgroup: 1704_LAN_Etech-IT
+      id: 4217
+
+    - mac: 00-E0-B4-0F-F9-43
+      description: "playippbox som kom pa 10.18"
+      enabled: true
+      idgroup: 1704_LAN_Etech-IT
+      id: 2840
+
+    - mac: 34-D0-B8-70-82-AC
+      description: "Playipp player"
+      enabled: true
+      idgroup: 1704_LAN_Etech-IT
+      id: 5507
+
+    - mac: 00-E0-B4-0C-B4-7B
+      description: "playipp"
+      enabled: true
+      idgroup: 1704_LAN_Etech-IT
+      id: 3902
+
+    - mac: 00-05-1B-00-9B-4D
+      description: "Boo"
+      enabled: true
+      idgroup: 1704_LAN_Etech-IT
+      id: 5374
+
+    - mac: 00-E0-B4-16-FD-A1
+      description: "PlayIpp-box"
+      enabled: true
+      idgroup: 1704_LAN_Etech-IT
+      id: 5163
+
+    - mac: 00-E0-B4-08-7F-F9
+      description: "PlayIPP Box"
+      enabled: true
+      idgroup: 1704_LAN_Etech-IT
+      id: 2534
+
+    - mac: 00-08-CA-9D-40-1F
+      description: "PLAYipp box"
+      enabled: true
+      idgroup: 1704_LAN_Etech-IT
+      id: 2452
+
+    - mac: 00-E0-B4-13-B9-3A
+      description: "PlayIpp-box"
+      enabled: true
+      idgroup: 1704_LAN_Etech-IT
+      id: 3926
+
+    - mac: 8C-16-45-4A-7E-BE
+      description: "Daniel Conoa //20180824, ML"
+      enabled: true
+      idgroup: 1704_LAN_Etech-IT
+      id: 5400
+
+    - mac: 00-E0-B4-08-84-A1
+      description: "PlayIPP Box"
+      enabled: true
+      idgroup: 1704_LAN_Etech-IT
+      id: 2570
+
+    - mac: 00-E0-B4-08-88-8D
+      description: "PlayIPP Box"
+      enabled: true
+      idgroup: 1704_LAN_Etech-IT
+      id: 2558
+
+    - mac: 00-E0-B4-17-0F-A5
+      description: "PlayIpp-box"
+      enabled: true
+      idgroup: 1704_LAN_Etech-IT
+      id: 5168
+
+    - mac: 00-E0-B4-13-BC-72
+      description: "PlayIpp-box"
+      enabled: true
+      idgroup: 1704_LAN_Etech-IT
+      id: 3942
+
+    - mac: 00-E0-B4-0C-B2-A6
+      description: "playipp box som kom pa 10.18"
+      enabled: true
+      idgroup: 1704_LAN_Etech-IT
+      id: 2786
+
+    - mac: 00-E0-B4-13-BC-50
+      description: "playipp"
+      enabled: true
+      idgroup: 1704_LAN_Etech-IT
+      id: 3941
+
+    - mac: 00-E0-B4-08-88-1E
+      description: "PlayIPP Box"
+      enabled: true
+      idgroup: 1704_LAN_Etech-IT
+      id: 2544
+
+    - mac: 00-E0-B4-13-BB-40
+      description: "playipp"
+      enabled: true
+      idgroup: 1704_LAN_Etech-IT
+      id: 3934
+
+    - mac: 68-5B-35-90-58-18
+      description: "Servicedesk iMac 21"
+      enabled: true
+      idgroup: 1704_LAN_Etech-IT
+      id: 2647
+
+    - mac: 00-E0-4C-68-04-C6
+      description: "Sentor 20170316 JF"
+      enabled: true
+      idgroup: 1704_LAN_Etech-IT
+      id: 5248
+
+    - mac: 00-E0-B4-55-40-C1
+      description: "PlayIPP"
+      enabled: true
+      idgroup: 1704_LAN_Etech-IT
+      id: 5382
+
+    - mac: 00-E0-B4-0F-62-0C
+      description: "playipp"
+      enabled: true
+      idgroup: 1704_LAN_Etech-IT
+      id: 3910
+
+    - mac: 00-E0-B4-0A-C1-06
+      description: "playipp"
+      enabled: true
+      idgroup: 1704_LAN_Etech-IT
+      id: 3894
+
+    - mac: 00-E0-B4-13-B9-55
+      description: "PlayIPP Box"
+      enabled: true
+      idgroup: 1704_LAN_Etech-IT
+      id: 5183
+
+    - mac: 00-E0-B4-15-D1-03
+      description: "PlayIpp-box"
+      enabled: true
+      idgroup: 1704_LAN_Etech-IT
+      id: 5133
+
+    - mac: 00-E0-B4-0F-F9-3A
+      description: "playipp"
+      enabled: true
+      idgroup: 1704_LAN_Etech-IT
+      id: 3922
+
+    - mac: 00-E0-B4-08-88-1D
+      description: "PlayIpp-box"
+      enabled: true
+      idgroup: 1704_LAN_Etech-IT
+      id: 5141
+
+    - mac: F0-DE-F1-60-66-88
+      description: "no description"
+      enabled: true
+      idgroup: 1704_LAN_Etech-IT
+      id: 2096
+
+    - mac: 00-E0-B4-0F-62-5C
+      description: "playipp box som kom pa 10.18"
+      enabled: true
+      idgroup: 1704_LAN_Etech-IT
+      id: 2805
+
+    - mac: AC-87-A3-25-54-E6
+      description: "jonasF Thunderbolt"
+      enabled: true
+      idgroup: 1704_LAN_Etech-IT
+      id: 2839
+
+    - mac: 00-E0-B4-0F-E3-F5
+      description: "playipp"
+      enabled: true
+      idgroup: 1704_LAN_Etech-IT
+      id: 3917
+
+    - mac: 00-E0-B4-08-89-73
+      description: "PlayIPP Box"
+      enabled: true
+      idgroup: 1704_LAN_Etech-IT
+      id: 2554
+
+    - mac: 00-E0-B4-08-89-2B
+      description: "PlayIPP Box"
+      enabled: true
+      idgroup: 1704_LAN_Etech-IT
+      id: 2574
+
+    - mac: 68-F7-28-6B-DF-29
+      description: "Erik Axzell, T450s, Conscia Netsafe"
+      enabled: true
+      idgroup: 1704_LAN_Etech-IT
+      id: 5278
+
+    - mac: 00-E0-B4-08-89-F3
+      description: "PlayIPP Box"
+      enabled: true
+      idgroup: 1704_LAN_Etech-IT
+      id: 2526
+
+    - mac: 00-E0-B4-08-F1-68
+      description: "playipp"
+      enabled: true
+      idgroup: 1704_LAN_Etech-IT
+      id: 3888
+
+    - mac: EC-F4-BB-60-D1-F0
+      description: "temp win dator tommy"
+      enabled: true
+      idgroup: 1704_LAN_Etech-IT
+      id: 2720
+
+    - mac: 00-E0-B4-0A-C2-39
+      description: "playipp"
+      enabled: true
+      idgroup: 1704_LAN_Etech-IT
+      id: 3897
+
+    - mac: 00-E0-B4-13-B9-89
+      description: "PlayIpp-box"
+      enabled: true
+      idgroup: 1704_LAN_Etech-IT
+      id: 5130
+
+    - mac: 00-E0-B4-0A-C0-8A
+      description: "playipp"
+      enabled: true
+      idgroup: 1704_LAN_Etech-IT
+      id: 3892
+
+    - mac: 00-E0-B4-08-88-AB
+      description: "PlayIPP Box"
+      enabled: true
+      idgroup: 1704_LAN_Etech-IT
+      id: 2516
+
+    - mac: 00-E0-B4-08-89-DC
+      description: "PlayIPP Box"
+      enabled: true
+      idgroup: 1704_LAN_Etech-IT
+      id: 2538
+
+    - mac: 90-A2-DA-0F-2A-17
+      description: "Sergios Arduino // 2014-09-03, Magnus"
+      enabled: true
+      idgroup: 1704_LAN_Etech-IT
+      id: 2721
+
+    - mac: 00-E0-B4-08-89-AF
+      description: "PlayIPP Box"
+      enabled: true
+      idgroup: 1704_LAN_Etech-IT
+      id: 2551
+
+    - mac: 00-E0-B4-13-BB-58
+      description: "playipp"
+      enabled: true
+      idgroup: 1704_LAN_Etech-IT
+      id: 3936
+
+    - mac: 50-7B-9D-F5-92-27
+      description: "Henrik Grankvist - Netsafe"
+      enabled: true
+      idgroup: 1704_LAN_Etech-IT
+      id: 5167
+
+    - mac: 00-E0-B4-0C-B8-54
+      description: "playipp"
+      enabled: true
+      idgroup: 1704_LAN_Etech-IT
+      id: 3906
+
+    - mac: AC-87-A3-39-56-C8
+      description: "Magnus Jader MacPro 56710"
+      enabled: true
+      idgroup: 1704_LAN_Etech-IT
+      id: 1190
+
+    - mac: 34-D0-B8-70-13-6B
+      description: "Playipp"
+      enabled: true
+      idgroup: 1704_LAN_Etech-IT
+      id: 5510
+
+    - mac: 00-E0-B4-09-FE-FD
+      description: "playipp"
+      enabled: true
+      idgroup: 1704_LAN_Etech-IT
+      id: 3889
+
+    - mac: 0C-4D-E9-B1-7A-9B
+      description: "Markus Ljunghage, Cygate 2016-10-20"
+      enabled: true
+      idgroup: 1704_LAN_Etech-IT
+      id: 5171
+
+    - mac: 34-D0-B8-70-82-4F
+      description: "Playipp Servicedesk"
+      enabled: true
+      idgroup: 1704_LAN_Etech-IT
+      id: 5508
+
+    - mac: 00-E0-B4-0A-C1-0F
+      description: "playipp box som kom pa 10.18"
+      enabled: true
+      idgroup: 1704_LAN_Etech-IT
+      id: 2785
+
+    - mac: 00-E0-B4-0F-F9-49
+      description: "playipp"
+      enabled: true
+      idgroup: 1704_LAN_Etech-IT
+      id: 3925
+
+    - mac: 00-E0-B4-08-7F-F6
+      description: "PlayIpp-box"
+      enabled: true
+      idgroup: 1704_LAN_Etech-IT
+      id: 5208
+
+    - mac: 00-E0-B4-13-BB-21
+      description: "PlayIpp-box"
+      enabled: true
+      idgroup: 1704_LAN_Etech-IT
+      id: 5209
+
+    - mac: E4-3A-6E-06-2F-E8
+      description: "PlayIPP Box 1"
+      enabled: true
+      idgroup: 1704_LAN_Etech-IT
+      id: 5443
+
+    - mac: 00-E0-B4-17-0E-40
+      description: "PlayIpp-box"
+      enabled: true
+      idgroup: 1704_LAN_Etech-IT
+      id: 5172
+
+    - mac: 00-E0-B4-08-7F-EC
+      description: "PlayIPP Box"
+      enabled: true
+      idgroup: 1704_LAN_Etech-IT
+      id: 2524
+
+    - mac: C0-56-27-F2-E2-35
+      description: "Joacim Wicander, Netsafe"
+      enabled: true
+      idgroup: 1704_LAN_Etech-IT
+      id: 5340
+
+    - mac: 00-E0-B4-55-3E-67
+      description: "playipp"
+      enabled: true
+      idgroup: 1704_LAN_Etech-IT
+      id: 5385
+
+    - mac: 00-E0-B4-13-BC-26
+      description: "playipp"
+      enabled: true
+      idgroup: 1704_LAN_Etech-IT
+      id: 3939
+
+    - mac: 00-E0-B4-08-7F-F5
+      description: "PlayIPP Box"
+      enabled: true
+      idgroup: 1704_LAN_Etech-IT
+      id: 2528
+
+    - mac: 6C-21-A2-18-BC-47
+      description: "Playipp player"
+      enabled: true
+      idgroup: 1704_LAN_Etech-IT
+      id: 5506
+
+    - mac: 28-D2-44-92-7D-EE
+      description: "Kjell Andersson, Netsafe  // 2016-08-05, Magnus"
+      enabled: true
+      idgroup: 1704_LAN_Etech-IT
+      id: 5136
+
+    - mac: 00-E0-B4-08-7F-F3
+      description: "PlayIPP Box"
+      enabled: true
+      idgroup: 1704_LAN_Etech-IT
+      id: 2518
+
+    - mac: 50-7B-9D-20-DA-1C
+      description: "Walter Cruz, Conscia Netsafe"
+      enabled: true
+      idgroup: 1704_LAN_Etech-IT
+      id: 5263
+
+    - mac: 68-F7-28-34-B2-02
+      description: "Karim Latouche klatouch@redhat.com"
+      enabled: true
+      idgroup: 1704_LAN_Etech-IT
+      id: 5347
+
+    - mac: 00-E0-B4-0F-43-F6
+      description: "playipp"
+      enabled: true
+      idgroup: 1704_LAN_Etech-IT
+      id: 3908
+
+    - mac: 00-E0-B4-08-7D-EF
+      description: "PlayIPP Box"
+      enabled: true
+      idgroup: 1704_LAN_Etech-IT
+      id: 2545
+
+    - mac: B8-27-EB-AA-A9-6C
+      description: "Pi2 Martin"
+      enabled: true
+      idgroup: 1704_LAN_Etech-IT
+      id: 2761
+
+    - mac: 00-E0-B4-08-89-F6
+      description: "PlayIPP Box"
+      enabled: true
+      idgroup: 1704_LAN_Etech-IT
+      id: 2522
+
+    - mac: 00-E0-B4-08-89-14
+      description: "PlayIPP Box"
+      enabled: true
+      idgroup: 1704_LAN_Etech-IT
+      id: 2565
+
+    - mac: 0C-4D-E9-A9-17-D7
+      description: "Fanny noc temp 20190307"
+      enabled: false
+      idgroup: 1704_LAN_Etech-IT
+      id: 5466
+
+    - mac: B8-27-EB-0E-21-19
+      description: "DevTeam Raspberry"
+      enabled: true
+      idgroup: 1704_LAN_Etech-IT
+      id: 2362
+
+    - mac: 00-E0-B4-0C-B4-71
+      description: "playipp"
+      enabled: true
+      idgroup: 1704_LAN_Etech-IT
+      id: 3901
+
+    - mac: 00-E0-B4-17-0E-30
+      description: "PlayIPP Box"
+      enabled: true
+      idgroup: 1704_LAN_Etech-IT
+      id: 5165
+
+    - mac: 00-E0-B4-13-BC-1A
+      description: "PLAYIPP box "
+      enabled: true
+      idgroup: 1704_LAN_Etech-IT
+      id: 5337
+
+    - mac: 00-0D-5D-0B-BE-68
+      description: "RemotePowerSwitch Raritan "
+      enabled: true
+      idgroup: 1704_LAN_Etech-IT
+      id: 2686
+
+    - mac: 8C-16-45-66-BA-D5
+      description: "thinkpad temp clientmgmt"
+      enabled: true
+      idgroup: 1704_LAN_Etech-IT
+      id: 5425
+
+    - mac: 00-E0-B4-13-B9-73
+      description: "PlayIpp-box"
+      enabled: true
+      idgroup: 1704_LAN_Etech-IT
+      id: 3928
+
+    - mac: 40-6C-8F-3F-9D-7A
+      description: "felsokningsmac ftp //2015-11-03, Mats"
+      enabled: true
+      idgroup: 1704_LAN_Etech-IT
+      id: 2905
+
+    - mac: 00-E0-B4-13-BC-76
+      description: "PlayIPP Box"
+      enabled: true
+      idgroup: 1704_LAN_Etech-IT
+      id: 5184
+
+    - mac: 00-E0-B4-13-EA-4E
+      description: "playipp"
+      enabled: true
+      idgroup: 1704_LAN_Etech-IT
+      id: 3944
+
+    - mac: 00-E0-B4-13-B9-7D
+      description: "PlayIpp-box"
+      enabled: true
+      idgroup: 1704_LAN_Etech-IT
+      id: 3930
+
+    - mac: 00-E0-B4-0F-E3-F4
+      description: "playipp"
+      enabled: true
+      idgroup: 1704_LAN_Etech-IT
+      id: 3916
+
+    - mac: 00-E0-B4-14-B2-AF
+      description: "PlayIPP: Viktklubb pl8 sk1"
+      enabled: true
+      idgroup: 1704_LAN_Etech-IT
+      id: 3949
+
+    - mac: 00-E0-B4-08-89-82
+      description: "PlayIPP Box"
+      enabled: true
+      idgroup: 1704_LAN_Etech-IT
+      id: 2453
+
+    - mac: 00-E0-B4-08-7D-F2
+      description: "PlayIPP Box"
+      enabled: true
+      idgroup: 1704_LAN_Etech-IT
+      id: 2533
+
+    - mac: 00-E0-B4-13-B9-75
+      description: "PlayIpp-box"
+      enabled: true
+      idgroup: 1704_LAN_Etech-IT
+      id: 3929
+
+    - mac: 68-5B-35-9B-22-8A
+      description: "Markus Junghage/Cygate // 2015-09-07, Lars"
+      enabled: true
+      idgroup: 1704_LAN_Etech-IT
+      id: 2869
+
+    - mac: 00-E0-B4-0F-E3-EA
+      description: "PlayIpp-box"
+      enabled: true
+      idgroup: 1704_LAN_Etech-IT
+      id: 2792
+
+    - mac: A8-60-B6-19-A1-E9
+      description: "Konsult Daniel.Sigwid conoa"
+      enabled: true
+      idgroup: 1704_LAN_Etech-IT
+      id: 5280
+
+    - mac: 5C-F9-DD-5A-9D-AD
+      description: "Konsult Daniel.Forsberg conoa"
+      enabled: true
+      idgroup: 1704_LAN_Etech-IT
+      id: 5279
+
+    - mac: 00-E0-B4-13-B9-74
+      description: "PlayIpp-box"
+      enabled: true
+      idgroup: 1704_LAN_Etech-IT
+      id: 5131
+
+    - mac: A0-CE-C8-14-D9-FF
+      description: "Consultant Infra 20180814"
+      enabled: true
+      idgroup: 1704_LAN_Etech-IT
+      id: 5393
+
+    - mac: 00-E0-B4-0F-B8-83
+      description: "PlayIPP box"
+      enabled: true
+      idgroup: 1704_LAN_Etech-IT
+      id: 5320
+
+    - mac: 00-E0-B4-08-84-85
+      description: "PlayIPP Box"
+      enabled: true
+      idgroup: 1704_LAN_Etech-IT
+      id: 2543
+
+    - mac: 00-E0-B4-13-BC-2D
+      description: "playipp"
+      enabled: true
+      idgroup: 1704_LAN_Etech-IT
+      id: 3940
+
+    - mac: 00-E0-B4-08-89-26
+      description: "PlayIPP Box"
+      enabled: true
+      idgroup: 1704_LAN_Etech-IT
+      id: 2557
+
+    - mac: B8-27-EB-27-20-2A
+      description: "Martin Pi"
+      enabled: true
+      idgroup: 1704_LAN_Etech-IT
+      id: 2714
+
+    - mac: C4-B3-01-D4-E1-69
+      description: "Martin Hagelin - Schibsted PL"
+      enabled: true
+      idgroup: 1704_LAN_Etech-IT
+      id: 5331
+
+    - mac: 10-9A-DD-5C-5A-90
+      description: "TEST dator 50450 Ya"
+      enabled: true
+      idgroup: 1704_LAN_Etech-IT
+      id: 2024
+
+    - mac: 00-E0-B4-15-CE-C0
+      description: "PlaYipp box"
+      enabled: true
+      idgroup: 1704_LAN_Etech-IT
+      id: 5144
+
+    - mac: 20-C9-D0-2A-8D-6B
+      description: "KEP Konsult"
+      enabled: true
+      idgroup: 1704_LAN_Etech-IT
+      id: 2708
+
+    - mac: 00-E0-B4-08-88-76
+      description: "PlayIPP Box"
+      enabled: true
+      idgroup: 1704_LAN_Etech-IT
+      id: 2562
+
+    - mac: 6C-AD-F8-CF-C7-0C
+      description: "chromecast peso-test"
+      enabled: true
+      idgroup: 1704_LAN_Etech-IT
+      id: 2789
+
+    - mac: 00-E0-B4-08-7D-FB
+      description: "PlayIPP Box"
+      enabled: true
+      idgroup: 1704_LAN_Etech-IT
+      id: 2539
+
+    - mac: E4-3A-6E-04-F1-A1
+      description: "playipp"
+      enabled: true
+      idgroup: 1704_LAN_Etech-IT
+      id: 5383
+
+    - mac: 00-E0-B4-08-88-70
+      description: "PlayIPP Box"
+      enabled: true
+      idgroup: 1704_LAN_Etech-IT
+      id: 2530
+
+    - mac: 00-E0-B4-08-89-C2
+      description: "PlayIPP Box"
+      enabled: true
+      idgroup: 1704_LAN_Etech-IT
+      id: 2564
+
+    - mac: 00-1C-7F-83-9F-8F
+      description: "london checkpoint fw"
+      enabled: true
+      idgroup: 1704_LAN_Etech-IT
+      id: 5314
+
+    - mac: AC-87-A3-2E-1E-1F
+      description: ""
+      enabled: true
+      idgroup: 1704_LAN_Etech-IT
+      id: 4725
+
+    - mac: 00-E0-B4-08-7D-FA
+      description: "PlayIPP Box"
+      enabled: true
+      idgroup: 1704_LAN_Etech-IT
+      id: 2535
+
+    - mac: 00-E0-B4-0A-C2-2B
+      description: "playipp"
+      enabled: true
+      idgroup: 1704_LAN_Etech-IT
+      id: 3896
+
+    - mac: 00-E0-B4-14-0F-07
+      description: "PlayIpp-box"
+      enabled: true
+      idgroup: 1704_LAN_Etech-IT
+      id: 3947
+
+    - mac: E0-DB-55-C9-AE-A8
+      description: "Goran Tornqvist Conoa"
+      enabled: true
+      idgroup: 1704_LAN_Etech-IT
+      id: 5241
+
+    - mac: 00-E1-11-00-41-44
+      description: "Temporary for Conoa troubleshooting //2018-09-13, Mats"
+      enabled: true
+      idgroup: 1704_LAN_Etech-IT
+      id: 5417
+
+    - mac: 00-E0-B4-0F-E3-F7
+      description: "playipp"
+      enabled: true
+      idgroup: 1704_LAN_Etech-IT
+      id: 3918
+
+    - mac: 00-E0-B4-13-EA-28
+      description: "PlayIpp-box"
+      enabled: true
+      idgroup: 1704_LAN_Etech-IT
+      id: 5125
+
+    - mac: 00-E0-B4-13-B9-71
+      description: "PlayIpp-box"
+      enabled: true
+      idgroup: 1704_LAN_Etech-IT
+      id: 3927
+
+    - mac: 00-E0-B4-08-84-B7
+      description: "PlayIPP Box"
+      enabled: true
+      idgroup: 1704_LAN_Etech-IT
+      id: 2553
+
+    - mac: 00-E0-B4-08-89-B5
+      description: "PlayIPP Box"
+      enabled: true
+      idgroup: 1704_LAN_Etech-IT
+      id: 2569
+
+    - mac: 00-E0-B4-55-41-05
+      description: "PlayIPP Box"
+      enabled: true
+      idgroup: 1704_LAN_Etech-IT
+      id: 5390
+
+    - mac: 00-E0-B4-08-7F-EA
+      description: "PlayIPP Box"
+      enabled: true
+      idgroup: 1704_LAN_Etech-IT
+      id: 2571
+
+    - mac: 00-11-32-70-33-7D
+      description: "TommyC NAS 20170405 TEMP"
+      enabled: false
+      idgroup: 1704_LAN_Etech-IT
+      id: 5260
+
+    - mac: 8C-16-45-B1-10-DA
+      description: "Erik Axzell, T480s, Conscia Netsafe"
+      enabled: true
+      idgroup: 1704_LAN_Etech-IT
+      id: 5471
+
+    - mac: 00-E0-B4-08-88-A0
+      description: "PlayIPP Box"
+      enabled: true
+      idgroup: 1704_LAN_Etech-IT
+      id: 2555
+
+    - mac: 00-E0-B4-14-0F-C7
+      description: "PlayIpp-box"
+      enabled: true
+      idgroup: 1704_LAN_Etech-IT
+      id: 5080
+
+    - mac: 00-B5-6D-05-30-86
+      description: "Consultant Infra 20180815"
+      enabled: true
+      idgroup: 1704_LAN_Etech-IT
+      id: 5395
+
+    - mac: 52-54-00-B3-A5-13
+      description: "Sentor //2017-03-15, Mats"
+      enabled: true
+      idgroup: 1704_LAN_Etech-IT
+      id: 5247
+
+    - mac: 00-E0-B4-08-88-A7
+      description: "PlayIPP Box"
+      enabled: true
+      idgroup: 1704_LAN_Etech-IT
+      id: 2532
+
+    - mac: 34-D0-B8-70-58-1E
+      description: "PlayIPP Player"
+      enabled: true
+      idgroup: 1704_LAN_Etech-IT
+      id: 5491
+
+    - mac: E0-76-D0-5B-00-1F
+      description: "playipp"
+      enabled: true
+      idgroup: 1704_LAN_Etech-IT
+      id: 5180
+
+    - mac: 00-E0-B4-0C-B4-7C
+      description: "playipp box som kom pa 10.18"
+      enabled: true
+      idgroup: 1704_LAN_Etech-IT
+      id: 2787
+
+    - mac: 00-E0-B4-16-FD-8B
+      description: "PlayIpp-box"
+      enabled: true
+      idgroup: 1704_LAN_Etech-IT
+      id: 5169
+
+    - mac: E4-3A-6E-06-2E-DD
+      description: "PlayIPP Box 3"
+      enabled: true
+      idgroup: 1704_LAN_Etech-IT
+      id: 5445
+
+    - mac: 00-E0-B4-08-89-7E
+      description: "PlayIPP Box"
+      enabled: true
+      idgroup: 1704_LAN_Etech-IT
+      id: 2542
+
+    - mac: 00-E0-B4-08-84-A5
+      description: "PlayIPP Box"
+      enabled: true
+      idgroup: 1704_LAN_Etech-IT
+      id: 2560
+
+    - mac: B0-34-95-3A-F9-7E
+      description: "AppleTV Akvariet pl6"
+      enabled: true
+      idgroup: 1704_LAN_Etech-IT
+      id: 2730
+
+    - mac: 00-E0-B4-15-BB-51
+      description: "PlayIpp-box"
+      enabled: true
+      idgroup: 1704_LAN_Etech-IT
+      id: 5142
+
+    - mac: 00-E0-B4-15-70-12
+      description: "PlayIpp-box"
+      enabled: true
+      idgroup: 1704_LAN_Etech-IT
+      id: 5236
+
+    - mac: 00-E0-B4-0C-A9-B4
+      description: "playipp box som kom pa 10.18"
+      enabled: true
+      idgroup: 1704_LAN_Etech-IT
+      id: 2784
+
+    - mac: 90-A2-DA-0F-5D-A5
+      description: "Tommy C Arduino // 2014-12-05, JF"
+      enabled: true
+      idgroup: 1704_LAN_Etech-IT
+      id: 2749
+
+    - mac: 00-E0-B4-08-89-42
+      description: "PlayIPP Box"
+      enabled: true
+      idgroup: 1704_LAN_Etech-IT
+      id: 2523
+
+    - mac: E4-3A-6E-06-2D-F8
+      description: "PlayIPP Box 2"
+      enabled: true
+      idgroup: 1704_LAN_Etech-IT
+      id: 5444
+
+    - mac: 00-E0-B4-08-89-13
+      description: "PLAYipp box"
+      enabled: true
+      idgroup: 1704_LAN_Etech-IT
+      id: 2450
+
+    - mac: 00-E0-B4-08-88-90
+      description: "PlayIPP Box"
+      enabled: true
+      idgroup: 1704_LAN_Etech-IT
+      id: 2549
+
+    - mac: 00-E0-B4-0F-E3-D2
+      description: "playipp"
+      enabled: true
+      idgroup: 1704_LAN_Etech-IT
+      id: 3913
+
+    - mac: 00-E0-B4-0F-F9-3C
+      description: "playipp"
+      enabled: true
+      idgroup: 1704_LAN_Etech-IT
+      id: 2868
+
+    - mac: 00-E0-B4-08-7F-FA
+      description: "PlayIPP Box"
+      enabled: true
+      idgroup: 1704_LAN_Etech-IT
+      id: 2536
+
+    - mac: 00-E0-B4-13-BB-19
+      description: "playipp"
+      enabled: true
+      idgroup: 1704_LAN_Etech-IT
+      id: 3931
+
+    - mac: 00-E0-B4-17-0F-A9
+      description: "PlayIPP Box"
+      enabled: true
+      idgroup: 1704_LAN_Etech-IT
+      id: 5166
+
+    - mac: 00-E0-B4-13-BB-76
+      description: "PlayIpp-box"
+      enabled: true
+      idgroup: 1704_LAN_Etech-IT
+      id: 3937
+
+    - mac: 00-E0-B4-0A-C0-A6
+      description: "playipp"
+      enabled: true
+      idgroup: 1704_LAN_Etech-IT
+      id: 3893
+
+    - mac: 00-E0-B4-08-89-62
+      description: "PlayIPP Box"
+      enabled: true
+      idgroup: 1704_LAN_Etech-IT
+      id: 2540
+
+    - mac: 00-E0-B4-0A-0B-1F
+      description: "playipp"
+      enabled: true
+      idgroup: 1704_LAN_Etech-IT
+      id: 3890
+
+    - mac: 00-E0-B4-08-7F-F4
+      description: "PlayIPP Box"
+      enabled: true
+      idgroup: 1704_LAN_Etech-IT
+      id: 2521
+
+    - mac: 00-E0-B4-0F-62-56
+      description: "playipp"
+      enabled: true
+      idgroup: 1704_LAN_Etech-IT
+      id: 3911
+
+    - mac: 00-E0-B4-08-88-A4
+      description: "PlayIPP Box"
+      enabled: true
+      idgroup: 1704_LAN_Etech-IT
+      id: 2519
+
+    - mac: 00-E0-B4-08-7D-ED
+      description: "PlayIPP Box"
+      enabled: true
+      idgroup: 1704_LAN_Etech-IT
+      id: 2568
+
+    - mac: 00-E0-6F-26-45-2A
+      description: "playipp box"
+      enabled: true
+      idgroup: 1704_LAN_Etech-IT
+      id: 2426
+
+    - mac: 00-E0-B4-13-EA-58
+      description: "PlayIpp-box"
+      enabled: true
+      idgroup: 1704_LAN_Etech-IT
+      id: 3946
+
+    - mac: 00-E0-B4-08-88-52
+      description: "playipp box"
+      enabled: true
+      idgroup: 1704_LAN_Etech-IT
+      id: 2442
+
+    - mac: 00-E0-B4-13-EA-50
+      description: "playipp"
+      enabled: true
+      idgroup: 1704_LAN_Etech-IT
+      id: 3945
+
+    - mac: A8-20-66-A6-2F-1E
+      description: "jonasF Securedrop TEMP"
+      enabled: true
+      idgroup: 1704_LAN_Etech-IT
+      id: 5463
+
+    - mac: 00-E0-B4-13-B9-80
+      description: "PlayIPP Box"
+      enabled: true
+      idgroup: 1704_LAN_Etech-IT
+      id: 5182
+
+    - mac: 3C-07-54-5F-F5-B7
+      description: "MacInfra"
+      enabled: true
+      idgroup: 1704_LAN_Etech-IT
+      id: 5371
+
+    - mac: 00-E0-B4-0C-B8-51
+      description: "playipp"
+      enabled: true
+      idgroup: 1704_LAN_Etech-IT
+      id: 3905
+
+    - mac: 00-E0-B4-13-BC-89
+      description: "PlayIpp-box"
+      enabled: true
+      idgroup: 1704_LAN_Etech-IT
+      id: 5155
+
+    - mac: 00-E0-B4-0F-62-03
+      description: "playipp"
+      enabled: true
+      idgroup: 1704_LAN_Etech-IT
+      id: 3909
+
+    - mac: 00-E0-B4-08-84-9E
+      description: "PlayIPP Box"
+      enabled: true
+      idgroup: 1704_LAN_Etech-IT
+      id: 2559
+
+    - mac: 00-E0-B4-55-40-91
+      description: "PlayIPP Box"
+      enabled: true
+      idgroup: 1704_LAN_Etech-IT
+      id: 5391
+
+    - mac: 00-0D-5D-0B-BE-70
+      description: "RemotePowerSwitch Raritan "
+      enabled: true
+      idgroup: 1704_LAN_Etech-IT
+      id: 2685
+
+    - mac: 00-E0-B4-0F-E3-FA
+      description: "no description"
+      enabled: true
+      idgroup: 1704_LAN_Etech-IT
+      id: 2832
+
+    - mac: E8-6A-64-D8-4A-B9
+      description: "Henrik Grankvist, T490, Netsafe"
+      enabled: true
+      idgroup: 1704_LAN_Etech-IT
+      id: 5532
+
+    - mac: D4-BE-D9-14-F1-0F
+      description: "TEST_PC"
+      enabled: true
+      idgroup: 1704_LAN_Etech-IT
+      id: 2624
+
+    - mac: 00-E0-B4-16-FD-AE
+      description: "PlayIpp-box"
+      enabled: true
+      idgroup: 1704_LAN_Etech-IT
+      id: 5237
+
+    - mac: 00-E0-B4-13-BC-40
+      description: "PlayIpp-box"
+      enabled: true
+      idgroup: 1704_LAN_Etech-IT
+      id: 5126
+
+    - mac: 00-E0-B4-0F-E3-F0
+      description: "playipp"
+      enabled: true
+      idgroup: 1704_LAN_Etech-IT
+      id: 3915
+
+    - mac: 00-E0-B4-13-EA-45
+      description: "playipp"
+      enabled: true
+      idgroup: 1704_LAN_Etech-IT
+      id: 3943
+
+    - mac: 00-E0-B4-0C-B3-AC
+      description: "playipp"
+      enabled: true
+      idgroup: 1704_LAN_Etech-IT
+      id: 3900
+
+    - mac: 00-E0-6F-26-45-51
+      description: "PLAYipp box"
+      enabled: true
+      idgroup: 1704_LAN_Etech-IT
+      id: 2408
+
+    - mac: 00-E0-B4-13-BB-2D
+      description: "PlayIpp-box"
+      enabled: true
+      idgroup: 1704_LAN_Etech-IT
+      id: 3933
+
+    - mac: 00-E0-B4-08-89-CC
+      description: "PlayIPP Box"
+      enabled: true
+      idgroup: 1704_LAN_Etech-IT
+      id: 2537
+
+    - mac: 00-E0-B4-17-0E-3D
+      description: "PlayIPP Box"
+      enabled: true
+      idgroup: 1704_LAN_Etech-IT
+      id: 5164
+
+    - mac: 00-E0-B4-08-84-78
+      description: "PlayIPP Box"
+      enabled: true
+      idgroup: 1704_LAN_Etech-IT
+      id: 2529
+
+    - mac: 00-E0-B4-0F-F9-37
+      description: "playipp"
+      enabled: true
+      idgroup: 1704_LAN_Etech-IT
+      id: 3921
+
+    - mac: 00-E0-B4-13-BC-25
+      description: "playipp"
+      enabled: true
+      idgroup: 1704_LAN_Etech-IT
+      id: 3938
+
+    - mac: 00-E0-B4-0C-B8-83
+      description: "playipp"
+      enabled: true
+      idgroup: 1704_LAN_Etech-IT
+      id: 3907
+
+    - mac: 54-EE-75-3B-1C-5F
+      description: "no description"
+      enabled: true
+      idgroup: 1704_LAN_Etech-IT
+      id: 2888
+
+    - mac: 00-E0-B4-08-89-66
+      description: "PlayIPP Box"
+      enabled: true
+      idgroup: 1704_LAN_Etech-IT
+      id: 2566
+
+    - mac: 00-E0-B4-14-B2-B3
+      description: "PlayIPP: Viktklubb pl8 sk2"
+      enabled: true
+      idgroup: 1704_LAN_Etech-IT
+      id: 3950
+
+    - mac: 00-E0-B4-08-89-28
+      description: "PlayIPP Box"
+      enabled: true
+      idgroup: 1704_LAN_Etech-IT
+      id: 2546
+
+    - mac: 00-E0-B4-08-7D-FC
+      description: "PlayIPP Box"
+      enabled: true
+      idgroup: 1704_LAN_Etech-IT
+      id: 2517
+
+    - mac: 54-EE-75-CB-37-C7
+      description: "Cygate konsult Jim Granvik checkpoint //2017-07-24"
+      enabled: true
+      idgroup: 1704_LAN_Etech-IT
+      id: 5311
+
+    - mac: 00-1B-63-A8-94-11
+      description: "Mac i BGC"
+      enabled: true
+      idgroup: 1704_LAN_Etech-IT
+      id: 1964
+
+    - mac: 00-E0-B4-15-70-08
+      description: "PlaYipp box"
+      enabled: true
+      idgroup: 1704_LAN_Etech-IT
+      id: 5143
+
+    - mac: 00-E0-B4-08-7D-F4
+      description: "PlayIPP Box"
+      enabled: true
+      idgroup: 1704_LAN_Etech-IT
+      id: 2556
+
+    - mac: A8-20-66-03-5F-EC
+      description: "no description"
+      enabled: true
+      idgroup: 1704_LAN_Etech-IT
+      id: 2288
+
+    - mac: 00-E0-B4-0C-B8-44
+      description: "playipp box som kom pa 10.18"
+      enabled: true
+      idgroup: 1704_LAN_Etech-IT
+      id: 2788
+
+    - mac: 00-E0-B4-08-84-84
+      description: "PlayIPP Box"
+      enabled: true
+      idgroup: 1704_LAN_Etech-IT
+      id: 2531
+
+    - mac: 00-E0-B4-55-40-05
+      description: "playipp"
+      enabled: true
+      idgroup: 1704_LAN_Etech-IT
+      id: 5384
+
+    - mac: EC-F4-BB-2F-CB-4F
+      description: "Magnus Jader Dell Linux"
+      enabled: true
+      idgroup: 1704_LAN_Etech-IT
+      id: 67
+
+    - mac: 00-E0-B4-13-BC-3B
+      description: "PlayIpp-box"
+      enabled: true
+      idgroup: 1704_LAN_Etech-IT
+      id: 5128
+
+    - mac: 00-E0-B4-08-84-A8
+      description: "PlayIPP Box"
+      enabled: true
+      idgroup: 1704_LAN_Etech-IT
+      id: 2561
+
+    - mac: 34-E6-D7-0C-58-BC
+      description: "Sergio 2015-01-30"
+      enabled: true
+      idgroup: 1704_LAN_Etech-IT
+      id: 1603
+
+    - mac: E4-3A-6E-06-2F-1A
+      description: "PlayIPP Box"
+      enabled: true
+      idgroup: 1704_LAN_Etech-IT
+      id: 5389
+
+    - mac: 00-E0-B4-13-B9-85
+      description: "PlayIPP Box"
+      enabled: true
+      idgroup: 1704_LAN_Etech-IT
+      id: 5185
+
+    - mac: 00-E0-B4-0B-89-F3
+      description: "PlayIPP Box"
+      enabled: true
+      idgroup: 1704_LAN_Etech-IT
+      id: 5242
+
+    - mac: 00-1C-7F-83-B1-7D
+      description: "london checkpoint fw"
+      enabled: true
+      idgroup: 1704_LAN_Etech-IT
+      id: 5315
+
+    - mac: 00-E0-B4-08-7D-F1
+      description: "PlayIPP Box"
+      enabled: true
+      idgroup: 1704_LAN_Etech-IT
+      id: 2563
+
+    - mac: 54-EE-75-55-F9-D6
+      description: "Andreas Di Zazzo - Netsafe - PC"
+      enabled: true
+      idgroup: 1704_LAN_Etech-IT
+      id: 4217
+
+    - mac: 00-E0-B4-0F-F9-43
+      description: "playippbox som kom pa 10.18"
+      enabled: true
+      idgroup: 1704_LAN_Etech-IT
+      id: 2840
+
+    - mac: 34-D0-B8-70-82-AC
+      description: "Playipp player"
+      enabled: true
+      idgroup: 1704_LAN_Etech-IT
+      id: 5507
+
+    - mac: 00-E0-B4-0C-B4-7B
+      description: "playipp"
+      enabled: true
+      idgroup: 1704_LAN_Etech-IT
+      id: 3902
+
+    - mac: 00-05-1B-00-9B-4D
+      description: "Boo"
+      enabled: true
+      idgroup: 1704_LAN_Etech-IT
+      id: 5374
+
+    - mac: 00-E0-B4-16-FD-A1
+      description: "PlayIpp-box"
+      enabled: true
+      idgroup: 1704_LAN_Etech-IT
+      id: 5163
+
+    - mac: 00-E0-B4-08-7F-F9
+      description: "PlayIPP Box"
+      enabled: true
+      idgroup: 1704_LAN_Etech-IT
+      id: 2534
+
+    - mac: 00-08-CA-9D-40-1F
+      description: "PLAYipp box"
+      enabled: true
+      idgroup: 1704_LAN_Etech-IT
+      id: 2452
+
+    - mac: 00-E0-B4-13-B9-3A
+      description: "PlayIpp-box"
+      enabled: true
+      idgroup: 1704_LAN_Etech-IT
+      id: 3926
+
+    - mac: 8C-16-45-4A-7E-BE
+      description: "Daniel Conoa //20180824, ML"
+      enabled: true
+      idgroup: 1704_LAN_Etech-IT
+      id: 5400
+
+    - mac: 00-E0-B4-08-84-A1
+      description: "PlayIPP Box"
+      enabled: true
+      idgroup: 1704_LAN_Etech-IT
+      id: 2570
+
+    - mac: 00-E0-B4-08-88-8D
+      description: "PlayIPP Box"
+      enabled: true
+      idgroup: 1704_LAN_Etech-IT
+      id: 2558
+
+    - mac: 00-E0-B4-17-0F-A5
+      description: "PlayIpp-box"
+      enabled: true
+      idgroup: 1704_LAN_Etech-IT
+      id: 5168
+
+    - mac: 00-E0-B4-13-BC-72
+      description: "PlayIpp-box"
+      enabled: true
+      idgroup: 1704_LAN_Etech-IT
+      id: 3942
+
+    - mac: 00-E0-B4-0C-B2-A6
+      description: "playipp box som kom pa 10.18"
+      enabled: true
+      idgroup: 1704_LAN_Etech-IT
+      id: 2786
+
+    - mac: 00-E0-B4-13-BC-50
+      description: "playipp"
+      enabled: true
+      idgroup: 1704_LAN_Etech-IT
+      id: 3941
+
+    - mac: 00-E0-B4-08-88-1E
+      description: "PlayIPP Box"
+      enabled: true
+      idgroup: 1704_LAN_Etech-IT
+      id: 2544
+
+    - mac: 00-E0-B4-13-BB-40
+      description: "playipp"
+      enabled: true
+      idgroup: 1704_LAN_Etech-IT
+      id: 3934
+
+    - mac: 68-5B-35-90-58-18
+      description: "Servicedesk iMac 21"
+      enabled: true
+      idgroup: 1704_LAN_Etech-IT
+      id: 2647
+
+    - mac: 00-E0-4C-68-04-C6
+      description: "Sentor 20170316 JF"
+      enabled: true
+      idgroup: 1704_LAN_Etech-IT
+      id: 5248
+
+    - mac: 00-E0-B4-55-40-C1
+      description: "PlayIPP"
+      enabled: true
+      idgroup: 1704_LAN_Etech-IT
+      id: 5382
+
+    - mac: 00-E0-B4-0F-62-0C
+      description: "playipp"
+      enabled: true
+      idgroup: 1704_LAN_Etech-IT
+      id: 3910
+
+    - mac: 00-E0-B4-0A-C1-06
+      description: "playipp"
+      enabled: true
+      idgroup: 1704_LAN_Etech-IT
+      id: 3894
+
+    - mac: 00-E0-B4-13-B9-55
+      description: "PlayIPP Box"
+      enabled: true
+      idgroup: 1704_LAN_Etech-IT
+      id: 5183
+
+    - mac: 00-E0-B4-15-D1-03
+      description: "PlayIpp-box"
+      enabled: true
+      idgroup: 1704_LAN_Etech-IT
+      id: 5133
+
+    - mac: 00-E0-B4-0F-F9-3A
+      description: "playipp"
+      enabled: true
+      idgroup: 1704_LAN_Etech-IT
+      id: 3922
+
+    - mac: 00-E0-B4-08-88-1D
+      description: "PlayIpp-box"
+      enabled: true
+      idgroup: 1704_LAN_Etech-IT
+      id: 5141
+
+    - mac: F0-DE-F1-60-66-88
+      description: "no description"
+      enabled: true
+      idgroup: 1704_LAN_Etech-IT
+      id: 2096
+
+    - mac: 00-E0-B4-0F-62-5C
+      description: "playipp box som kom pa 10.18"
+      enabled: true
+      idgroup: 1704_LAN_Etech-IT
+      id: 2805
+
+    - mac: AC-87-A3-25-54-E6
+      description: "jonasF Thunderbolt"
+      enabled: true
+      idgroup: 1704_LAN_Etech-IT
+      id: 2839
+
+    - mac: 00-E0-B4-0F-E3-F5
+      description: "playipp"
+      enabled: true
+      idgroup: 1704_LAN_Etech-IT
+      id: 3917
+
+    - mac: 00-E0-B4-08-89-73
+      description: "PlayIPP Box"
+      enabled: true
+      idgroup: 1704_LAN_Etech-IT
+      id: 2554
+
+    - mac: 00-E0-B4-08-89-2B
+      description: "PlayIPP Box"
+      enabled: true
+      idgroup: 1704_LAN_Etech-IT
+      id: 2574
+
+    - mac: 68-F7-28-6B-DF-29
+      description: "Erik Axzell, T450s, Conscia Netsafe"
+      enabled: true
+      idgroup: 1704_LAN_Etech-IT
+      id: 5278
+
+    - mac: 00-E0-B4-08-89-F3
+      description: "PlayIPP Box"
+      enabled: true
+      idgroup: 1704_LAN_Etech-IT
+      id: 2526
+
+    - mac: 00-E0-B4-08-F1-68
+      description: "playipp"
+      enabled: true
+      idgroup: 1704_LAN_Etech-IT
+      id: 3888
+
+    - mac: EC-F4-BB-60-D1-F0
+      description: "temp win dator tommy"
+      enabled: true
+      idgroup: 1704_LAN_Etech-IT
+      id: 2720
+
+    - mac: 00-E0-B4-0A-C2-39
+      description: "playipp"
+      enabled: true
+      idgroup: 1704_LAN_Etech-IT
+      id: 3897
+
+    - mac: 00-E0-B4-13-B9-89
+      description: "PlayIpp-box"
+      enabled: true
+      idgroup: 1704_LAN_Etech-IT
+      id: 5130
+

@@ -1,0 +1,350 @@
+1800_LAN_G4S-CardReader:
+
+    - mac: 00-60-A8-00-6F-9B
+      description: "28-10:01 - Plan 13 Trapphus Vanster"
+      enabled: true
+      idgroup: 1800_LAN_G4S-CardReader
+      id: 2889
+
+    - mac: 00-60-A8-00-6E-BB
+      description: "Plan 10, NV"
+      enabled: true
+      idgroup: 1800_LAN_G4S-CardReader
+      id: 3743
+
+    - mac: 00-0C-C6-82-49-B7
+      description: "no description"
+      enabled: true
+      idgroup: 1800_LAN_G4S-CardReader
+      id: 5468
+
+    - mac: 00-60-A8-00-6F-7A
+      description: "Plan 6"
+      enabled: true
+      idgroup: 1800_LAN_G4S-CardReader
+      id: 3750
+
+    - mac: 00-60-A8-00-6E-85
+      description: "28-10:03 - Plan 13 Korskopplingsrum"
+      enabled: true
+      idgroup: 1800_LAN_G4S-CardReader
+      id: 2891
+
+    - mac: 00-60-A8-00-68-F4
+      description: "28-10:05 - Plan 13 Terrass"
+      enabled: true
+      idgroup: 1800_LAN_G4S-CardReader
+      id: 2893
+
+    - mac: 00-60-A8-00-6F-A8
+      description: "no description"
+      enabled: true
+      idgroup: 1800_LAN_G4S-CardReader
+      id: 2886
+
+    - mac: 00-60-A8-00-6E-FC
+      description: "28-10:04 - Plan 13"
+      enabled: true
+      idgroup: 1800_LAN_G4S-CardReader
+      id: 2911
+
+    - mac: 00-60-A8-00-58-40
+      description: "ostermalmsgatan"
+      enabled: true
+      idgroup: 1800_LAN_G4S-CardReader
+      id: 5077
+
+    - mac: 00-60-A8-00-6F-0A
+      description: "Plan 6"
+      enabled: true
+      idgroup: 1800_LAN_G4S-CardReader
+      id: 3747
+
+    - mac: 00-60-A8-00-51-06
+      description: "NLX Byggforrad plan 2"
+      enabled: true
+      idgroup: 1800_LAN_G4S-CardReader
+      id: 5346
+
+    - mac: 00-0C-C6-82-49-AC
+      description: "no description"
+      enabled: true
+      idgroup: 1800_LAN_G4S-CardReader
+      id: 5460
+
+    - mac: 00-60-A8-00-6E-9C
+      description: "Plan 11, N"
+      enabled: true
+      idgroup: 1800_LAN_G4S-CardReader
+      id: 3742
+
+    - mac: 00-60-A8-00-6F-AA
+      description: "Plan 2"
+      enabled: true
+      idgroup: 1800_LAN_G4S-CardReader
+      id: 2897
+
+    - mac: 00-60-A8-00-6E-84
+      description: "28-10:02 - Plan 13 Trapphus Hoger / Kontor Vid Nodutgang"
+      enabled: true
+      idgroup: 1800_LAN_G4S-CardReader
+      id: 2890
+
+    - mac: 00-60-A8-00-6F-32
+      description: "Plan 11, ZM01-21B-24"
+      enabled: true
+      idgroup: 1800_LAN_G4S-CardReader
+      id: 3749
+
+    - mac: 00-0C-C6-82-BF-D4
+      description: "door-central pl13"
+      enabled: true
+      idgroup: 1800_LAN_G4S-CardReader
+      id: 5458
+
+    - mac: 00-60-A8-00-6E-FD
+      description: "Plan 5"
+      enabled: true
+      idgroup: 1800_LAN_G4S-CardReader
+      id: 3746
+
+    - mac: 00-60-A8-00-73-9D
+      description: "NLX Byggforrad plan 2-2"
+      enabled: true
+      idgroup: 1800_LAN_G4S-CardReader
+      id: 5348
+
+    - mac: 00-0C-C6-82-49-C9
+      description: "larmcentral plan7"
+      enabled: true
+      idgroup: 1800_LAN_G4S-CardReader
+      id: 5467
+
+    - mac: AC-CC-8E-C2-66-27
+      description: "AXIS Porttele entre"
+      enabled: true
+      idgroup: 1800_LAN_G4S-CardReader
+      id: 5483
+
+    - mac: 00-60-A8-00-58-52
+      description: "Kortlasare Ostermalmsgatan"
+      enabled: true
+      idgroup: 1800_LAN_G4S-CardReader
+      id: 5078
+
+    - mac: 00-60-A8-00-6F-23
+      description: "Plan 10, No"
+      enabled: true
+      idgroup: 1800_LAN_G4S-CardReader
+      id: 3748
+
+    - mac: 00-60-A8-00-6E-DC
+      description: "28-10:04 - Plan 13 Terrass Vid Nodutgang"
+      enabled: true
+      idgroup: 1800_LAN_G4S-CardReader
+      id: 2892
+
+    - mac: AC-CC-8E-C9-68-5F
+      description: "no description"
+      enabled: true
+      idgroup: 1800_LAN_G4S-CardReader
+      id: 5490
+
+    - mac: 00-60-A8-00-6F-8F
+      description: "Plan 2"
+      enabled: true
+      idgroup: 1800_LAN_G4S-CardReader
+      id: 2896
+
+    - mac: 00-60-A8-00-58-8A
+      description: "ostermalmsgatan"
+      enabled: true
+      idgroup: 1800_LAN_G4S-CardReader
+      id: 5076
+
+    - mac: 00-0C-C6-82-49-D3
+      description: "no description"
+      enabled: true
+      idgroup: 1800_LAN_G4S-CardReader
+      id: 5459
+
+    - mac: AC-CC-8E-24-C4-C7
+      description: "overvakningskamera"
+      enabled: true
+      idgroup: 1800_LAN_G4S-CardReader
+      id: 4782
+
+    - mac: 00-60-A8-00-6F-9B
+      description: "28-10:01 - Plan 13 Trapphus Vanster"
+      enabled: true
+      idgroup: 1800_LAN_G4S-CardReader
+      id: 2889
+
+    - mac: 00-60-A8-00-6E-BB
+      description: "Plan 10, NV"
+      enabled: true
+      idgroup: 1800_LAN_G4S-CardReader
+      id: 3743
+
+    - mac: 00-0C-C6-82-49-B7
+      description: "no description"
+      enabled: true
+      idgroup: 1800_LAN_G4S-CardReader
+      id: 5468
+
+    - mac: 00-60-A8-00-6F-7A
+      description: "Plan 6"
+      enabled: true
+      idgroup: 1800_LAN_G4S-CardReader
+      id: 3750
+
+    - mac: 00-60-A8-00-6E-85
+      description: "28-10:03 - Plan 13 Korskopplingsrum"
+      enabled: true
+      idgroup: 1800_LAN_G4S-CardReader
+      id: 2891
+
+    - mac: 00-60-A8-00-68-F4
+      description: "28-10:05 - Plan 13 Terrass"
+      enabled: true
+      idgroup: 1800_LAN_G4S-CardReader
+      id: 2893
+
+    - mac: 00-60-A8-00-6F-A8
+      description: "no description"
+      enabled: true
+      idgroup: 1800_LAN_G4S-CardReader
+      id: 2886
+
+    - mac: 00-60-A8-00-6E-FC
+      description: "28-10:04 - Plan 13"
+      enabled: true
+      idgroup: 1800_LAN_G4S-CardReader
+      id: 2911
+
+    - mac: 00-60-A8-00-58-40
+      description: "ostermalmsgatan"
+      enabled: true
+      idgroup: 1800_LAN_G4S-CardReader
+      id: 5077
+
+    - mac: 00-60-A8-00-6F-0A
+      description: "Plan 6"
+      enabled: true
+      idgroup: 1800_LAN_G4S-CardReader
+      id: 3747
+
+    - mac: 00-60-A8-00-51-06
+      description: "NLX Byggforrad plan 2"
+      enabled: true
+      idgroup: 1800_LAN_G4S-CardReader
+      id: 5346
+
+    - mac: 00-0C-C6-82-49-AC
+      description: "no description"
+      enabled: true
+      idgroup: 1800_LAN_G4S-CardReader
+      id: 5460
+
+    - mac: 00-60-A8-00-6E-9C
+      description: "Plan 11, N"
+      enabled: true
+      idgroup: 1800_LAN_G4S-CardReader
+      id: 3742
+
+    - mac: 00-60-A8-00-6F-AA
+      description: "Plan 2"
+      enabled: true
+      idgroup: 1800_LAN_G4S-CardReader
+      id: 2897
+
+    - mac: 00-60-A8-00-6E-84
+      description: "28-10:02 - Plan 13 Trapphus Hoger / Kontor Vid Nodutgang"
+      enabled: true
+      idgroup: 1800_LAN_G4S-CardReader
+      id: 2890
+
+    - mac: 00-60-A8-00-6F-32
+      description: "Plan 11, ZM01-21B-24"
+      enabled: true
+      idgroup: 1800_LAN_G4S-CardReader
+      id: 3749
+
+    - mac: 00-0C-C6-82-BF-D4
+      description: "door-central pl13"
+      enabled: true
+      idgroup: 1800_LAN_G4S-CardReader
+      id: 5458
+
+    - mac: 00-60-A8-00-6E-FD
+      description: "Plan 5"
+      enabled: true
+      idgroup: 1800_LAN_G4S-CardReader
+      id: 3746
+
+    - mac: 00-60-A8-00-73-9D
+      description: "NLX Byggforrad plan 2-2"
+      enabled: true
+      idgroup: 1800_LAN_G4S-CardReader
+      id: 5348
+
+    - mac: 00-0C-C6-82-49-C9
+      description: "larmcentral plan7"
+      enabled: true
+      idgroup: 1800_LAN_G4S-CardReader
+      id: 5467
+
+    - mac: AC-CC-8E-C2-66-27
+      description: "AXIS Porttele entre"
+      enabled: true
+      idgroup: 1800_LAN_G4S-CardReader
+      id: 5483
+
+    - mac: 00-60-A8-00-58-52
+      description: "Kortlasare Ostermalmsgatan"
+      enabled: true
+      idgroup: 1800_LAN_G4S-CardReader
+      id: 5078
+
+    - mac: 00-60-A8-00-6F-23
+      description: "Plan 10, No"
+      enabled: true
+      idgroup: 1800_LAN_G4S-CardReader
+      id: 3748
+
+    - mac: 00-60-A8-00-6E-DC
+      description: "28-10:04 - Plan 13 Terrass Vid Nodutgang"
+      enabled: true
+      idgroup: 1800_LAN_G4S-CardReader
+      id: 2892
+
+    - mac: AC-CC-8E-C9-68-5F
+      description: "no description"
+      enabled: true
+      idgroup: 1800_LAN_G4S-CardReader
+      id: 5490
+
+    - mac: 00-60-A8-00-6F-8F
+      description: "Plan 2"
+      enabled: true
+      idgroup: 1800_LAN_G4S-CardReader
+      id: 2896
+
+    - mac: 00-60-A8-00-58-8A
+      description: "ostermalmsgatan"
+      enabled: true
+      idgroup: 1800_LAN_G4S-CardReader
+      id: 5076
+
+    - mac: 00-0C-C6-82-49-D3
+      description: "no description"
+      enabled: true
+      idgroup: 1800_LAN_G4S-CardReader
+      id: 5459
+
+    - mac: AC-CC-8E-24-C4-C7
+      description: "overvakningskamera"
+      enabled: true
+      idgroup: 1800_LAN_G4S-CardReader
+      id: 4782
+

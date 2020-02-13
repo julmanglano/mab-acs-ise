@@ -1,0 +1,122 @@
+1239_LAN_Aftonbladet_WebbTV:
+
+    - mac: 00-25-00-F1-A7-E3
+      description: "Aftonbladet TV-klienter"
+      enabled: true
+      idgroup: 1239_LAN_Aftonbladet_WebbTV
+      id: 1135
+
+    - mac: 00-25-00-F0-FD-21
+      description: "Aftonbladet TV-klienter"
+      enabled: true
+      idgroup: 1239_LAN_Aftonbladet_WebbTV
+      id: 1128
+
+    - mac: 00-25-00-F0-C3-15
+      description: "Aftonbladet TV-klienter"
+      enabled: true
+      idgroup: 1239_LAN_Aftonbladet_WebbTV
+      id: 1394
+
+    - mac: 3C-07-54-7E-82-2D
+      description: "edit-suite-7 kontorsnat"
+      enabled: true
+      idgroup: 1239_LAN_Aftonbladet_WebbTV
+      id: 2065
+
+    - mac: 00-25-00-F1-8A-D1
+      description: "Aftonbladet TV-klienter"
+      enabled: true
+      idgroup: 1239_LAN_Aftonbladet_WebbTV
+      id: 1133
+
+    - mac: 00-17-F2-00-43-3A
+      description: "Aftonbladet TV-klienter"
+      enabled: true
+      idgroup: 1239_LAN_Aftonbladet_WebbTV
+      id: 1129
+
+    - mac: 00-17-F2-02-D5-0C
+      description: "Aftonbladet tv-kontorsnat"
+      enabled: true
+      idgroup: 1239_LAN_Aftonbladet_WebbTV
+      id: 1136
+
+    - mac: 00-25-00-F0-FC-76
+      description: "Aftonbladet TV XSAN"
+      enabled: true
+      idgroup: 1239_LAN_Aftonbladet_WebbTV
+      id: 1113
+
+    - mac: 00-25-00-F0-FE-6B
+      description: "Aftonbladet TV-klienter"
+      enabled: true
+      idgroup: 1239_LAN_Aftonbladet_WebbTV
+      id: 1126
+
+    - mac: 00-17-F2-03-F6-2C
+      description: "Aftonbladet TV-klienter"
+      enabled: true
+      idgroup: 1239_LAN_Aftonbladet_WebbTV
+      id: 1134
+
+    - mac: 00-25-00-F1-A7-E3
+      description: "Aftonbladet TV-klienter"
+      enabled: true
+      idgroup: 1239_LAN_Aftonbladet_WebbTV
+      id: 1135
+
+    - mac: 00-25-00-F0-FD-21
+      description: "Aftonbladet TV-klienter"
+      enabled: true
+      idgroup: 1239_LAN_Aftonbladet_WebbTV
+      id: 1128
+
+    - mac: 00-25-00-F0-C3-15
+      description: "Aftonbladet TV-klienter"
+      enabled: true
+      idgroup: 1239_LAN_Aftonbladet_WebbTV
+      id: 1394
+
+    - mac: 3C-07-54-7E-82-2D
+      description: "edit-suite-7 kontorsnat"
+      enabled: true
+      idgroup: 1239_LAN_Aftonbladet_WebbTV
+      id: 2065
+
+    - mac: 00-25-00-F1-8A-D1
+      description: "Aftonbladet TV-klienter"
+      enabled: true
+      idgroup: 1239_LAN_Aftonbladet_WebbTV
+      id: 1133
+
+    - mac: 00-17-F2-00-43-3A
+      description: "Aftonbladet TV-klienter"
+      enabled: true
+      idgroup: 1239_LAN_Aftonbladet_WebbTV
+      id: 1129
+
+    - mac: 00-17-F2-02-D5-0C
+      description: "Aftonbladet tv-kontorsnat"
+      enabled: true
+      idgroup: 1239_LAN_Aftonbladet_WebbTV
+      id: 1136
+
+    - mac: 00-25-00-F0-FC-76
+      description: "Aftonbladet TV XSAN"
+      enabled: true
+      idgroup: 1239_LAN_Aftonbladet_WebbTV
+      id: 1113
+
+    - mac: 00-25-00-F0-FE-6B
+      description: "Aftonbladet TV-klienter"
+      enabled: true
+      idgroup: 1239_LAN_Aftonbladet_WebbTV
+      id: 1126
+
+    - mac: 00-17-F2-03-F6-2C
+      description: "Aftonbladet TV-klienter"
+      enabled: true
+      idgroup: 1239_LAN_Aftonbladet_WebbTV
+      id: 1134
+

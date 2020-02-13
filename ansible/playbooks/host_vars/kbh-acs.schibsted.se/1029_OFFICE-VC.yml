@@ -1,0 +1,26 @@
+1029_OFFICE-VC:
+
+    - mac: 00-62-EC-8E-68-11
+      description: "Touchpanel Dorotea"
+      enabled: true
+      idgroup: 1029_OFFICE-VC
+      id: 5285
+
+    - mac: 00-A3-D1-5D-FE-54
+      description: "Screen, Dorotea"
+      enabled: true
+      idgroup: 1029_OFFICE-VC
+      id: 5286
+
+    - mac: 00-62-EC-8E-68-11
+      description: "Touchpanel Dorotea"
+      enabled: true
+      idgroup: 1029_OFFICE-VC
+      id: 5285
+
+    - mac: 00-A3-D1-5D-FE-54
+      description: "Screen, Dorotea"
+      enabled: true
+      idgroup: 1029_OFFICE-VC
+      id: 5286
+

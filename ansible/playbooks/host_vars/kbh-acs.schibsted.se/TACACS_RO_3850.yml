@@ -1,0 +1,160 @@
+TACACS_RO_3850:
+
+    - mac: 11-DE-AD-FE-AF-DD
+      description: "API TEST 1"
+      enabled: true
+      idgroup: TACACS_RO_3850
+      id: 5736
+
+    - mac: AA-AA-AA-BB-BB-BB
+      description: "API-TEST-1"
+      enabled: true
+      idgroup: TACACS_RO_3850
+      id: 5733
+
+    - mac: CC-CC-AA-BB-BB-BB
+      description: "API-TEST-1"
+      enabled: true
+      idgroup: TACACS_RO_3850
+      id: 5738
+
+    - mac: CC-CC-CC-AA-B0-BB
+      description: "API-TEST-3"
+      enabled: true
+      idgroup: TACACS_RO_3850
+      id: 5740
+    
+    - mac: 88-88-CC-AA-B0-BB
+      description: "API-TEST-3"
+      enabled: true
+      idgroup: TACACS_RO_3850
+      id: 444
+    - mac: 99-99-CC-AA-B0-BB
+      description: "API-TEST-3"
+      enabled: true
+      idgroup: TACACS_RO_3850
+      id: 33
+    - mac: AA-99-CC-AA-B0-BB
+      description: "API-TEST-3"
+      enabled: true
+      idgroup: TACACS_RO_3850
+      id: 333
+    - mac: AA-99-CC-AA-B0-AA
+      description: "API-TEST-3"
+      enabled: true
+      idgroup: TACACS_RO_3850
+      id: 33
+    - mac: BB-99-CC-AA-B0-AA
+      description: "API-TEST-3"
+      enabled: true
+      idgroup: TACACS_RO_3850
+      id: 11
+    - mac: EE-99-CC-AA-B0-AA
+      description: "API-TEST-3"
+      enabled: true
+      idgroup: TACACS_RO_3850
+      id: 11
+    - mac: EE-EE-EE-AA-B0-AA
+      description: "API-TEST-3"
+      enabled: true
+      idgroup: TACACS_RO_3850
+      id: 11
+    - mac: EE-EE-EE-BB-B0-88
+      description: "API-TEST-3"
+      enabled: true
+      idgroup: TACACS_RO_3850
+      id: 110
+    - mac: EE-EE-EE-BB-B0-99
+      description: "API-TEST-3"
+      enabled: true
+      idgroup: TACACS_RO_3850
+      id: 5182
+    - mac: 88-EE-EE-BB-B0-99
+      description: "API-TEST-3"
+      enabled: true
+      idgroup: TACACS_RO_3850
+      id: 22
+    - mac: 55-EE-EE-BB-B0-99
+      description: "API-TEST-3"
+      enabled: true
+      idgroup: TACACS_RO_3850
+      id: 11
+    - mac: 66-66-66-BB-B0-99
+      description: "API-TEST-3"
+      enabled: true
+      idgroup: TACACS_RO_3850
+      id: 55
+    
+    - mac: 77-66-66-BB-B0-99
+      description: "API-TEST-3"
+      enabled: true
+      idgroup: TACACS_RO_3850
+      id: 666
+    
+    - mac: 99-99-66-BB-B0-99
+      description: "API-TEST-3"
+      enabled: true
+      idgroup: TACACS_RO_3850
+      id: 888
+    
+    - mac: 99-AA-66-BB-B0-99
+      description: "API-TEST-3"
+      enabled: true
+      idgroup: TACACS_RO_3850
+      id: 666
+    
+    - mac: 99-AA-FF-CD-B0-99
+      description: "API-TEST-3"
+      enabled: true
+      idgroup: TACACS_RO_3850
+      id: 3045
+    
+    - mac: 10-A1-66-BB-B0-99
+      description: "API-TEST-3"
+      enabled: true
+      idgroup: TACACS_RO_3850
+      id: 666
+      
+    - mac: 11-11-66-BB-B0-99
+      description: "API-TEST-3"
+      enabled: true
+      idgroup: TACACS_RO_3850
+      id: 3060
+      
+    - mac: 22-22-66-BB-B0-99
+      description: "API-TEST-3"
+      enabled: true
+      idgroup: TACACS_RO_3850
+      id: 3045
+    
+    - mac: 22-33-66-BB-B0-99
+      description: "API-TEST-3"
+      enabled: true
+      idgroup: TACACS_RO_3850
+      id: 5182
+    
+    - mac: 33-33-66-BB-B0-99
+      description: "API-TEST-4"
+      enabled: true
+      idgroup: TACACS_RO_3850
+      id: 3736
+    
+    - mac: 44-33-66-BB-B0-99
+      description: "API-TEST-4"
+      enabled: true
+      idgroup: TACACS_RO_3850
+      id: 8714
+
+
+    - mac: 33-33-66-BB-B0-99
+      description: "API-TEST-4"
+      enabled: true
+      idgroup: TACACS_RO_3850
+      id: 5839
+
+    - mac: 11-11-66-BB-B0-99
+      description: "API-TEST-3"
+      enabled: true
+      idgroup: TACACS_RO_3850
+      id: 5837
+

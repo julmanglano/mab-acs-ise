@@ -1,0 +1,110 @@
+1404_LAN_Blocket-Eco:
+
+    - mac: D8-9D-67-95-77-DE
+      description: "SRQ77377"
+      enabled: true
+      idgroup: 1404_LAN_Blocket-Eco
+      id: 5198
+
+    - mac: 10-1F-74-EE-88-C7
+      description: "Blocket Ekonomi PC 20121105"
+      enabled: true
+      idgroup: 1404_LAN_Blocket-Eco
+      id: 2088
+
+    - mac: 00-24-9B-10-3E-1A
+      description: "SRQ36684"
+      enabled: true
+      idgroup: 1404_LAN_Blocket-Eco
+      id: 2940
+
+    - mac: 88-AE-1D-AF-4D-FA
+      description: "no description"
+      enabled: true
+      idgroup: 1404_LAN_Blocket-Eco
+      id: 1913
+
+    - mac: E8-80-2E-E7-A8-60
+      description: "SRQ35161 20151124"
+      enabled: true
+      idgroup: 1404_LAN_Blocket-Eco
+      id: 2922
+
+    - mac: E8-80-2E-E7-A7-CD
+      description: "Blocket Ekonomi PC // Case SRQ34686"
+      enabled: true
+      idgroup: 1404_LAN_Blocket-Eco
+      id: 2920
+
+    - mac: 00-01-29-59-4C-18
+      description: "Scannare"
+      enabled: true
+      idgroup: 1404_LAN_Blocket-Eco
+      id: 2449
+
+    - mac: 00-00-85-83-AE-29
+      description: "Skrivare blocket"
+      enabled: true
+      idgroup: 1404_LAN_Blocket-Eco
+      id: 2336
+
+    - mac: A8-20-66-2E-05-FF
+      description: "Request ID : 161321"
+      enabled: false
+      idgroup: 1404_LAN_Blocket-Eco
+      id: 2605
+
+    - mac: D8-9D-67-95-77-DE
+      description: "SRQ77377"
+      enabled: true
+      idgroup: 1404_LAN_Blocket-Eco
+      id: 5198
+
+    - mac: 10-1F-74-EE-88-C7
+      description: "Blocket Ekonomi PC 20121105"
+      enabled: true
+      idgroup: 1404_LAN_Blocket-Eco
+      id: 2088
+
+    - mac: 00-24-9B-10-3E-1A
+      description: "SRQ36684"
+      enabled: true
+      idgroup: 1404_LAN_Blocket-Eco
+      id: 2940
+
+    - mac: 88-AE-1D-AF-4D-FA
+      description: "no description"
+      enabled: true
+      idgroup: 1404_LAN_Blocket-Eco
+      id: 1913
+
+    - mac: E8-80-2E-E7-A8-60
+      description: "SRQ35161 20151124"
+      enabled: true
+      idgroup: 1404_LAN_Blocket-Eco
+      id: 2922
+
+    - mac: E8-80-2E-E7-A7-CD
+      description: "Blocket Ekonomi PC // Case SRQ34686"
+      enabled: true
+      idgroup: 1404_LAN_Blocket-Eco
+      id: 2920
+
+    - mac: 00-01-29-59-4C-18
+      description: "Scannare"
+      enabled: true
+      idgroup: 1404_LAN_Blocket-Eco
+      id: 2449
+
+    - mac: 00-00-85-83-AE-29
+      description: "Skrivare blocket"
+      enabled: true
+      idgroup: 1404_LAN_Blocket-Eco
+      id: 2336
+
+    - mac: A8-20-66-2E-05-FF
+      description: "Request ID : 161321"
+      enabled: false
+      idgroup: 1404_LAN_Blocket-Eco
+      id: 2605
+

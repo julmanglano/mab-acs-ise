@@ -1,0 +1,122 @@
+1238_LAN_Aftonbladet-XSAN3:
+
+    - mac: 00-25-00-F0-EE-09
+      description: "Aftonbladet TV-klienter"
+      enabled: true
+      idgroup: 1238_LAN_Aftonbladet-XSAN3
+      id: 1130
+
+    - mac: 00-17-F2-03-F6-2D
+      description: "Aftonbladet TV XSAN"
+      enabled: true
+      idgroup: 1238_LAN_Aftonbladet-XSAN3
+      id: 1138
+
+    - mac: 00-25-00-F1-06-85
+      description: "no description"
+      enabled: true
+      idgroup: 1238_LAN_Aftonbladet-XSAN3
+      id: 1395
+
+    - mac: 00-17-F2-02-D5-0D
+      description: "Aftonbladet TV XSAN3 (10.12.38)"
+      enabled: true
+      idgroup: 1238_LAN_Aftonbladet-XSAN3
+      id: 1140
+
+    - mac: 00-17-F2-00-43-3B
+      description: "Aftonbladet TV XSAN"
+      enabled: true
+      idgroup: 1238_LAN_Aftonbladet-XSAN3
+      id: 1111
+
+    - mac: 3C-07-54-7E-9A-5C
+      description: "edit-suite-7 xsan-nat"
+      enabled: true
+      idgroup: 1238_LAN_Aftonbladet-XSAN3
+      id: 2064
+
+    - mac: 00-25-00-F0-EE-3C
+      description: "Aftonbladet TV XSAN"
+      enabled: true
+      idgroup: 1238_LAN_Aftonbladet-XSAN3
+      id: 1115
+
+    - mac: 00-25-00-F0-ED-6C
+      description: "Aftonbladet TV XSAN"
+      enabled: true
+      idgroup: 1238_LAN_Aftonbladet-XSAN3
+      id: 1117
+
+    - mac: 00-25-00-F1-A3-38
+      description: "Aftonbladet TV XSAN"
+      enabled: true
+      idgroup: 1238_LAN_Aftonbladet-XSAN3
+      id: 1139
+
+    - mac: 00-25-00-F1-87-B9
+      description: "Aftonbladet TV XSAN"
+      enabled: true
+      idgroup: 1238_LAN_Aftonbladet-XSAN3
+      id: 1137
+
+    - mac: 00-25-00-F0-EE-09
+      description: "Aftonbladet TV-klienter"
+      enabled: true
+      idgroup: 1238_LAN_Aftonbladet-XSAN3
+      id: 1130
+
+    - mac: 00-17-F2-03-F6-2D
+      description: "Aftonbladet TV XSAN"
+      enabled: true
+      idgroup: 1238_LAN_Aftonbladet-XSAN3
+      id: 1138
+
+    - mac: 00-25-00-F1-06-85
+      description: "no description"
+      enabled: true
+      idgroup: 1238_LAN_Aftonbladet-XSAN3
+      id: 1395
+
+    - mac: 00-17-F2-02-D5-0D
+      description: "Aftonbladet TV XSAN3 (10.12.38)"
+      enabled: true
+      idgroup: 1238_LAN_Aftonbladet-XSAN3
+      id: 1140
+
+    - mac: 00-17-F2-00-43-3B
+      description: "Aftonbladet TV XSAN"
+      enabled: true
+      idgroup: 1238_LAN_Aftonbladet-XSAN3
+      id: 1111
+
+    - mac: 3C-07-54-7E-9A-5C
+      description: "edit-suite-7 xsan-nat"
+      enabled: true
+      idgroup: 1238_LAN_Aftonbladet-XSAN3
+      id: 2064
+
+    - mac: 00-25-00-F0-EE-3C
+      description: "Aftonbladet TV XSAN"
+      enabled: true
+      idgroup: 1238_LAN_Aftonbladet-XSAN3
+      id: 1115
+
+    - mac: 00-25-00-F0-ED-6C
+      description: "Aftonbladet TV XSAN"
+      enabled: true
+      idgroup: 1238_LAN_Aftonbladet-XSAN3
+      id: 1117
+
+    - mac: 00-25-00-F1-A3-38
+      description: "Aftonbladet TV XSAN"
+      enabled: true
+      idgroup: 1238_LAN_Aftonbladet-XSAN3
+      id: 1139
+
+    - mac: 00-25-00-F1-87-B9
+      description: "Aftonbladet TV XSAN"
+      enabled: true
+      idgroup: 1238_LAN_Aftonbladet-XSAN3
+      id: 1137
+

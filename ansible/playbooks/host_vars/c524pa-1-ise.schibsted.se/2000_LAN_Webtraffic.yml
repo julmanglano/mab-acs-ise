@@ -1,0 +1,938 @@
+2000_LAN_Webtraffic:
+
+    - mac: 00-26-22-9A-A5-5C
+      description: "Webtraffic"
+      enabled: true
+      idgroup: 2000_LAN_Webtraffic
+      id: 798
+
+    - mac: B4-99-BA-E5-FB-CA
+      description: "bestallt av Joakim webtraffic"
+      enabled: true
+      idgroup: 2000_LAN_Webtraffic
+      id: 1638
+
+    - mac: EC-9A-74-49-66-66
+      description: "no description"
+      enabled: true
+      idgroup: 2000_LAN_Webtraffic
+      id: 1924
+
+    - mac: 88-AE-1D-AC-20-4A
+      description: "Webtraffic"
+      enabled: true
+      idgroup: 2000_LAN_Webtraffic
+      id: 1214
+
+    - mac: 00-1F-29-9E-F0-BC
+      description: "Webtraffic"
+      enabled: true
+      idgroup: 2000_LAN_Webtraffic
+      id: 825
+
+    - mac: 88-AE-1D-AA-89-30
+      description: "no description"
+      enabled: true
+      idgroup: 2000_LAN_Webtraffic
+      id: 1216
+
+    - mac: C0-18-85-3D-97-C6
+      description: "Webtraffic 54661-WIN7"
+      enabled: true
+      idgroup: 2000_LAN_Webtraffic
+      id: 2002
+
+    - mac: C4-46-19-50-03-E5
+      description: "no description"
+      enabled: true
+      idgroup: 2000_LAN_Webtraffic
+      id: 1203
+
+    - mac: E4-CE-8F-30-36-58
+      description: "Mabbade Webtraffic-maskiner"
+      enabled: true
+      idgroup: 2000_LAN_Webtraffic
+      id: 1667
+
+    - mac: 00-21-6B-A8-BA-74
+      description: "no description"
+      enabled: true
+      idgroup: 2000_LAN_Webtraffic
+      id: 1555
+
+    - mac: 70-5A-B6-99-69-1D
+      description: "Webtraffic"
+      enabled: true
+      idgroup: 2000_LAN_Webtraffic
+      id: 796
+
+    - mac: C8-2A-14-16-59-8D
+      description: "Webtraffics bestallning fran Joakim Mared"
+      enabled: true
+      idgroup: 2000_LAN_Webtraffic
+      id: 1549
+
+    - mac: 2C-27-D7-DA-B3-B5
+      description: "Mabbade Webtraffic-maskiner"
+      enabled: true
+      idgroup: 2000_LAN_Webtraffic
+      id: 1664
+
+    - mac: 00-22-64-78-A4-16
+      description: "Webtraffic"
+      enabled: true
+      idgroup: 2000_LAN_Webtraffic
+      id: 810
+
+    - mac: C4-2C-03-14-1D-1D
+      description: "Webtraffic"
+      enabled: true
+      idgroup: 2000_LAN_Webtraffic
+      id: 806
+
+    - mac: 10-1F-74-C5-F6-90
+      description: "p.b. Joakim Mared, Webtraffic, 2011-10-17"
+      enabled: true
+      idgroup: 2000_LAN_Webtraffic
+      id: 1885
+
+    - mac: 00-1F-29-99-1F-CA
+      description: "Webtraffic"
+      enabled: true
+      idgroup: 2000_LAN_Webtraffic
+      id: 815
+
+    - mac: 68-B5-99-FC-40-F7
+      description: "Webbtrafic"
+      enabled: true
+      idgroup: 2000_LAN_Webtraffic
+      id: 1397
+
+    - mac: 70-5A-B6-99-66-76
+      description: "Webtraffic"
+      enabled: true
+      idgroup: 2000_LAN_Webtraffic
+      id: 809
+
+    - mac: 3C-07-54-08-22-53
+      description: "no description"
+      enabled: true
+      idgroup: 2000_LAN_Webtraffic
+      id: 1890
+
+    - mac: E0-F8-47-1A-E7-9E
+      description: "Webtraffics bestallning fran Joakim Mared"
+      enabled: true
+      idgroup: 2000_LAN_Webtraffic
+      id: 1550
+
+    - mac: 00-22-64-77-0F-DA
+      description: "Webtraffic"
+      enabled: true
+      idgroup: 2000_LAN_Webtraffic
+      id: 811
+
+    - mac: 70-5A-B6-98-E9-B1
+      description: "Webtraffic"
+      enabled: true
+      idgroup: 2000_LAN_Webtraffic
+      id: 819
+
+    - mac: 00-26-22-A4-F5-FA
+      description: "Webtraffic"
+      enabled: true
+      idgroup: 2000_LAN_Webtraffic
+      id: 801
+
+    - mac: B4-99-BA-E0-12-5F
+      description: "bestallt av Joakim webtraffic"
+      enabled: true
+      idgroup: 2000_LAN_Webtraffic
+      id: 1634
+
+    - mac: A0-88-B4-46-69-7C
+      description: "Mabbade Webtraffic-maskiner"
+      enabled: true
+      idgroup: 2000_LAN_Webtraffic
+      id: 1666
+
+    - mac: 78-E4-00-FC-FB-F1
+      description: "Webtraffic"
+      enabled: true
+      idgroup: 2000_LAN_Webtraffic
+      id: 1240
+
+    - mac: 18-A9-05-9A-AA-CB
+      description: "Webtraffic"
+      enabled: true
+      idgroup: 2000_LAN_Webtraffic
+      id: 817
+
+    - mac: B4-99-BA-E0-12-8C
+      description: "bestallt av Joakim webtraffic"
+      enabled: true
+      idgroup: 2000_LAN_Webtraffic
+      id: 1636
+
+    - mac: B4-99-BA-E0-13-AE
+      description: "bestallt av Joakim webtraffic"
+      enabled: true
+      idgroup: 2000_LAN_Webtraffic
+      id: 1632
+
+    - mac: 70-5A-B6-B3-AD-C7
+      description: "Webtraffic"
+      enabled: true
+      idgroup: 2000_LAN_Webtraffic
+      id: 823
+
+    - mac: 88-AE-1D-AC-20-49
+      description: "Webtraffic"
+      enabled: true
+      idgroup: 2000_LAN_Webtraffic
+      id: 808
+
+    - mac: 00-1F-3C-5D-7B-CD
+      description: "Webtraffics bestallning fran Joakim Mared"
+      enabled: true
+      idgroup: 2000_LAN_Webtraffic
+      id: 1551
+
+    - mac: 00-25-B3-5F-FC-5E
+      description: "Webtraffic"
+      enabled: true
+      idgroup: 2000_LAN_Webtraffic
+      id: 821
+
+    - mac: 10-1F-74-CD-6A-4D
+      description: "no description"
+      enabled: true
+      idgroup: 2000_LAN_Webtraffic
+      id: 1889
+
+    - mac: B4-99-BA-E5-FC-70
+      description: "bestallt av Joakim webtraffic"
+      enabled: true
+      idgroup: 2000_LAN_Webtraffic
+      id: 1640
+
+    - mac: 00-25-B3-60-10-A4
+      description: "Webtraffic"
+      enabled: true
+      idgroup: 2000_LAN_Webtraffic
+      id: 793
+
+    - mac: 70-5A-B6-99-6A-8C
+      description: "Webtraffic"
+      enabled: true
+      idgroup: 2000_LAN_Webtraffic
+      id: 799
+
+    - mac: 00-25-B3-5F-03-B2
+      description: "Webtraffic"
+      enabled: true
+      idgroup: 2000_LAN_Webtraffic
+      id: 805
+
+    - mac: 68-B5-99-F9-6C-C0
+      description: "Webbtrafic"
+      enabled: true
+      idgroup: 2000_LAN_Webtraffic
+      id: 1398
+
+    - mac: 10-1F-74-77-1B-7F
+      description: "Request ID : 100402"
+      enabled: true
+      idgroup: 2000_LAN_Webtraffic
+      id: 2046
+
+    - mac: A0-88-B4-E0-68-48
+      description: "p.b. Joakim Mared, Webtraffic, 2011-10-17"
+      enabled: true
+      idgroup: 2000_LAN_Webtraffic
+      id: 1886
+
+    - mac: 88-AE-1D-AC-21-BA
+      description: "no description"
+      enabled: true
+      idgroup: 2000_LAN_Webtraffic
+      id: 1202
+
+    - mac: AC-81-12-6F-6E-E1
+      description: "bestallt av Joakim webtraffic"
+      enabled: true
+      idgroup: 2000_LAN_Webtraffic
+      id: 1639
+
+    - mac: C4-46-19-53-65-A5
+      description: "Webtraffic"
+      enabled: true
+      idgroup: 2000_LAN_Webtraffic
+      id: 1215
+
+    - mac: 88-AE-1D-AC-1B-52
+      description: "Webtraffic"
+      enabled: true
+      idgroup: 2000_LAN_Webtraffic
+      id: 824
+
+    - mac: 80-49-71-10-5C-78
+      description: "55103-win7 - webtraffic - cable"
+      enabled: true
+      idgroup: 2000_LAN_Webtraffic
+      id: 2079
+
+    - mac: 00-25-B3-56-81-5D
+      description: "Webtraffic"
+      enabled: true
+      idgroup: 2000_LAN_Webtraffic
+      id: 800
+
+    - mac: 70-5A-B6-99-69-1B
+      description: "Webtraffic"
+      enabled: true
+      idgroup: 2000_LAN_Webtraffic
+      id: 813
+
+    - mac: 00-22-64-4B-CE-78
+      description: "Webtraffic"
+      enabled: true
+      idgroup: 2000_LAN_Webtraffic
+      id: 816
+
+    - mac: 88-AE-1D-AC-1B-93
+      description: "Webtraffic"
+      enabled: true
+      idgroup: 2000_LAN_Webtraffic
+      id: 1239
+
+    - mac: 00-24-81-45-B2-2D
+      description: "no description"
+      enabled: true
+      idgroup: 2000_LAN_Webtraffic
+      id: 1556
+
+    - mac: 00-23-5A-35-27-E1
+      description: "Webtraffic"
+      enabled: true
+      idgroup: 2000_LAN_Webtraffic
+      id: 803
+
+    - mac: DC-56-E7-2F-A3-76
+      description: "SRQ188061"
+      enabled: true
+      idgroup: 2000_LAN_Webtraffic
+      id: 5403
+
+    - mac: 00-DB-DF-19-74-B3
+      description: "55103-win7 - webtraffic - wlan"
+      enabled: true
+      idgroup: 2000_LAN_Webtraffic
+      id: 2080
+
+    - mac: 00-1F-29-B4-E4-2E
+      description: "Webtraffic"
+      enabled: true
+      idgroup: 2000_LAN_Webtraffic
+      id: 797
+
+    - mac: 18-A9-05-94-0C-F9
+      description: "Webtraffic"
+      enabled: true
+      idgroup: 2000_LAN_Webtraffic
+      id: 818
+
+    - mac: C4-46-19-53-64-19
+      description: "no description"
+      enabled: true
+      idgroup: 2000_LAN_Webtraffic
+      id: 1217
+
+    - mac: 00-1F-29-B0-82-DC
+      description: "Webtraffic"
+      enabled: true
+      idgroup: 2000_LAN_Webtraffic
+      id: 795
+
+    - mac: 00-1F-29-99-3F-06
+      description: "Webtraffic"
+      enabled: true
+      idgroup: 2000_LAN_Webtraffic
+      id: 812
+
+    - mac: 00-24-81-45-08-8B
+      description: "Webtraffic"
+      enabled: true
+      idgroup: 2000_LAN_Webtraffic
+      id: 794
+
+    - mac: AC-81-12-32-CD-21
+      description: "bestallt av Joakim webtraffic"
+      enabled: true
+      idgroup: 2000_LAN_Webtraffic
+      id: 1635
+
+    - mac: AC-81-12-32-E5-16
+      description: "bestallt av Joakim webtraffic"
+      enabled: true
+      idgroup: 2000_LAN_Webtraffic
+      id: 1633
+
+    - mac: 00-24-81-45-F2-F5
+      description: "Webtraffic"
+      enabled: true
+      idgroup: 2000_LAN_Webtraffic
+      id: 820
+
+    - mac: 00-1F-29-92-28-9A
+      description: "Webtraffics bestallning fran Joakim Mared"
+      enabled: true
+      idgroup: 2000_LAN_Webtraffic
+      id: 1552
+
+    - mac: AC-81-12-6F-AD-4C
+      description: "bestallt av Joakim webtraffic"
+      enabled: true
+      idgroup: 2000_LAN_Webtraffic
+      id: 1641
+
+    - mac: 00-1D-09-44-35-75
+      description: "Webtraffic"
+      enabled: true
+      idgroup: 2000_LAN_Webtraffic
+      id: 804
+
+    - mac: E4-CE-8F-50-3D-0C
+      description: "no description"
+      enabled: true
+      idgroup: 2000_LAN_Webtraffic
+      id: 1891
+
+    - mac: 08-11-96-68-66-F8
+      description: "no description"
+      enabled: true
+      idgroup: 2000_LAN_Webtraffic
+      id: 1888
+
+    - mac: 78-E7-D1-B1-64-56
+      description: "Webtraffic"
+      enabled: true
+      idgroup: 2000_LAN_Webtraffic
+      id: 822
+
+    - mac: C8-2A-14-53-75-F4
+      description: "Mabbade Webtraffic-maskiner"
+      enabled: true
+      idgroup: 2000_LAN_Webtraffic
+      id: 1665
+
+    - mac: 00-1A-4B-81-EB-89
+      description: "Webtraffic"
+      enabled: true
+      idgroup: 2000_LAN_Webtraffic
+      id: 792
+
+    - mac: 70-5A-B6-B3-AF-DA
+      description: "Webtraffic"
+      enabled: true
+      idgroup: 2000_LAN_Webtraffic
+      id: 814
+
+    - mac: AC-81-12-32-E5-3B
+      description: "bestallt av Joakim webtraffic"
+      enabled: true
+      idgroup: 2000_LAN_Webtraffic
+      id: 1637
+
+    - mac: 08-11-96-92-E3-E8
+      description: "no description"
+      enabled: true
+      idgroup: 2000_LAN_Webtraffic
+      id: 1925
+
+    - mac: 00-1B-63-94-50-F5
+      description: "Webtraffic"
+      enabled: true
+      idgroup: 2000_LAN_Webtraffic
+      id: 802
+
+    - mac: 00-26-55-C8-C7-7E
+      description: "Webtraffic"
+      enabled: true
+      idgroup: 2000_LAN_Webtraffic
+      id: 807
+
+    - mac: D4-BE-D9-1F-87-90
+      description: "Webtraffic 54661-WIN7 - cable"
+      enabled: true
+      idgroup: 2000_LAN_Webtraffic
+      id: 2003
+
+    - mac: 00-26-22-9A-A5-5C
+      description: "Webtraffic"
+      enabled: true
+      idgroup: 2000_LAN_Webtraffic
+      id: 798
+
+    - mac: B4-99-BA-E5-FB-CA
+      description: "bestallt av Joakim webtraffic"
+      enabled: true
+      idgroup: 2000_LAN_Webtraffic
+      id: 1638
+
+    - mac: EC-9A-74-49-66-66
+      description: "no description"
+      enabled: true
+      idgroup: 2000_LAN_Webtraffic
+      id: 1924
+
+    - mac: 88-AE-1D-AC-20-4A
+      description: "Webtraffic"
+      enabled: true
+      idgroup: 2000_LAN_Webtraffic
+      id: 1214
+
+    - mac: 00-1F-29-9E-F0-BC
+      description: "Webtraffic"
+      enabled: true
+      idgroup: 2000_LAN_Webtraffic
+      id: 825
+
+    - mac: 88-AE-1D-AA-89-30
+      description: "no description"
+      enabled: true
+      idgroup: 2000_LAN_Webtraffic
+      id: 1216
+
+    - mac: C0-18-85-3D-97-C6
+      description: "Webtraffic 54661-WIN7"
+      enabled: true
+      idgroup: 2000_LAN_Webtraffic
+      id: 2002
+
+    - mac: C4-46-19-50-03-E5
+      description: "no description"
+      enabled: true
+      idgroup: 2000_LAN_Webtraffic
+      id: 1203
+
+    - mac: E4-CE-8F-30-36-58
+      description: "Mabbade Webtraffic-maskiner"
+      enabled: true
+      idgroup: 2000_LAN_Webtraffic
+      id: 1667
+
+    - mac: 00-21-6B-A8-BA-74
+      description: "no description"
+      enabled: true
+      idgroup: 2000_LAN_Webtraffic
+      id: 1555
+
+    - mac: 70-5A-B6-99-69-1D
+      description: "Webtraffic"
+      enabled: true
+      idgroup: 2000_LAN_Webtraffic
+      id: 796
+
+    - mac: C8-2A-14-16-59-8D
+      description: "Webtraffics bestallning fran Joakim Mared"
+      enabled: true
+      idgroup: 2000_LAN_Webtraffic
+      id: 1549
+
+    - mac: 2C-27-D7-DA-B3-B5
+      description: "Mabbade Webtraffic-maskiner"
+      enabled: true
+      idgroup: 2000_LAN_Webtraffic
+      id: 1664
+
+    - mac: 00-22-64-78-A4-16
+      description: "Webtraffic"
+      enabled: true
+      idgroup: 2000_LAN_Webtraffic
+      id: 810
+
+    - mac: C4-2C-03-14-1D-1D
+      description: "Webtraffic"
+      enabled: true
+      idgroup: 2000_LAN_Webtraffic
+      id: 806
+
+    - mac: 10-1F-74-C5-F6-90
+      description: "p.b. Joakim Mared, Webtraffic, 2011-10-17"
+      enabled: true
+      idgroup: 2000_LAN_Webtraffic
+      id: 1885
+
+    - mac: 00-1F-29-99-1F-CA
+      description: "Webtraffic"
+      enabled: true
+      idgroup: 2000_LAN_Webtraffic
+      id: 815
+
+    - mac: 68-B5-99-FC-40-F7
+      description: "Webbtrafic"
+      enabled: true
+      idgroup: 2000_LAN_Webtraffic
+      id: 1397
+
+    - mac: 70-5A-B6-99-66-76
+      description: "Webtraffic"
+      enabled: true
+      idgroup: 2000_LAN_Webtraffic
+      id: 809
+
+    - mac: 3C-07-54-08-22-53
+      description: "no description"
+      enabled: true
+      idgroup: 2000_LAN_Webtraffic
+      id: 1890
+
+    - mac: E0-F8-47-1A-E7-9E
+      description: "Webtraffics bestallning fran Joakim Mared"
+      enabled: true
+      idgroup: 2000_LAN_Webtraffic
+      id: 1550
+
+    - mac: 00-22-64-77-0F-DA
+      description: "Webtraffic"
+      enabled: true
+      idgroup: 2000_LAN_Webtraffic
+      id: 811
+
+    - mac: 70-5A-B6-98-E9-B1
+      description: "Webtraffic"
+      enabled: true
+      idgroup: 2000_LAN_Webtraffic
+      id: 819
+
+    - mac: 00-26-22-A4-F5-FA
+      description: "Webtraffic"
+      enabled: true
+      idgroup: 2000_LAN_Webtraffic
+      id: 801
+
+    - mac: B4-99-BA-E0-12-5F
+      description: "bestallt av Joakim webtraffic"
+      enabled: true
+      idgroup: 2000_LAN_Webtraffic
+      id: 1634
+
+    - mac: A0-88-B4-46-69-7C
+      description: "Mabbade Webtraffic-maskiner"
+      enabled: true
+      idgroup: 2000_LAN_Webtraffic
+      id: 1666
+
+    - mac: 78-E4-00-FC-FB-F1
+      description: "Webtraffic"
+      enabled: true
+      idgroup: 2000_LAN_Webtraffic
+      id: 1240
+
+    - mac: 18-A9-05-9A-AA-CB
+      description: "Webtraffic"
+      enabled: true
+      idgroup: 2000_LAN_Webtraffic
+      id: 817
+
+    - mac: B4-99-BA-E0-12-8C
+      description: "bestallt av Joakim webtraffic"
+      enabled: true
+      idgroup: 2000_LAN_Webtraffic
+      id: 1636
+
+    - mac: B4-99-BA-E0-13-AE
+      description: "bestallt av Joakim webtraffic"
+      enabled: true
+      idgroup: 2000_LAN_Webtraffic
+      id: 1632
+
+    - mac: 70-5A-B6-B3-AD-C7
+      description: "Webtraffic"
+      enabled: true
+      idgroup: 2000_LAN_Webtraffic
+      id: 823
+
+    - mac: 88-AE-1D-AC-20-49
+      description: "Webtraffic"
+      enabled: true
+      idgroup: 2000_LAN_Webtraffic
+      id: 808
+
+    - mac: 00-1F-3C-5D-7B-CD
+      description: "Webtraffics bestallning fran Joakim Mared"
+      enabled: true
+      idgroup: 2000_LAN_Webtraffic
+      id: 1551
+
+    - mac: 00-25-B3-5F-FC-5E
+      description: "Webtraffic"
+      enabled: true
+      idgroup: 2000_LAN_Webtraffic
+      id: 821
+
+    - mac: 10-1F-74-CD-6A-4D
+      description: "no description"
+      enabled: true
+      idgroup: 2000_LAN_Webtraffic
+      id: 1889
+
+    - mac: B4-99-BA-E5-FC-70
+      description: "bestallt av Joakim webtraffic"
+      enabled: true
+      idgroup: 2000_LAN_Webtraffic
+      id: 1640
+
+    - mac: 00-25-B3-60-10-A4
+      description: "Webtraffic"
+      enabled: true
+      idgroup: 2000_LAN_Webtraffic
+      id: 793
+
+    - mac: 70-5A-B6-99-6A-8C
+      description: "Webtraffic"
+      enabled: true
+      idgroup: 2000_LAN_Webtraffic
+      id: 799
+
+    - mac: 00-25-B3-5F-03-B2
+      description: "Webtraffic"
+      enabled: true
+      idgroup: 2000_LAN_Webtraffic
+      id: 805
+
+    - mac: 68-B5-99-F9-6C-C0
+      description: "Webbtrafic"
+      enabled: true
+      idgroup: 2000_LAN_Webtraffic
+      id: 1398
+
+    - mac: 10-1F-74-77-1B-7F
+      description: "Request ID : 100402"
+      enabled: true
+      idgroup: 2000_LAN_Webtraffic
+      id: 2046
+
+    - mac: A0-88-B4-E0-68-48
+      description: "p.b. Joakim Mared, Webtraffic, 2011-10-17"
+      enabled: true
+      idgroup: 2000_LAN_Webtraffic
+      id: 1886
+
+    - mac: 88-AE-1D-AC-21-BA
+      description: "no description"
+      enabled: true
+      idgroup: 2000_LAN_Webtraffic
+      id: 1202
+
+    - mac: AC-81-12-6F-6E-E1
+      description: "bestallt av Joakim webtraffic"
+      enabled: true
+      idgroup: 2000_LAN_Webtraffic
+      id: 1639
+
+    - mac: C4-46-19-53-65-A5
+      description: "Webtraffic"
+      enabled: true
+      idgroup: 2000_LAN_Webtraffic
+      id: 1215
+
+    - mac: 88-AE-1D-AC-1B-52
+      description: "Webtraffic"
+      enabled: true
+      idgroup: 2000_LAN_Webtraffic
+      id: 824
+
+    - mac: 80-49-71-10-5C-78
+      description: "55103-win7 - webtraffic - cable"
+      enabled: true
+      idgroup: 2000_LAN_Webtraffic
+      id: 2079
+
+    - mac: 00-25-B3-56-81-5D
+      description: "Webtraffic"
+      enabled: true
+      idgroup: 2000_LAN_Webtraffic
+      id: 800
+
+    - mac: 70-5A-B6-99-69-1B
+      description: "Webtraffic"
+      enabled: true
+      idgroup: 2000_LAN_Webtraffic
+      id: 813
+
+    - mac: 00-22-64-4B-CE-78
+      description: "Webtraffic"
+      enabled: true
+      idgroup: 2000_LAN_Webtraffic
+      id: 816
+
+    - mac: 88-AE-1D-AC-1B-93
+      description: "Webtraffic"
+      enabled: true
+      idgroup: 2000_LAN_Webtraffic
+      id: 1239
+
+    - mac: 00-24-81-45-B2-2D
+      description: "no description"
+      enabled: true
+      idgroup: 2000_LAN_Webtraffic
+      id: 1556
+
+    - mac: 00-23-5A-35-27-E1
+      description: "Webtraffic"
+      enabled: true
+      idgroup: 2000_LAN_Webtraffic
+      id: 803
+
+    - mac: DC-56-E7-2F-A3-76
+      description: "SRQ188061"
+      enabled: true
+      idgroup: 2000_LAN_Webtraffic
+      id: 5403
+
+    - mac: 00-DB-DF-19-74-B3
+      description: "55103-win7 - webtraffic - wlan"
+      enabled: true
+      idgroup: 2000_LAN_Webtraffic
+      id: 2080
+
+    - mac: 00-1F-29-B4-E4-2E
+      description: "Webtraffic"
+      enabled: true
+      idgroup: 2000_LAN_Webtraffic
+      id: 797
+
+    - mac: 18-A9-05-94-0C-F9
+      description: "Webtraffic"
+      enabled: true
+      idgroup: 2000_LAN_Webtraffic
+      id: 818
+
+    - mac: C4-46-19-53-64-19
+      description: "no description"
+      enabled: true
+      idgroup: 2000_LAN_Webtraffic
+      id: 1217
+
+    - mac: 00-1F-29-B0-82-DC
+      description: "Webtraffic"
+      enabled: true
+      idgroup: 2000_LAN_Webtraffic
+      id: 795
+
+    - mac: 00-1F-29-99-3F-06
+      description: "Webtraffic"
+      enabled: true
+      idgroup: 2000_LAN_Webtraffic
+      id: 812
+
+    - mac: 00-24-81-45-08-8B
+      description: "Webtraffic"
+      enabled: true
+      idgroup: 2000_LAN_Webtraffic
+      id: 794
+
+    - mac: AC-81-12-32-CD-21
+      description: "bestallt av Joakim webtraffic"
+      enabled: true
+      idgroup: 2000_LAN_Webtraffic
+      id: 1635
+
+    - mac: AC-81-12-32-E5-16
+      description: "bestallt av Joakim webtraffic"
+      enabled: true
+      idgroup: 2000_LAN_Webtraffic
+      id: 1633
+
+    - mac: 00-24-81-45-F2-F5
+      description: "Webtraffic"
+      enabled: true
+      idgroup: 2000_LAN_Webtraffic
+      id: 820
+
+    - mac: 00-1F-29-92-28-9A
+      description: "Webtraffics bestallning fran Joakim Mared"
+      enabled: true
+      idgroup: 2000_LAN_Webtraffic
+      id: 1552
+
+    - mac: AC-81-12-6F-AD-4C
+      description: "bestallt av Joakim webtraffic"
+      enabled: true
+      idgroup: 2000_LAN_Webtraffic
+      id: 1641
+
+    - mac: 00-1D-09-44-35-75
+      description: "Webtraffic"
+      enabled: true
+      idgroup: 2000_LAN_Webtraffic
+      id: 804
+
+    - mac: E4-CE-8F-50-3D-0C
+      description: "no description"
+      enabled: true
+      idgroup: 2000_LAN_Webtraffic
+      id: 1891
+
+    - mac: 08-11-96-68-66-F8
+      description: "no description"
+      enabled: true
+      idgroup: 2000_LAN_Webtraffic
+      id: 1888
+
+    - mac: 78-E7-D1-B1-64-56
+      description: "Webtraffic"
+      enabled: true
+      idgroup: 2000_LAN_Webtraffic
+      id: 822
+
+    - mac: C8-2A-14-53-75-F4
+      description: "Mabbade Webtraffic-maskiner"
+      enabled: true
+      idgroup: 2000_LAN_Webtraffic
+      id: 1665
+
+    - mac: 00-1A-4B-81-EB-89
+      description: "Webtraffic"
+      enabled: true
+      idgroup: 2000_LAN_Webtraffic
+      id: 792
+
+    - mac: 70-5A-B6-B3-AF-DA
+      description: "Webtraffic"
+      enabled: true
+      idgroup: 2000_LAN_Webtraffic
+      id: 814
+
+    - mac: AC-81-12-32-E5-3B
+      description: "bestallt av Joakim webtraffic"
+      enabled: true
+      idgroup: 2000_LAN_Webtraffic
+      id: 1637
+
+    - mac: 08-11-96-92-E3-E8
+      description: "no description"
+      enabled: true
+      idgroup: 2000_LAN_Webtraffic
+      id: 1925
+
+    - mac: 00-1B-63-94-50-F5
+      description: "Webtraffic"
+      enabled: true
+      idgroup: 2000_LAN_Webtraffic
+      id: 802
+
+    - mac: 00-26-55-C8-C7-7E
+      description: "Webtraffic"
+      enabled: true
+      idgroup: 2000_LAN_Webtraffic
+      id: 807
+
+    - mac: D4-BE-D9-1F-87-90
+      description: "Webtraffic 54661-WIN7 - cable"
+      enabled: true
+      idgroup: 2000_LAN_Webtraffic
+      id: 2003
+
